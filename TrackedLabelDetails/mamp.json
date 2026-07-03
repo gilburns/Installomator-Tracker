@@ -4,6 +4,7 @@
     "appNewVersion": "7.4",
     "blockingProcesses": [],
     "downloadURL": "https://downloads.mamp.info/download.php?file=/MAMP-PRO/macOS/MAMP-PRO/MAMP-MAMP-PRO-7.4-Apple-chip.pkg",
+    "downloadURLi386": "https://downloads.mamp.info/download.php?file=/MAMP-PRO/macOS/MAMP-PRO/MAMP-MAMP-PRO-7.4-Intel-x86.pkg",
     "expectedTeamID": "5KCB5KHK77",
     "label": "mamp",
     "name": "MAMP PRO",

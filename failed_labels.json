@@ -840,6 +840,11 @@
       "lastSeen": "2026-07-03T17:37:33Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "prusaslicer": {
+      "firstSeen": "2026-07-03T18:48:21Z",
+      "lastSeen": "2026-07-03T18:48:21Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "qgis-pr": {
       "firstSeen": "2026-07-03T17:37:48Z",
       "lastSeen": "2026-07-03T17:37:48Z",
@@ -1068,6 +1073,11 @@
     "taskpaper": {
       "firstSeen": "2026-07-03T17:41:42Z",
       "lastSeen": "2026-07-03T17:41:42Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "teamviewer": {
+      "firstSeen": "2026-07-03T18:51:13Z",
+      "lastSeen": "2026-07-03T18:51:13Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "teamviewerhost": {
