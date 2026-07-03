@@ -11,5 +11,18 @@
     "name": "Microsoft Excel",
     "timeStamp": "2026-07-03T15:56:13Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "16.110.26062112",
+    "blockingProcesses": [
+      "Microsoft Excel"
+    ],
+    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.110.26062112_Installer.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftexcel",
+    "name": "Microsoft Excel",
+    "timeStamp": "2026-07-03T17:33:35Z",
+    "type": "pkg"
   }
 ]

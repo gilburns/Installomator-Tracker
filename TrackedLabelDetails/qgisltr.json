@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.44.11",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl2.qgis.org/downloads/macos/ltr/qgis_ltr_final-3_44_11.dmg",
+    "expectedTeamID": "4F7N4UDA22",
+    "label": "qgisltr",
+    "name": "QGIS-LTR",
+    "timeStamp": "2026-07-03T17:37:49Z",
+    "type": "dmg"
+  }
+]
