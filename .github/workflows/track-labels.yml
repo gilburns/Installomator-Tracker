@@ -1,0 +1,52 @@
+name: Track Installomator label versions
+
+on:
+  schedule:
+    # 06:00 and 18:00 UTC
+    - cron: '0 6,18 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: track-labels
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync labels from upstream Installomator
+        run: ./sync_labels.sh --verbose
+
+      - name: Commit label sync changes
+        run: |
+          if git diff --quiet -- Labels; then
+            echo "No label changes from upstream."
+          else
+            git add Labels
+            git commit -m "Sync labels from Installomator upstream"
+            git push
+          fi
+
+      - name: Run label tracker
+        run: ./update_tracked_labels.sh --verbose
+
+      - name: Commit tracked version changes
+        run: |
+          if git diff --quiet -- TrackedLabelDetails; then
+            echo "No new versions discovered."
+            exit 0
+          fi
+          git add TrackedLabelDetails
+          git commit -m "Update tracked label versions"
+          git push
