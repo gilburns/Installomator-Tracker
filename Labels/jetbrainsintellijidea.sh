@@ -1,0 +1,16 @@
+jetbrainsintellijidea|\
+jetbrainsintellijideace|\
+intellijideace)
+    name="IntelliJ IDEA"
+    type="dmg"
+    jetbrainscode="II"
+    if [[ $(arch) == i386 ]]; then
+        jetbrainsdistribution="mac"
+    elif [[ $(arch) == arm64 ]]; then
+        jetbrainsdistribution="macM1"
+    fi
+    blockingProcesses=( "idea" )
+    downloadURL="https://download.jetbrains.com/product?code=${jetbrainscode}&latest&distribution=${jetbrainsdistribution}"
+    appNewVersion=$( curl -fsIL "${downloadURL}" | grep -i "location" | tail -1 | sed -E 's/.*-([0-9.]+)[-.].*/\1/g' )
+    expectedTeamID="2ZEFAR8TH3"
+    ;;
