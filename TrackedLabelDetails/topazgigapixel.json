@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.4.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.topazlabs.com/deploy/TopazGigapixelAI/8.4.4/TopazGigapixelAI-8.4.4.pkg",
+    "expectedTeamID": "3G3JE37ZHF",
+    "label": "topazgigapixel",
+    "name": "Topaz Gigapixel AI",
+    "timeStamp": "2026-07-03T16:06:16Z",
+    "type": "pkg"
+  }
+]

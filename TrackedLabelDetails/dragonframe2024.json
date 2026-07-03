@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "Applications/Dragonframe 2024/Dragonframe 2024.app",
+    "appNewVersion": "2024.09.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.dragonframe.com/download/Dragonframe_2024.09.3.pkg",
+    "expectedTeamID": "PG7SM8SD8M",
+    "label": "dragonframe2024",
+    "name": "DragonFrame 2024",
+    "timeStamp": "2026-07-03T15:44:35Z",
+    "type": "pkg"
+  }
+]

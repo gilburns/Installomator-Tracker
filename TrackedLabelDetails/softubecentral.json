@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://softubestorage.b-cdn.net/softubecentraldata/softubecentral/Softube%20Central-2.2.0-universal.pkg",
+    "expectedTeamID": "MQ5XL2PNWK",
+    "label": "softubecentral",
+    "name": "Softube Central",
+    "timeStamp": "2026-07-03T16:04:27Z",
+    "type": "pkg"
+  }
+]

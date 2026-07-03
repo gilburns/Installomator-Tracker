@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.3.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release.files.ghostty.org/1.3.1/Ghostty.dmg",
+    "expectedTeamID": "24VZTF6M5V",
+    "label": "ghostty",
+    "name": "ghostty",
+    "timeStamp": "2026-07-03T15:46:48Z",
+    "type": "dmg"
+  }
+]

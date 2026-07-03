@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "enterprise",
+    "blockingProcesses": [
+      "Teams",
+      "Microsoft Teams classic Helper"
+    ],
+    "downloadURL": "https://statics.teams.cdn.office.net/production-osx/enterprise/webview2/lkg/MicrosoftTeams.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftteams",
+    "name": "Microsoft Teams classic",
+    "timeStamp": "2026-07-03T15:56:37Z",
+    "type": "pkg"
+  }
+]

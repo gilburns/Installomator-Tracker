@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "25.2.105",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.mindjet.com/MindManager_Mac_25.2.105.dmg",
+    "expectedTeamID": "ZF6ZZ779N5",
+    "label": "mindmanager",
+    "name": "MindManager",
+    "timeStamp": "2026-07-03T15:56:44Z",
+    "type": "dmg"
+  }
+]

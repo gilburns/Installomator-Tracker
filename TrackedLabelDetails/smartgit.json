@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "to",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.syntevo.com/",
+    "expectedTeamID": "PHMY45PTNW",
+    "label": "smartgit",
+    "name": "SmartGit",
+    "timeStamp": "2026-07-03T16:04:17Z",
+    "type": "dmg"
+  }
+]

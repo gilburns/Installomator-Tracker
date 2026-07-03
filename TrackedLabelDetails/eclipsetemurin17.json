@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "17.0.19+10",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/372925194/ef06376f-1af6-4e1f-a1b8-c64adde02733?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A29%3A22Z&rscd=attachment%3B+filename%3DOpenJDK17U-jdk_aarch64_mac_hotspot_17.0.19_10.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A16Z&ske=2026-07-03T16%3A29%3A22Z&sks=b&skv=2018-11-09&sig=0HsmQQeKqD21wQTcpLs3stiQ8HUz0mb5hScphFo3Uyo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzEwOCwibmJmIjoxNzgzMDkzNTA4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.lTWYMC-MdIvP-GRHCKp4m3b7OAH2C-Oa-QdFrP37Ol0&response-content-disposition=attachment%3B%20filename%3DOpenJDK17U-jdk_aarch64_mac_hotspot_17.0.19_10.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/372925194/450b9f3d-2178-43a5-95a6-b2395de63f54?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A44Z&rscd=attachment%3B+filename%3DOpenJDK17U-jdk_x64_mac_hotspot_17.0.19_10.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A26%3A58Z&ske=2026-07-03T16%3A27%3A44Z&sks=b&skv=2018-11-09&sig=K6ZdqNDmfqLPlDgbdwoEeBLgHqMCnQmu5Ar5F8F4Rjo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzExMCwibmJmIjoxNzgzMDkzNTEwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Og8WzJedOcwQath5LRBZ2cl2xp_Dskprqef-3nrGPsU&response-content-disposition=attachment%3B%20filename%3DOpenJDK17U-jdk_x64_mac_hotspot_17.0.19_10.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "JCDTMS22B4",
+    "label": "eclipsetemurin17",
+    "name": "Temurin 17",
+    "timeStamp": "2026-07-03T15:45:08Z",
+    "type": "pkg"
+  }
+]

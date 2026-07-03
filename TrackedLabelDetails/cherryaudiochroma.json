@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.1.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://store.cherryaudio.com/downloads/chroma-macos-installer?file=Chroma-Installer-macOS.pkg",
+    "expectedTeamID": "A2XFV22B2X",
+    "label": "cherryaudiochroma",
+    "name": "Chroma",
+    "timeStamp": "2026-07-03T15:40:47Z",
+    "type": "pkg"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.29.1.0",
+    "blockingProcesses": [
+      "Garmin Express",
+      "Garmin Express Service"
+    ],
+    "downloadURL": "https://download.garmin.com/omt/express/GarminExpress.dmg",
+    "expectedTeamID": "72ES32VZUA",
+    "label": "garminexpress",
+    "name": "Garmin Express",
+    "timeStamp": "2026-07-03T15:46:37Z",
+    "type": "pkgInDmg"
+  }
+]

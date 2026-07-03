@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://media.inkscape.org/dl/resources/file/Inkscape-1.4.4_arm64.dmg",
+    "expectedTeamID": "SW3D6BB6A6",
+    "label": "inkscape",
+    "name": "Inkscape",
+    "timeStamp": "2026-07-03T15:48:15Z",
+    "type": "dmg"
+  }
+]

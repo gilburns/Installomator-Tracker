@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "Build 2125",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.sublimetext.com/sublime_merge_build_2125_mac.zip",
+    "expectedTeamID": "Z6D26JE4Y4",
+    "label": "sublimemerge",
+    "name": "Sublime Merge",
+    "timeStamp": "2026-07-03T16:05:11Z",
+    "type": "zip"
+  }
+]

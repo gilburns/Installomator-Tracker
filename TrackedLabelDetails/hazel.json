@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.1.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/Noodlesoft/Hazel-6.1.2.dmg",
+    "expectedTeamID": "86Z3GCJ4MF",
+    "label": "hazel",
+    "name": "Hazel",
+    "timeStamp": "2026-07-03T15:47:38Z",
+    "type": "dmg"
+  }
+]

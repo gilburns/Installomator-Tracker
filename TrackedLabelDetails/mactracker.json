@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.2.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://mactracker.ca/downloads/Mactracker_8.2.3.zip",
+    "expectedTeamID": "63TP32R3AB",
+    "label": "mactracker",
+    "name": "Mactracker",
+    "timeStamp": "2026-07-03T15:53:56Z",
+    "type": "zip"
+  }
+]

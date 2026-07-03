@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.11.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3-eu-west-1.amazonaws.com/fsm-livereplayer/update/stable/packages/LiveReplayer-1.11.7.pkg",
+    "expectedTeamID": "2H7P9E934F",
+    "label": "livereplayer",
+    "name": "LiveReplayer",
+    "timeStamp": "2026-07-03T15:53:19Z",
+    "type": "pkg"
+  }
+]

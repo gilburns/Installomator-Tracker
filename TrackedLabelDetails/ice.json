@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.11.12",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/674832198/d0640a2d-bbb6-4f51-958a-de551902432a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A55Z&rscd=attachment%3B+filename%3DIce.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A07Z&ske=2026-07-03T16%3A27%3A55Z&sks=b&skv=2018-11-09&sig=94i2fbeDL%2BPsKjE2d9jZypsXYO%2B%2Bbd5LnQizkikSVxU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Mzk4NCwibmJmIjoxNzgzMDkzNjg0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.AQY76krXeKG403RiBkf4EHc-47j_FxZZE5MVDy-NtJg&response-content-disposition=attachment%3B%20filename%3DIce.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "K2ATHQPJDP",
+    "label": "ice",
+    "name": "Ice",
+    "timeStamp": "2026-07-03T15:48:04Z",
+    "type": "zip"
+  }
+]

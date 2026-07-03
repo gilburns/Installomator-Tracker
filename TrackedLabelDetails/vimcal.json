@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.46",
+    "blockingProcesses": [],
+    "downloadURL": "https://vimcal-m1.s3.us-west-1.amazonaws.com/Vimcal-1.0.46-arm64.dmg",
+    "downloadURLi386": "https://vimcal-production.s3.us-west-1.amazonaws.com/Vimcal-1.0.46.dmg",
+    "expectedTeamID": "7F7GXK9J99",
+    "label": "vimcal",
+    "name": "Vimcal",
+    "timeStamp": "2026-07-03T16:07:44Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "16.8.3.14",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.captureone.pro/d/mac/a3e943b24c3c1b9f9f78a5e7ec221b7077f5dcaf/CaptureOne.Mac.16.8.3.14.dmg",
+    "expectedTeamID": "5WTDB5F65L",
+    "label": "captureone",
+    "name": "Capture One",
+    "timeStamp": "2026-07-03T15:40:31Z",
+    "type": "dmg"
+  }
+]

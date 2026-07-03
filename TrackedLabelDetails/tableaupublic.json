@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.tableau.com/public/TableauPublic-2026-2-0.dmg",
+    "expectedTeamID": "QJ4XPRK37C",
+    "label": "tableaupublic",
+    "name": "Tableau Public",
+    "timeStamp": "2026-07-03T16:05:31Z",
+    "type": "pkgInDmg"
+  }
+]

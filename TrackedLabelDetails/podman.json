@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/",
+    "expectedTeamID": "HYSCB8KRL2",
+    "label": "podman",
+    "name": "Podman",
+    "timeStamp": "2026-07-03T15:59:41Z",
+    "type": "pkg"
+  }
+]

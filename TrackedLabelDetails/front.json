@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.73.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.frontapp.com/macos/Front-arm64.dmg",
+    "downloadURLi386": "https://dl.frontapp.com/macos/Front.dmg",
+    "expectedTeamID": "X549L7572J",
+    "label": "front",
+    "name": "Front",
+    "timeStamp": "2026-07-03T15:46:30Z",
+    "type": "dmg"
+  }
+]

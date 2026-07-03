@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.8.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/198484780/a5666d23-5428-4b6a-88aa-0275c1470f73?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A25Z&rscd=attachment%3B+filename%3DBeekeeper-Studio-5.8.1-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A39Z&ske=2026-07-03T16%3A28%3A25Z&sks=b&skv=2018-11-09&sig=ZWTGjKeO6AukZZF%2FdDQPppDYsvdhjOLHnF0%2Blu7DNKw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Njc2MSwibmJmIjoxNzgzMDkzMTYxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.1x80nosB_lfxdlgxpMol28YOuzxT6yj6iPiGCVTs_AM&response-content-disposition=attachment%3B%20filename%3DBeekeeper-Studio-5.8.1-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/198484780/a941fa4f-376d-44c3-aaa9-ff9bbc829a9e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A29%3A01Z&rscd=attachment%3B+filename%3DBeekeeper-Studio-5.8.1.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A28%3A53Z&ske=2026-07-03T16%3A29%3A01Z&sks=b&skv=2018-11-09&sig=w%2FnQl7z5z6ZAoK%2BmAP1N5Q4EJqBwRTWC6sKbLi%2FsEtQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Njc2MywibmJmIjoxNzgzMDkzMTYzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Lw5GMYgR_6R5lAkr6pmhs7LzilZAGMiuvoAcwgCgCYU&response-content-disposition=attachment%3B%20filename%3DBeekeeper-Studio-5.8.1.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "7KK583U8H2",
+    "label": "beekeeperstudio",
+    "name": "Beekeeper Studio",
+    "timeStamp": "2026-07-03T15:39:21Z",
+    "type": "dmg"
+  }
+]

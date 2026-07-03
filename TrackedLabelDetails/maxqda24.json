@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "24.11.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.maxqda.de/24/MAXQDA24.dmg",
+    "expectedTeamID": "7ME932KUT6",
+    "label": "maxqda24",
+    "name": "MAXQDA24",
+    "timeStamp": "2026-07-03T15:55:52Z",
+    "type": "dmg"
+  }
+]

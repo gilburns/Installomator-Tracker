@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.6.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://cloud.r-project.org/bin/macosx/sonoma-arm64/base/R-4.6.1-arm64.pkg",
+    "downloadURLi386": "https://cloud.r-project.org/bin/macosx/big-sur-x86_64/base/R-4.6.1-x86_64.pkg",
+    "expectedTeamID": "VZLD955F6P",
+    "label": "r",
+    "name": "R",
+    "timeStamp": "2026-07-03T16:01:35Z",
+    "type": "pkg"
+  }
+]

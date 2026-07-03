@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://morisawafonts.com/resources/dm/3.1.0/mac/site/MorisawaDesktopManager_3.1.0.dmg",
+    "expectedTeamID": "662PVPVA3N",
+    "label": "morisawadesktopmanager",
+    "name": "Morisawa Desktop Manager",
+    "timeStamp": "2026-07-03T15:57:16Z",
+    "type": "pkgInDmg"
+  }
+]

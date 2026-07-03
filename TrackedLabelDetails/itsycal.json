@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.15.12",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/itsycal/Itsycal-0.15.12.zip",
+    "expectedTeamID": "HFT3T55WND",
+    "label": "itsycal",
+    "name": "Itsycal",
+    "timeStamp": "2026-07-03T15:49:29Z",
+    "type": "zip"
+  }
+]

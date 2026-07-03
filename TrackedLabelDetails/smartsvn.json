@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "14.5.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.smartsvn.comhttps//downloads.smartsvn.com/downloads/smartsvn/smartsvn-aarch64-14_5_1.dmg",
+    "downloadURLi386": "https://www.smartsvn.comhttps//downloads.smartsvn.com/downloads/smartsvn/smartsvn-x86_64-14_5_1.dmg",
+    "expectedTeamID": "PHMY45PTNW",
+    "label": "smartsvn",
+    "name": "SmartSVN",
+    "timeStamp": "2026-07-03T16:04:18Z",
+    "type": "dmg"
+  }
+]

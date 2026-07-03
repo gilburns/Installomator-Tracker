@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "ProPresenter.app",
+    "appNewVersion": "18.4",
+    "blockingProcesses": [
+      "ProPresenter"
+    ],
+    "downloadURL": "https://renewedvision.com/downloads/propresenter/mac/ProPresenter_18.4_302252046.zip",
+    "expectedTeamID": "97GAAZ6CPX",
+    "label": "propresenter7",
+    "name": "ProPresenter 7",
+    "timeStamp": "2026-07-03T16:00:17Z",
+    "type": "zip"
+  }
+]

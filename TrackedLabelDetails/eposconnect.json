@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "51443",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.eposaudio.com/globalassets/___image-library/_enterprise/files/english/epos-connect/epos-connect-8.5.0/eposconnect_8.5.0.51443.pkg",
+    "expectedTeamID": "8956A7Y69J",
+    "label": "eposconnect",
+    "name": "EPOS Connect",
+    "timeStamp": "2026-07-03T15:45:32Z",
+    "type": "pkg"
+  }
+]

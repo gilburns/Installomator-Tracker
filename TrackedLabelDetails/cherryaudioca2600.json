@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://store.cherryaudio.com/downloads/ca2600-macos-installer?file=CA2600-Installer-macOS.pkg",
+    "expectedTeamID": "A2XFV22B2X",
+    "label": "cherryaudioca2600",
+    "name": "CA2600",
+    "timeStamp": "2026-07-03T15:40:45Z",
+    "type": "pkg"
+  }
+]

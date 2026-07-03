@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.0.47.CE",
+    "blockingProcesses": [],
+    "downloadURL": "https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-8.0.47-macos-arm64.dmg",
+    "downloadURLi386": "https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-8.0.47-macos-x86_64.dmg",
+    "expectedTeamID": "VB5E2TV963",
+    "label": "mysqlworkbenchce",
+    "name": "MySQLWorkbench",
+    "timeStamp": "2026-07-03T15:57:30Z",
+    "type": "dmg"
+  }
+]

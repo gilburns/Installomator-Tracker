@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.5.10.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://adiumx.cachefly.net/Adium_1.5.10.4.dmg",
+    "expectedTeamID": "VQ6ZEL8UD3",
+    "label": "adium",
+    "name": "Adium",
+    "timeStamp": "2026-07-03T15:35:30Z",
+    "type": "dmg"
+  }
+]

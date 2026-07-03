@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "Racket v9.2/DrRacket.app",
+    "appNewVersion": "9.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://mirror.racket-lang.org/installers/9.2/racket-9.2-aarch64-macosx-cs.dmg",
+    "downloadURLi386": "https://mirror.racket-lang.org/installers/9.2/racket-9.2-x86_64-macosx-cs.dmg",
+    "expectedTeamID": "MHDH6AFHDR",
+    "label": "drracket",
+    "name": "DrRacket",
+    "timeStamp": "2026-07-03T15:44:50Z",
+    "type": "dmg"
+  }
+]

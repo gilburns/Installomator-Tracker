@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.2.1",
+    "blockingProcesses": [
+      "DRACOON Finder Integration"
+    ],
+    "downloadURL": "https://dto9yu01k0763.cloudfront.net/release/DRACOON-5.2.1.28671.zip",
+    "expectedTeamID": "G69SCX94XU",
+    "label": "dracoon",
+    "name": "Dracoon",
+    "timeStamp": "2026-07-03T15:44:34Z",
+    "type": "zip"
+  }
+]

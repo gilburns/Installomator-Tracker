@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://portswigger.net/burp/releases/download?product=pro&version&=2026.6&type=macosarm64",
+    "downloadURLi386": "https://portswigger.net/burp/releases/download?product=pro&version&=2026.6&type=macosx",
+    "expectedTeamID": "N82YM748DZ",
+    "label": "burpsuiteprofessional",
+    "name": "Burp Suite Professional",
+    "timeStamp": "2026-07-03T15:40:09Z",
+    "type": "dmg"
+  }
+]

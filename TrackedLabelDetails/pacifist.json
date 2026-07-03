@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.1.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.charlessoft.com/pacifist_download/Pacifist_4.1.4.dmg",
+    "expectedTeamID": "HRLUCP7QP4",
+    "label": "pacifist",
+    "name": "Pacifist",
+    "timeStamp": "2026-07-03T15:59:07Z",
+    "type": "dmg"
+  }
+]

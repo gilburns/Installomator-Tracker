@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.25.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.yworks.com/resources/yed/demo/yEd-3.25.1_with-JRE21_arm64.dmg",
+    "expectedTeamID": "JD89S887M2",
+    "label": "yed",
+    "name": "yEd",
+    "timeStamp": "2026-07-03T16:09:10Z",
+    "type": "dmg"
+  }
+]

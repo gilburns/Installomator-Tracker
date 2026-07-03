@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1117",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.finaldraft.com/downloads/finaldraft1117Mac.zip",
+    "expectedTeamID": "7XUZ8R5736",
+    "label": "finaldraft11",
+    "name": "Final Draft 11",
+    "timeStamp": "2026-07-03T15:46:01Z",
+    "type": "pkgInZip"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.2.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://developers.yubico.com/yubikey-manager-qt/Releases/yubikey-manager-qt-1.2.5-mac.pkg",
+    "expectedTeamID": "LQA3CS5MM7",
+    "label": "yubikeymanagerqt",
+    "name": "YubiKey Manager GUI",
+    "timeStamp": "2026-07-03T16:09:15Z",
+    "type": "pkg"
+  }
+]

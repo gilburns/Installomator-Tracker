@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "17.66.19",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.azul.com/zulu/bin/zulu17.66.19-ca-fx-jdk17.0.19-macosx_aarch64.dmg",
+    "downloadURLi386": "https://cdn.azul.com/zulu/bin/zulu17.66.19-ca-fx-jdk17.0.19-macosx_x64.dmg",
+    "expectedTeamID": "TDTHCUPYFR",
+    "label": "zulujdkfx17",
+    "name": "Zulu JDK FX 17",
+    "timeStamp": "2026-07-03T16:10:15Z",
+    "type": "pkgInDmg"
+  }
+]

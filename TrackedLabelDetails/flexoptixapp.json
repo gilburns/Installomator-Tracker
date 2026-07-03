@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.65.1-latest",
+    "blockingProcesses": [],
+    "downloadURL": "https://flexbox.reconfigure.me/download/electron/mac/arm64/FLEXOPTIX%20App-5.65.1-latest-arm64.dmg",
+    "expectedTeamID": "C5JETSFPHL",
+    "label": "flexoptixapp",
+    "name": "FLEXOPTIX App",
+    "timeStamp": "2026-07-03T15:46:11Z",
+    "type": "dmg"
+  }
+]

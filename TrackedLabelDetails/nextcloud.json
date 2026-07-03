@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "33.0.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/",
+    "expectedTeamID": "NKUJUXUJ3B",
+    "label": "nextcloud",
+    "name": "Nextcloud",
+    "timeStamp": "2026-07-03T15:57:48Z",
+    "type": "pkg"
+  }
+]

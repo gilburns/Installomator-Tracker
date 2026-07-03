@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.358.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.loom.com/desktop-packages/Loom-0.358.1-arm64.dmg",
+    "downloadURLi386": "https://cdn.loom.com/desktop-packages/Loom-0.358.1.dmg",
+    "expectedTeamID": "QGD2ZPXZZG",
+    "label": "loom",
+    "name": "Loom",
+    "timeStamp": "2026-07-03T15:53:27Z",
+    "type": "dmg"
+  }
+]

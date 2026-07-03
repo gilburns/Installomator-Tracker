@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.9.11",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.devontechnologies.com/download/freeware/xmenu/1.9.11/XMenu.app.zip",
+    "expectedTeamID": "679S2QUWR8",
+    "label": "xmenu",
+    "name": "XMenu",
+    "timeStamp": "2026-07-03T16:09:04Z",
+    "type": "zip"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.23.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/306701996/fcc56cc8-09bd-46d6-b6d1-a9db4a4dbaa8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A46Z&rscd=attachment%3B+filename%3DRancher.Desktop-1.23.1-mac.aarch64.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A30Z&ske=2026-07-03T16%3A55%3A46Z&sks=b&skv=2018-11-09&sig=u3mE3mS16HAkw1m49Yu%2BIISLNcXinX%2FQALOmdM4hEtU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODEwNCwibmJmIjoxNzgzMDk0NTA0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.0ckaHS3yVvGDQKHb3SjDVwVJ3QmIysCvAcf7n12yNEY&response-content-disposition=attachment%3B%20filename%3DRancher.Desktop-1.23.1-mac.aarch64.zip&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/306701996/d91d0a79-4e8a-4597-b5cf-6def6325ba97?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A42Z&rscd=attachment%3B+filename%3DRancher.Desktop-1.23.1-mac.x86_64.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A08Z&ske=2026-07-03T16%3A55%3A42Z&sks=b&skv=2018-11-09&sig=8IqNkvQ52iCgBR3Av3RhGd56FpUIEs2ovW1kpg8M20E%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODEwNiwibmJmIjoxNzgzMDk0NTA2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.shxSxEqj0oPE9BH0Hf8ruvQ3BPNxcWJxg4ivixKC7AY&response-content-disposition=attachment%3B%20filename%3DRancher.Desktop-1.23.1-mac.x86_64.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "2Q6FHJR3H3",
+    "label": "rancherdesktop",
+    "name": "Rancher Desktop",
+    "timeStamp": "2026-07-03T16:01:44Z",
+    "type": "zip"
+  }
+]

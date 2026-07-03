@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.13.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.typora.io/mac/Typora-1.13.8.dmg",
+    "expectedTeamID": "9HWK5273G4",
+    "label": "typora",
+    "name": "Typora",
+    "timeStamp": "2026-07-03T16:06:51Z",
+    "type": "dmg"
+  }
+]

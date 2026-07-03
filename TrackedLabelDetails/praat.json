@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.6.30",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/18684635/d81ccb39-ac39-45b4-9b6f-b163cd1c3582?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A56%3A15Z&rscd=attachment%3B+filename%3Dpraat6630_mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A42Z&ske=2026-07-03T16%3A56%3A15Z&sks=b&skv=2018-11-09&sig=etFugkRU14ua54H3x8324dga3KlV4IzJ9cg53wRHqxY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODAwMiwibmJmIjoxNzgzMDk0NDAyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.p0aCzMKTvyQPEFAYA9auMfnxcqg8zDjY_S0JwP7EW88&response-content-disposition=attachment%3B%20filename%3Dpraat6630_mac.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "J9C6R9XA5W",
+    "label": "praat",
+    "name": "Praat",
+    "timeStamp": "2026-07-03T16:00:02Z",
+    "type": "dmg"
+  }
+]

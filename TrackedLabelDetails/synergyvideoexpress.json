@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.1.4.144",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.synergysportstech.com/apps/videoexpress/production/macOS/Synergy_Video_Express_1_1_4_144.dmg",
+    "expectedTeamID": "BATB6XS52B",
+    "label": "synergyvideoexpress",
+    "name": "Synergy Video Express",
+    "timeStamp": "2026-07-03T16:05:25Z",
+    "type": "dmg"
+  }
+]

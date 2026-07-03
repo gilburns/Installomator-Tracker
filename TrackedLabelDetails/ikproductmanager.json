@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.1.12",
+    "blockingProcesses": [],
+    "downloadURL": "https://g1.ikmultimedia.com/plugins/ProductManager/ik_product_manager_1.1.12.dmg",
+    "expectedTeamID": "S78FW55573",
+    "label": "ikproductmanager",
+    "name": "IK Product Manager",
+    "timeStamp": "2026-07-03T15:48:11Z",
+    "type": "pkgInDmg"
+  }
+]

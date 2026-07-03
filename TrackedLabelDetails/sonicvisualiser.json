@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.2.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/96778928/0adb5fd6-864a-4dd9-8b70-9b869b0589fb?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A54%3A22Z&rscd=attachment%3B+filename%3DSonic.Visualiser.5.2.1.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A54%3A16Z&ske=2026-07-03T16%3A54%3A22Z&sks=b&skv=2018-11-09&sig=qg9%2BM2MEkJgKz4UTu85AQhx41r18C9rj%2FF9lvpLcyeI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjQ3NSwibmJmIjoxNzgzMDk0Njc1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.E2aXq2FPUJgJu5VWmtDHRDD7B00LHiN4btiMYwPv8tc&response-content-disposition=attachment%3B%20filename%3DSonic.Visualiser.5.2.1.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "73F996B92S",
+    "label": "sonicvisualiser",
+    "name": "Sonic Visualiser",
+    "timeStamp": "2026-07-03T16:04:35Z",
+    "type": "dmg"
+  }
+]

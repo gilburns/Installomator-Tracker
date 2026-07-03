@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.3.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://5c4462a03254654e7308-dde484ab6d0ffaf01b4b545307b386c2.ssl.cf5.rackcdn.com/Mountain%20Duck-5.3.1.29526.zip",
+    "expectedTeamID": "G69SCX94XU",
+    "label": "mountainduck",
+    "name": "Mountain Duck",
+    "timeStamp": "2026-07-03T15:57:19Z",
+    "type": "zip"
+  }
+]

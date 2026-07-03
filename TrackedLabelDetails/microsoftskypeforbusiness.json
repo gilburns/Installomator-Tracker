@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "16.30.32",
+    "blockingProcesses": [],
+    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/SkypeForBusinessUpdater-16.30.32.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftskypeforbusiness",
+    "name": "Skype for Business",
+    "timeStamp": "2026-07-03T15:56:35Z",
+    "type": "pkg"
+  }
+]

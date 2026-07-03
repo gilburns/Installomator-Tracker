@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.9.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/340547520/d63d4864-f35a-4b1e-9608-37490a618e14?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A57%3A46Z&rscd=attachment%3B+filename%3DZed-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A56%3A57Z&ske=2026-07-03T16%3A57%3A46Z&sks=b&skv=2018-11-09&sig=o5t%2FEW3tErUpmRu5OgGlnYfSlltOMS6NQKMO%2Fxxshb8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODQ3OSwibmJmIjoxNzgzMDk0ODc5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.VbpDbPdxYHDgjHC4iN8Lww1U0i9T5AIWkTjP3OgdwUw&response-content-disposition=attachment%3B%20filename%3DZed-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/340547520/ff682441-2ace-429d-9876-1526caf6a1cf?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A56%3A12Z&rscd=attachment%3B+filename%3DZed-x86_64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A17Z&ske=2026-07-03T16%3A56%3A12Z&sks=b&skv=2018-11-09&sig=yEVev4JAfTn7zWMPWq6kp4FSFhf85GqgWMIcq9u1sc4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODU2MCwibmJmIjoxNzgzMDk0OTYwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.CmoSs44JNehzBYUS72lRgTDjcJEwqT-ThPQt0jF2Ubs&response-content-disposition=attachment%3B%20filename%3DZed-x86_64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "MQ55VZLNZQ",
+    "label": "zed",
+    "name": "Zed",
+    "timeStamp": "2026-07-03T16:09:18Z",
+    "type": "dmg"
+  }
+]

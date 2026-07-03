@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.17.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/45496875/2b329efa-b850-4b14-bb35-46f7b6307d44?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A38Z&rscd=attachment%3B+filename%3Dtropy-1.17.3-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A21Z&ske=2026-07-03T16%3A55%3A38Z&sks=b&skv=2018-11-09&sig=9UljoIBmYKaB5p%2FuhNa62zPnoundmxYJcjGugyYxAwc%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODQwNCwibmJmIjoxNzgzMDk0ODA0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.5dAnCugQMtJrmSr3IJIOhHZ4pnez8zVVqXGsw3gsp7k&response-content-disposition=attachment%3B%20filename%3Dtropy-1.17.3-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/45496875/c24364c0-a7db-44ce-b3c9-9ccc31190f09?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A56%3A48Z&rscd=attachment%3B+filename%3Dtropy-1.17.3.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A56%3A08Z&ske=2026-07-03T16%3A56%3A48Z&sks=b&skv=2018-11-09&sig=EwCmzUlx%2BhS9AyhFL7vhdyeN13pRY5480eTnlUnC%2BQA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODQwNiwibmJmIjoxNzgzMDk0ODA2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.F1oLSJ-jDeGq9mJS081jvNgqgpA6HUyEyC9vT3JT22k&response-content-disposition=attachment%3B%20filename%3Dtropy-1.17.3.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "8LAYR367YV",
+    "label": "tropy",
+    "name": "Tropy",
+    "timeStamp": "2026-07-03T16:06:44Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.5.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://troikatronix.com/files/isadoramac-451f00-std.dmg",
+    "expectedTeamID": "Q5V96MD6S6",
+    "label": "isadora",
+    "name": "Isadora",
+    "timeStamp": "2026-07-03T15:49:27Z",
+    "type": "pkgInDmg"
+  }
+]

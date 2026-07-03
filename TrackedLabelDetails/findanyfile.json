@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.6.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/files.tempel.org/FindAnyFile_2.6.1.zip",
+    "expectedTeamID": "25856V4B4X",
+    "label": "findanyfile",
+    "name": "Find Any File",
+    "timeStamp": "2026-07-03T15:46:03Z",
+    "type": "zip"
+  }
+]

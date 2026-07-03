@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.9.16",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.clipgrab.org/ClipGrab-3.9.16.dmg",
+    "expectedTeamID": "E8BJ3ZV5W8",
+    "label": "clipgrab",
+    "name": "ClipGrab",
+    "timeStamp": "2026-07-03T15:42:15Z",
+    "type": "dmg"
+  }
+]

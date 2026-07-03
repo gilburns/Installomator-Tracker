@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "98.6.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.goabstract.com/mac/Abstract-98.6.3.zip",
+    "expectedTeamID": "77MZLZE47D",
+    "label": "abstract",
+    "name": "Abstract",
+    "timeStamp": "2026-07-03T15:35:27Z",
+    "type": "zip"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.31.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/385891121/b3f630e4-3d75-4681-b64f-afc05c7e97ba?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A58Z&rscd=attachment%3B+filename%3DParetoSecurity.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A46Z&ske=2026-07-03T16%3A55%3A58Z&sks=b&skv=2018-11-09&sig=gAi1o%2BrgW3SspQm%2FvsOmXRuirtppyX6Skr1g7wpzrfs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NDY1NSwibmJmIjoxNzgzMDk0MzU1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.8swXBrt0b_h_wb0AVYpmrLDWrjh_s11e53lp50-TaV8&response-content-disposition=attachment%3B%20filename%3DParetoSecurity.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "PM784W7B8X",
+    "label": "paretosecurity",
+    "name": "Pareto Security",
+    "timeStamp": "2026-07-03T15:59:15Z",
+    "type": "dmg"
+  }
+]

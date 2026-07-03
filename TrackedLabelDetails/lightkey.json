@@ -1,0 +1,18 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.9.3",
+    "blockingProcesses": [
+      "Lightkey",
+      "Lightkey Graphics and Media",
+      "Lightkey Networking",
+      "Lightkey Web Content"
+    ],
+    "downloadURL": "https://lightkeyapp.com/media/pages/download/Lightkey-5-9-3/5093d802f6-1778082395/LightkeyInstaller.zip",
+    "expectedTeamID": "9466VHH352",
+    "label": "lightkey",
+    "name": "Lightkey",
+    "timeStamp": "2026-07-03T15:53:15Z",
+    "type": "pkgInZip"
+  }
+]

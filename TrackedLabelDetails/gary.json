@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": ".0.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1059133202/c78d337c-a43e-4905-a938-028f545278d9?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A29%3A53Z&rscd=attachment%3B+filename%3Dgary.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A13Z&ske=2026-07-03T16%3A29%3A53Z&sks=b&skv=2018-11-09&sig=64Sqhx%2F0%2B2XehaaWmXffm1b9FP%2FP9BR1ru0lKK%2F%2F9Tk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Mzg5OCwibmJmIjoxNzgzMDkzNTk4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ow-g1u1BFpCKZKXmJxxsFskXLzLXF_KrS-w0LOVGNTY&response-content-disposition=attachment%3B%20filename%3Dgary.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "82DMLR8WGF",
+    "label": "gary",
+    "name": "gary",
+    "timeStamp": "2026-07-03T15:46:38Z",
+    "type": "pkg"
+  }
+]

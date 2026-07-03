@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://update-nucleus.atlassian.com/Atlassian-Companion/291cb34fe2296e5fb82b83a04704c9b4/latest/darwin/x64/Atlassian%20Companion.dmg",
+    "expectedTeamID": "UPXU4CQZ5P",
+    "label": "atlassiancompanion",
+    "name": "Atlassian Companion",
+    "timeStamp": "2026-07-03T15:38:46Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.98.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/10426982/f3dee309-a65b-4bc0-806a-99046b6ccf55?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A53Z&rscd=attachment%3B+filename%3DJASP-0.98.0.0-MacOS-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A01Z&ske=2026-07-03T16%3A27%3A53Z&sks=b&skv=2018-11-09&sig=ncgKdcOMyRNunEIvtsmKSvH1ax8Sp3C7A9ioQN8ZrmQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzM4NiwibmJmIjoxNzgzMDkzNzg2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.y0_E6EOzjQG73xUydZ4JpwRtzG87AflWK_fIziIGDuk&response-content-disposition=attachment%3B%20filename%3DJASP-0.98.0.0-MacOS-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/10426982/0b5f7264-427f-439f-b207-6fe6905dd6bf?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A30Z&rscd=attachment%3B+filename%3DJASP-0.98.0.0-MacOS-x86_64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A09Z&ske=2026-07-03T16%3A27%3A30Z&sks=b&skv=2018-11-09&sig=%2FraOitLhiK9lvYW7tR87%2BpbCpJzQ6k7JCVwvKLGXh1w%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzM4OSwibmJmIjoxNzgzMDkzNzg5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.oWa5s6fzhHCSd28k77wVQVK0O7JkWMNcymC3elavnT4&response-content-disposition=attachment%3B%20filename%3DJASP-0.98.0.0-MacOS-x86_64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "AWJJ3YVK9B",
+    "label": "jasp",
+    "name": "JASP",
+    "timeStamp": "2026-07-03T15:49:46Z",
+    "type": "dmg"
+  }
+]

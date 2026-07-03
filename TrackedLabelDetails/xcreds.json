@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.9.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://twocanoes-software-updates.s3.amazonaws.com/XCreds.pkg",
+    "expectedTeamID": "UXP6YEHSPW",
+    "label": "xcreds",
+    "name": "XCreds",
+    "timeStamp": "2026-07-03T16:08:59Z",
+    "type": "pkg"
+  }
+]

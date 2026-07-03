@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.1.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.druva.com/downloads/inSync/MAC/8.1.3/inSync-8.1.3-r110967.dmg",
+    "expectedTeamID": "JN6HK3RMAP",
+    "label": "druvainsync",
+    "name": "Druva inSync",
+    "timeStamp": "2026-07-03T15:44:52Z",
+    "type": "pkgInDmg"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "152.0.4",
+    "blockingProcesses": [
+      "firefox"
+    ],
+    "downloadURL": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.4/mac/en-US/Firefox%20152.0.4.dmg",
+    "expectedTeamID": "43AQ936H96",
+    "label": "firefox_intl",
+    "name": "Firefox",
+    "timeStamp": "2026-07-03T15:46:07Z",
+    "type": "dmg"
+  }
+]

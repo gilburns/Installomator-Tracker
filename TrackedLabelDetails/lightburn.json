@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.1.03",
+    "blockingProcesses": [],
+    "downloadURL": "https://files.release.lightburnsoftware.com/LightBurn/Release/LightBurn-v2.1.03/LightBurn.V2.1.03.dmg",
+    "expectedTeamID": "UWZQ3LL82C",
+    "label": "lightburn",
+    "name": "LightBurn",
+    "timeStamp": "2026-07-03T15:52:55Z",
+    "type": "dmg"
+  }
+]

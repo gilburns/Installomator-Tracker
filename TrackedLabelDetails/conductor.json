@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.71.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.crabnebula.app/asset/01KWGDJZAJXRBH19JWBAZWRZN0?from=%7B%22orgSlug%22%3A%22melty%22%2C%22appSlug%22%3A%22conductor%22%2C%22publicPlatform%22%3A%22dmg-aarch64%22%7D",
+    "downloadURLi386": "https://cdn.crabnebula.app/asset/01KWGDJJVN5WXNF7QRBW1GFMYS?from=%7B%22orgSlug%22%3A%22melty%22%2C%22appSlug%22%3A%22conductor%22%2C%22publicPlatform%22%3A%22dmg-x86_64%22%7D",
+    "expectedTeamID": "27XN666UJ7",
+    "label": "conductor",
+    "name": "Conductor",
+    "timeStamp": "2026-07-03T15:42:53Z",
+    "type": "dmg"
+  }
+]

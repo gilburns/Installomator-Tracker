@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.19.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop-release.q.us-east-1.amazonaws.com/latest/Amazon%20Q.dmg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "amazonq",
+    "name": "Amazon Q",
+    "timeStamp": "2026-07-03T15:37:04Z",
+    "type": "dmg"
+  }
+]

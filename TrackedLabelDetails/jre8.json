@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.8.491.25",
+    "blockingProcesses": [],
+    "downloadURL": "https://sdlc-esd.oracle.com/ESD6/JSCDL/jre/8u491-b25/f7fe8e644f724108bdb54139381e29a7/jre-8u491-fcs-cb-bin-b25-macosx-x64-03_apr_2026_au.dmg?GroupName=JSC&FilePath=/ESD6/JSCDL/jre/8u491-b25/f7fe8e644f724108bdb54139381e29a7/jre-8u491-fcs-cb-bin-b25-macosx-x64-03_apr_2026_au.dmg&BHost=javadl.sun.com&File=jre-8u491-fcs-cb-bin-b25-macosx-x64-03_apr_2026_au.dmg&AuthParam=1783095026_2db12f48d0d03d9c5c197083854b6d64&ext=.dmg",
+    "expectedTeamID": "VB5E2TV963",
+    "label": "jre8",
+    "name": "Java Runtime Environment 8",
+    "timeStamp": "2026-07-03T15:50:27Z",
+    "type": "pkgInDmg"
+  }
+]

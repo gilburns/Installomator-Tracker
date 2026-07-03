@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.4.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://macitbetter.com/dl/BetterZip-5.4.2.zip",
+    "expectedTeamID": "79RR9LPM2N",
+    "label": "betterzip",
+    "name": "BetterZip",
+    "timeStamp": "2026-07-03T15:39:28Z",
+    "type": "zip"
+  }
+]

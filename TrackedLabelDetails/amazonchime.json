@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.23.22533",
+    "blockingProcesses": [],
+    "downloadURL": "https://clients.chime.aws/mac-nme/AmazonChime-5.23.22533.dmg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "amazonchime",
+    "name": "Amazon Chime",
+    "timeStamp": "2026-07-03T15:36:57Z",
+    "type": "dmg"
+  }
+]

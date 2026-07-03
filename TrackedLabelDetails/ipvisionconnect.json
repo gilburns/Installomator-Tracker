@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "<a href=\"dstny.dk.5.10.6.9365.osx.release.dmg\">dstny.dk.5.10.6.9365.osx.release.dmg</a>      43M  ",
+    "blockingProcesses": [],
+    "downloadURL": "https://my.ipvision.dk/connect/dstny_dk_5_10_6_9365_osx_release.dmg",
+    "expectedTeamID": "5RLWBLKGL2",
+    "label": "ipvisionconnect",
+    "name": "ipvision Connect",
+    "timeStamp": "2026-07-03T15:49:25Z",
+    "type": "dmg"
+  }
+]

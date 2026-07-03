@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/149668834/ad8ef467-b94a-4bcc-9884-c65734f8dbc7?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A07Z&rscd=attachment%3B+filename%3DPPPC-Utility.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A26%3A52Z&ske=2026-07-03T16%3A27%3A07Z&sks=b&skv=2018-11-09&sig=jpI%2FVKrJ3BZaeBZuRIAbD%2Fi16nFcrSyQdEjKZwESKmo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NDA3OSwibmJmIjoxNzgzMDkzNzc5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.XJoLuNdsydQJ1134Py0ZRIJRBltPfkqxKd3IfZEh-1M&response-content-disposition=attachment%3B%20filename%3DPPPC-Utility.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "483DWKW443",
+    "label": "jamfpppcutility",
+    "name": "PPPC Utility",
+    "timeStamp": "2026-07-03T15:49:39Z",
+    "type": "zip"
+  }
+]

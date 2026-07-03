@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.3.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.devontechnologies.com/download/devonthink/4.3.2/DEVONthink.dmg.zip",
+    "expectedTeamID": "679S2QUWR8",
+    "label": "devonthink",
+    "name": "DEVONthink",
+    "timeStamp": "2026-07-03T15:44:08Z",
+    "type": "appInDmgInZip"
+  }
+]

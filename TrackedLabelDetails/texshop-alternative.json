@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.57",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/27997943/667f16e9-46ae-4113-a2e3-adfa61da005c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A57%3A55Z&rscd=attachment%3B+filename%3Dtexshop-5.57.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A57%3A05Z&ske=2026-07-03T16%3A57%3A55Z&sks=b&skv=2018-11-09&sig=Pm2PrKU6q%2Bx3rQzGRKOLeXDBXOqk%2FTorO7iiV9zc1WI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjU1MSwibmJmIjoxNzgzMDk0NzUxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.7pL-TRfPgYj5oC-FGCIDftwWBP6jcxHvdlPiO2oD6iw&response-content-disposition=attachment%3B%20filename%3Dtexshop-5.57.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "RBGCY5RJWM",
+    "label": "texshop-alternative",
+    "name": "TeXShop",
+    "timeStamp": "2026-07-03T16:05:52Z",
+    "type": "zip"
+  }
+]

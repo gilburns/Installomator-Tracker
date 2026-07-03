@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.qdev.de/downloads/files/ExifRenamer.dmg",
+    "expectedTeamID": "MLF9FE35AM",
+    "label": "exifrenamer",
+    "name": "ExifRenamer",
+    "timeStamp": "2026-07-03T15:45:44Z",
+    "type": "dmg"
+  }
+]

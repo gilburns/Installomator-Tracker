@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.5.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/560122446/f0523a3a-fcab-4dca-8eba-cb9c759bf9b3?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A43%3A57Z&rscd=attachment%3B+filename%3DRenew_v1.5.1.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A43%3A42Z&ske=2026-07-03T16%3A43%3A57Z&sks=b&skv=2018-11-09&sig=hfdNOvyxBPtDpjIrMDbnPhHEkut%2FVw3SDIRoXFmKMT4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NDg4MywibmJmIjoxNzgzMDk0NTgzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.xJlECFGRJ9BGUbLkMnQKEJt-1lAIOY0nEfh4UpjqGLA&response-content-disposition=attachment%3B%20filename%3DRenew_v1.5.1.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "7Q6XP5698G",
+    "label": "renew",
+    "name": "Renew",
+    "timeStamp": "2026-07-03T16:03:03Z",
+    "type": "pkg"
+  }
+]

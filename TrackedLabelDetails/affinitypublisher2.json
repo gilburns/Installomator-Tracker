@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.6.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://d1gl0nrskhax8d.cloudfront.net/macos/publisher2/2.6.5/affinity-publisher-2.6.5.dmg?Expires=1783096596&Signature=cvDkYzyuccAhwp5yDmrrJTHOnLT~U1MdcQSUYZ7p0-6klgBsB4UkE~WAu~wqiYgvhk834MtdZ3DYxLCLHib9orEo1xDAnvAoBs1B37-zbAbZOJJigDF8q3KMbBC2mj7iy8QRjRYtcaPn4Fpq~ccRIPrdWJ~PETQj0KAM6j1ZTuJVU2mn2GMy25QB0lpyOgzxojn~B7MX23wf7HSwDXNmfMqvbvk~A53UPelvmEBw9b9nqhDcgZjTxaQGXTjpAnngL0uwirbIMEGo8JiK4wPyWt7jylmg2aD1jozAZP22HueTq7zJ5NWg2zyjbxAKLzkJIld6aCywHhqHF4sbCUgXGQ__&Key-Pair-Id=APKAIMMPYSI7GSVTEAAQ",
+    "expectedTeamID": "6LVTQB9699",
+    "label": "affinitypublisher2",
+    "name": "Affinity Publisher 2",
+    "timeStamp": "2026-07-03T15:36:37Z",
+    "type": "dmg"
+  }
+]

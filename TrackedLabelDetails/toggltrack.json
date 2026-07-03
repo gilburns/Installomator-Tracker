@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.5.363",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/16703726/2a2be800-1a92-11eb-82db-50bdac8043f8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A57%3A40Z&rscd=attachment%3B+filename%3DTogglDesktop-7_5_363.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A56%3A55Z&ske=2026-07-03T16%3A57%3A40Z&sks=b&skv=2018-11-09&sig=cN%2BrJxEUqa53vu0UdzoXCR9aVOresSb40DEFhBCPID4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjU3MCwibmJmIjoxNzgzMDk0NzcwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.8H58Z_XPPSj4rObEw3RgW6X3T7yI04DD_zA1vUL0sqk&response-content-disposition=attachment%3B%20filename%3DTogglDesktop-7_5_363.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "B227VTMZ94",
+    "label": "toggltrack",
+    "name": "Toggl Track",
+    "timeStamp": "2026-07-03T16:06:10Z",
+    "type": "dmg"
+  }
+]

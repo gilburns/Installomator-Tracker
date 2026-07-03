@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.26.4",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://dl.google.com/go/go1.26.4.darwin-arm64.pkg",
+    "downloadURLi386": "https://dl.google.com/go/go1.26.4.darwin-amd64.pkg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "golang",
+    "name": "GoLang",
+    "timeStamp": "2026-07-03T15:47:07Z",
+    "type": "pkg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.izotope.com/product_download/iZotope_Product_Portal_v1_4_9.dmg",
+    "expectedTeamID": "QGULMAPEB2",
+    "label": "izotopeproductportal",
+    "name": "iZotope Product Portal",
+    "timeStamp": "2026-07-03T15:49:29Z",
+    "type": "dmg"
+  }
+]

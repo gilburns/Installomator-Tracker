@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "17.0.19.10.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://corretto.aws/downloads/resources/17.0.19.10.1/amazon-corretto-17.0.19.10.1-macosx-aarch64.pkg",
+    "downloadURLi386": "https://corretto.aws/downloads/resources/17.0.19.10.1/amazon-corretto-17.0.19.10.1-macosx-x64.pkg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "amazoncorretto17jdk",
+    "name": "Amazon Corretto 17 JDK",
+    "timeStamp": "2026-07-03T15:36:59Z",
+    "type": "pkg"
+  }
+]

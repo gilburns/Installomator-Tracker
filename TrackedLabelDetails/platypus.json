@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.5.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1534955/9d779f2a-8b35-46ad-9185-ede558fcfb7c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A54%3A56Z&rscd=attachment%3B+filename%3Dplatypus5.5.0.src.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A54%3A37Z&ske=2026-07-03T16%3A54%3A56Z&sks=b&skv=2018-11-09&sig=octinUQjRJwawshAOaXJqGmPc9m%2F56N3watw6gumTlY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjE3NywibmJmIjoxNzgzMDk0Mzc3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ts7wNvqUFdWBWiY1wGV8RGK1e5-nuMOf7q_ZKipmYfM&response-content-disposition=attachment%3B%20filename%3Dplatypus5.5.0.src.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "55GP2M789L",
+    "label": "platypus",
+    "name": "Platypus",
+    "timeStamp": "2026-07-03T15:59:37Z",
+    "type": "zip"
+  }
+]

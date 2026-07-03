@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "19.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.oracle.com/java/19/archive/jdk-19.0.2_macos-aarch64_bin.dmg",
+    "downloadURLi386": "https://download.oracle.com/java/19/archive/jdk-19.0.2_macos-x64_bin.dmg",
+    "expectedTeamID": "VB5E2TV963",
+    "label": "jdk19",
+    "name": "Java SE Development Kit 19",
+    "timeStamp": "2026-07-03T15:49:53Z",
+    "type": "pkgInDmg"
+  }
+]

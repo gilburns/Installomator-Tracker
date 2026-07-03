@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.1.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://jorgensen.biology.utah.edu/wayned/ape/Download/Mac/ApE_OSX_modern_current.dmg",
+    "expectedTeamID": "F5459JB4SG",
+    "label": "ape",
+    "name": "ApE",
+    "timeStamp": "2026-07-03T15:37:19Z",
+    "type": "dmg"
+  }
+]

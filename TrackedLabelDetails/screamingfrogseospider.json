@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "24.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.screamingfrog.co.uk/products/seo-spider/ScreamingFrogSEOSpider-24.3-aarch64.dmg",
+    "downloadURLi386": "https://download.screamingfrog.co.uk/products/seo-spider/ScreamingFrogSEOSpider-24.3-x86_64.dmg",
+    "expectedTeamID": "CAHEVC3HZC",
+    "label": "screamingfrogseospider",
+    "name": "Screaming Frog SEO Spider",
+    "timeStamp": "2026-07-03T16:03:34Z",
+    "type": "dmg"
+  }
+]

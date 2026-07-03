@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.6.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://raw.githubusercontent.com/freemacsoft/appcleaner/8c3b52858a454d14fba343cf565ff710eaff4bcd/AppCleaner_3.6.8.zip",
+    "expectedTeamID": "X85ZX835W9",
+    "label": "appcleaner",
+    "name": "AppCleaner",
+    "timeStamp": "2026-07-03T15:37:20Z",
+    "type": "zip"
+  }
+]

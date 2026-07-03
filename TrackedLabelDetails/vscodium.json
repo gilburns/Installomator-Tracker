@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.121.03429",
+    "blockingProcesses": [
+      "Electron"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/144590939/99e34f30-9758-4da4-8c05-5dda38ea99f4?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A37Z&rscd=attachment%3B+filename%3DVSCodium.arm64.1.121.03429.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A24Z&ske=2026-07-03T16%3A55%3A37Z&sks=b&skv=2018-11-09&sig=bXYqQNwaLjKlmU%2Bt1PAl6rMMcyIacq%2FlwpMsezpylLM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODQ5MSwibmJmIjoxNzgzMDk0ODkxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.8kl-FHgzOogYmdU3eu23oi2NRmSL0dNl4SC7NuDcy9E&response-content-disposition=attachment%3B%20filename%3DVSCodium.arm64.1.121.03429.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "VC39D2VNQ7",
+    "label": "vscodium",
+    "name": "VSCodium",
+    "timeStamp": "2026-07-03T16:08:11Z",
+    "type": "dmg"
+  }
+]

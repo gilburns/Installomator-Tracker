@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.6.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop.githubusercontent.com/releases/3.6.2-57f0b637/GitHubDesktop-arm64.zip",
+    "downloadURLi386": "https://desktop.githubusercontent.com/releases/3.6.2-57f0b637/GitHubDesktop-x64.zip",
+    "expectedTeamID": "VEKTX9H2N7",
+    "label": "githubdesktop",
+    "name": "GitHub Desktop",
+    "timeStamp": "2026-07-03T15:46:55Z",
+    "type": "zip"
+  }
+]

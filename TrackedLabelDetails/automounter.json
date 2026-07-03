@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.13",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.pixeleyes.co.nz/automounter/AutoMounter.dmg",
+    "expectedTeamID": "UKWABN4MGL",
+    "label": "automounter",
+    "name": "AutoMounter",
+    "timeStamp": "2026-07-03T15:38:52Z",
+    "type": "dmg"
+  }
+]

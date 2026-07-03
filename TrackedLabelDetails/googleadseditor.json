@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.12",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.google.com/adwords_editor/google_ads_editor.dmg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "googleadseditor",
+    "name": "Google Ads Editor",
+    "timeStamp": "2026-07-03T15:47:10Z",
+    "type": "dmg"
+  }
+]

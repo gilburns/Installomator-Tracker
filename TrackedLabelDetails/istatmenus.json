@@ -1,0 +1,17 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.3",
+    "blockingProcesses": [
+      "iStat Menus",
+      "iStatMenusAgent",
+      "iStat Menus Status"
+    ],
+    "downloadURL": "https://cdn.istatmenus.app/files/istatmenus6/istatmenus6.73.1.zip",
+    "expectedTeamID": "Y93TK974AT",
+    "label": "istatmenus",
+    "name": "iStat Menus",
+    "timeStamp": "2026-07-03T15:49:28Z",
+    "type": "zip"
+  }
+]

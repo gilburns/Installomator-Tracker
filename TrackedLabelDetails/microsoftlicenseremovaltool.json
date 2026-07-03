@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_License_Removal_2.7.pkg",
+    "expectedTeamID": "QGS93ZLCU7",
+    "label": "microsoftlicenseremovaltool",
+    "name": "Microsoft License Removal Tool",
+    "timeStamp": "2026-07-03T15:56:15Z",
+    "type": "pkg"
+  }
+]

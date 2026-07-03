@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.05",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/ankitects/anki/releases/download/26.05/anki-launcher-26.05-mac.dmg",
+    "expectedTeamID": "7ZM8SLJM4P",
+    "label": "anki",
+    "name": "Anki",
+    "timeStamp": "2026-07-03T15:37:09Z",
+    "type": "dmg"
+  }
+]

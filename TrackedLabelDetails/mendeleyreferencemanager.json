@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.145.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.145.0-universal.dmg",
+    "expectedTeamID": "45K89Y5X9B",
+    "label": "mendeleyreferencemanager",
+    "name": "Mendeley Reference Manager",
+    "timeStamp": "2026-07-03T15:55:57Z",
+    "type": "dmg"
+  }
+]

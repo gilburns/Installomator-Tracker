@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "9.00",
+    "blockingProcesses": [],
+    "downloadURL": "https://d1fa9c7844vy1r.cloudfront.net//wibu_downloads/codemeter/user/9.00/mac/CmRuntimeUser_9.0.8031.500.dmg?response-content-disposition=attachment%3B%20filename%3DCmRuntimeUser_9.0.8031.500.dmg&response-content-type=application%2Fforce-download&Expires=1783093668&Signature=DZKYCxp61f6WUWZmACxxghvJ0p7~fr4vMtDokzS6oYBsRK2256T3j10nLL~LxXQd3QJwxZWh76WTRNfmrZYkFro~zEO~KlEEk6XtWx7vqcluoYibgE5YOVQcTv~GQ~jJQcVMoI5sTTxLDdHFNbG5Ybq54DVhYDzAjtJWTonI1TGBlQY5DNkF-jSQV88M537AQgIutx-EAF2EBHQHQXL8Uz4HZiplfHi3XuyS4n9csGnkSOU12QIouRoB~x9UuH652VMfQzWJ1hbphWyTOEgISMCweD1Ox7FyW4lVUbMJLFGZGfimvz8K7PRjUB9Wum7YGv~hSLwhUB7ng0-vgonhpw__&Key-Pair-Id=APKAI544HQODB4S5Z6KQ",
+    "expectedTeamID": "2SE7W37452",
+    "label": "codemeter",
+    "name": "CodeMeter",
+    "timeStamp": "2026-07-03T15:42:49Z",
+    "type": "pkgInDmg"
+  }
+]

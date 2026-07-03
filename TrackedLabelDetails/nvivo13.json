@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "20.7.2",
+    "blockingProcesses": [
+      "NVivo",
+      "NVivoHelper"
+    ],
+    "downloadURL": "https://download.qsrinternational.com/Software/NVivoforMac/20.7.2.4855/NVivo.dmg",
+    "expectedTeamID": "A66L57342X",
+    "label": "nvivo13",
+    "name": "NVivo",
+    "timeStamp": "2026-07-03T15:58:07Z",
+    "type": "dmg"
+  }
+]

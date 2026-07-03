@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.6.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://2.na.dl.wireshark.org/osx/all-versions/Wireshark%204.6.6.dmg",
+    "expectedTeamID": "7Z6EMTD2C6",
+    "label": "wireshark",
+    "name": "Wireshark",
+    "timeStamp": "2026-07-03T16:08:44Z",
+    "type": "dmg"
+  }
+]

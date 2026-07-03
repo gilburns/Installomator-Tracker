@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "25.11.1.42",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod//Receiver/Mac/CitrixWorkspaceAppUniversal25.11.1.42.pkg",
+    "expectedTeamID": "S272Y5R93J",
+    "label": "citrixworkspace",
+    "name": "Citrix Workspace",
+    "timeStamp": "2026-07-03T15:42:04Z",
+    "type": "pkg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.3.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop.splice.com/darwin/stable/arm64/Splice.app.zip",
+    "downloadURLi386": "https://desktop.splice.com/darwin/stable/x64/Splice.app.zip",
+    "expectedTeamID": "9962T6AKMH",
+    "label": "splice",
+    "name": "Splice",
+    "timeStamp": "2026-07-03T16:04:41Z",
+    "type": "zip"
+  }
+]

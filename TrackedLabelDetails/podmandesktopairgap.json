@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.28.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/465844859/ebf05c99-b154-4465-b6d9-dbd1618e47a8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A56%3A38Z&rscd=attachment%3B+filename%3Dpodman-desktop-airgap-1.28.2-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A56%3A12Z&ske=2026-07-03T16%3A56%3A38Z&sks=b&skv=2018-11-09&sig=kA9MS5zufKnYzq%2BkRzFFI2bdTE6FqpnF76pA2VTPlTA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Nzk4NSwibmJmIjoxNzgzMDk0Mzg1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.jAfuYhY_rOPThqA1pQoyMxZVS1nL5wvdNHJkRMKOepo&response-content-disposition=attachment%3B%20filename%3Dpodman-desktop-airgap-1.28.2-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/465844859/bf594378-881f-4a54-88a0-8ac3ec8d285a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A16Z&rscd=attachment%3B+filename%3Dpodman-desktop-airgap-1.28.2-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A12Z&ske=2026-07-03T16%3A55%3A16Z&sks=b&skv=2018-11-09&sig=3pIBQpGgsdve69Pjf4jpTQEYQOH2glHZXkbg%2FxIKVTQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Nzk4OCwibmJmIjoxNzgzMDk0Mzg4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.BgNi8U919IeJL3JJFl6EUDAnhDWJQKKVgc4y967sGfc&response-content-disposition=attachment%3B%20filename%3Dpodman-desktop-airgap-1.28.2-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "HYSCB8KRL2",
+    "label": "podmandesktopairgap",
+    "name": "Podman Desktop",
+    "timeStamp": "2026-07-03T15:59:45Z",
+    "type": "dmg"
+  }
+]

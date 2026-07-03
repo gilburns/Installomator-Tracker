@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.51.233",
+    "blockingProcesses": [],
+    "downloadURL": "https://e3.boxcdn.net/desktop/releases/mac/BoxDrive-2.51.233.pkg",
+    "expectedTeamID": "M683GB7CPW",
+    "label": "boxdrive",
+    "name": "Box",
+    "timeStamp": "2026-07-03T15:39:48Z",
+    "type": "pkg"
+  }
+]

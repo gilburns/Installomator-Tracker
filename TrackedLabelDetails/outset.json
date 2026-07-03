@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.3.0.22031",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/572738375/740c382f-24a4-4f01-8798-9b31dd505ba0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A56%3A03Z&rscd=attachment%3B+filename%3DOutset-4.3.0.22031.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A11Z&ske=2026-07-03T16%3A56%3A03Z&sks=b&skv=2018-11-09&sig=cTxfB9K2J6aKzBU2wVKcjLQJLC6MsTjNCtZUd82p1yI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NDY0MSwibmJmIjoxNzgzMDk0MzQxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.2G5XbI_hwqyFX6RqzNR_PoNf1e5Fwbss3p2TOGq4Rf0&response-content-disposition=attachment%3B%20filename%3DOutset-4.3.0.22031.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "T4SK8ZXCXG",
+    "label": "outset",
+    "name": "Outset",
+    "timeStamp": "2026-07-03T15:59:01Z",
+    "type": "pkg"
+  }
+]

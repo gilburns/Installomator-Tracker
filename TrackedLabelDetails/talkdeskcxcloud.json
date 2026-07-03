@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.1.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://td-infra-prd-us-east-1-s3-atlaselectron.s3.amazonaws.com/talkdesk-3.1.1.dmg",
+    "expectedTeamID": "YGGJX44TB8",
+    "label": "talkdeskcxcloud",
+    "name": "Talkdesk",
+    "timeStamp": "2026-07-03T16:05:34Z",
+    "type": "dmg"
+  }
+]

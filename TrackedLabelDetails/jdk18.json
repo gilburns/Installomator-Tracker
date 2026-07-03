@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "18.0.2.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.oracle.com/java/18/archive/jdk-18.0.2.1_macos-aarch64_bin.dmg",
+    "downloadURLi386": "https://download.oracle.com/java/18/archive/jdk-18.0.2.1_macos-x64_bin.dmg",
+    "expectedTeamID": "VB5E2TV963",
+    "label": "jdk18",
+    "name": "Java SE Development Kit 18",
+    "timeStamp": "2026-07-03T15:49:51Z",
+    "type": "pkgInDmg"
+  }
+]

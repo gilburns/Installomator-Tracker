@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.8.2.6009",
+    "blockingProcesses": [],
+    "downloadURL": "https://packages.openvpn.net/connect/v3/openvpn-connect-3.8.2.6009_signed.dmg",
+    "expectedTeamID": "ACV7L3WCD8",
+    "label": "openvpnconnectv3",
+    "name": "OpenVPN Connect",
+    "timeStamp": "2026-07-03T15:58:43Z",
+    "type": "pkgInDmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "140.12.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.12.1esr/mac/en-US/Thunderbird%20140.12.1esr.dmg",
+    "expectedTeamID": "43AQ936H96",
+    "label": "thunderbirdesr",
+    "name": "Thunderbird",
+    "timeStamp": "2026-07-03T16:06:03Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.6.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://d1gl0nrskhax8d.cloudfront.net/macos/designer2/2.6.5/affinity-designer-2.6.5.dmg?Expires=1783096594&Signature=kv0ZSq5~gxdaduMWWDLUGdJHqVstHgYzdfcymrFmwudrmf~BARyCiguI4ywLQtWvnnz5JU9I1aqc0hQFocqJbS8SiLrJDPOVDRvgK~9vl3fimaN6glXH4BffxmCFJVy47uj9oT~ECnYtoW~FNas6DFQF5Xq6FZt4Yu8YzEMz3AMlBGXSprJoQUBXHN4BFTgs1RnnZ1YmZ5dAhKBKNsu9F2Q-HSMfKN7WDaZ6iPVVmgHr0N8UZqQKzYJ8AsZW40Ce-RLOdm-Mz7Eqot9r-heNMJdacO8J2rDO9mzkhx9-QyBJIKkWnkmHYQRAKyDQdPszdBH3jBxCU5YECc2w8yu5Og__&Key-Pair-Id=APKAIMMPYSI7GSVTEAAQ",
+    "expectedTeamID": "6LVTQB9699",
+    "label": "affinitydesigner2",
+    "name": "Affinity Designer 2",
+    "timeStamp": "2026-07-03T15:36:35Z",
+    "type": "dmg"
+  }
+]

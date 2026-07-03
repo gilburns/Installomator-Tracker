@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/299354207/1e4bd2eb-d909-47f6-99b8-acebe2b67fa1?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A37%3A10Z&rscd=attachment%3B+filename%3Drustdesk-1.4.8-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A36%3A41Z&ske=2026-07-03T16%3A37%3A10Z&sks=b&skv=2018-11-09&sig=ttj5UdzlqNW0mRN%2B49%2F4xPgJXKdutR6344NTurIPr4w%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjMxMSwibmJmIjoxNzgzMDk0NTExLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.iq2z0-LXU2MpcHhA__hQP57lwfrSLVQQAD4pZvfEYu8&response-content-disposition=attachment%3B%20filename%3Drustdesk-1.4.8-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "HZF9JMC8YN",
+    "label": "rustdesk",
+    "name": "RustDesk",
+    "timeStamp": "2026-07-03T16:03:21Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.2.51",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/90307576/44e1a045-0777-4d3a-b0da-88f47aeb16c9?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A13Z&rscd=attachment%3B+filename%3DJupyterLab-Setup-macOS-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A08Z&ske=2026-07-03T16%3A27%3A13Z&sks=b&skv=2018-11-09&sig=k%2BPChScHc15soyzYNN7YP6OOezjufYwrEuHD68NGqcc%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzQzMSwibmJmIjoxNzgzMDkzODMxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.euoB2-RhaqetSAEVMcUwb7SeghKlgo7SYWXteXgun0k&response-content-disposition=attachment%3B%20filename%3DJupyterLab-Setup-macOS-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/90307576/c2c25650-0921-4910-9786-fa29fec2da00?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A43Z&rscd=attachment%3B+filename%3DJupyterLab-Setup-macOS-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A29Z&ske=2026-07-03T16%3A27%3A43Z&sks=b&skv=2018-11-09&sig=Zbi5pf9leRpGoQql4tXjw87sbq7VVnYcywA28Ut6HPQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzQzMiwibmJmIjoxNzgzMDkzODMyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.CnKyufDupDnnVhm7iAfJg0j3JC3vHb5FkwFq3X_43W8&response-content-disposition=attachment%3B%20filename%3DJupyterLab-Setup-macOS-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "2YJ64GUAVW",
+    "label": "jupyterlab",
+    "name": "JupyterLab",
+    "timeStamp": "2026-07-03T15:50:31Z",
+    "type": "dmg"
+  }
+]

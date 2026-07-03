@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://store.cherryaudio.com/downloads/dreamsynth-macos-installer?file=Dreamsynth-Installer-macOS.pkg",
+    "expectedTeamID": "A2XFV22B2X",
+    "label": "cherryaudiodreamsynth",
+    "name": "Dreamsynth",
+    "timeStamp": "2026-07-03T15:40:53Z",
+    "type": "pkg"
+  }
+]

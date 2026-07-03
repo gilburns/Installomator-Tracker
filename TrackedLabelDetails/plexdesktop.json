@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.112.0.359-0d79a49f",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.plex.tv/plex-desktop/1.112.0.359-0d79a49f/macos/Plex-1.112.0.359-0d79a49f-universal.zip",
+    "expectedTeamID": "K4QJ56KR4A",
+    "label": "plexdesktop",
+    "name": "Plex",
+    "timeStamp": "2026-07-03T15:59:37Z",
+    "type": "zip"
+  }
+]

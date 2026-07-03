@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "12.82.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://sportscode64-updates.s3.amazonaws.com/PublicReleaseDmgs/HudlSportscode-12.82.0.dmg.zip",
+    "expectedTeamID": "4M6T2C723P",
+    "label": "hudlsportscode",
+    "name": "Hudl Sportscode",
+    "timeStamp": "2026-07-03T15:47:56Z",
+    "type": "appInDmgInZip"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.6.00",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/715960984/47f0ec41-b7e4-42de-86ca-0ae4ac78fd56?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A28Z&rscd=attachment%3B+filename%3DHoppscotch_mac_aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A26Z&ske=2026-07-03T16%3A27%3A28Z&sks=b&skv=2018-11-09&sig=rv7mw%2B3aTrY5d2hD8wLdcxXoeJ0h7yBIjlTkUerztGE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTQ2MywibmJmIjoxNzgzMDkzNjYzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.taYKDqcsU6pDarwgdXfu6LJ7KEOQPshAZxAPVDZrTvc&response-content-disposition=attachment%3B%20filename%3DHoppscotch_mac_aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/715960984/afcb1b1d-11d0-4565-983b-de263cd99984?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A29%3A33Z&rscd=attachment%3B+filename%3DHoppscotch_mac_x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A12Z&ske=2026-07-03T16%3A29%3A33Z&sks=b&skv=2018-11-09&sig=0yuGrLEDCEEEc2CR5GULgREAOWPvVeycRdlqAYitAVQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTQ2NSwibmJmIjoxNzgzMDkzNjY1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.xM8N4T43Pq8fxGMRqMeHO5WQN1hLk5YChkBQNIEYU5E&response-content-disposition=attachment%3B%20filename%3DHoppscotch_mac_x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "XBK86CMQGZ",
+    "label": "hoppscotch",
+    "name": "Hoppscotch",
+    "timeStamp": "2026-07-03T15:47:43Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.0",
+    "blockingProcesses": [
+      "Rackmode Frequency Shifter",
+      "Rackmode Graphic EQ",
+      "Rackmode Parametric EQ",
+      "Rackmode Phaser",
+      "Rackmode Ring Modulator",
+      "Rackmode String Filter",
+      "Rackmode Vocoder",
+      "Rackmode Vocoder FX"
+    ],
+    "downloadURL": "https://store.cherryaudio.com/downloads/rackmode-macos-installer?file=Rackmode-Installer-macOS.pkg",
+    "expectedTeamID": "A2XFV22B2X",
+    "label": "cherryaudiorackmode",
+    "name": "Rackmode",
+    "timeStamp": "2026-07-03T15:41:32Z",
+    "type": "pkg"
+  }
+]

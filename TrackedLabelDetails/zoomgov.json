@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.0.5.81138",
+    "blockingProcesses": [],
+    "downloadURL": "https://zfgclients.zoomgov.com/prod/7.0.5.81138/ZoomInstallerIT.pkg",
+    "expectedTeamID": "BJ4HAAB9B3",
+    "label": "zoomgov",
+    "name": "zoom.us",
+    "timeStamp": "2026-07-03T16:09:31Z",
+    "type": "pkg"
+  }
+]

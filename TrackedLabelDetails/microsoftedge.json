@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "150.0.4078.50",
+    "blockingProcesses": [],
+    "downloadURL": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/bdaee5ee-c8cb-4ed5-b38d-497ecbf86765/MicrosoftEdge-150.0.4078.50.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftedge",
+    "name": "Microsoft Edge",
+    "timeStamp": "2026-07-03T15:56:12Z",
+    "type": "pkg"
+  }
+]

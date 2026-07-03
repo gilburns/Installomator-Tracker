@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.1.16",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.flexibits.com/Fantastical_4.1.16.zip",
+    "expectedTeamID": "85C27NK92C",
+    "label": "fantastical",
+    "name": "Fantastical",
+    "timeStamp": "2026-07-03T15:45:47Z",
+    "type": "zip"
+  }
+]

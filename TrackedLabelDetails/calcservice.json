@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.5.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.devontechnologies.com/download/freeware/calcservice/3.5.1/CalcService.app.zip",
+    "expectedTeamID": "679S2QUWR8",
+    "label": "calcservice",
+    "name": "CalcService",
+    "timeStamp": "2026-07-03T15:40:19Z",
+    "type": "zip"
+  }
+]

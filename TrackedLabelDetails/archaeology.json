@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.mothersruin.com/software/downloads/Archaeology.dmg",
+    "expectedTeamID": "936EB786NH",
+    "label": "archaeology",
+    "name": "Archaeology",
+    "timeStamp": "2026-07-03T15:37:29Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.7.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/211905151/8556a54a-6747-4fe5-bba9-ae48d1a85041?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A57%3A58Z&rscd=attachment%3B+filename%3DRaindrop-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A57%3A30Z&ske=2026-07-03T16%3A57%3A58Z&sks=b&skv=2018-11-09&sig=lEClN%2FazruAGn%2FNepD5DBIHM6d71dy3bHmzkQO%2B7jQs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODA5OSwibmJmIjoxNzgzMDk0NDk5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.cxTYmf2m3J4Um5FhLxYWS3aKUe8zZ5dhr76TDYvkaWs&response-content-disposition=attachment%3B%20filename%3DRaindrop-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/211905151/0c196f2b-6b1c-419c-9ccd-7d25cb0030ee?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A54%3A36Z&rscd=attachment%3B+filename%3DRaindrop-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A54%3A28Z&ske=2026-07-03T16%3A54%3A36Z&sks=b&skv=2018-11-09&sig=lPQkfqoIrsiULqG0dj%2BQWrX1Y9c%2BryTcq3pWDi8hf5w%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODEwMSwibmJmIjoxNzgzMDk0NTAxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.37LkfvX4CRofhW9COuVv5wfxMZc1Fwq9tPkGhhDNUzk&response-content-disposition=attachment%3B%20filename%3DRaindrop-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "7459JWM5TY",
+    "label": "raindropio",
+    "name": "Raindrop.io",
+    "timeStamp": "2026-07-03T16:01:39Z",
+    "type": "dmg"
+  }
+]

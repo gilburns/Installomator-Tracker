@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "10.7.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.lemkesoft.info/files/graphicconverter/gc10_build3483.zip",
+    "expectedTeamID": "FAVZJT8J4U",
+    "label": "graphicconverter10",
+    "name": "GraphicConverter 10",
+    "timeStamp": "2026-07-03T15:47:28Z",
+    "type": "zip"
+  }
+]

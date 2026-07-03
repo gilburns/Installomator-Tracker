@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "ChemDoodle3D/ChemDoodle3D.app",
+    "appNewVersion": "7.7.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.ichemlabs.com/downloads/ChemDoodle3D-macos-aarch64-7.7.0.dmg",
+    "downloadURLi386": "https://www.ichemlabs.com/downloads/ChemDoodle3D-macos-x64-7.7.0.dmg",
+    "expectedTeamID": "9XP397UW95",
+    "label": "chemdoodle3d",
+    "name": "ChemDoodle3D",
+    "timeStamp": "2026-07-03T15:40:38Z",
+    "type": "dmg"
+  }
+]

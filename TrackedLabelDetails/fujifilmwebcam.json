@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.fujifilm-x.com/support/software/x-webcam-mac210-z0lr203j/XWebcamIns210.pkg",
+    "expectedTeamID": "34LRP8AV2M",
+    "label": "fujifilmwebcam",
+    "name": "FUJIFILM X Webcam 2",
+    "timeStamp": "2026-07-03T15:46:35Z",
+    "type": "pkg"
+  }
+]

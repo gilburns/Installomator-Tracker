@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "https://release.screen.cloud/player/desktop/channel/stable/scplayer_darwin_x64.dmg",
+    "blockingProcesses": [],
+    "downloadURL": "https://release.screen.cloud/player/desktop/channel/stable/scplayer_darwin_x64.dmg",
+    "expectedTeamID": "3C4F953K6P",
+    "label": "screencloudplayer",
+    "name": "ScreenCloud Player",
+    "timeStamp": "2026-07-03T16:03:35Z",
+    "type": "dmg"
+  }
+]

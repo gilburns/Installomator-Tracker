@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "SDM.app",
+    "appNewVersion": "23.74.2",
+    "blockingProcesses": [
+      "SDM"
+    ],
+    "downloadURL": "https://downloads.strongdm.com/builds/desktop/23.74.2/darwin-universal-full/2CC2C1F719121B99FD5798372770EA739814BDD0/SDM-23.74.2.dmg",
+    "expectedTeamID": "W5HSYBBJGA",
+    "label": "strongdm",
+    "name": "strongDM",
+    "timeStamp": "2026-07-03T16:05:06Z",
+    "type": "dmg"
+  }
+]

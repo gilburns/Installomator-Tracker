@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.5.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://daisydiskapp.com/downloads/DaisyDisk.zip",
+    "expectedTeamID": "4CBU3JHV97",
+    "label": "daisydisk",
+    "name": "DaisyDisk",
+    "timeStamp": "2026-07-03T15:43:22Z",
+    "type": "zip"
+  }
+]

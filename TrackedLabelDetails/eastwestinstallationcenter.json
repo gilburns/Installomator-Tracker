@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.6.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://software.soundsonline.com/Products/IC/IC_1.6.1_Mac.zip",
+    "expectedTeamID": "TWK4WE76V9",
+    "label": "eastwestinstallationcenter",
+    "name": "EW Installation Center",
+    "timeStamp": "2026-07-03T15:45:02Z",
+    "type": "pkgInZip"
+  }
+]

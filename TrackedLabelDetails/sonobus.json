@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.7.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.sonobus.net/releases/sonobus-1.7.2-mac.dmg",
+    "expectedTeamID": "XCS435894D",
+    "label": "sonobus",
+    "name": "Sonobus",
+    "timeStamp": "2026-07-03T16:04:35Z",
+    "type": "pkgInDmg"
+  }
+]

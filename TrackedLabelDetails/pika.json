@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.7.0",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/325284147/3d95bf6d-4673-466b-b280-f1f6752da94e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A54%3A43Z&rscd=attachment%3B+filename%3DPika-1.7.0.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A54%3A30Z&ske=2026-07-03T16%3A54%3A43Z&sks=b&skv=2018-11-09&sig=5Qqt5BE2WHwxpM%2BUShyep%2BvwXjsXzENkv3MMMjgzqnE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NDY3MCwibmJmIjoxNzgzMDk0MzcwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.IPL9hkoK6SqkCDgUlhVLmeDo6GklkcChwpjnh25oEvs&response-content-disposition=attachment%3B%20filename%3DPika-1.7.0.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "TGHU37N6EX",
+    "label": "pika",
+    "name": "Pika",
+    "timeStamp": "2026-07-03T15:59:30Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.2.12",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.virtualbox.org/virtualbox/7.2.12/VirtualBox-7.2.12-174389-macOSArm64.dmg",
+    "downloadURLi386": "https://download.virtualbox.org/virtualbox/7.2.12/VirtualBox-7.2.12-174389-OSX.dmg",
+    "expectedTeamID": "VB5E2TV963",
+    "label": "virtualboxstable",
+    "name": "VirtualBox",
+    "timeStamp": "2026-07-03T16:07:51Z",
+    "type": "pkgInDmg"
+  }
+]

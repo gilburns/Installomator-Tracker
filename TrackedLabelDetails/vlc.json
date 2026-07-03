@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.0.23",
+    "blockingProcesses": [],
+    "downloadURL": "https://get.videolan.org/vlc/3.0.23/macosx/vlc-3.0.23-universal.dmg",
+    "expectedTeamID": "75GAHG3SZQ",
+    "label": "vlc",
+    "name": "VLC",
+    "timeStamp": "2026-07-03T16:08:02Z",
+    "type": "dmg"
+  }
+]

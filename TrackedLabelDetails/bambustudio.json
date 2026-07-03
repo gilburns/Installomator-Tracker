@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "02.07.01.62",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/511797274/2ebbaf1e-1c65-415b-aac2-4695df43e20d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A38Z&rscd=attachment%3B+filename%3DBambu_Studio_mac-v02.07.01.62-20260616174358.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A48Z&ske=2026-07-03T16%3A28%3A38Z&sks=b&skv=2018-11-09&sig=opop9uxT3B7wZzNYEO094XQM%2BnPxQVfN03EKfC%2Fjww8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjY1NiwibmJmIjoxNzgzMDkzMDU2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.WyWWbNaDuIJKLwUOCghhRGDys8Au0P72ZDCSyU7OD_c&response-content-disposition=attachment%3B%20filename%3DBambu_Studio_mac-v02.07.01.62-20260616174358.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "T3UBR9Y3B2",
+    "label": "bambustudio",
+    "name": "BambuStudio",
+    "timeStamp": "2026-07-03T15:39:10Z",
+    "type": "dmg"
+  }
+]

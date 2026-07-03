@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.1.2.42921",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.wavevms.com/hanwha/42921/macos/wave-client-6.1.2.42921-macos_arm64.dmg",
+    "downloadURLi386": "https://updates.wavevms.com/hanwha/42921/macos/wave-client-6.1.2.42921-macos_x64.dmg",
+    "expectedTeamID": "L6FE34GJWM",
+    "label": "wisenetwave",
+    "name": "Wisenet WAVE",
+    "timeStamp": "2026-07-03T16:08:45Z",
+    "type": "dmg"
+  }
+]

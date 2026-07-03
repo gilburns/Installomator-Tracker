@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.13",
+    "blockingProcesses": [],
+    "downloadURL": "https://store.cherryaudio.com/downloads/gx-80-macos-installer?file=GX-80-Installer-macOS.pkg",
+    "expectedTeamID": "A2XFV22B2X",
+    "label": "cherryaudiogx80",
+    "name": "GX-80",
+    "timeStamp": "2026-07-03T15:40:59Z",
+    "type": "pkg"
+  }
+]

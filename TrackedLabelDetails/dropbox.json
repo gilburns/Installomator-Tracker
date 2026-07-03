@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "258.4.3749",
+    "blockingProcesses": [],
+    "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20258.4.3749.arm64.dmg",
+    "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20258.4.3749.dmg",
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-07-03T15:44:40Z",
+    "type": "dmg"
+  }
+]

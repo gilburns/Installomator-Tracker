@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "uvi",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.uvi.net/UVIWS_Uvi_workstation/files/4.0.7/soft/UVI_Workstation.dmg",
+    "expectedTeamID": "BB6L4C84AT",
+    "label": "uviworkstation",
+    "name": "UVIWorksation",
+    "timeStamp": "2026-07-03T16:07:34Z",
+    "type": "pkgInDmg"
+  }
+]

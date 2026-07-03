@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.devontechnologies.com/download/freeware/easyfind/5.0.2/EasyFind.app.zip",
+    "expectedTeamID": "679S2QUWR8",
+    "label": "easyfind",
+    "name": "EasyFind",
+    "timeStamp": "2026-07-03T15:45:04Z",
+    "type": "zip"
+  }
+]

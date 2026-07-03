@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.69.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/72343657/cd11c9ad-68f0-4caf-8660-e41120e79890?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A30%3A09Z&rscd=attachment%3B+filename%3DLosslessCut-mac-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A19Z&ske=2026-07-03T16%3A30%3A09Z&sks=b&skv=2018-11-09&sig=a%2BLa4Aw1ypFz6fq0PsQrzbsEAL432%2Bq%2FvOCD4oTiJj4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzYxMCwibmJmIjoxNzgzMDk0MDEwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.5ZenGlbWInwknpelte9Aw_sBKmcGbzQCPBkDneDxCXA&response-content-disposition=attachment%3B%20filename%3DLosslessCut-mac-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/72343657/a25bf511-d468-4049-b31a-87c9b84c4ad0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A36Z&rscd=attachment%3B+filename%3DLosslessCut-mac-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A18Z&ske=2026-07-03T16%3A27%3A36Z&sks=b&skv=2018-11-09&sig=iBGS6JNa3zmLtS9ukiBBqW6ZpFd7NFH1RylK0KP2NOg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzYxMiwibmJmIjoxNzgzMDk0MDEyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.6huMLdM91hTTqQsFP1u4PUIlfrsDzi4mL0gGvl2jmmc&response-content-disposition=attachment%3B%20filename%3DLosslessCut-mac-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "46F6T3M669",
+    "label": "losslesscut",
+    "name": "LosslessCut",
+    "timeStamp": "2026-07-03T15:53:30Z",
+    "type": "dmg"
+  }
+]

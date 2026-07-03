@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "18.32.13",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jdk18.0.2.1-macosx_aarch64.dmg",
+    "downloadURLi386": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jdk18.0.2.1-macosx_x64.dmg",
+    "expectedTeamID": "TDTHCUPYFR",
+    "label": "zulujdk18",
+    "name": "Zulu JDK 18",
+    "timeStamp": "2026-07-03T16:09:47Z",
+    "type": "pkgInDmg"
+  }
+]

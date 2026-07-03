@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "11.71.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.expressvpn.works/clients/mac/expressvpn_mac_11.71.0.90727_release.pkg",
+    "expectedTeamID": "TC292Y5427",
+    "label": "expressvpn",
+    "name": "ExpressVPN",
+    "timeStamp": "2026-07-03T15:45:45Z",
+    "type": "pkg"
+  }
+]

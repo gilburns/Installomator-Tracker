@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://store.cherryaudio.com/downloads/atomika-synthesizer-macos-installer?file=Atomika-Installer-macOS.pkg",
+    "expectedTeamID": "A2XFV22B2X",
+    "label": "cherryaudioatomika",
+    "name": "Atomika",
+    "timeStamp": "2026-07-03T15:40:41Z",
+    "type": "pkg"
+  }
+]

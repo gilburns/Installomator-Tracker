@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.1.22",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.mobikin.com/downloads/mobikin-android-assistant.dmg",
+    "expectedTeamID": "YNL42PA5C4",
+    "label": "mobikinassistantforandroid",
+    "name": "MobiKin Assistant for Android",
+    "timeStamp": "2026-07-03T15:56:56Z",
+    "type": "dmg"
+  }
+]

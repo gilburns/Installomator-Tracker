@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "16.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/BBSW-download/BBEdit_16.0.1.dmg",
+    "expectedTeamID": "W52GZAXT98",
+    "label": "bbedit",
+    "name": "BBEdit",
+    "timeStamp": "2026-07-03T15:39:16Z",
+    "type": "dmg"
+  }
+]

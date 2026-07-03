@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "68.485",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://gitlab.com/fraserhess/particulars/-/package_files/256689658/download",
+    "expectedTeamID": "2Z25XDNP2X",
+    "label": "particulars",
+    "name": "Particulars",
+    "timeStamp": "2026-07-03T15:59:17Z",
+    "type": "pkg"
+  }
+]

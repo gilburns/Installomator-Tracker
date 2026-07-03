@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "17892",
+    "blockingProcesses": [],
+    "downloadURL": "https://global.download.synology.com/download/Utility/SynologyDriveClient/4.0.3-17892/Mac/Installer/synology-drive-client-17892.dmg",
+    "expectedTeamID": "X85BAK35Y4",
+    "label": "synologydriveclient",
+    "name": "Synology Drive Client",
+    "timeStamp": "2026-07-03T16:05:25Z",
+    "type": "pkgInDmg"
+  }
+]

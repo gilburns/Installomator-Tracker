@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.5.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/542284380/983bad3f-d30b-4140-8cd2-ac5e8b268f55?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A29%3A17Z&rscd=attachment%3B+filename%3Dbruno_3.5.1_arm64_mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A28%3A45Z&ske=2026-07-03T16%3A29%3A17Z&sks=b&skv=2018-11-09&sig=oS%2FmUKlzrYlBW%2BKfuLUxO3KANWf%2BkkYySjqJHoOVLBQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjgwMSwibmJmIjoxNzgzMDkzMjAxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.qU7jSg5dMXhuMVvKQEW5ul4kJLX47BZUjFzHwkF4SyI&response-content-disposition=attachment%3B%20filename%3Dbruno_3.5.1_arm64_mac.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/542284380/d9e7b7eb-00e5-47e2-9209-5b22eb34e349?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A29%3A47Z&rscd=attachment%3B+filename%3Dbruno_3.5.1_x64_mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A00Z&ske=2026-07-03T16%3A29%3A47Z&sks=b&skv=2018-11-09&sig=THv%2BQaxsVW7qgBs7wGx9bypKZFewbPQL6mDiI19YK3Q%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjgwMywibmJmIjoxNzgzMDkzMjAzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.H6k1jupW7zgydeddhE62DJz1EeW3jyf8j_KhzAedSR8&response-content-disposition=attachment%3B%20filename%3Dbruno_3.5.1_x64_mac.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "W7LPPWA48L",
+    "label": "bruno",
+    "name": "Bruno",
+    "timeStamp": "2026-07-03T15:40:01Z",
+    "type": "dmg"
+  }
+]

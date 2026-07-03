@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.1.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://storage.googleapis.com/pymol-storage/installers/PyMOL-3.1.8_0-MacOS-x86-64-py310.dmg",
+    "expectedTeamID": "26SDDJ756N",
+    "label": "pymol",
+    "name": "PyMOL",
+    "timeStamp": "2026-07-03T16:00:31Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "21.2.27169",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.parallels.com/ras/v21/21.2.0.27169/RasClient-Mac-Notarized-21.2.0-27169.pkg",
+    "expectedTeamID": "4C6364ACXT",
+    "label": "parallelsrasclient",
+    "name": "Parallels Client",
+    "timeStamp": "2026-07-03T15:59:12Z",
+    "type": "pkg"
+  }
+]

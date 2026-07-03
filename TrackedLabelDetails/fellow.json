@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.4.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.fellow.app/desktop/5.4.4/darwin/stable/universal/Fellow-5.4.4-universal.dmg",
+    "expectedTeamID": "2NF46HY8D8",
+    "label": "fellow",
+    "name": "Fellow",
+    "timeStamp": "2026-07-03T15:45:49Z",
+    "type": "dmg"
+  }
+]

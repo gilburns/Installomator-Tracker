@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://store.cherryaudio.com/downloads/harmonia-macos-installer?file=Harmonia-Installer-macOS.pkg",
+    "expectedTeamID": "A2XFV22B2X",
+    "label": "cherryaudioharmonia",
+    "name": "Harmonia",
+    "timeStamp": "2026-07-03T15:41:01Z",
+    "type": "pkg"
+  }
+]

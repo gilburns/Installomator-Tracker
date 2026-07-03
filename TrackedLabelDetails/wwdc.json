@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/34222505/79e9e181-1691-46a7-9acf-3709246852e9?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A54%3A30Z&rscd=attachment%3B+filename%3DWWDC_v7.5-1044.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A53%3A53Z&ske=2026-07-03T16%3A54%3A30Z&sks=b&skv=2018-11-09&sig=ewrmn6QOlJlQKBcXXlBQD0OuqZaH2UFmRvTWl5LNJ%2B4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjczMiwibmJmIjoxNzgzMDk0OTMyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.fm2DfNoANgI6NVIMBgpe5lKHnD7tEcERUaaKXl5U7ok&response-content-disposition=attachment%3B%20filename%3DWWDC_v7.5-1044.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "8C7439RJLG",
+    "label": "wwdc",
+    "name": "WWDC",
+    "timeStamp": "2026-07-03T16:08:52Z",
+    "type": "dmg"
+  }
+]

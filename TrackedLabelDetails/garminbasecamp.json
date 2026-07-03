@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "BaseCamp.app",
+    "appNewVersion": "4.8.13",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.garmin.com/software/BaseCampforMac_4813.dmg",
+    "expectedTeamID": "72ES32VZUA",
+    "label": "garminbasecamp",
+    "name": "Garmin BaseCamp",
+    "timeStamp": "2026-07-03T15:46:36Z",
+    "type": "pkgInDmg"
+  }
+]

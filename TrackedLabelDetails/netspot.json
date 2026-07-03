@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.1.4971",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.netspotapp.com/download/NetSpot.dmg",
+    "expectedTeamID": "5QLDY8TU83",
+    "label": "netspot",
+    "name": "NetSpot",
+    "timeStamp": "2026-07-03T15:57:44Z",
+    "type": "dmg"
+  }
+]

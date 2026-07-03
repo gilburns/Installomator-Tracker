@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2024.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.keyshot.com/keyshot2024/keyshot_studio_mac64_2024.3_13.2.1.1.pkg",
+    "expectedTeamID": "W7B24M74T3",
+    "label": "keyshot2024",
+    "name": "KeyShot",
+    "timeStamp": "2026-07-03T15:50:55Z",
+    "type": "pkg"
+  }
+]

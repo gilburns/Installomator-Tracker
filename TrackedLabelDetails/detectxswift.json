@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0983",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/sqwarq.com/PublicZips/DetectX_Swift.app.zip",
+    "expectedTeamID": "MAJ5XBJSG3",
+    "label": "detectxswift",
+    "name": "DetectX Swift",
+    "timeStamp": "2026-07-03T15:44:05Z",
+    "type": "zip"
+  }
+]

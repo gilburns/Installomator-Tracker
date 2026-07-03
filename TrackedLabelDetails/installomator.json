@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "10.9",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/246536721/0a4ea203-49a4-4a11-8833-3bce38e6039e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A23Z&rscd=attachment%3B+filename%3DInstallomator-10.9.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A08Z&ske=2026-07-03T16%3A27%3A23Z&sks=b&skv=2018-11-09&sig=r4lQPokWwGVICyQ5ms9aVOroMpwJGkxW3N%2F6oZ%2FlreI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Mzk2MywibmJmIjoxNzgzMDkzNjYzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.45mopSnLwl0XdeKY46NfqdL4TuPQZ4KW1cdYRJW-I9o&response-content-disposition=attachment%3B%20filename%3DInstallomator-10.9.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "JME5BW3F3R",
+    "label": "installomator",
+    "name": "Installomator",
+    "timeStamp": "2026-07-03T15:49:19Z",
+    "type": "pkg"
+  }
+]

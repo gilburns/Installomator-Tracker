@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.3.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.devmate.com/com.macpaw.site.theunarchiver/TheUnarchiver.dmg",
+    "expectedTeamID": "S8EX82NJP6",
+    "label": "theunarchiver",
+    "name": "The Unarchiver",
+    "timeStamp": "2026-07-03T16:05:55Z",
+    "type": "dmg"
+  }
+]

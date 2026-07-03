@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "Snagit 2024.app",
+    "appNewVersion": "2024.4.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.techsmith.com/snagitmac/releases/2024.4.9/snagit.dmg",
+    "expectedTeamID": "7TQL462TU8",
+    "label": "snagit2024",
+    "name": "Snagit",
+    "timeStamp": "2026-07-03T16:04:24Z",
+    "type": "dmg"
+  }
+]

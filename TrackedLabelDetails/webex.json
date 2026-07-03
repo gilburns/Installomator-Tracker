@@ -1,0 +1,19 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "46.6.1.35236",
+    "blockingProcesses": [
+      "Webex",
+      "Webex Teams",
+      "Cisco WebEx Start",
+      "WebexHelper"
+    ],
+    "downloadURL": "https://binaries.webex.com/webex-macos-apple-silicon/Webex.dmg",
+    "downloadURLi386": "https://binaries.webex.com/webex-macos-intel/Webex.dmg",
+    "expectedTeamID": "DE8Y96K9QP",
+    "label": "webex",
+    "name": "Webex",
+    "timeStamp": "2026-07-03T16:08:24Z",
+    "type": "dmg"
+  }
+]

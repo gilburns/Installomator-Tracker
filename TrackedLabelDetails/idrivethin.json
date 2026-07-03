@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.0.0.7",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://static.idriveonlinebackup.com/downloads/idrivethin/062425/IDrive.dmg",
+    "expectedTeamID": "JWDCNYZ922",
+    "label": "idrivethin",
+    "name": "IDrive",
+    "timeStamp": "2026-07-03T15:48:07Z",
+    "type": "pkgInDmg"
+  }
+]

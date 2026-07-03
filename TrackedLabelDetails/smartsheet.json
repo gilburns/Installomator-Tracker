@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.54",
+    "blockingProcesses": [],
+    "downloadURL": "https://smartsheet-desktop-app-builds.s3.amazonaws.com/public/darwin/Smartsheet-setup.dmg",
+    "expectedTeamID": "J89ET3PY68",
+    "label": "smartsheet",
+    "name": "Smartsheet",
+    "timeStamp": "2026-07-03T16:04:18Z",
+    "type": "dmg"
+  }
+]

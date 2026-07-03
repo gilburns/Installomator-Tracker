@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.creativeforce.io/released-files.042024/prod/triad/mac/Triad-4.4.0-mac.pkg",
+    "expectedTeamID": "Y5K3N5Y6PY",
+    "label": "creativeforcetriad",
+    "name": "Triad",
+    "timeStamp": "2026-07-03T15:43:10Z",
+    "type": "pkg"
+  }
+]

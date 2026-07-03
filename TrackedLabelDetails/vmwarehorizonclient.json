@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.16.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download3.omnissa.com/software/CART26FQ2_MAC_2506/Omnissa-Horizon-Client-2506-8.16.0-16536825094.dmg",
+    "expectedTeamID": "S2ZMFGQM93",
+    "label": "vmwarehorizonclient",
+    "name": "Omnissa Horizon Client",
+    "timeStamp": "2026-07-03T16:08:05Z",
+    "type": "pkgInDmg"
+  }
+]

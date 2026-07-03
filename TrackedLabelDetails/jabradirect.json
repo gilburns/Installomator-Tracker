@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.1.14601",
+    "blockingProcesses": [],
+    "downloadURL": "https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.dmg",
+    "expectedTeamID": "55LV32M29R",
+    "label": "jabradirect",
+    "name": "Jabra Direct",
+    "timeStamp": "2026-07-03T15:49:30Z",
+    "type": "pkgInDmg"
+  }
+]

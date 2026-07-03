@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "16.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.git-tower.com/apps/tower3-mac/539-a4c4eb60/Tower-16.0.2-539.zip",
+    "expectedTeamID": "UN97WY764J",
+    "label": "tower",
+    "name": "Tower",
+    "timeStamp": "2026-07-03T16:06:30Z",
+    "type": "zip"
+  }
+]

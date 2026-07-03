@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.12.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/262342594/c77de2d1-539d-4976-bd10-6eebc9e43184?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A54%3A18Z&rscd=attachment%3B+filename%3DObsidian-1.12.7.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A54%3A11Z&ske=2026-07-03T16%3A54%3A18Z&sks=b&skv=2018-11-09&sig=IXiA%2Ft28smRq2CevUmYUDLAQJplIKBbGQdnitpzS7KM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Nzg2MCwibmJmIjoxNzgzMDk0MjYwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Fh4XF6aWdSgZQ5bPGEd1GQgE0vaCRF2EmuxY3Q7Mp8U&response-content-disposition=attachment%3B%20filename%3DObsidian-1.12.7.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "6JSW4SJWN9",
+    "label": "obsidian",
+    "name": "Obsidian",
+    "timeStamp": "2026-07-03T15:58:17Z",
+    "type": "dmg"
+  }
+]

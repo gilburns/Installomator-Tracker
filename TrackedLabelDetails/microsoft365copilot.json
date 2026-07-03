@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.2606.1501",
+    "blockingProcesses": [],
+    "downloadURL": "https://res.cdn.office.net/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_Copilot_universal_1.2606.1501_Installer.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoft365copilot",
+    "name": "Microsoft 365 Copilot",
+    "timeStamp": "2026-07-03T15:56:04Z",
+    "type": "pkg"
+  }
+]

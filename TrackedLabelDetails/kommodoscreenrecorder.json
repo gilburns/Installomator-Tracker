@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.2.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://releases.komododecks.com/prod/electron/3.2.7/kommodo-screen-recorder-3.2.7-arm.pkg",
+    "downloadURLi386": "https://releases.komododecks.com/prod/electron/3.2.7/kommodo-screen-recorder-3.2.7-intel.pkg",
+    "expectedTeamID": "3M6U87VP9P",
+    "label": "kommodoscreenrecorder",
+    "name": "Kommodo Screen Recorder",
+    "timeStamp": "2026-07-03T15:51:06Z",
+    "type": "pkg"
+  }
+]

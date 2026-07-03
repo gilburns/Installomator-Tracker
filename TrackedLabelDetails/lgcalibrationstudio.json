@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.6.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://gscs-b2c.lge.com/downloadFile?fileId=mp6Ez3DAnsO4r3HuzRaLfw",
+    "expectedTeamID": "5SKT5H4CPQ",
+    "label": "lgcalibrationstudio",
+    "name": "LG Calibration Studio",
+    "timeStamp": "2026-07-03T15:51:37Z",
+    "type": "pkgInZip"
+  }
+]

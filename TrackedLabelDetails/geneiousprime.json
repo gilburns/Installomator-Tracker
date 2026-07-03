@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.1.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://assets.geneious.com/installers/geneious/release/Geneious_Prime_mac64_2026_1_2_with_jre.dmg",
+    "expectedTeamID": "3BTDDQD3L6",
+    "label": "geneiousprime",
+    "name": "Geneious Prime",
+    "timeStamp": "2026-07-03T15:46:42Z",
+    "type": "dmg"
+  }
+]

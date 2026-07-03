@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.6.11",
+    "blockingProcesses": [
+      "iTerm",
+      "iTerm2"
+    ],
+    "downloadURL": "https://iterm2.com/downloads/stable/iTerm2-3_6_11.zip",
+    "expectedTeamID": "H7V7XYVQ7D",
+    "label": "iterm2",
+    "name": "iTerm",
+    "timeStamp": "2026-07-03T15:49:28Z",
+    "type": "zip"
+  }
+]

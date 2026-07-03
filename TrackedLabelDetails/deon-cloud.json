@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.25065.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.deon.de/?action=2&product=Mac&channel=cloud&version=1.0.25065.2&filename=Deon.app.zip",
+    "expectedTeamID": "EW9H238RWQ",
+    "label": "deon-cloud",
+    "name": "Deon",
+    "timeStamp": "2026-07-03T15:43:49Z",
+    "type": "zip"
+  }
+]

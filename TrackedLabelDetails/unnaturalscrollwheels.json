@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/282309256/6e8a7b98-0609-4e17-b688-d4c9656b11c1?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A57%3A32Z&rscd=attachment%3B+filename%3DUnnaturalScrollWheels-1.4.0.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A57%3A16Z&ske=2026-07-03T16%3A57%3A32Z&sks=b&skv=2018-11-09&sig=fapsJbyVTDVrrfGMJSPcaVY1kof55e1EDnCN1LyjCsw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTE0MSwibmJmIjoxNzgzMDk0ODQxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.N7vXIMMwxpV89qf_nYzp-vVKe5IAw99_oMfnV_AQ21A&response-content-disposition=attachment%3B%20filename%3DUnnaturalScrollWheels-1.4.0.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "VH8UL6UKQL",
+    "label": "unnaturalscrollwheels",
+    "name": "UnnaturalScrollWheels",
+    "timeStamp": "2026-07-03T16:07:21Z",
+    "type": "dmg"
+  }
+]

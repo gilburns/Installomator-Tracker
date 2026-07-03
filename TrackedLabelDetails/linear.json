@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.31.1",
+    "blockingProcesses": [
+      "Linear",
+      "Linear Helper"
+    ],
+    "downloadURL": "https://releases.linear.app/mac",
+    "expectedTeamID": "7VZ2S3V9RV",
+    "label": "linear",
+    "name": "Linear",
+    "timeStamp": "2026-07-03T15:53:16Z",
+    "type": "dmg"
+  }
+]

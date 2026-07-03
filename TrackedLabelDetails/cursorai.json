@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.10.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.cursor.com/production/5531057311c3a208e3c8c7ed0fdeffe1c48da135/darwin/universal/Cursor-darwin-universal.dmg",
+    "expectedTeamID": "VDXQ22DGB9",
+    "label": "cursorai",
+    "name": "Cursor",
+    "timeStamp": "2026-07-03T15:43:15Z",
+    "type": "dmg"
+  }
+]

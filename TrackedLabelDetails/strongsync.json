@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.6.11",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/files-com-public-builds/builds/ExpanDrive/2026.06.11.862/mac/ExpanDrive_2026.06.11.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAU5E2BGFBKFOVPYNZ%2F20260703%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260703T160507Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27ExpanDrive%2520v2026.6.11.zip&amp;response-content-type=application%2Fzip&amp;X-Amz-Signature=5425edab97eff66b1930c6f735cda73cd49167a39459998e4b421cd0f4235160",
+    "expectedTeamID": "CH86M498V4",
+    "label": "strongsync",
+    "name": "Strongsync",
+    "timeStamp": "2026-07-03T16:05:08Z",
+    "type": "dmg"
+  }
+]

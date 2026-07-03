@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.6.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://software.soundsonline.com/Products/OPUS/Opus_1.6.5_Mac.zip",
+    "expectedTeamID": "TWK4WE76V9",
+    "label": "eastwestopus",
+    "name": "Opus",
+    "timeStamp": "2026-07-03T15:45:03Z",
+    "type": "pkgInZip"
+  }
+]

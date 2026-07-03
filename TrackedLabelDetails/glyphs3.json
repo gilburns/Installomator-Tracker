@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.4.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.glyphsapp.com/Glyphs3.4.1-3436.zip",
+    "expectedTeamID": "X2L8375ZQ7",
+    "label": "glyphs3",
+    "name": "Glyphs 3",
+    "timeStamp": "2026-07-03T15:47:01Z",
+    "type": "zip"
+  }
+]

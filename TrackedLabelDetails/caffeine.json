@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.1.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/263397686/fed931d4-19e4-4470-a09d-734925bdf72b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A30%3A15Z&rscd=attachment%3B+filename%3DCaffeine.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A17Z&ske=2026-07-03T16%3A30%3A15Z&sks=b&skv=2018-11-09&sig=MiUDjqt6bpYmv%2BhQ59Bl9oWTyeNOERTjFHmAF5ddlxs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5MzUxNywibmJmIjoxNzgzMDkzMjE3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.6BsiLN0BgWrLNE7K_iJyGL3UCsiWaAJJlZrmUjGi7LI&response-content-disposition=attachment%3B%20filename%3DCaffeine.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "YD6LEYT6WZ",
+    "label": "caffeine",
+    "name": "Caffeine",
+    "timeStamp": "2026-07-03T15:40:17Z",
+    "type": "dmg"
+  }
+]

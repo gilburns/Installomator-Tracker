@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.mamp.info/download.php?file=/MAMP-PRO/macOS/MAMP-PRO/MAMP-MAMP-PRO-7.4-Apple-chip.pkg",
+    "expectedTeamID": "5KCB5KHK77",
+    "label": "mamp",
+    "name": "MAMP PRO",
+    "timeStamp": "2026-07-03T15:54:36Z",
+    "type": "pkg"
+  }
+]

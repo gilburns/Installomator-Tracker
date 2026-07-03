@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.10.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.omnigroup.com/software/macOS/12/OmniPlan-4.10.3.dmg",
+    "expectedTeamID": "34YW5XSRB7",
+    "label": "omniplan4",
+    "name": "OmniPlan",
+    "timeStamp": "2026-07-03T15:58:28Z",
+    "type": "dmg"
+  }
+]

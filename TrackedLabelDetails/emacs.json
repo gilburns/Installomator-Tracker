@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "30.2-1",
+    "blockingProcesses": [],
+    "downloadURL": "https://emacsformacosx.com/download/emacs-builds/Emacs-30.2-1-universal.dmg",
+    "expectedTeamID": "5BRAQAFB8B",
+    "label": "emacs",
+    "name": "Emacs",
+    "timeStamp": "2026-07-03T15:45:25Z",
+    "type": "dmg"
+  }
+]

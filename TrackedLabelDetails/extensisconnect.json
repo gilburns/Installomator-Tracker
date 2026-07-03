@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "28.1.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://bin.extensis.com/ExtensisConnect-M-28-1-5.dmg",
+    "expectedTeamID": "J6MMHGD9D6",
+    "label": "extensisconnect",
+    "name": "Extensis Connect",
+    "timeStamp": "2026-07-03T15:45:46Z",
+    "type": "dmg"
+  }
+]

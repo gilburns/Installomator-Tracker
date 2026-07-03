@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.6.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://sonic-pi.net/files/releases/v4.6.0/Sonic-Pi-for-Mac-arm64-v4-6-0.dmg",
+    "downloadURLi386": "https://sonic-pi.net/files/releases/v4.6.0/Sonic-Pi-for-Mac-x64-v4-6-0.dmg",
+    "expectedTeamID": "MM65S3L4NG",
+    "label": "sonicpi",
+    "name": "Sonic Pi",
+    "timeStamp": "2026-07-03T16:04:30Z",
+    "type": "dmg"
+  }
+]

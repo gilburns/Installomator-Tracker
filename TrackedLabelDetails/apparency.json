@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.mothersruin.com/software/downloads/Apparency.dmg",
+    "expectedTeamID": "936EB786NH",
+    "label": "apparency",
+    "name": "Apparency",
+    "timeStamp": "2026-07-03T15:37:19Z",
+    "type": "dmg"
+  }
+]

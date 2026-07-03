@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.23.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/22394357/79f5846e-b24b-4240-87a5-103162e6f224?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A10Z&rscd=attachment%3B+filename%3Dosquery-5.23.1.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A54%3A53Z&ske=2026-07-03T16%3A55%3A10Z&sks=b&skv=2018-11-09&sig=Y7ieZyEPyqy64nF0Xz6hqXelXDDbAo17c4p65Bc4wNs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjEzNSwibmJmIjoxNzgzMDk0MzM1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.R4sA8PkIn0fGGKOwrlTXaqlnj_nojR-RKQ9Px-d7t8w&response-content-disposition=attachment%3B%20filename%3Dosquery-5.23.1.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "3522FA9PXF",
+    "label": "osquery",
+    "name": "osquery-*",
+    "timeStamp": "2026-07-03T15:58:55Z",
+    "type": "pkg"
+  }
+]

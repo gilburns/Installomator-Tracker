@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.41.0",
+    "blockingProcesses": [
+      "Goose"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/a2ad34d9-ffa5-4956-a4aa-eda8e06b3489?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A04Z&rscd=attachment%3B+filename%3DGoose-win32-x64-cuda.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A39Z&ske=2026-07-03T16%3A28%3A04Z&sks=b&skv=2018-11-09&sig=hAmhfdo4iGhe1qF9sQOMyw4vIjUJOIZstFBdr%2F7UE0M%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzIzNywibmJmIjoxNzgzMDkzNjM3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.akK7TMeDj8DZNkWZWNxngmbmYW9mbzI5dwr9eY9jduU&response-content-disposition=attachment%3B%20filename%3DGoose-win32-x64-cuda.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "W2L75AE9HQ",
+    "label": "goose",
+    "name": "Goose",
+    "timeStamp": "2026-07-03T15:47:17Z",
+    "type": "zip"
+  }
+]

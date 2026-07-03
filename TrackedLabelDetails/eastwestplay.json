@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.1.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://software.soundsonline.com/Products/PLAY/Play_6.1.9_Mac.zip",
+    "expectedTeamID": "TWK4WE76V9",
+    "label": "eastwestplay",
+    "name": "Play",
+    "timeStamp": "2026-07-03T15:45:03Z",
+    "type": "pkgInZip"
+  }
+]

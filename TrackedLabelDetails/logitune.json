@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.14.72",
+    "blockingProcesses": [],
+    "downloadURL": "https://software.vc.logitech.com/downloads/tune/LogiTuneInstaller.pkg",
+    "expectedTeamID": "QED4VVPZWA",
+    "label": "logitune",
+    "name": "Logi Tune",
+    "timeStamp": "2026-07-03T15:53:22Z",
+    "type": "pkg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.39.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.inmusicbrands.com/Software/SI04/inMusic%20Software%20Center-darwin-universal-1.39.0.zip",
+    "expectedTeamID": "NDEA34327T",
+    "label": "inmusicsoftwarecenter",
+    "name": "inMusic Software Center",
+    "timeStamp": "2026-07-03T15:49:16Z",
+    "type": "zip"
+  }
+]

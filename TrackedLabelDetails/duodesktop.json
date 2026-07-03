@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.19.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.duosecurity.com/DuoDesktop-latest.pkg",
+    "expectedTeamID": "FNN8Z5JMFP",
+    "label": "duodesktop",
+    "name": "Duo Desktop",
+    "timeStamp": "2026-07-03T15:44:55Z",
+    "type": "pkg"
+  }
+]

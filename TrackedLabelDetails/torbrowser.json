@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "15.0.17",
+    "blockingProcesses": [],
+    "downloadURL": "https://dist.torproject.org/torbrowser/15.0.17/tor-browser-macos-15.0.17.dmg",
+    "expectedTeamID": "MADPSAYN6T",
+    "label": "torbrowser",
+    "name": "Tor Browser",
+    "timeStamp": "2026-07-03T16:06:21Z",
+    "type": "dmg"
+  }
+]

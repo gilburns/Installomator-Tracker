@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.76",
+    "blockingProcesses": [],
+    "downloadURL": "https://dlcf.reaper.fm/7.x/reaper776_universal.dmg",
+    "expectedTeamID": "Y3T58622SG",
+    "label": "reaper",
+    "name": "REAPER",
+    "timeStamp": "2026-07-03T16:01:52Z",
+    "type": "dmg"
+  }
+]

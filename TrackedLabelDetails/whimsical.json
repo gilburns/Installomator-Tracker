@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "Whimsical.app",
+    "appNewVersion": "0.5.2",
+    "blockingProcesses": [
+      "Whimsical"
+    ],
+    "downloadURL": "https://desktop.whimsical.com/mac/dmg/arm64",
+    "downloadURLi386": "https://desktop.whimsical.app/mac/dmg/x64",
+    "expectedTeamID": "2N6497CB83",
+    "label": "whimsical",
+    "name": "Whimsical",
+    "timeStamp": "2026-07-03T16:08:43Z",
+    "type": "dmg"
+  }
+]

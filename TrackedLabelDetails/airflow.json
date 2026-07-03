@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.1.50",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/804007771/46e01c0e-2695-4575-a302-3e000d9c621e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A44Z&rscd=attachment%3B+filename%3DAir-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A33Z&ske=2026-07-03T16%3A27%3A44Z&sks=b&skv=2018-11-09&sig=RA4sH2jNB4Y9NexoUXS55nEAW14olNrottKW6iHbJqw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjYwMywibmJmIjoxNzgzMDkzMDAzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.w4khCBeYZbdQiY_QEEEVLnqKYCSa-WgRU6gPQT9QEKE&response-content-disposition=attachment%3B%20filename%3DAir-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/804007771/dd7933f1-e0f7-48dc-b97c-fc4370a99345?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A08Z&rscd=attachment%3B+filename%3DAir-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A12Z&ske=2026-07-03T16%3A28%3A08Z&sks=b&skv=2018-11-09&sig=aNVJSO20E36D3dgb%2BZJ09FBxiwuaREWaJznVSDy4Z0g%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjYwNSwibmJmIjoxNzgzMDkzMDA1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.vqntZ8WCzgGrf9SNeoT_ReGpDI4EhARW1ZLUqWxQ8GI&response-content-disposition=attachment%3B%20filename%3DAir-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "8RBYE8TY7T",
+    "label": "airflow",
+    "name": "Air",
+    "timeStamp": "2026-07-03T15:36:43Z",
+    "type": "dmg"
+  }
+]

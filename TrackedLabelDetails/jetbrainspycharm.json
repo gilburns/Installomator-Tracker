@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.1.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-cdn.jetbrains.com/python/pycharm-2026.1.4-aarch64.dmg",
+    "downloadURLi386": "https://download-cdn.jetbrains.com/python/pycharm-2026.1.4.dmg",
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainspycharm",
+    "name": "PyCharm",
+    "timeStamp": "2026-07-03T15:50:10Z",
+    "type": "dmg"
+  }
+]

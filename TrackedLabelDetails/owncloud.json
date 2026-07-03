@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.0.0.9215",
+    "blockingProcesses": [],
+    "downloadURL": "https://attic.owncloud.com/desktop/ownCloud/stable/latest/mac/ownCloud-3.0.0.9215-arm64.pkg/",
+    "downloadURLi386": "https://attic.owncloud.com/desktop/ownCloud/stable/latest/mac/ownCloud-3.0.0.9215-x86_64.pkg",
+    "expectedTeamID": "4AP2STM4H5",
+    "label": "owncloud",
+    "name": "ownCloud",
+    "timeStamp": "2026-07-03T15:59:04Z",
+    "type": "pkg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.9.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/931888694/a4d9c805-6979-4b32-82c7-ddc802ba22f4?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A03Z&rscd=attachment%3B+filename%3DHandy_0.9.0_aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A26Z&ske=2026-07-03T16%3A28%3A03Z&sks=b&skv=2018-11-09&sig=vOE1xzQVSoQT%2BJ2t1UBaFLFDVAwYeIlj2KMt7B3vhKA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTQ1NSwibmJmIjoxNzgzMDkzNjU1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.UGGEKb2GUI1MGaLziAqQ-lSZY4oU8kp_oAVSEKYtk6I&response-content-disposition=attachment%3B%20filename%3DHandy_0.9.0_aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/931888694/3aaed1a2-24f0-4f81-90ad-941486692e6e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A22Z&rscd=attachment%3B+filename%3DHandy_0.9.0_x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A08Z&ske=2026-07-03T16%3A27%3A22Z&sks=b&skv=2018-11-09&sig=83UaEMuXczWZxwhL3F01Bnnll8Y281AIA2a10grPego%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTQ1NywibmJmIjoxNzgzMDkzNjU3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.9GCyEoKcL7UEmbfbTP2k6WIAd8_Jp2HyzFrNpZ2f3V0&response-content-disposition=attachment%3B%20filename%3DHandy_0.9.0_x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "UWFLB4GC25",
+    "label": "handy",
+    "name": "Handy",
+    "timeStamp": "2026-07-03T15:47:35Z",
+    "type": "dmg"
+  }
+]

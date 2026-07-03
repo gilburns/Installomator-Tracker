@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "53.2606003.000",
+    "blockingProcesses": [],
+    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2604.2-Installer.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftcompanyportal",
+    "name": "Company Portal",
+    "timeStamp": "2026-07-03T15:56:11Z",
+    "type": "pkg"
+  }
+]

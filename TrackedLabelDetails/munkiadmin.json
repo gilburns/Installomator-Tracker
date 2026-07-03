@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.10.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/949213/cec81782-73c1-4010-8685-dfb809b21c39?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A57%3A17Z&rscd=attachment%3B+filename%3DMunkiAdmin-1.10.1.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A56%3A39Z&ske=2026-07-03T16%3A57%3A17Z&sks=b&skv=2018-11-09&sig=icIsTkbLPkWgssqPzHCDqlR76Af5TC2tIt5VBE88Apo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NDU0NSwibmJmIjoxNzgzMDk0MjQ1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.j5IKLTUVE_dm8f1mFCOhJr1ezsPD05Y8SKAl3rlf8vI&response-content-disposition=attachment%3B%20filename%3DMunkiAdmin-1.10.1.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "8XXWJ76X9Y",
+    "label": "munkiadmin",
+    "name": "MunkiAdmin",
+    "timeStamp": "2026-07-03T15:57:25Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.11.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/2624521/292f398d-cf8d-467b-87ed-3da509dca9ab?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A57Z&rscd=attachment%3B+filename%3Dgephi-0.11.2-macos-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A34Z&ske=2026-07-03T16%3A27%3A57Z&sks=b&skv=2018-11-09&sig=fa7jxLEZyKtJVmmCWq0OQxxDBPu%2B5PZH8EZLP1yoAQA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzIwNCwibmJmIjoxNzgzMDkzNjA0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.vDQTlXX-AOQ1rLELrKDv73mKqTgt8pCrvuT5ihvPF4c&response-content-disposition=attachment%3B%20filename%3Dgephi-0.11.2-macos-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/2624521/356e2c19-be65-4100-b956-ecd717d1990f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A02Z&rscd=attachment%3B+filename%3Dgephi-0.11.2-macos-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A25Z&ske=2026-07-03T16%3A28%3A02Z&sks=b&skv=2018-11-09&sig=m7becINcrnNKO6fvsuetwp%2BBjxVZIbrHETI%2FQY2YMVM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzIwNSwibmJmIjoxNzgzMDkzNjA1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.gM1JFuNnbo864ATee90U8f_004-95oKGOqkLotqPULQ&response-content-disposition=attachment%3B%20filename%3Dgephi-0.11.2-macos-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "3D8H75J8UL",
+    "label": "gephi",
+    "name": "Gephi",
+    "timeStamp": "2026-07-03T15:46:44Z",
+    "type": "dmg"
+  }
+]

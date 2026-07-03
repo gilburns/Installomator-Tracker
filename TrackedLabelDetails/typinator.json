@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "10.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://update.ergonis.com/downloads/products/typinator/Typinator.app.zip",
+    "expectedTeamID": "TU7D9Y7GTQ",
+    "label": "typinator",
+    "name": "Typinator",
+    "timeStamp": "2026-07-03T16:06:51Z",
+    "type": "zip"
+  }
+]

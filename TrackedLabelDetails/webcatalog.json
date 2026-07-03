@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "76.1.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn-2.webcatalog.io/webcatalog/WebCatalog-76.1.1-universal.dmg",
+    "expectedTeamID": "36UJGA8U65",
+    "label": "webcatalog",
+    "name": "WebCatalog",
+    "timeStamp": "2026-07-03T16:08:22Z",
+    "type": "dmg"
+  }
+]

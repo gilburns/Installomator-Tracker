@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.kaleidoscope.app/v6/prod/Kaleidoscope-6.7-10249.app.zip",
+    "expectedTeamID": "4G35KLFD64",
+    "label": "kaleidoscope",
+    "name": "Kaleidoscope",
+    "timeStamp": "2026-07-03T15:50:33Z",
+    "type": "zip"
+  }
+]

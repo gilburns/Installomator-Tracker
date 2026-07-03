@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.1.0.83064",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.zoom.us/prod/7.1.0.83064/ZoomInstallerIT.pkg",
+    "expectedTeamID": "BJ4HAAB9B3",
+    "label": "zoom",
+    "name": "zoom.us",
+    "timeStamp": "2026-07-03T16:09:30Z",
+    "type": "pkg"
+  }
+]

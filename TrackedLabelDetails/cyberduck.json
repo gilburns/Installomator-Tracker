@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "9.5.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com/Cyberduck-9.5.2.45323.zip",
+    "expectedTeamID": "G69SCX94XU",
+    "label": "cyberduck",
+    "name": "Cyberduck",
+    "timeStamp": "2026-07-03T15:43:16Z",
+    "type": "zip"
+  }
+]

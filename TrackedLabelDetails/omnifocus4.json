@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.8.12",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.omnigroup.com/software/macOS/14/OmniFocus-4.8.12.dmg",
+    "expectedTeamID": "34YW5XSRB7",
+    "label": "omnifocus4",
+    "name": "OmniFocus",
+    "timeStamp": "2026-07-03T15:58:26Z",
+    "type": "dmg"
+  }
+]

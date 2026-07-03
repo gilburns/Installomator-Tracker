@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.50.143",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.50.143/Slack-4.50.143-macOS.pkg",
+    "expectedTeamID": "BQR82RBBHL",
+    "label": "slack",
+    "name": "Slack",
+    "timeStamp": "2026-07-03T16:04:14Z",
+    "type": "pkg"
+  }
+]

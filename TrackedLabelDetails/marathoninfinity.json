@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "20250829",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/39701264/403836e4-5894-4fe7-af23-1af6cfe4cce8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A56%3A03Z&rscd=attachment%3B+filename%3DMarathonInfinity-20250829-Mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A11Z&ske=2026-07-03T16%3A56%3A03Z&sks=b&skv=2018-11-09&sig=L8G4%2BfB0V4F1mX%2F2RCpKefzo8GLcI%2FMYf85HxUy8JhA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTk0NCwibmJmIjoxNzgzMDk0MTQ0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Y8UyeY9AQex7pFAInd_7FEHmRrcZYxVVOf9Gf20oJAU&response-content-disposition=attachment%3B%20filename%3DMarathonInfinity-20250829-Mac.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "E8K89CXZE7",
+    "label": "marathoninfinity",
+    "name": "Classic Marathon Infinity",
+    "timeStamp": "2026-07-03T15:55:44Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "9.16",
+    "blockingProcesses": [],
+    "downloadURL": "https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v9.16/macos/pgadmin4-9.16-arm64.dmg",
+    "downloadURLi386": "https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v9.16/macos/pgadmin4-9.16-x86_64.dmg",
+    "expectedTeamID": "TCHGL2R7C5",
+    "label": "pgadmin4",
+    "name": "pgAdmin 4",
+    "timeStamp": "2026-07-03T15:59:23Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.43.2.10687",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.plex.tv/plex-media-server-new/1.43.2.10687-563d026ea/macos/PlexMediaServer-1.43.2.10687-563d026ea-universal.zip",
+    "expectedTeamID": "K4QJ56KR4A",
+    "label": "plexmediaserver",
+    "name": "Plex Media Server",
+    "timeStamp": "2026-07-03T15:59:38Z",
+    "type": "zip"
+  }
+]

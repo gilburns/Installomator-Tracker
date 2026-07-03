@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.3.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/198712091/46078c8c-5005-4073-9c89-47b4d50d4677?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A55Z&rscd=attachment%3B+filename%3DNetiquette_2.3.0.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A11Z&ske=2026-07-03T16%3A55%3A55Z&sks=b&skv=2018-11-09&sig=B5gl5%2Br5SLCh5ZooGajafsVkO5YVqpcST7tTxkcsqRQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NDU2MiwibmJmIjoxNzgzMDk0MjYyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.z2VI7wFSGAabF-UAAIAo05_4Co5NILPlV5sV25jK3ig&response-content-disposition=attachment%3B%20filename%3DNetiquette_2.3.0.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "VBG97UB4TA",
+    "label": "netiquette",
+    "name": "Netiquette",
+    "timeStamp": "2026-07-03T15:57:42Z",
+    "type": "zip"
+  }
+]

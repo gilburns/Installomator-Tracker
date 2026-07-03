@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.9.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://store.cherryaudio.com/module-designer-mac/download?file=Voltage-Module-Designer-Installer-macOS.pkg",
+    "expectedTeamID": "A2XFV22B2X",
+    "label": "cherryaudiomoduledesigner",
+    "name": "Voltage Module Designer",
+    "timeStamp": "2026-07-03T15:41:13Z",
+    "type": "pkg"
+  }
+]

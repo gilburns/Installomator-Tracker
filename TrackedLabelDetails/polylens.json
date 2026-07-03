@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.1.0.1803",
+    "blockingProcesses": [],
+    "downloadURL": "https://swupdate.lens.poly.com/lens-desktop-mac/5.1.0.1803/5.1.0.1803/PolyStudio-5.1.0.1803.dmg",
+    "expectedTeamID": "WJCM3F7AQ4",
+    "label": "polylens",
+    "name": "Lens Desktop",
+    "timeStamp": "2026-07-03T15:59:49Z",
+    "type": "pkgInDmg"
+  }
+]

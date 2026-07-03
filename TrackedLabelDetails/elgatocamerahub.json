@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.2.1.6945",
+    "blockingProcesses": [
+      "Camera Hub"
+    ],
+    "downloadURL": "https://edge.elgato.com/egc/macos/echm/2.2.1/CameraHub_2.2.1.6945.pkg",
+    "expectedTeamID": "Y93VXCB8Q5",
+    "label": "elgatocamerahub",
+    "name": "Elgato Camera Hub",
+    "timeStamp": "2026-07-03T15:45:23Z",
+    "type": "pkg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/flyingmeat/Acorn.zip",
+    "expectedTeamID": "WZCN9HJ4VP",
+    "label": "acorn",
+    "name": "Acorn",
+    "timeStamp": "2026-07-03T15:35:28Z",
+    "type": "zip"
+  }
+]

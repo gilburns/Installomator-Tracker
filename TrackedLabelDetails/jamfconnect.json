@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.11.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://files.jamfconnect.com/JamfConnect.dmg",
+    "expectedTeamID": "483DWKW443",
+    "label": "jamfconnect",
+    "name": "Jamf Connect",
+    "timeStamp": "2026-07-03T15:49:33Z",
+    "type": "pkgInDmg"
+  }
+]

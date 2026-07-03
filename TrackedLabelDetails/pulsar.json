@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.132.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/513196750/0b1040b5-1944-4953-a697-57a48fdcefc7?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A59%3A39Z&rscd=attachment%3B+filename%3DSilicon.Mac.Pulsar-1.132.1-arm64-mac.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A59%3A14Z&ske=2026-07-03T16%3A59%3A39Z&sks=b&skv=2018-11-09&sig=TQKO4118fNoMyQL%2FAKnm61MPbrl0CMOwQK06GzU5y%2BM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODAyOCwibmJmIjoxNzgzMDk0NDI4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.evOpPHdM5A3tP_A4lRzANPyZIwFXho99hnYFOy7Isc8&response-content-disposition=attachment%3B%20filename%3DSilicon.Mac.Pulsar-1.132.1-arm64-mac.zip&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/513196750/be9676d6-1ff8-426e-b2c6-6f42e012a168?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A37%3A18Z&rscd=attachment%3B+filename%3DIntel.Mac.Pulsar-1.132.1-mac.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A37%3A01Z&ske=2026-07-03T16%3A37%3A18Z&sks=b&skv=2018-11-09&sig=W0ffDCs%2Bwf7YX9vMhqHeRjOUKKcbNfkjAdQOHkKOX84%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODAzMCwibmJmIjoxNzgzMDk0NDMwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.nvYSw5XAdrlIy271edwkqPgtbiSuCTRudow9ado6S3Y&response-content-disposition=attachment%3B%20filename%3DIntel.Mac.Pulsar-1.132.1-mac.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "D3KV2P2CZ8",
+    "label": "pulsar",
+    "name": "Pulsar",
+    "timeStamp": "2026-07-03T16:00:28Z",
+    "type": "zip"
+  }
+]

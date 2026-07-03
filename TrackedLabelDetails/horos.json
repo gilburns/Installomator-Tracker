@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://horosproject.org/horos-content/Horos_4.0.1_arm64.dmg",
+    "downloadURLi386": "https://horosproject.org/horos-content/Horos4.0.0RC5.dmg",
+    "expectedTeamID": "TPT6TVH8UY",
+    "label": "horos",
+    "name": "Horos",
+    "timeStamp": "2026-07-03T15:47:46Z",
+    "type": "dmg"
+  }
+]

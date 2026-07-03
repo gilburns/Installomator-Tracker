@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "MacVector/MacVector.app",
+    "appNewVersion": "18.8.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://macvector.net/MacVector18.8.3(64).dmg",
+    "expectedTeamID": "BK85R8X44N",
+    "label": "macvector",
+    "name": "MacVector",
+    "timeStamp": "2026-07-03T15:53:57Z",
+    "type": "dmg"
+  }
+]

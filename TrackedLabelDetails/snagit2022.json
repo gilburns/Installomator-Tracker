@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2022.2.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.techsmith.com/snagitmac/releases/2022.2.9/snagit.dmg",
+    "expectedTeamID": "7TQL462TU8",
+    "label": "snagit2022",
+    "name": "Snagit 2022",
+    "timeStamp": "2026-07-03T16:04:23Z",
+    "type": "dmg"
+  }
+]

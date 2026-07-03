@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8u492-b09",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/372924428/49dfee42-fce5-4948-a84f-22b038a874ab?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A30%3A06Z&rscd=attachment%3B+filename%3DOpenJDK8U-jdk_x64_mac_hotspot_8u492b09.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A20Z&ske=2026-07-03T16%3A30%3A06Z&sks=b&skv=2018-11-09&sig=FC42E6beKa5AV6XUwX0mfpNmcGBN%2BOwQxe8rGfvZWzs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzExMywibmJmIjoxNzgzMDkzNTEzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.aZGZ0JbHP-JIWH0sA85W-PLwMW-mrgsVbCp26TUHHbY&response-content-disposition=attachment%3B%20filename%3DOpenJDK8U-jdk_x64_mac_hotspot_8u492b09.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "JCDTMS22B4",
+    "label": "eclipsetemurin8",
+    "name": "Temurin 8",
+    "timeStamp": "2026-07-03T15:45:13Z",
+    "type": "pkg"
+  }
+]

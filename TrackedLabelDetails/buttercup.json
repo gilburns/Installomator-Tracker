@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.28.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/42370929/dbaa31a0-2637-48af-a9cf-6a38881f64d1?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A41Z&rscd=attachment%3B+filename%3DButtercup-2.28.1-mac.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A04Z&ske=2026-07-03T16%3A27%3A41Z&sks=b&skv=2018-11-09&sig=tDJ%2Bpt7VHonPDCx5%2Br4eZBwHR2vw2kx93OybbjaGB%2FE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTAxNSwibmJmIjoxNzgzMDkzMjE1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.eTrf806QPYXLDFvOu4cYsj0RFrMDFbGqnto2uJ2EeVQ&response-content-disposition=attachment%3B%20filename%3DButtercup-2.28.1-mac.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "9D8F4J769D",
+    "label": "buttercup",
+    "name": "Buttercup",
+    "timeStamp": "2026-07-03T15:40:15Z",
+    "type": "zip"
+  }
+]

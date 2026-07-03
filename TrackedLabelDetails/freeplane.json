@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.13.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/archive/1.13.2/Freeplane-1.13.2-apple.dmg/download",
+    "downloadURLi386": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/archive/1.13.2/Freeplane-1.13.2-intel.dmg/download",
+    "expectedTeamID": "CSHVD99Y7K",
+    "label": "freeplane",
+    "name": "Freeplane",
+    "timeStamp": "2026-07-03T15:46:28Z",
+    "type": "dmg"
+  }
+]

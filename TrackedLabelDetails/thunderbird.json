@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "152.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/152.0.1/mac/en-US/Thunderbird%20152.0.1.dmg",
+    "expectedTeamID": "43AQ936H96",
+    "label": "thunderbird",
+    "name": "Thunderbird",
+    "timeStamp": "2026-07-03T16:06:03Z",
+    "type": "dmg"
+  }
+]

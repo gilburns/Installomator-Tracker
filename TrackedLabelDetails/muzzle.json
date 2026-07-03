@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://muzzleapp.com/binaries/muzzle.zip",
+    "expectedTeamID": "49EYHPJ4Q3",
+    "label": "muzzle",
+    "name": "Muzzle",
+    "timeStamp": "2026-07-03T15:57:29Z",
+    "type": "zip"
+  }
+]

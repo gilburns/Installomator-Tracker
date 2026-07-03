@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.6.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://d1gl0nrskhax8d.cloudfront.net/macos/photo2/2.6.5/affinity-photo-2.6.5.dmg?Expires=1783096595&Signature=kC8yb6j1Ftz59XhvAdR6jQ4wps-y05rxFKlvjE82-iXK9vLunYsuhvWLWolwNTumL-Z6chjobAnH9NNXEv3inEx264p1PBvwdSoiWg1lhat-aHPX7UYWIbw-DpGjE9Trnr8SWRo1Qh-FwkF4bJwJB2~RgIjj6PZQsfeW7m4~Xpy7KXIUOPBZsUS8ZdW9P95R22FNOAqOe~bX3mwxAsm42eTFpM7WXQE8Z7xCnYozc1~siDJUTahGrmNO2LnBNOWfkfYgxDLLPftORmPHd0sbzGPXduR-oUl4DuLjy8u07QJkuneGkBy1vcumuTdn4GT~XDq8I0w0baH2E0Lr7I7Ezg__&Key-Pair-Id=APKAIMMPYSI7GSVTEAAQ",
+    "expectedTeamID": "6LVTQB9699",
+    "label": "affinityphoto2",
+    "name": "Affinity Photo 2",
+    "timeStamp": "2026-07-03T15:36:36Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.19.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup-arm64.dmg",
+    "downloadURLi386": "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup-x64.dmg",
+    "expectedTeamID": "9QW8UQUTAA",
+    "label": "unityhub",
+    "name": "Unity Hub",
+    "timeStamp": "2026-07-03T16:07:10Z",
+    "type": "dmg"
+  }
+]

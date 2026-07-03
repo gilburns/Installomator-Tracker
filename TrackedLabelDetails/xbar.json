@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.1.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/14376285/8ee7f0f7-4238-49ec-a0f3-7869d477fc9a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A54%3A46Z&rscd=attachment%3B+filename%3Dxbar.v2.1.7-beta.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A54%3A36Z&ske=2026-07-03T16%3A54%3A46Z&sks=b&skv=2018-11-09&sig=DiCie%2FbNygR0v%2Fax1HrGezxWbNWjUEUh%2BsR76wTTeoo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTIzNSwibmJmIjoxNzgzMDk0OTM1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.pGYnzTR-Sq6XOIta7i8DgGn5DIHIfzz1bxFS7wHRNlk&response-content-disposition=attachment%3B%20filename%3Dxbar.v2.1.7-beta.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "N3H5B92L5N",
+    "label": "xbar",
+    "name": "xbar",
+    "timeStamp": "2026-07-03T16:08:55Z",
+    "type": "dmg"
+  }
+]

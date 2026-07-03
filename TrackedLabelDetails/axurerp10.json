@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "10.0.0.3929",
+    "blockingProcesses": [],
+    "downloadURL": "https://axure.cachefly.net/versions/10-0/AxureRP-Setup-arm64-3929.dmg",
+    "downloadURLi386": "https://axure.cachefly.net/versions/10-0/AxureRP-Setup-3929.dmg",
+    "expectedTeamID": "HUMW6UU796",
+    "label": "axurerp10",
+    "name": "Axure RP 10",
+    "timeStamp": "2026-07-03T15:38:57Z",
+    "type": "dmg"
+  }
+]

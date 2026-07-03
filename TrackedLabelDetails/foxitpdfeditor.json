@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.1.1.36485",
+    "blockingProcesses": [
+      "Foxit PDF Editor"
+    ],
+    "downloadURL": "https://cdn66.foxitsoftware.com/pub/foxit/phantomPDF/desktop/mac/2026.x/2026.1/FoxitPDFEditor202611.L10N.Setup.pkg?verify=1783115184-%2Fuih0m4tSjy615wkKWLOWHzeH1ZJoG%2FyesKKjdjrCTo%3D",
+    "expectedTeamID": "8GN47HTP75",
+    "label": "foxitpdfeditor",
+    "name": "Foxit PDF Editor",
+    "timeStamp": "2026-07-03T15:46:24Z",
+    "type": "pkg"
+  }
+]

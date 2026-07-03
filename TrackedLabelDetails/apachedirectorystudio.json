@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.0.0.v20210717-M17",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.apache.org/directory/studio/2.0.0.v20210717-M17/ApacheDirectoryStudio-2.0.0.v20210717-M17-macosx.cocoa.x86_64.dmg",
+    "expectedTeamID": "2GLGAFWEQD",
+    "label": "apachedirectorystudio",
+    "name": "ApacheDirectoryStudio",
+    "timeStamp": "2026-07-03T15:37:16Z",
+    "type": "dmg"
+  }
+]

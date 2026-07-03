@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.193",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.favro.com/FavroDesktop/macOS/x64/Favro-1.0.193.dmg",
+    "expectedTeamID": "PUA8Q354ZF",
+    "label": "favro",
+    "name": "Favro",
+    "timeStamp": "2026-07-03T15:45:48Z",
+    "type": "dmg"
+  }
+]

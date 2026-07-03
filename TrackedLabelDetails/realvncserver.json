@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.17.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.realvnc.com/download/file/vnc.files/VNC-Server-7.17.0-MacOSX-universal.pkg",
+    "expectedTeamID": "ZNCQ8JEH7X",
+    "label": "realvncserver",
+    "name": "RealVNC Server",
+    "timeStamp": "2026-07-03T16:01:50Z",
+    "type": "pkg"
+  }
+]

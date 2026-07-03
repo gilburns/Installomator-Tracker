@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "Rokoko Studio Preview.app",
+    "appNewVersion": "1.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://rokoko-studio-preview.s3.us-east-1.amazonaws.com/production/Rokoko+Studio+Preview-1.2.0-arm64.dmg",
+    "expectedTeamID": "5K4RZM8SUS",
+    "label": "rokokostudiopreview",
+    "name": "Rokoko Studio Preview",
+    "timeStamp": "2026-07-03T16:03:17Z",
+    "type": "dmg"
+  }
+]

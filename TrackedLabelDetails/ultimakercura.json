@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.13.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/20884782/6bcfeaac-771a-46fd-8b9a-774243feb805?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A31Z&rscd=attachment%3B+filename%3DUltiMaker-Cura-5.13.0-macos-ARM64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A15Z&ske=2026-07-03T16%3A55%3A31Z&sks=b&skv=2018-11-09&sig=f8pZgspkK25ybiVYB23x0m0jBVIQQ4JZZ9ZZbBdJcoo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODQxNiwibmJmIjoxNzgzMDk0ODE2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.CDZENs0ZU-EcRmje5NSkOho2OMABhi9Xe-rB2Z64r84&response-content-disposition=attachment%3B%20filename%3DUltiMaker-Cura-5.13.0-macos-ARM64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/20884782/f487d6d4-576b-443f-921c-6fa424f95fe6?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A57%3A25Z&rscd=attachment%3B+filename%3DUltiMaker-Cura-5.13.0-macos-X64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A57%3A03Z&ske=2026-07-03T16%3A57%3A25Z&sks=b&skv=2018-11-09&sig=%2FKGXXeEYa%2BnuvVUaBqZ2I2s4dHstjSSZq5DRfqHL2Ow%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODQxOCwibmJmIjoxNzgzMDk0ODE4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.mP1Se4zU74G2-XzJ-sJMF8B8q23YN2ycKefZk1nL6wE&response-content-disposition=attachment%3B%20filename%3DUltiMaker-Cura-5.13.0-macos-X64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "V4B3JXRRQS",
+    "label": "ultimakercura",
+    "name": "Ultimaker Cura",
+    "timeStamp": "2026-07-03T16:06:56Z",
+    "type": "dmg"
+  }
+]

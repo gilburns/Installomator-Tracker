@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://moderncsv.com/release/ModernCSV-Mac-v2.4.dmg",
+    "expectedTeamID": "HV2WS8735K",
+    "label": "moderncsv",
+    "name": "Modern CSV",
+    "timeStamp": "2026-07-03T15:57:04Z",
+    "type": "dmg"
+  }
+]

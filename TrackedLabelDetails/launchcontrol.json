@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.10.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.soma-zone.com/download/files/LaunchControl-2.10.5.tar.xz",
+    "expectedTeamID": "H665B6EEXC",
+    "label": "launchcontrol",
+    "name": "LaunchControl",
+    "timeStamp": "2026-07-03T15:51:26Z",
+    "type": "tbz"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "Autodesk Fusion 360.app",
+    "appNewVersion": "2703.1.20",
+    "blockingProcesses": [
+      "Autodesk Fusion 360",
+      "Fusion 360"
+    ],
+    "downloadURL": "https://dl.appstreaming.autodesk.com/production/installers/Autodesk%20Fusion%20Admin%20Install.pkg",
+    "expectedTeamID": "XXKJ396S2Y",
+    "label": "autodeskfusion360admininstall",
+    "name": "Autodesk Fusion 360 Admin Install",
+    "timeStamp": "2026-07-03T15:38:49Z",
+    "type": "pkg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2020.2.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.techsmith.com/snagitmac/releases/2020.2.5/snagit.dmg",
+    "expectedTeamID": "7TQL462TU8",
+    "label": "snagit2020",
+    "name": "Snagit 2020",
+    "timeStamp": "2026-07-03T16:04:21Z",
+    "type": "dmg"
+  }
+]

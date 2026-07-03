@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "OBS.app",
+    "appNewVersion": "32.1.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/13233158/f02715c8-0bfe-4b4b-8bda-7da01c38d26b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A57%3A03Z&rscd=attachment%3B+filename%3DOBS-Studio-32.1.2-macOS-Apple.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A56%3A12Z&ske=2026-07-03T16%3A57%3A03Z&sks=b&skv=2018-11-09&sig=xwX%2BO%2Fon%2BDxigIqUoPjmnf6vn7BKNO9wrZqP3FO0HvE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Nzg5MCwibmJmIjoxNzgzMDk0MjkwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ._9osO6dIXe_V3kkP-foPs0xSKbFqjQCj4T_t6EiO45E&response-content-disposition=attachment%3B%20filename%3DOBS-Studio-32.1.2-macOS-Apple.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/13233158/19b7fb6c-5799-47af-9185-4aebfbff62dc?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A14Z&rscd=attachment%3B+filename%3DOBS-Studio-32.1.2-macOS-Intel.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A13Z&ske=2026-07-03T16%3A55%3A14Z&sks=b&skv=2018-11-09&sig=yV5znIV%2Bmw64yHe5qtB8OJZ7So%2BG0Kjr%2Fn%2FlDcPO9%2Fc%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Nzg5MiwibmJmIjoxNzgzMDk0MjkyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Fj2x539cc-kU_llcdrkAhoBo7Qo183qcjL1SG4v-5H8&response-content-disposition=attachment%3B%20filename%3DOBS-Studio-32.1.2-macOS-Intel.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "2MMRE5MTB8",
+    "label": "obs",
+    "name": "OBS",
+    "timeStamp": "2026-07-03T15:58:10Z",
+    "type": "dmg"
+  }
+]

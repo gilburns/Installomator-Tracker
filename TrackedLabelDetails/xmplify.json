@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.11.11",
+    "blockingProcesses": [],
+    "downloadURL": "https://xmplifyapp.com/releases/Xmplify.dmg",
+    "expectedTeamID": "KK854LLJJ7",
+    "label": "xmplify",
+    "name": "Xmplify",
+    "timeStamp": "2026-07-03T16:09:05Z",
+    "type": "dmg"
+  }
+]

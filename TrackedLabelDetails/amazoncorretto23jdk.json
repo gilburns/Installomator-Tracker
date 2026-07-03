@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "23.0.2.7.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://corretto.aws/downloads/resources/23.0.2.7.1/amazon-corretto-23.0.2.7.1-macosx-aarch64.pkg",
+    "downloadURLi386": "https://corretto.aws/downloads/resources/23.0.2.7.1/amazon-corretto-23.0.2.7.1-macosx-x64.pkg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "amazoncorretto23jdk",
+    "name": "Amazon Corretto 23 JDK",
+    "timeStamp": "2026-07-03T15:37:01Z",
+    "type": "pkg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "12.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.keyshot.com/keyshot2023/keyshot_mac64_2023.3_12.2.2.4.pkg",
+    "expectedTeamID": "W7B24M74T3",
+    "label": "keyshot12",
+    "name": "KeyShot12",
+    "timeStamp": "2026-07-03T15:50:54Z",
+    "type": "pkg"
+  }
+]

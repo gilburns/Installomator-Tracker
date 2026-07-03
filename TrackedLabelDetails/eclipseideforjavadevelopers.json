@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026-06-R",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.eclipse.org/technology/epp/downloads/release/2026-06/R/eclipse-java-2026-06-R-macosx-cocoa-aarch64.dmg",
+    "downloadURLi386": "https://download.eclipse.org/technology/epp/downloads/release/2026-06/R/eclipse-java-2026-06-R-macosx-cocoa-x86_64.dmg",
+    "expectedTeamID": "JCDTMS22B4",
+    "label": "eclipseideforjavadevelopers",
+    "name": "Eclipse",
+    "timeStamp": "2026-07-03T15:45:05Z",
+    "type": "dmg"
+  }
+]

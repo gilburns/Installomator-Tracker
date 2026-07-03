@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.3.8.4999",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.astropad.com/luna/mac/LunaDisplay-5.3.8.4999.dmg",
+    "expectedTeamID": "8356ZZ8Y5K",
+    "label": "lunadisplay",
+    "name": "Luna Display",
+    "timeStamp": "2026-07-03T15:53:41Z",
+    "type": "dmg"
+  }
+]

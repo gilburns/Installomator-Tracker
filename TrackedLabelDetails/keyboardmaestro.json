@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "11.0.4",
+    "blockingProcesses": [
+      "Keyboard Maestro Engine",
+      "Keyboard Maestro"
+    ],
+    "downloadURL": "https://files.stairways.com/keyboardmaestro-1104.zip",
+    "expectedTeamID": "QMHRBA4LGH",
+    "label": "keyboardmaestro",
+    "name": "Keyboard Maestro",
+    "timeStamp": "2026-07-03T15:50:52Z",
+    "type": "zip"
+  }
+]

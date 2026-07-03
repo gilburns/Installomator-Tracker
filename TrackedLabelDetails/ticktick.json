@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.0.75",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.ticktick.app/download/mac/TickTick_8.0.75_472.dmg",
+    "expectedTeamID": "75TY9UT8AY",
+    "label": "ticktick",
+    "name": "TickTick",
+    "timeStamp": "2026-07-03T16:06:04Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.19.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/16446099/e0f4ff12-67f5-4d12-a8ee-4991d8323cc8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A30%3A07Z&rscd=attachment%3B+filename%3DCryptomator-1.19.3-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A16Z&ske=2026-07-03T16%3A30%3A07Z&sks=b&skv=2018-11-09&sig=4ONoilkFZVm7sit1SsqWooazRkVMIctLILuWNXhAxoA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTE5MSwibmJmIjoxNzgzMDkzMzkxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.nOc3RtDEHwBCIus2sodMqlnb6U4EXvK_LDgHTVvyZEU&response-content-disposition=attachment%3B%20filename%3DCryptomator-1.19.3-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/16446099/43d14bab-288b-4673-845a-1d85622d2174?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A55Z&rscd=attachment%3B+filename%3DCryptomator-1.19.3-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A14Z&ske=2026-07-03T16%3A27%3A55Z&sks=b&skv=2018-11-09&sig=vpaMzNEhVFKuWonEj3gPy2zfxYc6r196DR9le4pIpK8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTE5MiwibmJmIjoxNzgzMDkzMzkyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.aLJXgulVNRNThpcWxMP9wEKNJZHpYmbL4NHO3p8fyyY&response-content-disposition=attachment%3B%20filename%3DCryptomator-1.19.3-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "YZQJQUHA3L",
+    "label": "cryptomator",
+    "name": "Cryptomator",
+    "timeStamp": "2026-07-03T15:43:11Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.38",
+    "blockingProcesses": [],
+    "downloadURL": "https://files.mcneel.com/rhino/7/mac/releases/rhino_7.38.24338.17002.dmg",
+    "expectedTeamID": "D6XDM4N99E",
+    "label": "rhino7",
+    "name": "Rhino 7",
+    "timeStamp": "2026-07-03T16:03:04Z",
+    "type": "dmg"
+  }
+]

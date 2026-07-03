@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.0.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://p5-downloads.s3.amazonaws.com/awpst804-darwin.dmg",
+    "expectedTeamID": "5H5EU6F965",
+    "label": "archiwarepst",
+    "name": "P5",
+    "timeStamp": "2026-07-03T15:37:35Z",
+    "type": "pkgInDmg"
+  }
+]

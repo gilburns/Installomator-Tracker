@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/12972148/6b678900-bfea-11e8-8795-1d5937e15223?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A30%3A20Z&rscd=attachment%3B+filename%3DAutoDMG-1.9.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A33Z&ske=2026-07-03T16%3A30%3A20Z&sks=b&skv=2018-11-09&sig=dAOtNL3%2Fjx6jB1TS6PHR%2BrWLnom%2BjynaIlbhBwIhoMY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5MzQzMiwibmJmIjoxNzgzMDkzMTMyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.EN0WuxQHkt9eHe3rCsCTgh1w5xpqYf18p82__IfMzo0&response-content-disposition=attachment%3B%20filename%3DAutoDMG-1.9.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "5KQ3D3FG5H",
+    "label": "autodmg",
+    "name": "AutoDMG",
+    "timeStamp": "2026-07-03T15:38:52Z",
+    "type": "dmg"
+  }
+]

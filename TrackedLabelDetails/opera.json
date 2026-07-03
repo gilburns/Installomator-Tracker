@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "133.0.5932.24",
+    "blockingProcesses": [],
+    "downloadURL": "https://get.geo.opera.com/pub/opera/desktop/133.0.5932.24/mac/Opera_133.0.5932.24_Setup.dmg",
+    "expectedTeamID": "A2P9LX4JPN",
+    "label": "opera",
+    "name": "Opera",
+    "timeStamp": "2026-07-03T15:58:44Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.0.439",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/315822591/0e7d7799-9cca-4b79-9a1e-1d142d953331?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A56%3A53Z&rscd=attachment%3B+filename%3DXcodes.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A56%3A21Z&ske=2026-07-03T16%3A56%3A53Z&sks=b&skv=2018-11-09&sig=P%2F7hx6T7HQqf2bLIEePq8nBpvR4Yzu0iDkWsqWRZYKk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjczNywibmJmIjoxNzgzMDk0OTM3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.zy_MaeLww1Z19Vvb7zvkTCjyMPBQHbaOA5IggmoY42E&response-content-disposition=attachment%3B%20filename%3DXcodes.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "ZU6GR6B2FY",
+    "label": "xcodesapp",
+    "name": "Xcodes",
+    "timeStamp": "2026-07-03T16:08:57Z",
+    "type": "zip"
+  }
+]

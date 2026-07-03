@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.1.1",
+    "blockingProcesses": [
+      "dbeaver"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/44662669/b65ed20a-0a2f-4014-8d22-5bf4361bf3b5?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A00Z&rscd=attachment%3B+filename%3Ddbeaver-ce-26.1.1-macos-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A20Z&ske=2026-07-03T16%3A28%3A00Z&sks=b&skv=2018-11-09&sig=Nhww6sThJPTXbe2slQ90%2F3U1%2BlFg5Dx39Ca7DGaY6ys%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjkyNCwibmJmIjoxNzgzMDkzMzI0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.s0cOuoa8ZLjhZYkTwLVqnWh5BJn2oVL06lDOjhWclN0&response-content-disposition=attachment%3B%20filename%3Ddbeaver-ce-26.1.1-macos-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "42B6MDKMW8",
+    "label": "dbeaverce",
+    "name": "DBeaver",
+    "timeStamp": "2026-07-03T15:43:31Z",
+    "type": "dmg"
+  }
+]

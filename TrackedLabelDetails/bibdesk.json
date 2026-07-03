@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.9.12",
+    "blockingProcesses": [],
+    "downloadURL": "https://sourceforge.net/projects/bibdesk/files/BibDesk/BibDesk-1.9.12/BibDesk-1.9.12.dmg/download",
+    "expectedTeamID": "J33JTA7SY9",
+    "label": "bibdesk",
+    "name": "BibDesk",
+    "timeStamp": "2026-07-03T15:39:29Z",
+    "type": "dmg"
+  }
+]

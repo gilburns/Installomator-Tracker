@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.cloudya.com/cloudya-2.2.0-mac.zip",
+    "expectedTeamID": "X26F74J8TH",
+    "label": "cloudya",
+    "name": "Cloudya",
+    "timeStamp": "2026-07-03T15:42:31Z",
+    "type": "appInDmgInZip"
+  }
+]

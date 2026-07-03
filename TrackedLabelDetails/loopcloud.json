@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.5.27",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.loopmasters.com/cloud/autoupdate/archive/Loopcloud/7.5.27/Install%20Loopcloud%207.5.27%20Mac.pkg.zip",
+    "expectedTeamID": "6J526HR25E",
+    "label": "loopcloud",
+    "name": "Loopcloud",
+    "timeStamp": "2026-07-03T15:53:28Z",
+    "type": "pkgInZip"
+  }
+]

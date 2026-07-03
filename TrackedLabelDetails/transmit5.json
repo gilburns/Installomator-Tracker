@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.11.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-cdn.panic.com/transmit/Transmit%205.11.6.zip",
+    "expectedTeamID": "VE8FC488U5",
+    "label": "transmit5",
+    "name": "Transmit",
+    "timeStamp": "2026-07-03T16:06:32Z",
+    "type": "zip"
+  }
+]

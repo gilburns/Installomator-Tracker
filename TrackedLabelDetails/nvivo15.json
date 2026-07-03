@@ -1,0 +1,17 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "15.5.1",
+    "blockingProcesses": [
+      "NVivo",
+      "NVivoHelper",
+      "Nvivo 15"
+    ],
+    "downloadURL": "https://download.qsrinternational.com/Software/NVivo15forMac/15.5.1.226/NVivo15.dmg",
+    "expectedTeamID": "8F4S7H8S59",
+    "label": "nvivo15",
+    "name": "NVivo 15",
+    "timeStamp": "2026-07-03T15:58:07Z",
+    "type": "dmg"
+  }
+]

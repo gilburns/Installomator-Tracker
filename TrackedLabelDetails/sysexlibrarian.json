@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.5.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.snoize.com/SysExLibrarian/SysExLibrarian.dmg",
+    "expectedTeamID": "YDJAW5GX9U",
+    "label": "sysexlibrarian",
+    "name": "SysEx Librarian",
+    "timeStamp": "2026-07-03T16:05:26Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "SketchUp 2026/SketchUp.app",
+    "appNewVersion": "26.2.242.76",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.sketchup.com/SketchUp-2026-2-242-76.dmg",
+    "expectedTeamID": "J8PVMCY7KL",
+    "label": "sketchup2026",
+    "name": "SketchUp 2026",
+    "timeStamp": "2026-07-03T16:04:07Z",
+    "type": "dmg"
+  }
+]

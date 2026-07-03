@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.selfcontrolapp.com/SelfControl-4.0.2.zip",
+    "expectedTeamID": "EG6ZYP3AQH",
+    "label": "selfcontrol",
+    "name": "SelfControl",
+    "timeStamp": "2026-07-03T16:03:44Z",
+    "type": "zip"
+  }
+]

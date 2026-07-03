@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.5.1818",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.signiant.com/signiant_app/Signiant_App_1.5.1818.dmg",
+    "expectedTeamID": "U6ZZ4QLU4Q",
+    "label": "signiantapp",
+    "name": "Signiant App",
+    "timeStamp": "2026-07-03T16:04:02Z",
+    "type": "dmg"
+  }
+]

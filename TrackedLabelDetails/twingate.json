@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.155",
+    "blockingProcesses": [],
+    "downloadURL": "https://binaries.twingate.com/client/macos/2026.155.25395/Twingate.pkg",
+    "expectedTeamID": "6GX8KVTR9H",
+    "label": "twingate",
+    "name": "Twingate",
+    "timeStamp": "2026-07-03T16:06:49Z",
+    "type": "pkg"
+  }
+]

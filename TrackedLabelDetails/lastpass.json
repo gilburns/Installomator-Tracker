@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.116.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.cloud.lastpass.com/mac/LastPass.dmg",
+    "expectedTeamID": "N24REP3BMN",
+    "label": "lastpass",
+    "name": "LastPass",
+    "timeStamp": "2026-07-03T15:51:21Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.26.29",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/26376490/ac569a95-cbf1-43a9-b421-370c0c332cae?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A56%3A06Z&rscd=attachment%3B+filename%3DVeraCrypt_1.26.29.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A26Z&ske=2026-07-03T16%3A56%3A06Z&sks=b&skv=2018-11-09&sig=cuomkfFTuqGh5Sd4f%2BRaIN4q6zQ8KXS0FlbRcFkNvWk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjY2MiwibmJmIjoxNzgzMDk0ODYyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.zyKIx5vR9vmjvNrGd0Nii3ldTizv0QxpIJUxD0mVhNs&response-content-disposition=attachment%3B%20filename%3DVeraCrypt_1.26.29.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "Z933746L2S",
+    "label": "veracrypt",
+    "name": "VeraCrypt",
+    "timeStamp": "2026-07-03T16:07:42Z",
+    "type": "pkgInDmg"
+  }
+]

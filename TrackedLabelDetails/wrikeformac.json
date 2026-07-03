@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.0.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.wrike.com/download/WrikeDesktopApp_ARM.v4.0.6.dmg",
+    "downloadURLi386": "https://dl.wrike.com/download/WrikeDesktopApp.v4.0.6.dmg",
+    "expectedTeamID": "BD3YL53XT4",
+    "label": "wrikeformac",
+    "name": "Wrike for Mac",
+    "timeStamp": "2026-07-03T16:08:50Z",
+    "type": "dmg"
+  }
+]

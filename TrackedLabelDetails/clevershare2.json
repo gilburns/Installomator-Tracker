@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "https://saharaplc.s3.eu-west-2.amazonaws.com/Clevershare+5/Clients/5.7/MacOS+-+New/Clevershare-5.7.1.7015-validated.dmg",
+    "blockingProcesses": [],
+    "downloadURL": "https://saharaplc.s3.eu-west-2.amazonaws.com/Clevershare+5/Clients/5.7/MacOS+-+New/Clevershare-5.7.1.7015-validated.dmg",
+    "expectedTeamID": "LHZP4ZQ39M",
+    "label": "clevershare2",
+    "name": "Clevershare",
+    "timeStamp": "2026-07-03T15:42:06Z",
+    "type": "dmg"
+  }
+]

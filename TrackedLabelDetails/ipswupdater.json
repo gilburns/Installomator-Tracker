@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.4.15-1",
+    "blockingProcesses": [],
+    "downloadURL": "https://ipsw.app/download/IPSWUpdater-v202604151.zip",
+    "expectedTeamID": "YRW6NUGA63",
+    "label": "ipswupdater",
+    "name": "IPSW Updater",
+    "timeStamp": "2026-07-03T15:49:23Z",
+    "type": "zip"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.2.4",
+    "blockingProcesses": [
+      "soffice"
+    ],
+    "downloadURL": "https://mirror1.cs-georgetown.net/tdf/libreoffice/stable/26.2.4/mac/aarch64/LibreOffice_26.2.4_MacOS_aarch64.dmg",
+    "downloadURLi386": "https://mirrors.iu13.net/tdf/libreoffice/stable/26.2.4/mac/x86_64/LibreOffice_26.2.4_MacOS_x86-64.dmg",
+    "expectedTeamID": "7P5S3ZLCN7",
+    "label": "libreoffice",
+    "name": "LibreOffice",
+    "timeStamp": "2026-07-03T15:51:51Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "SketchUp 2025/SketchUp.app",
+    "appNewVersion": "25.0.659.288",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.sketchup.com/SketchUp-2025-0-659-288.dmg",
+    "expectedTeamID": "J8PVMCY7KL",
+    "label": "sketchup2025",
+    "name": "SketchUp 2025",
+    "timeStamp": "2026-07-03T16:04:06Z",
+    "type": "dmg"
+  }
+]

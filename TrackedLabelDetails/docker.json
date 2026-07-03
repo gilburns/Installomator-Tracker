@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.80.0",
+    "blockingProcesses": [
+      "Docker Desktop"
+    ],
+    "downloadURL": "https://desktop.docker.com/mac/main/arm64/Docker.dmg",
+    "downloadURLi386": "https://desktop.docker.com/mac/main/amd64/Docker.dmg",
+    "expectedTeamID": "9BNSXJN65R",
+    "label": "docker",
+    "name": "Docker",
+    "timeStamp": "2026-07-03T15:44:29Z",
+    "type": "dmg"
+  }
+]

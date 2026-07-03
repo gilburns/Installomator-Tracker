@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://tristan-software.ch/FSMonitor/Archives/FSMonitor_2.0(158).zip",
+    "expectedTeamID": "V85GBYB7B9",
+    "label": "fsmonitor",
+    "name": "FSMonitor",
+    "timeStamp": "2026-07-03T15:46:33Z",
+    "type": "zip"
+  }
+]

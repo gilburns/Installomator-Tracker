@@ -1,0 +1,18 @@
+[
+  {
+    "appName": "Google Drive.app",
+    "appNewVersion": "127.0.1",
+    "blockingProcesses": [
+      "Google Docs",
+      "Google Drive",
+      "Google Sheets",
+      "Google Slides"
+    ],
+    "downloadURL": "https://dl.google.com/drive-file-stream/GoogleDriveFileStream.dmg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "googledrive",
+    "name": "Google Drive File Stream",
+    "timeStamp": "2026-07-03T15:47:12Z",
+    "type": "pkgInDmg"
+  }
+]

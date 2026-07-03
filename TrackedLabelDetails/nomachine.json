@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "9.7.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://web9001.nomachine.com/download/9.7/MacOSX/nomachine_9.7.3_1.dmg",
+    "expectedTeamID": "493C5JZAGR",
+    "label": "nomachine",
+    "name": "NoMachine",
+    "timeStamp": "2026-07-03T15:57:53Z",
+    "type": "pkgInDmg"
+  }
+]

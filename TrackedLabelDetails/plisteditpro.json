@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.fatcatsoftware.com/plisteditpro/PlistEditPro.zip",
+    "expectedTeamID": "8NQ43ND65V",
+    "label": "plisteditpro",
+    "name": "PlistEdit Pro",
+    "timeStamp": "2026-07-03T15:59:38Z",
+    "type": "zip"
+  }
+]

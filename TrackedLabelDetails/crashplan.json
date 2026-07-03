@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "agent",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.crashplan.com/installs/agent/cloud/12.0.0/735/install/CrashPlan_12.0.0_735_Mac.dmg",
+    "expectedTeamID": "UGHXR79U6M",
+    "label": "crashplan",
+    "name": "CrashPlan",
+    "timeStamp": "2026-07-03T15:43:01Z",
+    "type": "pkgInDmg"
+  }
+]

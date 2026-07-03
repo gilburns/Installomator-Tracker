@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.mpi.nl/tools/elan/ELAN_7-1_M1_mac.dmg",
+    "downloadURLi386": "https://www.mpi.nl/tools/elan/ELAN_7-1_mac.dmg",
+    "expectedTeamID": "P7N398ZW7F",
+    "label": "elan",
+    "name": "ELAN_7.1",
+    "timeStamp": "2026-07-03T15:45:17Z",
+    "type": "dmg"
+  }
+]

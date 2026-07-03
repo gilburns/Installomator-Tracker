@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.3.2.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://mirror.fcix.net/kdeftp/stable/krita/5.3.2.1/krita-5.3.2.1-signed.dmg",
+    "expectedTeamID": "DL93766A3G",
+    "label": "krita",
+    "name": "krita",
+    "timeStamp": "2026-07-03T15:51:21Z",
+    "type": "dmg"
+  }
+]

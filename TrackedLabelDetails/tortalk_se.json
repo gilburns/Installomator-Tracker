@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "TorTalk.app",
+    "appNewVersion": "2.43",
+    "blockingProcesses": [],
+    "downloadURL": "https://tortalkfiles.blob.core.windows.net/tortalkmac/TorTalk_installer_2.4.3_SV.pkg",
+    "expectedTeamID": "QUT3D5SU72",
+    "label": "tortalk_se",
+    "name": "TorTal SE",
+    "timeStamp": "2026-07-03T16:06:26Z",
+    "type": "pkg"
+  }
+]

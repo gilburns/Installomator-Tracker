@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.4.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/website/macos/maxon/maxonapp/releases/2026.4.2/Maxon_App_2026.4.2_Mac.dmg",
+    "expectedTeamID": "4ZY22YGXQG",
+    "label": "maxonapp",
+    "name": "Maxon",
+    "timeStamp": "2026-07-03T15:55:48Z",
+    "type": "dmg"
+  }
+]

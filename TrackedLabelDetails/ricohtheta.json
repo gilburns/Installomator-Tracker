@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.30.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://static.ricoh360.com/theta-resources/app/viewer/RICOH%20THETA.dmg",
+    "expectedTeamID": "5KACUT3YX8",
+    "label": "ricohtheta",
+    "name": "RICOH THETA",
+    "timeStamp": "2026-07-03T16:03:06Z",
+    "type": "dmg"
+  }
+]

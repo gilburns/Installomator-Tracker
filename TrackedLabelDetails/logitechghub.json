@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "lghub.app",
+    "appNewVersion": "2026.3.880543",
+    "blockingProcesses": [],
+    "downloadURL": "https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.zip",
+    "expectedTeamID": "QED4VVPZWA",
+    "label": "logitechghub",
+    "name": "Logi G-HUB",
+    "timeStamp": "2026-07-03T15:53:20Z",
+    "type": "zip"
+  }
+]

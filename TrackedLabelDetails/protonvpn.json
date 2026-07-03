@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.5.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://vpn.protondownload.com/download/macos/6.5.1/ProtonVPN_mac_v6.5.1.dmg",
+    "expectedTeamID": "J6S6Q257EK",
+    "label": "protonvpn",
+    "name": "ProtonVPN",
+    "timeStamp": "2026-07-03T16:00:19Z",
+    "type": "dmg"
+  }
+]

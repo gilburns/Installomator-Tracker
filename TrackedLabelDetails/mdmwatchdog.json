@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "25",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://agents.addigy.com/tools/mdm-watchdog/25/mdm-watchdog.pkg",
+    "expectedTeamID": "R5LEJ8Y242",
+    "label": "mdmwatchdog",
+    "name": "Addigy MDM Watchdog",
+    "timeStamp": "2026-07-03T15:55:54Z",
+    "type": "pkg"
+  }
+]

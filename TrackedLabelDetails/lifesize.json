@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.0.20",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.lifesizecloud.com/Lifesize-3.0.20.dmg",
+    "expectedTeamID": "L57M4NT7Y7",
+    "label": "lifesize",
+    "name": "Lifesize",
+    "timeStamp": "2026-07-03T15:52:54Z",
+    "type": "dmg"
+  }
+]

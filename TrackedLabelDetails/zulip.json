@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.12.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop-download.zulip.com/v5.12.4/Zulip-5.12.4-arm64.dmg",
+    "expectedTeamID": "66KHCWMEYB",
+    "label": "zulip",
+    "name": "Zulip",
+    "timeStamp": "2026-07-03T16:09:34Z",
+    "type": "dmg"
+  }
+]

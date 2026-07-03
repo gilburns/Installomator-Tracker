@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/865403475/72bca2bf-aff1-45a6-a425-0bf79c3176de?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A27Z&rscd=attachment%3B+filename%3Dsanta-2026.5.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A24Z&ske=2026-07-03T16%3A55%3A27Z&sks=b&skv=2018-11-09&sig=phfNXPmUOPwRMVf%2F5Ljh4Vk4OzOgxOZirppv9SYwU0Q%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjA4MCwibmJmIjoxNzgzMDk0MjgwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.M8_LA-F1FSqCbOpMaCjn9bnOvFgLUezdankV-TV0YDs&response-content-disposition=attachment%3B%20filename%3Dsanta-2026.5.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "ZMCG7MLDV9",
+    "label": "npssantafull",
+    "name": "Santa",
+    "timeStamp": "2026-07-03T15:58:01Z",
+    "type": "pkg"
+  }
+]

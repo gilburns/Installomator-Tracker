@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.5.0",
+    "blockingProcesses": [
+      "Stream Deck"
+    ],
+    "downloadURL": "https://edge.elgato.com/egc/macos/sd/Stream_Deck_7.5.0.22885.pkg",
+    "expectedTeamID": "Y93VXCB8Q5",
+    "label": "elgatostreamdeck",
+    "name": "Elgato Stream Deck",
+    "timeStamp": "2026-07-03T15:45:24Z",
+    "type": "pkg"
+  }
+]

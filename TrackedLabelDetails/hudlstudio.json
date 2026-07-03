@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.2.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://studio-releases.s3.amazonaws.com/Studio-2.2.8.dmg",
+    "expectedTeamID": "2YLQ7PASUE",
+    "label": "hudlstudio",
+    "name": "Studio",
+    "timeStamp": "2026-07-03T15:47:57Z",
+    "type": "dmg"
+  }
+]

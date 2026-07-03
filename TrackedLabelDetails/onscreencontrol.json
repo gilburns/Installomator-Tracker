@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.34",
+    "blockingProcesses": [],
+    "downloadURL": "https://lmu.lge.com/ExternalService/onscreencontrol/mac/2.0/OnScreenControl_6.34.zip",
+    "expectedTeamID": "5SKT5H4CPQ",
+    "label": "onscreencontrol",
+    "name": "OnScreen Control",
+    "timeStamp": "2026-07-03T15:58:33Z",
+    "type": "pkgInZip"
+  }
+]

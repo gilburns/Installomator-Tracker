@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "SketchUp 2024/SketchUp.app",
+    "appNewVersion": "24.0.598",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.sketchup.com/SketchUp-2024-0-598-243.dmg",
+    "expectedTeamID": "J8PVMCY7KL",
+    "label": "sketchup2024",
+    "name": "SketchUp 2024",
+    "timeStamp": "2026-07-03T16:04:05Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.2.20",
+    "blockingProcesses": [],
+    "downloadURL": "https://app.ringcentral.com/download/RingCentral-arm64.pkg",
+    "downloadURLi386": "https://app.ringcentral.com/download/RingCentral.pkg",
+    "expectedTeamID": "M932RC5J66",
+    "label": "ringcentralapp",
+    "name": "RingCentral",
+    "timeStamp": "2026-07-03T16:03:06Z",
+    "type": "pkg"
+  }
+]

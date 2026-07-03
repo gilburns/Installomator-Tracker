@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.73",
+    "blockingProcesses": [
+      "LANCOM Advanced VPN Client",
+      "ncprwsmac"
+    ],
+    "downloadURL": "https://ftp.lancom.de/LANCOM-Releases/LC-VPN-Client/LC-Advanced-VPN-Client-macOS-473-Rel-x86-64.dmg",
+    "expectedTeamID": "LL3KBL2M3A",
+    "label": "lcadvancedvpnclient",
+    "name": "LANCOM Advanced VPN Client",
+    "timeStamp": "2026-07-03T15:51:27Z",
+    "type": "pkgInDmg"
+  }
+]

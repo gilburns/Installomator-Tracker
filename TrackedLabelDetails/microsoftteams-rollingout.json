@@ -1,0 +1,23 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26163.407.4839.8659",
+    "blockingProcesses": [
+      "Teams",
+      "MSTeams",
+      "Microsoft Teams",
+      "Microsoft Teams WebView",
+      "Microsoft Teams WebView Helper",
+      "Microsoft Teams Launcher",
+      "Microsoft Teams (work preview)",
+      "Microsoft Teams classic Helper",
+      "com.microsoft.teams2.respawn"
+    ],
+    "downloadURL": "https://statics.teams.cdn.office.net/production-osx/26163.407.4839.8659/MicrosoftTeams.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftteams-rollingout",
+    "name": "Microsoft Teams",
+    "timeStamp": "2026-07-03T15:56:36Z",
+    "type": "pkg"
+  }
+]

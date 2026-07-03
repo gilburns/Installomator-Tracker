@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.0.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/261277209/11b2b4a6-3310-43a4-b215-788ace96d4f8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A56%3A26Z&rscd=attachment%3B+filename%3DVisualz-3.0.10-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A56%3A17Z&ske=2026-07-03T16%3A56%3A26Z&sks=b&skv=2018-11-09&sig=iM0UtR0zQg9gv%2BxvSNrlLtpdT0srRWnHEjQf7KzEAXU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODQ3OCwibmJmIjoxNzgzMDk0ODc4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.caWvTgxEleyv-_2oIfXhVOfvSbE-wSRvyoYRsix83Ws&response-content-disposition=attachment%3B%20filename%3DVisualz-3.0.10-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "6RLU6426R3",
+    "label": "visualz",
+    "name": "Visualz",
+    "timeStamp": "2026-07-03T16:07:58Z",
+    "type": "dmg"
+  }
+]

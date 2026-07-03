@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "9.1.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.cdn.cycling74.com/max9/Max914_260407.dmg",
+    "expectedTeamID": "GBXXCFCVW5",
+    "label": "maxcycling74",
+    "name": "Max",
+    "timeStamp": "2026-07-03T15:55:48Z",
+    "type": "dmg"
+  }
+]

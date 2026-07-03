@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.16",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.omnigroup.com/software/macOS/11/OmniDiskSweeper-1.16.dmg",
+    "expectedTeamID": "34YW5XSRB7",
+    "label": "omnidisksweeper",
+    "name": "OmniDiskSweeper",
+    "timeStamp": "2026-07-03T15:58:25Z",
+    "type": "dmg"
+  }
+]

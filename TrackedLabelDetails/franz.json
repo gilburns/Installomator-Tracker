@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.11.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/106809903/8b983924-945f-488d-aeea-83dce6e15782?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A32Z&rscd=attachment%3B+filename%3DFranz-5.11.0-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A26%3A38Z&ske=2026-07-03T16%3A27%3A32Z&sks=b&skv=2018-11-09&sig=bmbF7IUcxV1i%2B7suhluP5Ys0zrItzLPBOPrR99SxSok%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzE4NSwibmJmIjoxNzgzMDkzNTg1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.jWTAZl9d7-0UqDAVsOjTnmABcbdK4lZH78YQQLL3CMw&response-content-disposition=attachment%3B%20filename%3DFranz-5.11.0-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/106809903/1b50655a-3057-48b5-82fd-71de64aedd77?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A03Z&rscd=attachment%3B+filename%3DFranz-5.11.0.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A34Z&ske=2026-07-03T16%3A28%3A03Z&sks=b&skv=2018-11-09&sig=yi7DdGvIYWjLFVqNtyWYw5wkToy2FL7bhxZWS%2Fkzc3w%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzE4NywibmJmIjoxNzgzMDkzNTg3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.mVfUQsgehRq8K-3WhLZMkjYa5-EYV2bqzZ0nII4OqLc&response-content-disposition=attachment%3B%20filename%3DFranz-5.11.0.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "TAC9P63ANZ",
+    "label": "franz",
+    "name": "Franz",
+    "timeStamp": "2026-07-03T15:46:25Z",
+    "type": "dmg"
+  }
+]

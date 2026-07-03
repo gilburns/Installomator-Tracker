@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.6.3-20260603142618+f60f2ff97e",
+    "blockingProcesses": [],
+    "downloadURL": "https://prerelease.keybase.io/Keybase-arm64.dmg",
+    "downloadURLi386": "https://prerelease.keybase.io/Keybase.dmg",
+    "expectedTeamID": "99229SGT5K",
+    "label": "keybase",
+    "name": "Keybase",
+    "timeStamp": "2026-07-03T15:50:50Z",
+    "type": "dmg"
+  }
+]

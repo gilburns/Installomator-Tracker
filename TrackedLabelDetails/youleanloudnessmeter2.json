@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.4.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.youlean.co/wp-content/uploads/2023/03/Youlean-Loudness-Meter-2-V2.4.4-macOS.zip",
+    "expectedTeamID": "S7KN6P3F95",
+    "label": "youleanloudnessmeter2",
+    "name": "Youlean Loudness Meter 2",
+    "timeStamp": "2026-07-03T16:09:10Z",
+    "type": "pkgInZip"
+  }
+]

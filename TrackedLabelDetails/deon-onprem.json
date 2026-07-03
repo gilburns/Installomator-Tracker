@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.25133.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.deon.de/?action=2&product=Mac&channel=beta&version=1.0.25133.4&filename=Deon.app.zip",
+    "expectedTeamID": "EW9H238RWQ",
+    "label": "deon-onprem",
+    "name": "Deon",
+    "timeStamp": "2026-07-03T15:44:00Z",
+    "type": "zip"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.2.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.imazing.com/mac/iMazing-Profile-Editor/iMazingProfileEditorMac.dmg",
+    "expectedTeamID": "J5PR93692Y",
+    "label": "imazingprofileeditor",
+    "name": "iMazing Profile Editor",
+    "timeStamp": "2026-07-03T15:48:13Z",
+    "type": "dmg"
+  }
+]

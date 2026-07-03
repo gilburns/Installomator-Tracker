@@ -1,0 +1,17 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.5.5.8425",
+    "blockingProcesses": [
+      "EstEIDTokenApp",
+      "EstEIDTokenNotify",
+      "web-eid"
+    ],
+    "downloadURL": "https://installer.id.ee/media/osx/Open-EID_26.5.5.8425.dmg",
+    "expectedTeamID": "ET847QJV9F",
+    "label": "openeid",
+    "name": "Open-EID",
+    "timeStamp": "2026-07-03T15:58:35Z",
+    "type": "pkgInDmg"
+  }
+]

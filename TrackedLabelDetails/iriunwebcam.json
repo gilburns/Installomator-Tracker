@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.9.1",
+    "blockingProcesses": [],
+    "downloadURL": "http://IriunWebcam-2.9.1.pkg/",
+    "expectedTeamID": "R84MX49LQY",
+    "label": "iriunwebcam",
+    "name": "IriunWebcam",
+    "timeStamp": "2026-07-03T15:49:25Z",
+    "type": "pkg"
+  }
+]

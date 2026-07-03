@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "169.168",
+    "blockingProcesses": [],
+    "downloadURL": "https://referrals.brave.com/latest/Brave-Browser.pkg",
+    "expectedTeamID": "KL8N8XSYF4",
+    "label": "bravepkg",
+    "name": "Brave Browser",
+    "timeStamp": "2026-07-03T15:39:55Z",
+    "type": "pkg"
+  }
+]

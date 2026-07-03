@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "Toon Boom Storyboard Pro 24/Storyboard Pro 24.app",
+    "appNewVersion": "24.0.2.23443",
+    "blockingProcesses": [],
+    "downloadURL": "http://updates.toonboom.com/data/StoryboardPro24_23443/SBP24-mac-23443.dmg",
+    "expectedTeamID": "U5LPYJSPQ3",
+    "label": "toonboomstoryboardpro2024",
+    "name": "Storyboard Pro 24",
+    "timeStamp": "2026-07-03T16:06:14Z",
+    "type": "dmg"
+  }
+]

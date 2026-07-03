@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.48.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.gather.town/desktop-v2/GatherV2-0.48.4-universal.dmg",
+    "expectedTeamID": "W28UKP642P",
+    "label": "gather2",
+    "name": "GatherV2",
+    "timeStamp": "2026-07-03T15:46:40Z",
+    "type": "dmg"
+  }
+]

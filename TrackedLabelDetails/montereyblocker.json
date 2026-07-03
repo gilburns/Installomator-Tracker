@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "20210611",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/375725836/2ac83a80-cac7-11eb-97ee-37c5eb547bd0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A54%3A50Z&rscd=attachment%3B+filename%3Dmontereyblocker-20210611.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A54%3A49Z&ske=2026-07-03T16%3A54%3A50Z&sks=b&skv=2018-11-09&sig=ey%2BjikyiOGtmh7rwHcE4UvIR6PVo8w31x2q3HiWXCAs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NDUzNCwibmJmIjoxNzgzMDk0MjM0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.h5L-Lbf7ciuiEstMyIvhAwuIk0uJz1VzRGjIC_zWo4o&response-content-disposition=attachment%3B%20filename%3Dmontereyblocker-20210611.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "FXW6QXBFW5",
+    "label": "montereyblocker",
+    "name": "montereyblocker",
+    "timeStamp": "2026-07-03T15:57:14Z",
+    "type": "pkg"
+  }
+]

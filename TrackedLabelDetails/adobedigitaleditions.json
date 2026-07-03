@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.5.12",
+    "blockingProcesses": [],
+    "downloadURL": "https://adedownload.adobe.com/pub/adobe/digitaleditions/ADE_4.5_Installer.dmg",
+    "expectedTeamID": "JQ525L2MZD",
+    "label": "adobedigitaleditions",
+    "name": "Adobe Digital Editions",
+    "timeStamp": "2026-07-03T15:36:33Z",
+    "type": "pkgInDmg"
+  }
+]

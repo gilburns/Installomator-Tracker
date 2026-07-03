@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://proton.me/download/drive/macos/3.0.0/ProtonDrive-3.0.0.dmg",
+    "expectedTeamID": "2SB5Z68H26",
+    "label": "protondrive",
+    "name": "Proton Drive",
+    "timeStamp": "2026-07-03T16:00:18Z",
+    "type": "dmg"
+  }
+]

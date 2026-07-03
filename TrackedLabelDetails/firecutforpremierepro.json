@@ -1,0 +1,18 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.2.22",
+    "blockingProcesses": [
+      "Adobe Premiere Pro 2024",
+      "Adobe Premiere Pro 2025",
+      "Adobe Premiere Pro 2026",
+      "Adobe Premiere Pro 2027"
+    ],
+    "downloadURL": "https://pp-dl.firecut.ai/FireCut_PP_Dist/FireCut_v1.2.22.pkg",
+    "expectedTeamID": "7ASRSVAEMS",
+    "label": "firecutforpremierepro",
+    "name": "FireCut for Premiere Pro",
+    "timeStamp": "2026-07-03T15:46:06Z",
+    "type": "pkg"
+  }
+]

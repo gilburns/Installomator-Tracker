@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.19.3",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://download.support.xerox.com/pub/drivers/ALB80XX/drivers/macOS13/en_GB/XeroxDrivers_5.19.3_2562.dmg",
+    "expectedTeamID": "G59Y3XFNFR",
+    "label": "xeroxworkcentre7800",
+    "name": "XeroxWorkCentre",
+    "timeStamp": "2026-07-03T16:09:02Z",
+    "type": "pkgInDmg"
+  }
+]

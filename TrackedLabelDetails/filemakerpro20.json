@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "20.3.2.201",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.claris.com/esd/fmp_20.3.2.201.dmg",
+    "expectedTeamID": "J6K4T76U7W",
+    "label": "filemakerpro20",
+    "name": "FileMaker Pro",
+    "timeStamp": "2026-07-03T15:45:57Z",
+    "type": "dmg"
+  }
+]

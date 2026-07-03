@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.5.17",
+    "blockingProcesses": [],
+    "downloadURL": "https://releases.fontba.se/mac/FontBase-2026.5.17.dmg",
+    "expectedTeamID": "457B89RFCZ",
+    "label": "fontbase",
+    "name": "FontBase",
+    "timeStamp": "2026-07-03T15:46:21Z",
+    "type": "dmg"
+  }
+]

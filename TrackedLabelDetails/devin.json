@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.3.18",
+    "blockingProcesses": [],
+    "downloadURL": "https://windsurf-stable.codeiumdata.com/darwin-arm64-dmg/stable/16737566f57f3b53bde136375fe0544eca12fac4/Devin-darwin-arm64-3.3.18.dmg",
+    "downloadURLi386": "https://windsurf-stable.codeiumdata.com/darwin-x64-dmg/stable/16737566f57f3b53bde136375fe0544eca12fac4/Devin-darwin-x64-3.3.18.dmg",
+    "expectedTeamID": "83Z2LHX6XW",
+    "label": "devin",
+    "name": "Devin",
+    "timeStamp": "2026-07-03T15:44:06Z",
+    "type": "dmg"
+  }
+]

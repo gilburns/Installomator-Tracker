@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2024.5.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/cinema4d/releases/2024.5.1/Cinema4D_2024_2024.5.1_Mac.dmg",
+    "expectedTeamID": "4ZY22YGXQG",
+    "label": "cinema4d2024",
+    "name": "Cinema 4D",
+    "timeStamp": "2026-07-03T15:42:00Z",
+    "type": "dmg"
+  }
+]

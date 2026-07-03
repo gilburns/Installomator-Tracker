@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.7.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/164574693/7ef79d5a-f26e-42ba-826a-f230efa7d1cf?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A29%3A52Z&rscd=attachment%3B+filename%3DAnother-Redis-Desktop-Manager-mac-1.7.1-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A43Z&ske=2026-07-03T16%3A29%3A52Z&sks=b&skv=2018-11-09&sig=tim5CxJv5CvpR9LZX9%2B3qjUdMa0kpnqO4ZKM%2FnAn4oE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NDgzMSwibmJmIjoxNzgzMDkzMDMxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.OZrmNS_d2MRIVUrWz0CYhBiMEPFyElOSt6l2qtsKw6w&response-content-disposition=attachment%3B%20filename%3DAnother-Redis-Desktop-Manager-mac-1.7.1-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/164574693/9c845a10-8fd3-4883-b178-48116c235b32?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A28Z&rscd=attachment%3B+filename%3DAnother-Redis-Desktop-Manager-win-1.7.1-x64.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A40Z&ske=2026-07-03T16%3A28%3A28Z&sks=b&skv=2018-11-09&sig=WsaHrylf4gNtRF5mw9Awe75RQH8l3wXnvkkGI3KnlMw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NDgzNCwibmJmIjoxNzgzMDkzMDM0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.yR4jfSZ-92KjE8CLTVc56EyNs7gW_X2x15tY6hZHhbw&response-content-disposition=attachment%3B%20filename%3DAnother-Redis-Desktop-Manager-win-1.7.1-x64.exe&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "68JN8DV835",
+    "label": "anotherredisdesktopmanager",
+    "name": "Another Redis Desktop Manager",
+    "timeStamp": "2026-07-03T15:37:12Z",
+    "type": "dmg"
+  }
+]

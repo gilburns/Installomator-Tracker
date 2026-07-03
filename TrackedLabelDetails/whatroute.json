@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.7.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.whatroute.net/software/whatroute-2.7.2.zip",
+    "expectedTeamID": "H5879E8LML",
+    "label": "whatroute",
+    "name": "WhatRoute",
+    "timeStamp": "2026-07-03T16:08:38Z",
+    "type": "zip"
+  }
+]

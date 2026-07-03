@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "IGV_2.19.8.app",
+    "appNewVersion": "2.19.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://data.broadinstitute.org/igv/projects/downloads/2.19/IGV_MacApp_2.19.8_WithJava.zip",
+    "downloadURLi386": "https://data.broadinstitute.org/igv/projects/downloads/2.19/IGV_MacAppIntel_2.19.8_WithJava.zip",
+    "expectedTeamID": "R787A9V6VV",
+    "label": "igv",
+    "name": "IGV",
+    "timeStamp": "2026-07-03T15:48:08Z",
+    "type": "zip"
+  }
+]

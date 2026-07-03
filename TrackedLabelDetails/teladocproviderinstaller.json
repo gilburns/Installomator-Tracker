@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.7.14",
+    "blockingProcesses": [],
+    "downloadURL": "https://update.intouchreports.com/cdn/PROD/ida/provider/mac/universal/manual/TeladocProviderInstaller_1.7.14_mac_universal_manual.pkg",
+    "expectedTeamID": "TXR7NRCG98",
+    "label": "teladocproviderinstaller",
+    "name": "TeladocProviderInstaller",
+    "timeStamp": "2026-07-03T16:05:41Z",
+    "type": "pkg"
+  }
+]

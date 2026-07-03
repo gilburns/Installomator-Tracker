@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "Dropbox.app",
+    "appNewVersion": "258.4.3749",
+    "blockingProcesses": [],
+    "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20258.4.3749.arm64.pkg",
+    "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20258.4.3749.x86_64.pkg",
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropboxenterprise",
+    "name": "Dropbox Enterprise",
+    "timeStamp": "2026-07-03T15:44:45Z",
+    "type": "pkg"
+  }
+]

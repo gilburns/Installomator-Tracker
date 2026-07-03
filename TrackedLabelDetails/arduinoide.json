@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.3.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/337042139/bc7121f8-5c11-4c91-8212-9fbe89eb2ce7?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A21Z&rscd=attachment%3B+filename%3Darduino-ide_2.3.10_macOS_arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A26%3A54Z&ske=2026-07-03T16%3A27%3A21Z&sks=b&skv=2018-11-09&sig=IBMBtFfFBI6FHK4IE0jsEeUwBMv%2BuamIHlTINEFbMB4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjY1NywibmJmIjoxNzgzMDkzMDU3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.bAHPJPyCYJlCugprOdza9mcXHQ8w-WOjbyw8gh8nwCY&response-content-disposition=attachment%3B%20filename%3Darduino-ide_2.3.10_macOS_arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/337042139/29fdce7f-c4e1-4787-9fb0-9e2ba7127a4f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A29%3A12Z&rscd=attachment%3B+filename%3Darduino-ide_2.3.10_macOS_64bit.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A28%3A58Z&ske=2026-07-03T16%3A29%3A12Z&sks=b&skv=2018-11-09&sig=w1BamrZ6SFm%2F8kSa%2FqqJR2Xry0F7rezev9cNwOn32Tc%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjY2MCwibmJmIjoxNzgzMDkzMDYwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.2nQMigcjL6SauORLF7VTQPVyMpxntNv2hxyD5avsq8k&response-content-disposition=attachment%3B%20filename%3Darduino-ide_2.3.10_macOS_64bit.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "7KT7ZWMCJT",
+    "label": "arduinoide",
+    "name": "Arduino IDE",
+    "timeStamp": "2026-07-03T15:37:38Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.charlesproxy.com/assets/release/5.2/charles-proxy-5.2.dmg",
+    "expectedTeamID": "9A5PCU4FSD",
+    "label": "charles",
+    "name": "Charles",
+    "timeStamp": "2026-07-03T15:40:35Z",
+    "type": "dmg"
+  }
+]

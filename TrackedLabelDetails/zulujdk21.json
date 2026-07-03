@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "21.50.19",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.azul.com/zulu/bin/zulu21.50.19-ca-jdk21.0.11-macosx_aarch64.dmg",
+    "downloadURLi386": "https://cdn.azul.com/zulu/bin/zulu21.50.19-ca-jdk21.0.11-macosx_x64.dmg",
+    "expectedTeamID": "TDTHCUPYFR",
+    "label": "zulujdk21",
+    "name": "Zulu JDK 21",
+    "timeStamp": "2026-07-03T16:09:50Z",
+    "type": "pkgInDmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.0.7-50095",
+    "blockingProcesses": [],
+    "downloadURL": "https://global.download.synology.com/download/Utility/Assistant/7.0.7-50095/Mac/synology-assistant-7.0.7-50095.dmg",
+    "expectedTeamID": "X85BAK35Y4",
+    "label": "synologyassistant",
+    "name": "SynologyAssistant",
+    "timeStamp": "2026-07-03T16:05:25Z",
+    "type": "dmg"
+  }
+]

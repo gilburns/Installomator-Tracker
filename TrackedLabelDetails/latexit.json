@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.16.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://pierre.chachatelier.fr/latexit/downloads/LaTeXiT-2_16_6.dmg",
+    "expectedTeamID": "7SFX84GNR7",
+    "label": "latexit",
+    "name": "LaTeXiT",
+    "timeStamp": "2026-07-03T15:51:23Z",
+    "type": "dmg"
+  }
+]

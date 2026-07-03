@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "24.3.1.347.1826",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.oracle.com/otn_software/java/sqldeveloper/sqldeveloper-24.3.1.347.1826-macos-aarch64.app.zip",
+    "downloadURLi386": "https://download.oracle.com/otn_software/java/sqldeveloper/sqldeveloper-24.3.1.347.1826-macos-x64.app.zip",
+    "expectedTeamID": "VB5E2TV963",
+    "label": "sqldeveloper",
+    "name": "SQLDeveloper",
+    "timeStamp": "2026-07-03T16:04:43Z",
+    "type": "zip"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.10.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/7654975/b8449753-4f0a-4547-8b93-83056932fe18?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A48Z&rscd=attachment%3B+filename%3DCytoscape_3_10_4_macos_aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A28%3A32Z&ske=2026-07-03T16%3A28%3A48Z&sks=b&skv=2018-11-09&sig=J3LdQOdWBAAbh1GMQe3rzXNFBoVW29SsOomMIsL%2FUqk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Njk5OSwibmJmIjoxNzgzMDkzMzk5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.MjeRMTgQCZArtSfX6r9hYpW51EHjUvyOSqMI4n5802I&response-content-disposition=attachment%3B%20filename%3DCytoscape_3_10_4_macos_aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/7654975/c9c5bde2-3a95-4283-9f0f-bdd35ec4f6f0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A17Z&rscd=attachment%3B+filename%3DCytoscape_3_10_4_macos_x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A40Z&ske=2026-07-03T16%3A28%3A17Z&sks=b&skv=2018-11-09&sig=ozb7SAFqkJ6hqSAwUYfultlZ8S0%2BeBqfE4cCHSmx4Jo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzAwMiwibmJmIjoxNzgzMDkzNDAyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.UrwII1w0yanmaPCZnN0HHGtZ2l-Jap8VZl2LF-_Rx6A&response-content-disposition=attachment%3B%20filename%3DCytoscape_3_10_4_macos_x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "35LDCJ33QT",
+    "label": "cytoscape",
+    "name": "Cytoscape",
+    "timeStamp": "2026-07-03T15:43:20Z",
+    "type": "dmg"
+  }
+]

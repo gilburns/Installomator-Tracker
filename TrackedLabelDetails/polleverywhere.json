@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://polleverywhere-app.s3.amazonaws.com/mac-stable/4.0.1/pollev.dmg",
+    "expectedTeamID": "W48F3X5M8W",
+    "label": "polleverywhere",
+    "name": "Poll Everywhere",
+    "timeStamp": "2026-07-03T15:59:49Z",
+    "type": "dmg"
+  }
+]

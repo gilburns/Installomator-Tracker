@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.24.1508",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.synergysportstech.com/Apps/Basketball/production/macOS/Synergy_Basketball_1_0_24_1508.dmg",
+    "expectedTeamID": "BATB6XS52B",
+    "label": "synergybasketball",
+    "name": "Synergy Basketball",
+    "timeStamp": "2026-07-03T16:05:24Z",
+    "type": "dmg"
+  }
+]

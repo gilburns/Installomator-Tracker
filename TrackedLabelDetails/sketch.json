@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.sketch.com/sketch-2026.2-231037.zip",
+    "expectedTeamID": "WUGMZZ5K46",
+    "label": "sketch",
+    "name": "Sketch",
+    "timeStamp": "2026-07-03T16:04:05Z",
+    "type": "zip"
+  }
+]

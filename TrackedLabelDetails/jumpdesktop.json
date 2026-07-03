@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "9.1.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://mirror.jumpdesktop.com/downloads/jdm/JumpDesktopMac-90109.zip",
+    "expectedTeamID": "2HCKV38EEC",
+    "label": "jumpdesktop",
+    "name": "Jump Desktop",
+    "timeStamp": "2026-07-03T15:50:28Z",
+    "type": "zip"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.37.2395",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.readcube.com/app/Papers_Setup-arm64.dmg",
+    "downloadURLi386": "https://download.readcube.com/app/Papers_Setup-x64.dmg",
+    "expectedTeamID": "FY6R4ETYH7",
+    "label": "papers",
+    "name": "Papers",
+    "timeStamp": "2026-07-03T15:59:11Z",
+    "type": "dmg"
+  }
+]

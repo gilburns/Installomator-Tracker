@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.9.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.omnigroup.com/software/macOS/11/OmniPresence-1.9.1.dmg",
+    "expectedTeamID": "34YW5XSRB7",
+    "label": "omnipresence",
+    "name": "OmniPresence",
+    "timeStamp": "2026-07-03T15:58:28Z",
+    "type": "dmg"
+  }
+]

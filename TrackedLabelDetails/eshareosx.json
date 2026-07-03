@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "https://www.ncryptedcloud.com/static/downloads/osx/",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.ncryptedcloud.com/static/downloads/osx/",
+    "expectedTeamID": "X9MBQS7DDC",
+    "label": "eshareosx",
+    "name": "e-Share",
+    "timeStamp": "2026-07-03T15:45:35Z",
+    "type": "pkg"
+  }
+]

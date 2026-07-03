@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://radiosilenceapp.com/downloads/Radio_Silence_3.4.pkg",
+    "expectedTeamID": "6JQLCT6DRB",
+    "label": "radiosilence",
+    "name": "Radio Silence",
+    "timeStamp": "2026-07-03T16:01:37Z",
+    "type": "pkg"
+  }
+]

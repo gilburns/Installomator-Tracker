@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.108.0",
+    "blockingProcesses": [
+      "ScaleFT"
+    ],
+    "downloadURL": "https://dist.scaleft.com/repos/macos/stable/all/macos-client/v1.108.0/ScaleFT-1.108.0.pkg",
+    "expectedTeamID": "B7F62B65BN",
+    "label": "scaleft",
+    "name": "ScaleFT",
+    "timeStamp": "2026-07-03T16:03:26Z",
+    "type": "pkg"
+  }
+]

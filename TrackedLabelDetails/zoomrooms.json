@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.1.0.13088",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.zoom.us/prod/7.1.0.13088/ZoomRooms.pkg",
+    "expectedTeamID": "BJ4HAAB9B3",
+    "label": "zoomrooms",
+    "name": "ZoomPresence",
+    "timeStamp": "2026-07-03T16:09:32Z",
+    "type": "pkg"
+  }
+]

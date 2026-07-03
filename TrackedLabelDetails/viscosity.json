@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.12.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://swupdate.sparklabs.com/download/mac/release/viscosity/Viscosity%201.12.1.dmg",
+    "expectedTeamID": "34XR7GXFPX",
+    "label": "viscosity",
+    "name": "Viscosity",
+    "timeStamp": "2026-07-03T16:07:55Z",
+    "type": "dmg"
+  }
+]

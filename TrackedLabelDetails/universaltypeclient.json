@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.0.13",
+    "blockingProcesses": [],
+    "downloadURL": "https://bin.extensis.com/UTC-7-0-13-M.zip",
+    "expectedTeamID": "J6MMHGD9D6",
+    "label": "universaltypeclient",
+    "name": "Universal Type Client",
+    "timeStamp": "2026-07-03T16:07:19Z",
+    "type": "pkgInZip"
+  }
+]

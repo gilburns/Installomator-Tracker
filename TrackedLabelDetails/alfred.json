@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "Alfred 5.app",
+    "appNewVersion": "5.7.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://cachefly.alfredapp.com/Alfred_5.7.3_2320.dmg",
+    "expectedTeamID": "XZZXE9SED4",
+    "label": "alfred",
+    "name": "Alfred",
+    "timeStamp": "2026-07-03T15:36:54Z",
+    "type": "dmg"
+  }
+]

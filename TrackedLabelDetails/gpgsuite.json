@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2023.3",
+    "blockingProcesses": [
+      "GPG Keychain"
+    ],
+    "downloadURL": "https://releases.gpgtools.com/GPG_Suite-2023.3.dmg",
+    "expectedTeamID": "PKV8ZPD836",
+    "label": "gpgsuite",
+    "name": "GPG Suite",
+    "timeStamp": "2026-07-03T15:47:21Z",
+    "type": "pkgInDmg"
+  }
+]

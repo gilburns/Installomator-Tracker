@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.0.4033.57",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.vivaldi.com/stable-auto/Vivaldi.8.0.4033.57.universal.tar.xz",
+    "expectedTeamID": "4XF3XNRN6Y",
+    "label": "vivaldi",
+    "name": "Vivaldi",
+    "timeStamp": "2026-07-03T16:07:59Z",
+    "type": "tbz"
+  }
+]

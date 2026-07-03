@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.6.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.omnigroup.com/software/MacOSX/10.10/OmniGraffle-6.6.2.dmg",
+    "expectedTeamID": "Group",
+    "label": "omnigraffle6",
+    "name": "OmniGraffle",
+    "timeStamp": "2026-07-03T15:58:26Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://scrivener.s3.amazonaws.com/Scapple.dmg",
+    "expectedTeamID": "W4QTL7X778",
+    "label": "scapple",
+    "name": "Scapple",
+    "timeStamp": "2026-07-03T16:03:27Z",
+    "type": "dmg"
+  }
+]

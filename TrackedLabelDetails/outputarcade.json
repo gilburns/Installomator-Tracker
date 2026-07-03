@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.13.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-builds.outputaudio.com/arcade/Arcade_OSX_Install_2.13.6.R27293.pkg",
+    "expectedTeamID": "M4BQRFQ23V",
+    "label": "outputarcade",
+    "name": "Arcade",
+    "timeStamp": "2026-07-03T15:58:58Z",
+    "type": "pkg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.7.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://sourceforge.net/projects/grandperspectiv/files/latest/download",
+    "expectedTeamID": "3Z75QZGN66",
+    "label": "grandperspective",
+    "name": "GrandPerspective",
+    "timeStamp": "2026-07-03T15:47:26Z",
+    "type": "dmg"
+  }
+]

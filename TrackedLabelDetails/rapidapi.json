@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.5.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn-builds.paw.cloud/paw/RapidAPI-4.5.5-4005005001.zip",
+    "expectedTeamID": "84599RL58A",
+    "label": "rapidapi",
+    "name": "RapidAPI",
+    "timeStamp": "2026-07-03T16:01:47Z",
+    "type": "zip"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.2.11",
+    "blockingProcesses": [],
+    "downloadURL": "http://s.sudre.free.fr/Software/files/Packages.dmg",
+    "expectedTeamID": "NL5M9E394P",
+    "label": "packages",
+    "name": "Packages",
+    "timeStamp": "2026-07-03T15:59:08Z",
+    "type": "pkgInDmg"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.3",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/347864718/e5f25154-c519-4396-b2ba-31476dac697b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A43%3A40Z&rscd=attachment%3B+filename%3Dmist-cli.2.3.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A43%3A20Z&ske=2026-07-03T16%3A43%3A40Z&sks=b&skv=2018-11-09&sig=hvHjMynXw1q4BN6cAJxRxsm9gJW2m7arJP5IZruBFmE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NDUxMCwibmJmIjoxNzgzMDk0MjEwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.mMz4cGKPrrQkftHc02cZMODiCaWT8SRqIdBwXb3kokM&response-content-disposition=attachment%3B%20filename%3Dmist-cli.2.3.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "7K3HVCLV7Z",
+    "label": "mist-cli",
+    "name": "Mist-CLI",
+    "timeStamp": "2026-07-03T15:56:50Z",
+    "type": "pkg"
+  }
+]

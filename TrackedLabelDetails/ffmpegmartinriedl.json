@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.1.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://ffmpeg.martin-riedl.de/download/macos/arm64/1783011502_8.1.2/ffmpeg.pkg",
+    "downloadURLi386": "https://ffmpeg.martin-riedl.de/download/macos/amd64/1783018342_8.1.2/ffmpeg.pkg",
+    "expectedTeamID": "KU3N25YGLU",
+    "label": "ffmpegmartinriedl",
+    "name": "FFmpeg",
+    "timeStamp": "2026-07-03T15:45:51Z",
+    "type": "pkg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.3.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.coconut-flavour.com/downloads/coconutBattery_433_218.zip",
+    "expectedTeamID": "R5SC3K86L5",
+    "label": "coconutbattery",
+    "name": "coconutBattery",
+    "timeStamp": "2026-07-03T15:42:40Z",
+    "type": "zip"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.0.0.79",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://static.idriveonlinebackup.com/downloads/060326/IDrive.dmg",
+    "expectedTeamID": "JWDCNYZ922",
+    "label": "idrive",
+    "name": "IDrive",
+    "timeStamp": "2026-07-03T15:48:06Z",
+    "type": "pkgInDmg"
+  }
+]

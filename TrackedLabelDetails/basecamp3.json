@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "Basecamp.app",
+    "appNewVersion": "5.0.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://basecamp.com/desktop/Basecamp-5.0.8-mac-arm64.zip",
+    "downloadURLi386": "https://basecamp.com/desktop/Basecamp-5.0.8-mac-x64.zip",
+    "expectedTeamID": "2WNYUYRS7G",
+    "label": "basecamp3",
+    "name": "Basecamp 3",
+    "timeStamp": "2026-07-03T15:39:10Z",
+    "type": "zip"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.1.21",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://static.tumult.com/hype/download/Hype.dmg",
+    "expectedTeamID": "8J356DM772",
+    "label": "hype",
+    "name": "Hype4",
+    "timeStamp": "2026-07-03T15:47:57Z",
+    "type": "dmg"
+  }
+]

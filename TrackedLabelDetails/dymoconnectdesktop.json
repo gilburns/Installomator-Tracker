@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.6.0.41",
+    "blockingProcesses": [],
+    "downloadURL": "https://dymoreleasecontent.blob.core.windows.net/dymo-release/DCDMAC/DCDMac1.6.0.41-Arm64.pkg",
+    "downloadURLi386": "https://dymoreleasecontent.blob.core.windows.net/dymo-release/DCDMAC/DCDMac1.6.0.41-X64.pkg",
+    "expectedTeamID": "N3S6676K3E",
+    "label": "dymoconnectdesktop",
+    "name": "DYMO Connect",
+    "timeStamp": "2026-07-03T15:44:55Z",
+    "type": "pkg"
+  }
+]

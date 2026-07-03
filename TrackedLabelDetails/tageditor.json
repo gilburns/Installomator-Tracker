@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.0.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://amvidia.com/downloads/tag-editor-mac.dmg",
+    "expectedTeamID": "F2TH9XX9CJ",
+    "label": "tageditor",
+    "name": "Tag Editor",
+    "timeStamp": "2026-07-03T16:05:33Z",
+    "type": "dmg"
+  }
+]

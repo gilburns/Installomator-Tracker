@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.24.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop-release.notion-static.com/Notion-7.24.0-universal.dmg",
+    "expectedTeamID": "LBQJ96FQ8D",
+    "label": "notion",
+    "name": "Notion",
+    "timeStamp": "2026-07-03T15:57:55Z",
+    "type": "dmg"
+  }
+]

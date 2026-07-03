@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "https://onionshare.org",
+    "blockingProcesses": [],
+    "downloadURL": "https://onionshare.org/",
+    "expectedTeamID": "N9B95FDWH4",
+    "label": "onionshare",
+    "name": "OnionShare",
+    "timeStamp": "2026-07-03T15:58:30Z",
+    "type": "dmg"
+  }
+]

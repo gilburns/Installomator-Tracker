@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.google.com/earth/client/advanced/current/GoogleEarthProMac-Intel.dmg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "googleearth",
+    "name": "Google Earth Pro",
+    "timeStamp": "2026-07-03T15:47:12Z",
+    "type": "pkgInDmg"
+  }
+]

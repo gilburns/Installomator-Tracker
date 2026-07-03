@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.3.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/420628737/0ff427ce-13e4-46f2-99df-91c6e9f42aa2?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A22Z&rscd=attachment%3B+filename%3DBetterDisplay-v4.3.4.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A24Z&ske=2026-07-03T16%3A28%3A22Z&sks=b&skv=2018-11-09&sig=cxzQFsWEx%2Bt1E9g47KlMH6Xyh5T31SIrc6JGTuFDwjE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NDk2NSwibmJmIjoxNzgzMDkzMTY1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.GWkeDXKDBSPyV86d-BJqGTnDZQLOPUH2K21nwqt0ONw&response-content-disposition=attachment%3B%20filename%3DBetterDisplay-v4.3.4.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "299YSU96J7",
+    "label": "betterdisplay",
+    "name": "BetterDisplay",
+    "timeStamp": "2026-07-03T15:39:25Z",
+    "type": "dmg"
+  }
+]

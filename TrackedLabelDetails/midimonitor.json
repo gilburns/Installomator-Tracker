@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.5.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.snoize.com/MIDIMonitor/MIDIMonitor.dmg",
+    "expectedTeamID": "YDJAW5GX9U",
+    "label": "midimonitor",
+    "name": "MIDI Monitor",
+    "timeStamp": "2026-07-03T15:56:41Z",
+    "type": "dmg"
+  }
+]

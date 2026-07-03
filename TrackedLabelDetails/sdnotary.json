@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.12",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/latenightsw.com/SDNotary1.4.12-71.zip",
+    "expectedTeamID": "Z7S6X96M3X",
+    "label": "sdnotary",
+    "name": "SD Notary",
+    "timeStamp": "2026-07-03T16:03:42Z",
+    "type": "zip"
+  }
+]

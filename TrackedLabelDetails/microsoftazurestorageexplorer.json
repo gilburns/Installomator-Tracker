@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.44.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/124597291/ee68b282-b0c7-4061-833f-b0deaef2cf4f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A19Z&rscd=attachment%3B+filename%3DStorageExplorer-darwin-arm64.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A54%3A50Z&ske=2026-07-03T16%3A55%3A19Z&sks=b&skv=2018-11-09&sig=PZJ2wSqDvm82BaUXtRfXuZydPeIEHcm6FPMkmdOK4%2Fg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Nzc2OCwibmJmIjoxNzgzMDk0MTY4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.8vgqYIIdUzqz4F8IBnwdjaAp_r6Jqd5F2l-y4uwuSq8&response-content-disposition=attachment%3B%20filename%3DStorageExplorer-darwin-arm64.zip&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/124597291/16ab5d44-479a-40d1-a2f4-7eccc5a0e606?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A29%3A15Z&rscd=attachment%3B+filename%3DStorageExplorer-darwin-x64.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A09Z&ske=2026-07-03T16%3A29%3A15Z&sks=b&skv=2018-11-09&sig=pf741Kl%2Bsz01oj3y%2BjdLOc194jUb1n9izjXpnCtoEEk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Nzc3MCwibmJmIjoxNzgzMDk0MTcwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.iMvdDiT7DYpn6Vf_RrD46_0vKOhNA2uIrvykNt4hRxg&response-content-disposition=attachment%3B%20filename%3DStorageExplorer-darwin-x64.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftazurestorageexplorer",
+    "name": "Microsoft Azure Storage Explorer",
+    "timeStamp": "2026-07-03T15:56:08Z",
+    "type": "zip"
+  }
+]

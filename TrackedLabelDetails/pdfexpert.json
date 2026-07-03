@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.4.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.pdfexpert.com/release/11/PDFExpert.zip",
+    "expectedTeamID": "3L68KQB4HG",
+    "label": "pdfexpert",
+    "name": "PDF Expert",
+    "timeStamp": "2026-07-03T15:59:20Z",
+    "type": "zip"
+  }
+]

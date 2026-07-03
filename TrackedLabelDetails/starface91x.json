@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "9.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.starface-cdn.de/starface/clients/mac/STARFACE_9.1.0_1297_d67785e.dmg",
+    "expectedTeamID": "Q965D3UXEW",
+    "label": "starface91x",
+    "name": "STARFACE",
+    "timeStamp": "2026-07-03T16:04:54Z",
+    "type": "dmg"
+  }
+]

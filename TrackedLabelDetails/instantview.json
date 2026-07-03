@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.24 R0004",
+    "blockingProcesses": [
+      "macOS InstantView"
+    ],
+    "downloadURL": "https://www.siliconmotion.com/downloads/macOS_InstantView_V3.24R0004.dmg",
+    "expectedTeamID": "JAGYSS7E9A",
+    "label": "instantview",
+    "name": "macOS InstantView",
+    "timeStamp": "2026-07-03T15:49:22Z",
+    "type": "dmg"
+  }
+]

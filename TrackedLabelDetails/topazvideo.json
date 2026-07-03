@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.1.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.topazlabs.com/deploy/TopazVideoAI/7.1.5/TopazVideoAI-7.1.5.dmg",
+    "expectedTeamID": "3G3JE37ZHF",
+    "label": "topazvideo",
+    "name": "Topaz Video AI",
+    "timeStamp": "2026-07-03T16:06:17Z",
+    "type": "dmg"
+  }
+]

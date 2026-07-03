@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.6.14916780",
+    "blockingProcesses": [],
+    "downloadURL": "https://appdownload.deepl.com/macos/26.6/14916780/DeepL.dmg",
+    "expectedTeamID": "4N8BGCG336",
+    "label": "deepl",
+    "name": "DeepL",
+    "timeStamp": "2026-07-03T15:43:36Z",
+    "type": "dmg"
+  }
+]

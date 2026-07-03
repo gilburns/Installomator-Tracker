@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.83.26040910",
+    "blockingProcesses": [],
+    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.83.26040910_Updater.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftautoupdate",
+    "name": "Microsoft AutoUpdate",
+    "timeStamp": "2026-07-03T15:56:05Z",
+    "type": "pkg"
+  }
+]

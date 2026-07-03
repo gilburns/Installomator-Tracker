@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.4.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.textexpander.com/mac/844.1/TextExpander_8.4.4.dmg",
+    "expectedTeamID": "7PKJ6G4DXL",
+    "label": "textexpander",
+    "name": "TextExpander",
+    "timeStamp": "2026-07-03T16:05:53Z",
+    "type": "dmg"
+  }
+]

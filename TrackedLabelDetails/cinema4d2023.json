@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2023.2.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/cinema4d/releases/2023.2.2/Cinema4D_2023_2023.2.2_Mac.dmg",
+    "expectedTeamID": "4ZY22YGXQG",
+    "label": "cinema4d2023",
+    "name": "Cinema 4D",
+    "timeStamp": "2026-07-03T15:41:59Z",
+    "type": "dmg"
+  }
+]

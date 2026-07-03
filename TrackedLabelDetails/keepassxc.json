@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.7.12",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/52729242/bc11f46e-988a-4dc8-ade5-8bd3e27dfbe8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A48Z&rscd=attachment%3B+filename%3DKeePassXC-2.7.12-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A30Z&ske=2026-07-03T16%3A27%3A48Z&sks=b&skv=2018-11-09&sig=rM%2BHstb9uUkvEdRD3XUfOhL%2BydkjrdEe3bO7glwuxos%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTY0MSwibmJmIjoxNzgzMDkzODQxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.m17S_Tqtnl6ML_zIpjnr3gpRBkMxIiWH6XV-HaRIR58&response-content-disposition=attachment%3B%20filename%3DKeePassXC-2.7.12-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/52729242/3830795b-72f9-4cdc-88c2-04d4ee9b1da3?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A26%3A55Z&rscd=attachment%3B+filename%3DKeePassXC-2.7.12-x86_64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A26%3A30Z&ske=2026-07-03T16%3A26%3A55Z&sks=b&skv=2018-11-09&sig=BmN7dk4LHPfQHrN4%2FtI11%2B1TLoKjVUO%2BWoPXLi0gg0c%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTY0NCwibmJmIjoxNzgzMDkzODQ0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Hxa4h5Qex-Y1_-v5lg-PWwaklkjGIoxmpX8Ss_R9GO0&response-content-disposition=attachment%3B%20filename%3DKeePassXC-2.7.12-x86_64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "G2S7P7J672",
+    "label": "keepassxc",
+    "name": "KeePassXC",
+    "timeStamp": "2026-07-03T15:50:41Z",
+    "type": "dmg"
+  }
+]

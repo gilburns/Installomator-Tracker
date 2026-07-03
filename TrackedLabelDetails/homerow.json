@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.5.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://builds.homerow.app/latest/Homerow.dmg",
+    "expectedTeamID": "XDP69BYUP9",
+    "label": "homerow",
+    "name": "Homerow",
+    "timeStamp": "2026-07-03T15:47:42Z",
+    "type": "dmg"
+  }
+]

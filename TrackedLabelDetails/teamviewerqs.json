@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "15.79.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.teamviewer.com/download/version_15x/TeamViewerQS.dmg",
+    "expectedTeamID": "H7UGFBUGV6",
+    "label": "teamviewerqs",
+    "name": "TeamViewerQS",
+    "timeStamp": "2026-07-03T16:05:36Z",
+    "type": "dmg"
+  }
+]

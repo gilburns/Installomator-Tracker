@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.138.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://calendar-desktop-release.notion-static.com/Notion%20Calendar-1.138.0-arm64.dmg",
+    "downloadURLi386": "https://calendar-desktop-release.notion-static.com/Notion%20Calendar-1.138.0-x64.dmg",
+    "expectedTeamID": "LBQJ96FQ8D",
+    "label": "notioncalendar",
+    "name": "Notion Calendar",
+    "timeStamp": "2026-07-03T15:57:56Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.53.0.52374",
+    "blockingProcesses": [],
+    "downloadURL": "https://releases-static.displaynote.com/6a401bad%2F82ab%2F4c38%2F82e5%2F4086513743d2%2FDisplaynoteMontageClient-2.53.0.52374.pkg?response-content-disposition=attachment%3B%20filename=displaynote-mac-2.53.0.52374-released.pkg%3B%20size=251033087",
+    "expectedTeamID": "Q3ML87W6WF",
+    "label": "displaynote",
+    "name": "displaynote",
+    "timeStamp": "2026-07-03T15:44:29Z",
+    "type": "pkg"
+  }
+]

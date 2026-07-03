@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "/bin/17",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.azul.com/zulu/bin/17-ca-jdk15.0.10-macosx_aarch64.dmg</td>",
+    "downloadURLi386": "https://cdn.azul.com/zulu/bin/17-ca-jdk15.0.10-macosx_x64.dmg</td>",
+    "expectedTeamID": "TDTHCUPYFR",
+    "label": "zulujdk15",
+    "name": "Zulu JDK 15",
+    "timeStamp": "2026-07-03T16:09:42Z",
+    "type": "pkgInDmg"
+  }
+]

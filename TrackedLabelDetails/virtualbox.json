@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.2.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.virtualbox.org/virtualbox/7.2.10/VirtualBox-7.2.10-174163-OSX.dmg",
+    "expectedTeamID": "VB5E2TV963",
+    "label": "virtualbox",
+    "name": "VirtualBox",
+    "timeStamp": "2026-07-03T16:07:46Z",
+    "type": "pkgInDmg"
+  }
+]

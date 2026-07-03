@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.5.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.filmlabapp.com/desktop/FilmLab-3.5.0-universal.dmg",
+    "expectedTeamID": "UAGC35XKV5",
+    "label": "filmlab",
+    "name": "FilmLab",
+    "timeStamp": "2026-07-03T15:45:59Z",
+    "type": "dmg"
+  }
+]

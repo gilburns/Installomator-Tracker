@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.6.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/49609581/92dcdd5a-8f67-4c5d-a8e1-e15ee92af306?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A09Z&rscd=attachment%3B+filename%3Dpowershell-7.6.3-osx-arm64.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A54%3A28Z&ske=2026-07-03T16%3A55%3A09Z&sks=b&skv=2018-11-09&sig=Jhq1E06fCz3mQWJ%2FCGMwSlTLZYfC9yUrv2g7smstVrY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTk0NCwibmJmIjoxNzgzMDk0MTQ0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Y8UyeY9AQex7pFAInd_7FEHmRrcZYxVVOf9Gf20oJAU&response-content-disposition=attachment%3B%20filename%3Dpowershell-7.6.3-osx-arm64.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/49609581/e1a7e7fd-c261-471b-bd2b-55258804946a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A54%3A35Z&rscd=attachment%3B+filename%3Dpowershell-7.6.3-osx-x64.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A54%3A24Z&ske=2026-07-03T16%3A54%3A35Z&sks=b&skv=2018-11-09&sig=SKrqFEHRftjN%2FeSCX5T5M74FPx8GAPOwrQMK1xOclOE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTk5MywibmJmIjoxNzgzMDk0MTkzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.W1cRzXbaWsN3Vx5sE_IDh5TW3K0L83CD35nWCyzTrII&response-content-disposition=attachment%3B%20filename%3Dpowershell-7.6.3-osx-x64.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftpowershell",
+    "name": "PowerShell",
+    "timeStamp": "2026-07-03T15:56:31Z",
+    "type": "pkg"
+  }
+]

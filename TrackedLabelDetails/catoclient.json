@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.13.1",
+    "blockingProcesses": [
+      "CatoClient",
+      "CatoClientExtension"
+    ],
+    "downloadURL": "https://clients.catonetworks.com/macos/5.13.1.11418/CatoClient.pkg",
+    "expectedTeamID": "CKGSB8CH43",
+    "label": "catoclient",
+    "name": "CatoClient",
+    "timeStamp": "2026-07-03T15:40:35Z",
+    "type": "pkg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "Managed App Schema Builder.app",
+    "appNewVersion": "1.2.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/239857178/7d37685f-50ca-4882-bf44-a7d3576b565d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A54%3A07Z&rscd=attachment%3B+filename%3DManaged.App.Schema.Builder.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A54%3A03Z&ske=2026-07-03T16%3A54%3A07Z&sks=b&skv=2018-11-09&sig=7Ft1bURuTngn6dwetpgjorb9Tm1G2q047T%2FG%2F4YbxWI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NDQzOSwibmJmIjoxNzgzMDk0MTM5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.yjqD2bMQEXn7eJjBZJASDQfqpvs9HdJoCJUN77puau0&response-content-disposition=attachment%3B%20filename%3DManaged.App.Schema.Builder.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "PS2F6S478M",
+    "label": "managedappschemabuilder",
+    "name": "Managed App Schema Builder",
+    "timeStamp": "2026-07-03T15:55:39Z",
+    "type": "zip"
+  }
+]

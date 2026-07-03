@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "10.26.49",
+    "blockingProcesses": [],
+    "downloadURL": "https://download01.logi.com/web/ftp/pub/techsupport/options/options_installer.zip",
+    "expectedTeamID": "QED4VVPZWA",
+    "label": "logitechoptions",
+    "name": "Logi Options",
+    "timeStamp": "2026-07-03T15:53:20Z",
+    "type": "pkgInZip"
+  }
+]

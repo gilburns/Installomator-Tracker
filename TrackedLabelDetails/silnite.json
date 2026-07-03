@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "10",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://eclecticlight.co/wp-content/uploads/2023/07/silnite10.zip",
+    "expectedTeamID": "QWY4LRW926",
+    "label": "silnite",
+    "name": "silnite",
+    "timeStamp": "2026-07-03T16:04:02Z",
+    "type": "pkgInZip"
+  }
+]

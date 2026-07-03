@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.0.111",
+    "blockingProcesses": [],
+    "downloadURL": "https://update.rode.com/central/RODE_Central_MACOS.zip",
+    "expectedTeamID": "Z9T72PWTJA",
+    "label": "rodecentral",
+    "name": "RODE Central",
+    "timeStamp": "2026-07-03T16:03:14Z",
+    "type": "pkgInZip"
+  }
+]

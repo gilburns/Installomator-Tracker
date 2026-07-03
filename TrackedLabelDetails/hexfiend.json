@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.18.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/2928534/cfda211f-7cfc-4811-a8c6-e45924d8a92f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A46%3A54Z&rscd=attachment%3B+filename%3DHex_Fiend_2.18.1.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A46%3A41Z&ske=2026-07-03T16%3A46%3A54Z&sks=b&skv=2018-11-09&sig=zrzeaCicOcDZHT4J5vpqUKIbIrhFMQQBq2EXHia6Dng%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5Mzk2MCwibmJmIjoxNzgzMDkzNjYwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.lHySHyi1gU0NacEsK_hqRHf4Fy_AmbC87_UUEedh0xI&response-content-disposition=attachment%3B%20filename%3DHex_Fiend_2.18.1.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "QK92QP33YN",
+    "label": "hexfiend",
+    "name": "Hex Fiend",
+    "timeStamp": "2026-07-03T15:47:40Z",
+    "type": "dmg"
+  }
+]

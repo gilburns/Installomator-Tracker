@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2026.4.1/RedGiant-2026.4.1_Mac.dmg",
+    "blockingProcesses": [],
+    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2026.4.1/RedGiant-2026.4.1_Mac.dmg",
+    "expectedTeamID": "4ZY22YGXQG",
+    "label": "redgiant",
+    "name": "Red Giant",
+    "timeStamp": "2026-07-03T16:01:58Z",
+    "type": "dmg"
+  }
+]

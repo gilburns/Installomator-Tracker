@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "492",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/115621629/0698b742-f142-47a8-a56b-7b2501399325?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A27%3A46Z&rscd=attachment%3B+filename%3Dbellsoft-jdk8u492%2B9-macos-aarch64-full.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A26%3A50Z&ske=2026-07-03T16%3A27%3A46Z&sks=b&skv=2018-11-09&sig=W4AKCzkCyUTcdi%2FpoLdOJaPlBfyPYZBykPXP%2B%2FGzCN4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzUwNywibmJmIjoxNzgzMDkzOTA3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Lbyv_MM63S7NiXocltsZynAHmIG6XgtoXSVw5yWKLJI&response-content-disposition=attachment%3B%20filename%3Dbellsoft-jdk8u492%2B9-macos-aarch64-full.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/115621629/f101b5d3-b9d6-4f3e-8216-443587b3b76b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A29%3A51Z&rscd=attachment%3B+filename%3Dbellsoft-jdk8u492%2B9-macos-amd64-full.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A14Z&ske=2026-07-03T16%3A29%3A51Z&sks=b&skv=2018-11-09&sig=crjP11Uqjn5bGSD2GYksXs6I0Kd5icFU0kT6JuFxMDE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzUxMCwibmJmIjoxNzgzMDkzOTEwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.SbQq7Z1E1ssZXTBDhGXrF8DzTFLWinSa_aaw_lEwceA&response-content-disposition=attachment%3B%20filename%3Dbellsoft-jdk8u492%2B9-macos-amd64-full.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "8LBATW8FZA",
+    "label": "libericajdk8ltsfull",
+    "name": "Liberica JDK 8 Full LTS",
+    "timeStamp": "2026-07-03T15:51:47Z",
+    "type": "pkg"
+  }
+]

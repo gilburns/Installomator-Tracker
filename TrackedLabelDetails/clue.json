@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "10.16.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.clue.no/downloads/mac/Clue10.16.0.dmg",
+    "expectedTeamID": "3NX6B9TB2F",
+    "label": "clue",
+    "name": "Clue",
+    "timeStamp": "2026-07-03T15:42:32Z",
+    "type": "dmg"
+  }
+]

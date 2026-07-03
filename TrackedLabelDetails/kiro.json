@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.12.333",
+    "blockingProcesses": [],
+    "downloadURL": "https://prod.download.desktop.kiro.dev/releases/stable/darwin-arm64/signed/0.12.333/kiro-ide-0.12.333-stable-darwin-arm64.dmg",
+    "downloadURLi386": "https://prod.download.desktop.kiro.dev/releases/stable/darwin-x64/signed/0.12.333/kiro-ide-0.12.333-stable-darwin-x64.dmg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "kiro",
+    "name": "Kiro",
+    "timeStamp": "2026-07-03T15:51:02Z",
+    "type": "dmg"
+  }
+]

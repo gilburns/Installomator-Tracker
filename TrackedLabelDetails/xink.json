@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.xink.io/macos/pkg",
+    "expectedTeamID": "F287823HVS",
+    "label": "xink",
+    "name": "Xink",
+    "timeStamp": "2026-07-03T16:09:03Z",
+    "type": "pkg"
+  }
+]

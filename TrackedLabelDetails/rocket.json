@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.9.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://db879acd-macrelease.s3.us-east-2.amazonaws.com/Rocket-88.dmg",
+    "expectedTeamID": "Z4JV2M65MH",
+    "label": "rocket",
+    "name": "Rocket",
+    "timeStamp": "2026-07-03T16:03:09Z",
+    "type": "dmg"
+  }
+]
