@@ -30,10 +30,10 @@ jobs:
 
       - name: Commit label sync changes
         run: |
-          if git diff --quiet -- Labels; then
+          git add Labels
+          if git diff --cached --quiet; then
             echo "No label changes from upstream."
           else
-            git add Labels
             git commit -m "Sync labels from Installomator upstream"
             git push
           fi
@@ -43,10 +43,10 @@ jobs:
 
       - name: Commit tracked version changes
         run: |
-          if git diff --quiet -- TrackedLabelDetails; then
+          git add TrackedLabelDetails
+          if git diff --cached --quiet; then
             echo "No new versions discovered."
             exit 0
           fi
-          git add TrackedLabelDetails
           git commit -m "Update tracked label versions"
           git push
