@@ -43,7 +43,7 @@ jobs:
 
       - name: Commit tracked version changes
         run: |
-          git add TrackedLabelDetails
+          git add TrackedLabelDetails failed_labels.json
           if git diff --cached --quiet; then
             echo "No new versions discovered."
             exit 0
