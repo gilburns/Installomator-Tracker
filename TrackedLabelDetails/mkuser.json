@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2025.9.3-1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/426721502/d259da92-cdb4-4801-9d5b-7166e45bfd2d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-04T19%3A27%3A54Z&rscd=attachment%3B+filename%3Dmkuser-2025.9.3-1.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-04T18%3A27%3A00Z&ske=2026-07-04T19%3A27%3A54Z&sks=b&skv=2018-11-09&sig=ru9mV0jZhlESR0T8AVpNvUpI7ftbALVc23yzePJiFCM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzE5MDg5OCwibmJmIjoxNzgzMTkwNTk4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.so9Qe64bB2idaThlp7RgklTcmSgt8k0JzjrlnZd2lHg&response-content-disposition=attachment%3B%20filename%3Dmkuser-2025.9.3-1.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "YRW6NUGA63",
+    "label": "mkuser",
+    "name": "mkuser",
+    "timeStamp": "2026-07-04T18:43:17Z",
+    "type": "pkg"
+  }
+]

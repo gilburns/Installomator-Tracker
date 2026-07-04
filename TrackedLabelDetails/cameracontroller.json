@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/279464712/83cb6071-f6d0-4962-a8cd-2c551037df85?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-04T19%3A00%3A00Z&rscd=attachment%3B+filename%3DCameraController.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-04T17%3A59%3A11Z&ske=2026-07-04T19%3A00%3A00Z&sks=b&skv=2018-11-09&sig=4ix1DfwT4yY0%2BB6hlI717cQdjknWRugPf38oFCDIpTI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzE4OTg3OSwibmJmIjoxNzgzMTg5NTc5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.b5xK2G-ows0yZ9XpERQ_G24YTtagpeGpSoWtpJc-58E&response-content-disposition=attachment%3B%20filename%3DCameraController.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "PY9WJ3M9MW",
+    "label": "cameracontroller",
+    "name": "CameraController",
+    "timeStamp": "2026-07-04T18:26:19Z",
+    "type": "zip"
+  }
+]
