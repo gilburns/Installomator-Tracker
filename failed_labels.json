@@ -235,10 +235,30 @@
       "lastSeen": "2026-07-04T18:28:28Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "cinema4d": {
+      "firstSeen": "2026-07-05T07:09:44Z",
+      "lastSeen": "2026-07-05T07:09:44Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "cinema4d2023": {
       "firstSeen": "2026-07-04T18:29:32Z",
       "lastSeen": "2026-07-04T18:29:32Z",
       "reason": "resolve failed (exit 142)"
+    },
+    "cinema4d2024": {
+      "firstSeen": "2026-07-05T07:09:44Z",
+      "lastSeen": "2026-07-05T07:09:44Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "cinema4d2025": {
+      "firstSeen": "2026-07-05T07:09:45Z",
+      "lastSeen": "2026-07-05T07:09:45Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "cinema4d2026": {
+      "firstSeen": "2026-07-05T07:09:45Z",
+      "lastSeen": "2026-07-05T07:09:45Z",
+      "reason": "missing appNewVersion or downloadURL"
     },
     "cleartouchcollage": {
       "firstSeen": "2026-07-04T18:29:39Z",
@@ -323,6 +343,11 @@
     "easeusdatarecoverywizard": {
       "firstSeen": "2026-07-04T18:32:41Z",
       "lastSeen": "2026-07-04T18:32:41Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "eclipseideforjavadevelopers": {
+      "firstSeen": "2026-07-05T07:12:12Z",
+      "lastSeen": "2026-07-05T07:12:12Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "eclipsetemurin25": {
@@ -565,6 +590,11 @@
       "lastSeen": "2026-07-04T18:40:48Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "macadminspython": {
+      "firstSeen": "2026-07-05T07:19:38Z",
+      "lastSeen": "2026-07-05T07:19:38Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "mackiemasterfader": {
       "firstSeen": "2026-07-04T18:40:55Z",
       "lastSeen": "2026-07-04T18:40:55Z",
@@ -678,6 +708,11 @@
     "miro": {
       "firstSeen": "2026-07-04T18:43:14Z",
       "lastSeen": "2026-07-04T18:43:14Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "mkuser": {
+      "firstSeen": "2026-07-05T07:21:56Z",
+      "lastSeen": "2026-07-05T07:21:56Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mmhmm": {
@@ -855,10 +890,20 @@
       "lastSeen": "2026-07-04T18:46:21Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "redgiant": {
+      "firstSeen": "2026-07-05T07:25:59Z",
+      "lastSeen": "2026-07-05T07:25:59Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "redshift": {
       "firstSeen": "2026-07-04T18:47:27Z",
       "lastSeen": "2026-07-04T18:47:27Z",
       "reason": "resolve failed (exit 142)"
+    },
+    "redshiftlite": {
+      "firstSeen": "2026-07-05T07:25:59Z",
+      "lastSeen": "2026-07-05T07:25:59Z",
+      "reason": "missing appNewVersion or downloadURL"
     },
     "reflector4": {
       "firstSeen": "2026-07-04T18:47:28Z",
@@ -1190,6 +1235,11 @@
       "lastSeen": "2026-07-04T18:52:29Z",
       "reason": "invalid JSON output"
     },
+    "webex": {
+      "firstSeen": "2026-07-05T07:31:12Z",
+      "lastSeen": "2026-07-05T07:31:12Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "webexmeetings": {
       "firstSeen": "2026-07-04T18:52:37Z",
       "lastSeen": "2026-07-04T18:52:37Z",
@@ -1198,6 +1248,11 @@
     "webextoolsremoval": {
       "firstSeen": "2026-07-04T18:52:37Z",
       "lastSeen": "2026-07-04T18:52:37Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "webexvdiplugin": {
+      "firstSeen": "2026-07-05T07:31:12Z",
+      "lastSeen": "2026-07-05T07:31:12Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "wechat": {
@@ -1228,6 +1283,11 @@
     "zappy": {
       "firstSeen": "2026-07-04T18:54:22Z",
       "lastSeen": "2026-07-04T18:54:22Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "zbrush2025": {
+      "firstSeen": "2026-07-05T07:31:45Z",
+      "lastSeen": "2026-07-05T07:31:45Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "zeplin": {
