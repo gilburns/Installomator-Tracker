@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.8.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/AmadeusPro2/AmadeusPro.zip",
+    "expectedTeamID": "FWDH9W45C2",
+    "label": "amadeuspro2",
+    "name": "Amadeus Pro",
+    "timeStamp": "2026-07-06T23:14:58Z",
+    "type": "zip"
+  }
+]
