@@ -9,5 +9,16 @@
     "name": "Beam Studio",
     "timeStamp": "2026-07-03T15:39:19Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.6.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://beamstudio.s3-ap-northeast-1.amazonaws.com/mac-arm64/Beam+Studio+2.6.8.dmg",
+    "expectedTeamID": "4Y92JWKV94",
+    "label": "beamstudio",
+    "name": "Beam Studio",
+    "timeStamp": "2026-07-06T07:33:50Z",
+    "type": "dmg"
   }
 ]

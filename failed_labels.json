@@ -675,6 +675,11 @@
       "lastSeen": "2026-07-04T18:43:00Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "microsoftpowershell": {
+      "firstSeen": "2026-07-06T07:48:32Z",
+      "lastSeen": "2026-07-06T07:48:32Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "microsoftsharepointplugin": {
       "firstSeen": "2026-07-04T18:43:05Z",
       "lastSeen": "2026-07-04T18:43:05Z",
