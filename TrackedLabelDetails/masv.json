@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "2.11.5",
+    "appNewVersion": "2.12.0",
     "blockingProcesses": [],
     "downloadURL": "https://dl.massive.io/MASV.dmg",
     "expectedTeamID": "VHKX7RCAY7",
     "label": "masv",
     "name": "MASV",
-    "timeStamp": "2026-07-03T15:55:45Z",
+    "timeStamp": "2026-07-07T18:57:43Z",
     "type": "dmg"
   }
 ]

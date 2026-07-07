@@ -11,5 +11,18 @@
     "name": "Firefox",
     "timeStamp": "2026-07-03T15:46:07Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "152.0.5",
+    "blockingProcesses": [
+      "firefox"
+    ],
+    "downloadURL": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.5/mac/en-US/Firefox%20152.0.5.dmg",
+    "expectedTeamID": "43AQ936H96",
+    "label": "firefox_intl",
+    "name": "Firefox",
+    "timeStamp": "2026-07-07T18:49:28Z",
+    "type": "dmg"
   }
 ]

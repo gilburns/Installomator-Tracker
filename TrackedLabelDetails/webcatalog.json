@@ -9,5 +9,16 @@
     "name": "WebCatalog",
     "timeStamp": "2026-07-03T16:08:22Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "77.0.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn-2.webcatalog.io/webcatalog/WebCatalog-77.0.7-universal.dmg",
+    "expectedTeamID": "36UJGA8U65",
+    "label": "webcatalog",
+    "name": "WebCatalog",
+    "timeStamp": "2026-07-07T19:07:14Z",
+    "type": "dmg"
   }
 ]

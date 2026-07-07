@@ -9,5 +9,16 @@
     "name": "Bitwig Studio",
     "timeStamp": "2026-07-03T15:39:37Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.0.11",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads-secure.bitwig.com/6.0.11/Bitwig%20Studio%206.0.11.dmg?__token__=st=1783449784~exp=1783460584~hmac=8c68cba0a17a2422ca63dc3969efa463716fe33e0e7a433d23b06bcdc9dbb824&source_url=/dl/Bitwig%20Studio/6.0.11/installer_mac/",
+    "expectedTeamID": "2B6K987585",
+    "label": "bitwigstudio",
+    "name": "Bitwig Studio",
+    "timeStamp": "2026-07-07T18:43:04Z",
+    "type": "dmg"
   }
 ]
