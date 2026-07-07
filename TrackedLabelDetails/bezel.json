@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.6.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.nonstrict.eu/bezel/Bezel.dmg",
+    "expectedTeamID": "WT5N9FK54M",
+    "label": "bezel",
+    "name": "Bezel",
+    "timeStamp": "2026-07-07T07:15:43Z",
+    "type": "dmg"
+  }
+]

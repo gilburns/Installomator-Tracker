@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "24.2.14",
+    "blockingProcesses": [],
+    "downloadURL": "https://static.garmin.com/apps/fly/files/desktop/mac/electron/24.2.14/garminAvnDbManagerSetup_24.2.14.pkg",
+    "expectedTeamID": "72ES32VZUA",
+    "label": "garminaviationdatabasemanager",
+    "name": "Garmin Aviation Database Manager",
+    "timeStamp": "2026-07-07T07:23:23Z",
+    "type": "pkg"
+  }
+]

@@ -1,7 +1,7 @@
 [
   {
     "appName": "Autodesk Fusion 360.app",
-    "appNewVersion": "2703.1.20",
+    "appNewVersion": "2704.1.15",
     "blockingProcesses": [
       "Autodesk Fusion 360",
       "Fusion 360"
@@ -10,7 +10,7 @@
     "expectedTeamID": "XXKJ396S2Y",
     "label": "autodeskfusion360admininstall",
     "name": "Autodesk Fusion 360 Admin Install",
-    "timeStamp": "2026-07-03T15:38:49Z",
+    "timeStamp": "2026-07-07T07:14:43Z",
     "type": "pkg"
   }
 ]
