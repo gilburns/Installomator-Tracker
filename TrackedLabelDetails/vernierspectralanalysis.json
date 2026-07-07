@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.0.0-2559",
+    "blockingProcesses": [],
+    "downloadURL": "https://software-releases.graphicalanalysis.com/sa/mac/release/latest/Vernier-Spectral-Analysis.dmg",
+    "expectedTeamID": "75WN2B2WR8",
+    "label": "vernierspectralanalysis",
+    "name": "Vernier Spectral Analysis",
+    "timeStamp": "2026-07-07T01:17:54Z",
+    "type": "dmg"
+  }
+]

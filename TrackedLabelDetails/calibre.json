@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "9.11.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.calibre-ebook.com/9.11.0/calibre-9.11.0.dmg",
+    "expectedTeamID": "NTY7FVCEKP",
+    "label": "calibre",
+    "name": "calibre",
+    "timeStamp": "2026-07-07T01:10:39Z",
+    "type": "dmg"
+  }
+]

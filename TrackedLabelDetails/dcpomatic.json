@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.18.44",
+    "blockingProcesses": [],
+    "downloadURL": "https://dcpomatic.com/dl.php?id=osx-10.10-main&version=2.18.44&paid=0",
+    "expectedTeamID": "R82DXSR997",
+    "label": "dcpomatic",
+    "name": "DCP-o-matic 2",
+    "timeStamp": "2026-07-07T01:11:00Z",
+    "type": "dmg"
+  }
+]
