@@ -9,5 +9,16 @@
     "name": "Close.io",
     "timeStamp": "2026-07-03T15:42:19Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.2.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/125409799/dfaa4287-4974-41fb-9cd8-428192350dc5?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-08T19%3A25%3A04Z&rscd=attachment%3B+filename%3DClose-9.2.5.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-08T18%3A24%3A36Z&ske=2026-07-08T19%3A25%3A04Z&sks=b&skv=2018-11-09&sig=iJ4UwwtQTAAqismCv39CbJLGT1gWbvH4p%2Fi48ckqv%2B0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzUzOTI4MiwibmJmIjoxNzgzNTM1NjgyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.DnkFyGhFqNptOTJ_kMT0eLVC3vLugiLB5AEWhxV26C0&response-content-disposition=attachment%3B%20filename%3DClose-9.2.5.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "WTNQ6773UC",
+    "label": "closeio",
+    "name": "Close.io",
+    "timeStamp": "2026-07-08T18:34:42Z",
+    "type": "dmg"
   }
 ]

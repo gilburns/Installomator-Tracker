@@ -9,5 +9,16 @@
     "name": "ClipGrab",
     "timeStamp": "2026-07-03T15:42:15Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "https://download.clipgrab.org/ClipGrab-4.0.0-beta1.dmg",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.clipgrab.org/ClipGrab-4.0.0-beta1.dmg",
+    "expectedTeamID": "E8BJ3ZV5W8",
+    "label": "clipgrab",
+    "name": "ClipGrab",
+    "timeStamp": "2026-07-08T18:34:37Z",
+    "type": "dmg"
   }
 ]

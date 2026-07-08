@@ -31,5 +31,16 @@
     "name": "Homebrew",
     "timeStamp": "2026-07-07T07:24:39Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.0.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/53238813/6d910d99-cccd-4b72-8c2f-0e2af456c0a2?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-08T19%3A24%3A12Z&rscd=attachment%3B+filename%3DHomebrew.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-08T18%3A23%3A21Z&ske=2026-07-08T19%3A24%3A12Z&sks=b&skv=2018-11-09&sig=KYZnQaS1OMrn3KWxO583e%2BZnLhNUqnuPjrhTknfRX6s%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzUzOTYxNCwibmJmIjoxNzgzNTM2MDE0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.qytRNbNS1r8OzMCoU_Rr-Lf1lAnJ3GKlS3dtD-DEOYs&response-content-disposition=attachment%3B%20filename%3DHomebrew.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "927JGANW46",
+    "label": "homebrew",
+    "name": "Homebrew",
+    "timeStamp": "2026-07-08T18:40:14Z",
+    "type": "pkg"
   }
 ]

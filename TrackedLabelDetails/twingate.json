@@ -9,5 +9,16 @@
     "name": "Twingate",
     "timeStamp": "2026-07-03T16:06:49Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.182",
+    "blockingProcesses": [],
+    "downloadURL": "https://binaries.twingate.com/client/macos/2026.182.26057/Twingate.pkg",
+    "expectedTeamID": "6GX8KVTR9H",
+    "label": "twingate",
+    "name": "Twingate",
+    "timeStamp": "2026-07-08T18:55:05Z",
+    "type": "pkg"
   }
 ]

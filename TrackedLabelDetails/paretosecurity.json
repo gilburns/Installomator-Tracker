@@ -9,5 +9,16 @@
     "name": "Pareto Security",
     "timeStamp": "2026-07-03T15:59:15Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.32.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/385891121/4b3c03b5-ebc6-4eb5-b2d9-524a4e2f88d4?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-08T19%3A44%3A59Z&rscd=attachment%3B+filename%3DParetoSecurity.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-08T18%3A44%3A23Z&ske=2026-07-08T19%3A44%3A59Z&sks=b&skv=2018-11-09&sig=C9OclqDHs4Ioht1TgKkXiBcuIj%2B%2BSwBD1CQvVtXgi4A%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzUzNjkwOCwibmJmIjoxNzgzNTM2NjA4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.OVpYdoBJWuGR2itOK6uMDel8IKPmksHybN4f4ZX_bH4&response-content-disposition=attachment%3B%20filename%3DParetoSecurity.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "PM784W7B8X",
+    "label": "paretosecurity",
+    "name": "Pareto Security",
+    "timeStamp": "2026-07-08T18:50:08Z",
+    "type": "dmg"
   }
 ]

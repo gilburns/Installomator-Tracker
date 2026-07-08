@@ -215,6 +215,11 @@
       "lastSeen": "2026-07-08T06:55:09Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-07-08T18:32:39Z",
+      "lastSeen": "2026-07-08T18:32:39Z",
+      "reason": "invalid JSON output"
+    },
     "camunda": {
       "firstSeen": "2026-07-08T06:55:28Z",
       "lastSeen": "2026-07-08T06:55:28Z",
@@ -678,6 +683,11 @@
     "miro": {
       "firstSeen": "2026-07-08T07:11:21Z",
       "lastSeen": "2026-07-08T07:11:21Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "mkuser": {
+      "firstSeen": "2026-07-08T18:47:57Z",
+      "lastSeen": "2026-07-08T18:47:57Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mmhmm": {
