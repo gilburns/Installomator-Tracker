@@ -24,5 +24,18 @@
     "name": "Microsoft Word",
     "timeStamp": "2026-07-03T18:44:58Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "16.110.26070318",
+    "blockingProcesses": [
+      "Microsoft Word"
+    ],
+    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.110.26070318_Installer.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftword",
+    "name": "Microsoft Word",
+    "timeStamp": "2026-07-08T07:11:14Z",
+    "type": "pkg"
   }
 ]
