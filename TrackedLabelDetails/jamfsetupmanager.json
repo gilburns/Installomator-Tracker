@@ -9,5 +9,16 @@
     "name": "Setup Manager",
     "timeStamp": "2026-07-03T15:49:43Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.4.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/803550137/4dd3f6d6-e834-45fa-9f14-87c56986bb81?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-09T19%3A25%3A55Z&rscd=attachment%3B+filename%3DSetup.Manager-1.4.7-652.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-09T18%3A25%3A01Z&ske=2026-07-09T19%3A25%3A55Z&sks=b&skv=2018-11-09&sig=7VkBqHFi66Ycf3Z4MQSNTLT1GU%2FwawB%2FJ8f2AHRvFUs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzYyMzI1NCwibmJmIjoxNzgzNjIyOTU0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Y3WDpZcNSG5V6CvD81oB0dQuWlGyIfpVfkGDweDcSj4&response-content-disposition=attachment%3B%20filename%3DSetup.Manager-1.4.7-652.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "483DWKW443",
+    "label": "jamfsetupmanager",
+    "name": "Setup Manager",
+    "timeStamp": "2026-07-09T18:49:13Z",
+    "type": "pkg"
   }
 ]

@@ -9,5 +9,16 @@
     "name": "NoMachine",
     "timeStamp": "2026-07-03T15:57:53Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.8.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://web9001.nomachine.com/download/9.8/MacOSX/nomachine_9.8.2_1.dmg",
+    "expectedTeamID": "493C5JZAGR",
+    "label": "nomachine",
+    "name": "NoMachine",
+    "timeStamp": "2026-07-09T18:56:03Z",
+    "type": "pkgInDmg"
   }
 ]

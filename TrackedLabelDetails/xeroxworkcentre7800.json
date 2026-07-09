@@ -1,7 +1,7 @@
 [
   {
     "appName": "",
-    "appNewVersion": "5.19.2",
+    "appNewVersion": "5.19.3",
     "blockingProcesses": [
       "NONE"
     ],
@@ -9,7 +9,7 @@
     "expectedTeamID": "G59Y3XFNFR",
     "label": "xeroxworkcentre7800",
     "name": "XeroxWorkCentre",
-    "timeStamp": "2026-07-09T07:48:46Z",
+    "timeStamp": "2026-07-09T19:04:52Z",
     "type": "pkgInDmg"
   }
 ]

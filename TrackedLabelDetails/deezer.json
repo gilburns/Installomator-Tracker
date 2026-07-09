@@ -9,5 +9,16 @@
     "name": "Deezer",
     "timeStamp": "2026-07-03T15:43:38Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.1.280",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn-content.dzcdn.net/builds/deezer-desktop/8cF2rAuKxLcU1oMDmCYm8Uiqe19Ql0HTySLssdzLkQ9ZWHuDTp2JBtQOvdrFzWPA/darwin/x64/7.1.280/DeezerDesktop_7.1.280.dmg",
+    "expectedTeamID": "7QLUP2K45C",
+    "label": "deezer",
+    "name": "Deezer",
+    "timeStamp": "2026-07-09T18:42:18Z",
+    "type": "dmg"
   }
 ]

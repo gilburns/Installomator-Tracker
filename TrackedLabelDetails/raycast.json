@@ -9,5 +9,16 @@
     "name": "Raycast",
     "timeStamp": "2026-07-03T16:01:49Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.104.22",
+    "blockingProcesses": [],
+    "downloadURL": "https://raycast-releases.9a8adc978cc22e82f2df4dd5f45c4ef2.r2.cloudflarestorage.com/Raycast_v1.104.22_76ceda5f1dfff6638992177039d61cbcd78d4843_universal.dmg?response-content-disposition=attachment%3B%20filename%3D%22Raycast.dmg%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=b3c053179dd07241f8271dbe9002b57e%2F20260709%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260709T185844Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=750493c4f0c93ea21313eadb3436a558a5d2ca548afa4ee9465318b801a2a3e7",
+    "expectedTeamID": "SY64MV22J9",
+    "label": "raycast",
+    "name": "Raycast",
+    "timeStamp": "2026-07-09T18:58:44Z",
+    "type": "dmg"
   }
 ]
