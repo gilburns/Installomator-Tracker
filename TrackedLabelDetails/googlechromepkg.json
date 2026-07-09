@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "150.0.7871.101",
+    "appNewVersion": "150.0.7871.115",
     "blockingProcesses": [],
     "downloadURL": "https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg",
     "expectedTeamID": "EQHXZ8M8AV",
     "label": "googlechromepkg",
     "name": "Google Chrome",
-    "timeStamp": "2026-07-07T18:50:38Z",
+    "timeStamp": "2026-07-09T07:29:08Z",
     "type": "pkg"
   }
 ]

@@ -9,5 +9,16 @@
     "name": "Yubico Authenticator",
     "timeStamp": "2026-07-03T16:09:12Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.4.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://developers.yubico.com/yubioath-flutter/Releases/yubico-authenticator-7.4.1-mac.dmg",
+    "expectedTeamID": "LQA3CS5MM7",
+    "label": "yubicoauthenticator",
+    "name": "Yubico Authenticator",
+    "timeStamp": "2026-07-09T07:48:53Z",
+    "type": "dmg"
   }
 ]
