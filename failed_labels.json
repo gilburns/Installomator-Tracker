@@ -875,6 +875,11 @@
       "lastSeen": "2026-07-09T07:42:40Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "renew-noagent": {
+      "firstSeen": "2026-07-10T07:32:08Z",
+      "lastSeen": "2026-07-10T07:32:08Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "resiliosynchome": {
       "firstSeen": "2026-07-09T07:42:46Z",
       "lastSeen": "2026-07-09T07:42:46Z",

@@ -11,5 +11,18 @@
     "name": "KIMplus Clientmodul",
     "timeStamp": "2026-07-03T15:51:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.5.2.44",
+    "blockingProcesses": [
+      "JavaApplicationStub"
+    ],
+    "downloadURL": "https://cm.kimplus.de/download/current/kimplus-clientmodul_1_5_2_44_macos.dmg",
+    "expectedTeamID": "7QZS8E98SZ",
+    "label": "kimplusclientmodul",
+    "name": "KIMplus Clientmodul",
+    "timeStamp": "2026-07-10T07:24:28Z",
+    "type": "dmg"
   }
 ]
