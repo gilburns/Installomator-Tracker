@@ -9,5 +9,16 @@
     "name": "Emacs",
     "timeStamp": "2026-07-03T15:45:25Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "30.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://emacsformacosx.com/download/emacs-builds/Emacs-30.2-universal.dmg",
+    "expectedTeamID": "5BRAQAFB8B",
+    "label": "emacs",
+    "name": "Emacs",
+    "timeStamp": "2026-07-10T18:38:13Z",
+    "type": "dmg"
   }
 ]
