@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.7.1",
+    "blockingProcesses": [
+      "Cinema 4D"
+    ],
+    "downloadURL": "https://installer.maxon.net/installer/rs/redshift_2026.7.1_2592133443_macos.dmg",
+    "expectedTeamID": "4ZY22YGXQG",
+    "label": "redshift",
+    "name": "redshift",
+    "timeStamp": "2026-07-11T18:44:07Z",
+    "type": "dmg"
+  }
+]

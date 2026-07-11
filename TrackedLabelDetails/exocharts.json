@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.7.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://exocharts.com/downloads/Exocharts_3.7.0_M1_ARM.dmg",
+    "expectedTeamID": "7HSW4JKZM2",
+    "label": "exocharts",
+    "name": "Exocharts",
+    "timeStamp": "2026-07-11T18:28:16Z",
+    "type": "dmg"
+  }
+]

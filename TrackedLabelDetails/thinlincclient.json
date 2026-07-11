@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.20.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.cendio.com/downloads/clients/tl-4.20.0_4284-client-macos.dmg",
+    "expectedTeamID": "PHUT6TWL4H",
+    "label": "thinlincclient",
+    "name": "ThinLinc Client",
+    "timeStamp": "2026-07-11T18:46:55Z",
+    "type": "dmg"
+  }
+]
