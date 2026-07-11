@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "2.28.0",
+    "appNewVersion": "2.28.1",
     "blockingProcesses": [],
     "downloadURL": "https://vbc-downloads.vonage.com/mac/VonageBusinessSetup.dmg",
     "expectedTeamID": "E37FZSUGQP",
     "label": "vonagebusiness",
     "name": "Vonage Business",
-    "timeStamp": "2026-07-03T16:08:05Z",
+    "timeStamp": "2026-07-11T07:16:57Z",
     "type": "dmg"
   }
 ]
