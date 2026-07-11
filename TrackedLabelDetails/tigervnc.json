@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.16.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://sourceforge.net/projects/tigervnc/files/stable/1.16.2/TigerVNC-1.16.2.dmg/download?use_mirror=cfhcable",
+    "expectedTeamID": "S5LX88A9BW",
+    "label": "tigervnc",
+    "name": "TigerVNC",
+    "timeStamp": "2026-07-11T19:55:38Z",
+    "type": "dmg"
+  }
+]
