@@ -230,6 +230,11 @@
       "lastSeen": "2026-07-11T19:50:52Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "chatgpt": {
+      "firstSeen": "2026-07-12T18:21:40Z",
+      "lastSeen": "2026-07-12T18:21:40Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "chatwork": {
       "firstSeen": "2026-07-11T18:23:54Z",
       "lastSeen": "2026-07-11T19:50:52Z",
@@ -778,6 +783,11 @@
     "odrive": {
       "firstSeen": "2026-07-11T18:40:14Z",
       "lastSeen": "2026-07-11T19:54:14Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "omnissahorizonclient": {
+      "firstSeen": "2026-07-12T18:36:39Z",
+      "lastSeen": "2026-07-12T18:36:39Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "openvpnconnect": {
