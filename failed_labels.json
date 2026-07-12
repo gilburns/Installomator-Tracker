@@ -35,6 +35,11 @@
       "lastSeen": "2026-07-11T19:48:59Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "amadeuspro2": {
+      "firstSeen": "2026-07-12T06:54:00Z",
+      "lastSeen": "2026-07-12T06:54:00Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "anastasiysextensionmanager": {
       "firstSeen": "2026-07-11T18:20:16Z",
       "lastSeen": "2026-07-11T19:49:01Z",
@@ -210,6 +215,11 @@
       "lastSeen": "2026-07-11T19:50:47Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-07-12T06:55:50Z",
+      "lastSeen": "2026-07-12T06:55:50Z",
+      "reason": "invalid JSON output"
+    },
     "camunda": {
       "firstSeen": "2026-07-11T18:23:49Z",
       "lastSeen": "2026-07-11T19:50:50Z",
@@ -255,6 +265,11 @@
       "lastSeen": "2026-07-11T19:50:58Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "dcpomatic": {
+      "firstSeen": "2026-07-12T06:59:25Z",
+      "lastSeen": "2026-07-12T06:59:25Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "debookee": {
       "firstSeen": "2026-07-11T18:26:00Z",
       "lastSeen": "2026-07-11T19:51:02Z",
@@ -273,6 +288,11 @@
     "digiexam": {
       "firstSeen": "2026-07-11T18:26:36Z",
       "lastSeen": "2026-07-11T19:51:05Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "diskdrill": {
+      "firstSeen": "2026-07-12T07:00:18Z",
+      "lastSeen": "2026-07-12T07:00:18Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "doctolib": {
@@ -480,6 +500,11 @@
       "lastSeen": "2026-07-11T19:52:12Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "installomatormate": {
+      "firstSeen": "2026-07-12T07:07:08Z",
+      "lastSeen": "2026-07-12T07:07:08Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "island": {
       "firstSeen": "2026-07-11T18:32:06Z",
       "lastSeen": "2026-07-11T19:52:13Z",
@@ -655,6 +680,11 @@
       "lastSeen": "2026-07-11T19:53:49Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "mkuser": {
+      "firstSeen": "2026-07-12T07:11:53Z",
+      "lastSeen": "2026-07-12T07:11:53Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "mmhmm": {
       "firstSeen": "2026-07-11T18:38:58Z",
       "lastSeen": "2026-07-11T19:53:50Z",
@@ -813,6 +843,11 @@
     "proofpointautoupdater": {
       "firstSeen": "2026-07-11T18:42:22Z",
       "lastSeen": "2026-07-11T19:54:37Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "prusaslicer": {
+      "firstSeen": "2026-07-12T07:14:33Z",
+      "lastSeen": "2026-07-12T07:14:33Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "qgis-pr": {
@@ -1080,6 +1115,11 @@
       "lastSeen": "2026-07-11T19:55:37Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "tigervnc": {
+      "firstSeen": "2026-07-12T07:17:30Z",
+      "lastSeen": "2026-07-12T07:17:30Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "toonboomharmony2024": {
       "firstSeen": "2026-07-11T18:47:13Z",
       "lastSeen": "2026-07-11T19:55:39Z",
@@ -1130,6 +1170,11 @@
       "lastSeen": "2026-07-11T19:55:56Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "vernierspectralanalysis": {
+      "firstSeen": "2026-07-12T07:18:53Z",
+      "lastSeen": "2026-07-12T07:18:53Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "vfx": {
       "firstSeen": "2026-07-11T18:48:50Z",
       "lastSeen": "2026-07-11T19:55:59Z",
@@ -1178,6 +1223,11 @@
     "xeroxphaser7800": {
       "firstSeen": "2026-07-11T18:50:01Z",
       "lastSeen": "2026-07-11T19:56:10Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "xeroxworkcentre7800": {
+      "firstSeen": "2026-07-12T07:19:55Z",
+      "lastSeen": "2026-07-12T07:19:55Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "zappy": {
