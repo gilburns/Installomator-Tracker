@@ -9,5 +9,16 @@
     "name": "Typeface",
     "timeStamp": "2026-07-03T16:06:50Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://dcdn.typefaceapp.com/Typeface-4.4.0-5132/Typeface-4.4.0-5132.dmg",
+    "expectedTeamID": "X55SP58WS6",
+    "label": "typeface",
+    "name": "Typeface",
+    "timeStamp": "2026-07-13T18:57:20Z",
+    "type": "dmg"
   }
 ]

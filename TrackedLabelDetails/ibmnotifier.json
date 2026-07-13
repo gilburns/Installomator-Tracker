@@ -9,5 +9,16 @@
     "name": "IBM Notifier",
     "timeStamp": "2026-07-03T15:48:03Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.2.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/327872251/437cae0f-963e-4725-b35f-ba3543d3d7ff?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-13T19%3A26%3A04Z&rscd=attachment%3B+filename%3DIBM.Notifier.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-13T18%3A25%3A06Z&ske=2026-07-13T19%3A26%3A04Z&sks=b&skv=2018-11-09&sig=3PgjP3uxsQddgayeY3f%2BEfrKczf8L7dhOLP8h8TGyL0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4Mzk2ODUyNCwibmJmIjoxNzgzOTY4MjI0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Q8s5oAhwjd1-2tD4ok8Sz07AEUynnJe8TqqsfAFX1QM&response-content-disposition=attachment%3B%20filename%3DIBM.Notifier.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "PETKK2G752",
+    "label": "ibmnotifier",
+    "name": "IBM Notifier",
+    "timeStamp": "2026-07-13T18:43:44Z",
+    "type": "zip"
   }
 ]

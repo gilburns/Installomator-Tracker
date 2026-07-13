@@ -890,6 +890,11 @@
       "lastSeen": "2026-07-11T19:54:44Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "redshift": {
+      "firstSeen": "2026-07-13T18:54:04Z",
+      "lastSeen": "2026-07-13T18:54:04Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "reflector4": {
       "firstSeen": "2026-07-11T18:44:08Z",
       "lastSeen": "2026-07-11T19:54:45Z",

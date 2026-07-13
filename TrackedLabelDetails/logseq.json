@@ -10,5 +10,17 @@
     "name": "Logseq",
     "timeStamp": "2026-07-03T15:53:24Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/266231149/75d6291e-aa11-4b75-bc4b-bb7511c05e16?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-13T19%3A22%3A45Z&rscd=attachment%3B+filename%3DLogseq-darwin-arm64-2.0.1.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-13T18%3A21%3A51Z&ske=2026-07-13T19%3A22%3A45Z&sks=b&skv=2018-11-09&sig=EAuhba2LO7qnPYY2s3180vpQFdNyHcTxKSvgZCGfgXQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4Mzk3MjA1MiwibmJmIjoxNzgzOTY4NDUyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.JYASD29umX1ZOzqGhqk8EcUIiLejnFo1PsTJSBXrCwE&response-content-disposition=attachment%3B%20filename%3DLogseq-darwin-arm64-2.0.1.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/266231149/d033df0e-a1ae-405a-b79d-37c77634d9b4?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-13T19%3A23%3A23Z&rscd=attachment%3B+filename%3DLogseq-darwin-x64-2.0.1.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-13T18%3A22%3A57Z&ske=2026-07-13T19%3A23%3A23Z&sks=b&skv=2018-11-09&sig=X4mc%2FPiQjxhXeQt7jf8OJX3XvCAJAvGUtm8%2FaGk0IOs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4Mzk3MjA1MywibmJmIjoxNzgzOTY4NDUzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.nyDT33Zu9ftFILAX7TzIdRo0zxTyMUvAWYkW91HCReY&response-content-disposition=attachment%3B%20filename%3DLogseq-darwin-x64-2.0.1.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "3K44EUN829",
+    "label": "logseq",
+    "name": "Logseq",
+    "timeStamp": "2026-07-13T18:47:32Z",
+    "type": "dmg"
   }
 ]
