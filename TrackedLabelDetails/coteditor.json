@@ -20,5 +20,16 @@
     "name": "CotEditor",
     "timeStamp": "2026-07-05T07:10:28Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.0.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/9243402/ba6ec5db-b0d9-487d-ac68-9422c158d7b8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-13T08%3A04%3A09Z&rscd=attachment%3B+filename%3DCotEditor_7.0.7.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-13T07%3A03%3A18Z&ske=2026-07-13T08%3A04%3A09Z&sks=b&skv=2018-11-09&sig=%2BGx9QTgVPS4wY4s3yEPJaUFhKF09CDI77v8IDck179w%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzkyODUxNCwibmJmIjoxNzgzOTI2NzE0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.3cJIhcO_MQd4dgk8YgWNv6tXIMBQqd4QTDDpwmQdvXs&response-content-disposition=attachment%3B%20filename%3DCotEditor_7.0.7.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "HT3Z3A72WZ",
+    "label": "coteditor",
+    "name": "CotEditor",
+    "timeStamp": "2026-07-13T07:11:54Z",
+    "type": "dmg"
   }
 ]

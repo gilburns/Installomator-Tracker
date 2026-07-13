@@ -265,6 +265,16 @@
       "lastSeen": "2026-07-11T19:50:56Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "crashplan": {
+      "firstSeen": "2026-07-13T07:11:54Z",
+      "lastSeen": "2026-07-13T07:11:54Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "crashplansmb": {
+      "firstSeen": "2026-07-13T07:11:55Z",
+      "lastSeen": "2026-07-13T07:11:55Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "daylite": {
       "firstSeen": "2026-07-11T18:25:57Z",
       "lastSeen": "2026-07-11T19:50:58Z",
@@ -568,6 +578,11 @@
     "lucifer": {
       "firstSeen": "2026-07-11T18:36:11Z",
       "lastSeen": "2026-07-11T19:53:24Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "macadminspython": {
+      "firstSeen": "2026-07-13T07:20:57Z",
+      "lastSeen": "2026-07-13T07:20:57Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mackiemasterfader": {
@@ -1180,6 +1195,11 @@
       "lastSeen": "2026-07-11T19:55:56Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "veracrypt-fuse-t": {
+      "firstSeen": "2026-07-13T07:30:16Z",
+      "lastSeen": "2026-07-13T07:30:16Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "vernierspectralanalysis": {
       "firstSeen": "2026-07-12T07:18:53Z",
       "lastSeen": "2026-07-12T07:18:53Z",
@@ -1213,6 +1233,11 @@
     "webextoolsremoval": {
       "firstSeen": "2026-07-11T18:49:32Z",
       "lastSeen": "2026-07-11T19:56:06Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "wechat": {
+      "firstSeen": "2026-07-13T07:31:21Z",
+      "lastSeen": "2026-07-13T07:31:21Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "weprint": {
