@@ -9,5 +9,16 @@
     "name": "Fellow",
     "timeStamp": "2026-07-03T15:45:49Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.4.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.fellow.app/desktop/5.4.5/darwin/stable/universal/Fellow-5.4.5-universal.dmg",
+    "expectedTeamID": "2NF46HY8D8",
+    "label": "fellow",
+    "name": "Fellow",
+    "timeStamp": "2026-07-14T06:52:33Z",
+    "type": "dmg"
   }
 ]
