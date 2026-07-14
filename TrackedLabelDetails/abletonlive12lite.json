@@ -11,5 +11,18 @@
     "name": "Ableton Live 12 Lite",
     "timeStamp": "2026-07-03T15:35:22Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "12.4.3",
+    "blockingProcesses": [
+      "Live"
+    ],
+    "downloadURL": "https://cdn-downloads.ableton.com/channels/12.4.3/ableton_live_lite_12.4.3_universal.dmg",
+    "expectedTeamID": "MWR434WD94",
+    "label": "abletonlive12lite",
+    "name": "Ableton Live 12 Lite",
+    "timeStamp": "2026-07-14T18:23:57Z",
+    "type": "dmg"
   }
 ]

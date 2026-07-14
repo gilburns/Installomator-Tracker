@@ -9,5 +9,16 @@
     "name": "Dialog",
     "timeStamp": "2026-07-03T15:44:10Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/346831918/ed891df6-5ab4-4b7c-9272-aa4e48058af8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-14T19%3A25%3A41Z&rscd=attachment%3B+filename%3Ddialog-3.1.0-4994.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-14T18%3A24%3A52Z&ske=2026-07-14T19%3A25%3A41Z&sks=b&skv=2018-11-09&sig=Mxu1%2F%2BgG3GzQWKBzgkUioN2KlxE40Mp9C0CpEiuPE%2F8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDA1NTUyNCwibmJmIjoxNzg0MDUzNzI0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.90qXD0-E2g4HiIQQyyen-bE6sN09frVpKuz3f8L3Tnc&response-content-disposition=attachment%3B%20filename%3Ddialog-3.1.0-4994.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "PWA5E9TQ59",
+    "label": "dialog",
+    "name": "Dialog",
+    "timeStamp": "2026-07-14T18:30:55Z",
+    "type": "pkg"
   }
 ]

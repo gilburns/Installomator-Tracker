@@ -520,6 +520,11 @@
       "lastSeen": "2026-07-11T19:52:12Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-07-14T18:36:22Z",
+      "lastSeen": "2026-07-14T18:36:22Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "installomatormate": {
       "firstSeen": "2026-07-12T07:07:08Z",
       "lastSeen": "2026-07-12T07:07:08Z",
@@ -855,6 +860,11 @@
       "lastSeen": "2026-07-11T19:54:21Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "plexmediaserver": {
+      "firstSeen": "2026-07-14T18:43:24Z",
+      "lastSeen": "2026-07-14T18:43:24Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "portingkit": {
       "firstSeen": "2026-07-11T18:41:51Z",
       "lastSeen": "2026-07-11T19:54:22Z",
@@ -1063,6 +1073,11 @@
     "spotify": {
       "firstSeen": "2026-07-11T18:45:40Z",
       "lastSeen": "2026-07-11T19:55:10Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "sqldeveloper": {
+      "firstSeen": "2026-07-14T18:45:49Z",
+      "lastSeen": "2026-07-14T18:45:49Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "sqlpropostgres": {

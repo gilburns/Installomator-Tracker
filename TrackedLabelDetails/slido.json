@@ -9,5 +9,16 @@
     "name": "Slido",
     "timeStamp": "2026-07-09T07:44:01Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3536",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.slido.com/slido-for-mac/updates/SlidoForMac_r3536.dmg",
+    "expectedTeamID": "44X73QA89R",
+    "label": "slido",
+    "name": "Slido",
+    "timeStamp": "2026-07-14T18:45:23Z",
+    "type": "dmg"
   }
 ]

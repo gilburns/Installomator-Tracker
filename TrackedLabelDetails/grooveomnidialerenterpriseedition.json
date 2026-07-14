@@ -9,5 +9,16 @@
     "name": "Groove Omnidialer Enterprise Edition",
     "timeStamp": "2026-07-03T15:47:29Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.714.810",
+    "blockingProcesses": [],
+    "downloadURL": "https://groove-dialer.s3.us-west-2.amazonaws.com/electron/enterprise/Groove+OmniDialer+Enterprise+Edition-26.714.810-universal-mac.zip",
+    "expectedTeamID": "ZDYDJ5XPF3",
+    "label": "grooveomnidialerenterpriseedition",
+    "name": "Groove Omnidialer Enterprise Edition",
+    "timeStamp": "2026-07-14T18:34:44Z",
+    "type": "zip"
   }
 ]
