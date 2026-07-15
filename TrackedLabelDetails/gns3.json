@@ -9,5 +9,16 @@
     "name": "GNS3",
     "timeStamp": "2026-07-03T15:47:03Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.2.60",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/13111393/8c8518b0-6b7e-4141-a528-cd3fe31faeb4?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-15T19%3A32%3A12Z&rscd=attachment%3B+filename%3DGNS3-2.2.60.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-15T18%3A31%3A40Z&ske=2026-07-15T19%3A32%3A12Z&sks=b&skv=2018-11-09&sig=%2BcMv73CrvNiAIz%2BZdpQFt%2FEo2pl82g3SnPIMnQfg0A8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDE0NDE3NCwibmJmIjoxNzg0MTQwNTc0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.O5YERubEp0WEqokMQZMiI1QmZkzK7ngZe-cHAZtaWGk&response-content-disposition=attachment%3B%20filename%3DGNS3-2.2.60.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "5C3VHX9RG5",
+    "label": "gns3",
+    "name": "GNS3",
+    "timeStamp": "2026-07-15T18:36:13Z",
+    "type": "dmg"
   }
 ]

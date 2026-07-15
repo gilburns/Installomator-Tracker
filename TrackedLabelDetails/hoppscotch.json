@@ -10,5 +10,16 @@
     "name": "Hoppscotch",
     "timeStamp": "2026-07-03T15:47:43Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.6.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/",
+    "expectedTeamID": "XBK86CMQGZ",
+    "label": "hoppscotch",
+    "name": "Hoppscotch",
+    "timeStamp": "2026-07-15T18:36:48Z",
+    "type": "dmg"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "appName": "",
-    "appNewVersion": "4.81.0",
+    "appNewVersion": "4.82.0",
     "blockingProcesses": [
       "Docker Desktop"
     ],
@@ -10,7 +10,7 @@
     "expectedTeamID": "9BNSXJN65R",
     "label": "docker",
     "name": "Docker",
-    "timeStamp": "2026-07-08T18:36:44Z",
+    "timeStamp": "2026-07-15T18:33:16Z",
     "type": "dmg"
   }
 ]

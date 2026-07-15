@@ -9,5 +9,16 @@
     "name": "BBEdit",
     "timeStamp": "2026-07-03T15:39:17Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "16.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/BBSW-download/BBEdit_16.0.2.pkg",
+    "expectedTeamID": "W52GZAXT98",
+    "label": "bbeditpkg",
+    "name": "BBEdit",
+    "timeStamp": "2026-07-15T18:27:01Z",
+    "type": "pkg"
   }
 ]

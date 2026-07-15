@@ -9,5 +9,16 @@
     "name": "Tailscale",
     "timeStamp": "2026-07-03T16:05:33Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.98.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://pkgs.tailscale.com/stable/Tailscale-1.98.9-macos.zip",
+    "expectedTeamID": "W5364U7YZB",
+    "label": "tailscale",
+    "name": "Tailscale",
+    "timeStamp": "2026-07-15T18:50:29Z",
+    "type": "zip"
   }
 ]

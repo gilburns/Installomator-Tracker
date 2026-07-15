@@ -355,6 +355,11 @@
       "lastSeen": "2026-07-15T06:55:34Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "escrowbuddy": {
+      "firstSeen": "2026-07-15T18:34:16Z",
+      "lastSeen": "2026-07-15T18:34:16Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "etrecheck": {
       "firstSeen": "2026-07-15T06:55:38Z",
       "lastSeen": "2026-07-15T06:55:38Z",
@@ -388,6 +393,11 @@
     "finalcutprocontent": {
       "firstSeen": "2026-07-15T06:56:02Z",
       "lastSeen": "2026-07-15T06:56:02Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "flycut": {
+      "firstSeen": "2026-07-15T18:35:00Z",
+      "lastSeen": "2026-07-15T18:35:00Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "fontexplorer": {
@@ -510,6 +520,11 @@
       "lastSeen": "2026-07-15T06:59:38Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "jamfcheck": {
+      "firstSeen": "2026-07-15T18:38:29Z",
+      "lastSeen": "2026-07-15T18:38:29Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "jamfcli": {
       "firstSeen": "2026-07-15T06:59:44Z",
       "lastSeen": "2026-07-15T06:59:44Z",
@@ -594,6 +609,11 @@
       "firstSeen": "2026-07-15T07:03:51Z",
       "lastSeen": "2026-07-15T07:03:51Z",
       "reason": "invalid JSON output"
+    },
+    "mamp": {
+      "firstSeen": "2026-07-15T18:42:25Z",
+      "lastSeen": "2026-07-15T18:42:25Z",
+      "reason": "resolve failed (exit 142)"
     },
     "meistertask": {
       "firstSeen": "2026-07-15T07:05:12Z",
@@ -730,6 +750,11 @@
       "lastSeen": "2026-07-15T07:06:19Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "munki": {
+      "firstSeen": "2026-07-15T18:44:41Z",
+      "lastSeen": "2026-07-15T18:44:41Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "namiral": {
       "firstSeen": "2026-07-15T07:06:50Z",
       "lastSeen": "2026-07-15T07:06:50Z",
@@ -864,6 +889,11 @@
       "firstSeen": "2026-07-15T07:10:02Z",
       "lastSeen": "2026-07-15T07:10:02Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "redshift": {
+      "firstSeen": "2026-07-15T18:48:21Z",
+      "lastSeen": "2026-07-15T18:48:21Z",
+      "reason": "resolve failed (exit 142)"
     },
     "reflector4": {
       "firstSeen": "2026-07-15T07:10:13Z",
