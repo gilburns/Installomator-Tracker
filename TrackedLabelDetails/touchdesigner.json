@@ -10,5 +10,17 @@
     "name": "TouchDesigner",
     "timeStamp": "2026-07-03T16:06:26Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2025.33060",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.derivative.ca/TouchDesigner.2025.33060.arm64.dmg",
+    "downloadURLi386": "https://download.derivative.ca/TouchDesigner.2025.33060.intel.dmg",
+    "expectedTeamID": "Z7MPGSMXH2",
+    "label": "touchdesigner",
+    "name": "TouchDesigner",
+    "timeStamp": "2026-07-16T18:47:42Z",
+    "type": "dmg"
   }
 ]

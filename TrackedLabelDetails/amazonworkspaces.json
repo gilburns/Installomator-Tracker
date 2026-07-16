@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "5.32.0.6080",
+    "appNewVersion": "5.33.0.6168",
     "blockingProcesses": [],
     "downloadURL": "https://d2td7dqidlhjx7.cloudfront.net/prod/global/osx/WorkSpaces.pkg",
     "expectedTeamID": "94KV3E626L",
     "label": "amazonworkspaces",
     "name": "Workspaces",
-    "timeStamp": "2026-07-03T15:37:05Z",
+    "timeStamp": "2026-07-16T18:25:22Z",
     "type": "pkg"
   }
 ]

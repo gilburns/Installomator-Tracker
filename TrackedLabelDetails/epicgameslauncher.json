@@ -9,5 +9,16 @@
     "name": "Epic Games Launcher",
     "timeStamp": "2026-07-03T15:45:32Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "20.1.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Mac/EpicInstaller-20.1.4.dmg?launcherfilename=EpicInstaller-20.1.4.dmg",
+    "expectedTeamID": "96DBZ92D3Y",
+    "label": "epicgameslauncher",
+    "name": "Epic Games Launcher",
+    "timeStamp": "2026-07-16T18:31:54Z",
+    "type": "dmg"
   }
 ]

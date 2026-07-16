@@ -20,5 +20,16 @@
     "name": "Hudl Sportscode",
     "timeStamp": "2026-07-13T18:43:39Z",
     "type": "appInDmgInZip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "12.83.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://sportscode64-updates.s3.amazonaws.com/PublicReleaseDmgs/HudlSportscode-12.83.1.dmg.zip",
+    "expectedTeamID": "4M6T2C723P",
+    "label": "hudlsportscode",
+    "name": "Hudl Sportscode",
+    "timeStamp": "2026-07-16T18:34:27Z",
+    "type": "appInDmgInZip"
   }
 ]

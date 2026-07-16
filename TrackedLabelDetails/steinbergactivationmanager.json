@@ -9,5 +9,16 @@
     "name": "Steinberg Activation Manager",
     "timeStamp": "2026-07-03T16:04:59Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.9.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.steinberg.net/static_content/runtime-components/steinberg-activation-manager/1.9.0.1466-41d5cbac-7b93-3bdb-8bdf-e318704faa75/Steinberg_Activation_Manager_Installer_mac.dmg",
+    "expectedTeamID": "5PMY476BJ6",
+    "label": "steinbergactivationmanager",
+    "name": "Steinberg Activation Manager",
+    "timeStamp": "2026-07-16T18:46:24Z",
+    "type": "pkgInDmg"
   }
 ]

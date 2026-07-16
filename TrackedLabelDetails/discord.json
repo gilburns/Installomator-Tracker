@@ -42,5 +42,16 @@
     "name": "Discord",
     "timeStamp": "2026-07-16T06:55:49Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.0.401",
+    "blockingProcesses": [],
+    "downloadURL": "https://stable.dl2.discordapp.net/apps/osx/0.0.401/Discord.dmg",
+    "expectedTeamID": "53Q6R32WPB",
+    "label": "discord",
+    "name": "Discord",
+    "timeStamp": "2026-07-16T18:30:43Z",
+    "type": "dmg"
   }
 ]

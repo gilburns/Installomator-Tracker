@@ -9,5 +9,16 @@
     "name": "EPOS Connect",
     "timeStamp": "2026-07-03T15:45:32Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "52050",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.eposaudio.com/globalassets/___image-library/_enterprise/files/english/epos-connect/epos-connect-8.6.0/eposconnect_8.6.0.52050.pkg",
+    "expectedTeamID": "8956A7Y69J",
+    "label": "eposconnect",
+    "name": "EPOS Connect",
+    "timeStamp": "2026-07-16T18:31:54Z",
+    "type": "pkg"
   }
 ]
