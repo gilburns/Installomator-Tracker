@@ -1,14 +1,14 @@
 [
   {
     "appName": "",
-    "appNewVersion": "12.19.3",
+    "appNewVersion": "12.19.5",
     "blockingProcesses": [],
     "downloadURL": "https://dl.pstmn.io/download/latest/osx_arm64",
     "downloadURLi386": "https://dl.pstmn.io/download/latest/osx_64",
     "expectedTeamID": "H7H8Q7M5CK",
     "label": "postman",
     "name": "Postman",
-    "timeStamp": "2026-07-15T07:09:05Z",
+    "timeStamp": "2026-07-16T07:06:53Z",
     "type": "zip"
   }
 ]
