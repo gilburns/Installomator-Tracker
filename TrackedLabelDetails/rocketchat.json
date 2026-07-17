@@ -50,5 +50,18 @@
     "name": "Rocket.Chat",
     "timeStamp": "2026-07-16T07:07:52Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.15.6",
+    "blockingProcesses": [
+      "Rocket.Chat"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/38767563/04e04e9a-253e-4540-91fa-0d3502213642?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-17T08%3A02%3A49Z&rscd=attachment%3B+filename%3Drocketchat-4.15.6-mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-17T07%3A02%3A09Z&ske=2026-07-17T08%3A02%3A49Z&sks=b&skv=2018-11-09&sig=U4FSFpe8RdYI7cOYiEKpthvBhrLYyZBbc8bWXhXwfVw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDI3NjAzOSwibmJmIjoxNzg0MjcyNDM5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.fbbw8d6f_9avM_4Xh6xrThVnXpeliHAvrDJrlXBmSPI&response-content-disposition=attachment%3B%20filename%3Drocketchat-4.15.6-mac.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "S6UPZG7ZR3",
+    "label": "rocketchat",
+    "name": "Rocket.Chat",
+    "timeStamp": "2026-07-17T07:13:59Z",
+    "type": "dmg"
   }
 ]

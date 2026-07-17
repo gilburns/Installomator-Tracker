@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "1.2026.183",
+    "appNewVersion": "1.2026.184",
     "blockingProcesses": [],
     "downloadURL": "https://persistent.oaistatic.com/sidekick/public/ChatGPT_Desktop_public_latest.dmg",
     "expectedTeamID": "2DC432GLL2",
     "label": "chatgpt",
     "name": "ChatGPT",
-    "timeStamp": "2026-07-09T18:39:57Z",
+    "timeStamp": "2026-07-17T06:52:51Z",
     "type": "dmg"
   }
 ]
