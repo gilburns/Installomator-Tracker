@@ -560,6 +560,11 @@
       "lastSeen": "2026-07-17T07:06:29Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "macadminspython": {
+      "firstSeen": "2026-07-17T18:36:53Z",
+      "lastSeen": "2026-07-17T18:36:53Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "mackiemasterfader": {
       "firstSeen": "2026-07-17T07:06:38Z",
       "lastSeen": "2026-07-17T07:06:38Z",
@@ -913,6 +918,11 @@
     "rogueamoebasoundsource5": {
       "firstSeen": "2026-07-17T07:14:04Z",
       "lastSeen": "2026-07-17T07:14:04Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "rstudio": {
+      "firstSeen": "2026-07-17T18:42:51Z",
+      "lastSeen": "2026-07-17T18:42:51Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "salesforcesfdx": {

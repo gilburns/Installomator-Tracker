@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "2.8.0.23824",
+    "appNewVersion": "2.8.1.24089",
     "blockingProcesses": [],
     "downloadURL": "https://releases.reincubate.com/camo/camo-macos-latest.zip",
     "expectedTeamID": "Q248YREB53",
     "label": "camostudio",
     "name": "Camo Studio",
-    "timeStamp": "2026-07-14T18:26:36Z",
+    "timeStamp": "2026-07-17T18:24:33Z",
     "type": "zip"
   }
 ]
