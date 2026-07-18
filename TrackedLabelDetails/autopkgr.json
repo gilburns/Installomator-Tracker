@@ -9,5 +9,16 @@
     "name": "AutoPkgr",
     "timeStamp": "2026-07-03T15:38:54Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/21215781/6ba15b76-e0c9-4137-97ab-8ef87a14939a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-18T07%3A38%3A45Z&rscd=attachment%3B+filename%3DAutoPkgr-2.0.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-18T06%3A38%3A05Z&ske=2026-07-18T07%3A38%3A45Z&sks=b&skv=2018-11-09&sig=br0HeRJ6t%2Bq92HG0U%2FfhEmoOMY%2Frd%2FRUvgAAa13q4UA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDM1NzI1MSwibmJmIjoxNzg0MzU2OTUxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.2bZ10u2KuDEDXgcMCc8R3A7ImY72v17OvCDYYRD7pBE&response-content-disposition=attachment%3B%20filename%3DAutoPkgr-2.0.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "JVY2ZR6SEF",
+    "label": "autopkgr",
+    "name": "AutoPkgr",
+    "timeStamp": "2026-07-18T06:42:30Z",
+    "type": "dmg"
   }
 ]
