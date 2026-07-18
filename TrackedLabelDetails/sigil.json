@@ -9,5 +9,16 @@
     "name": "Sigil",
     "timeStamp": "2026-07-03T16:04:01Z",
     "type": "tbz"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.8.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/12847818/35c88bb5-a343-40dd-8ab4-bcbb44dcb9ee?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-18T19%3A44%3A01Z&rscd=attachment%3B+filename%3DSigil.app-2.8.1-Mac-x86_64.txz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-18T18%3A43%3A49Z&ske=2026-07-18T19%3A44%3A01Z&sks=b&skv=2018-11-09&sig=VjcV40TPT%2FV2tiB2olXBcabOQ%2FDzRK3vzUh1Erffdfo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDQwNDExMSwibmJmIjoxNzg0NDAwNTExLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.fAFV1oRd4Bg1dKrupQ9J1hgxnAFJxkvgMYj3LAUPbE0&response-content-disposition=attachment%3B%20filename%3DSigil.app-2.8.1-Mac-x86_64.txz&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "2SMCVQU3CJ",
+    "label": "sigil",
+    "name": "Sigil",
+    "timeStamp": "2026-07-18T18:48:31Z",
+    "type": "tbz"
   }
 ]

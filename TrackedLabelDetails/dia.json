@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.40.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://releases.diabrowser.com/release/Dia-latest.dmg",
+    "expectedTeamID": "S6N382Y83G",
+    "label": "dia",
+    "name": "Dia",
+    "timeStamp": "2026-07-18T18:28:27Z",
+    "type": "dmg"
+  }
+]

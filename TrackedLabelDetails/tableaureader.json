@@ -9,5 +9,17 @@
     "name": "Tableau Reader 2026.1",
     "timeStamp": "2026-07-03T16:05:31Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.tableau.com/downloads/reader/mac-arm64",
+    "downloadURLi386": "https://www.tableau.com/downloads/reader/mac",
+    "expectedTeamID": "QJ4XPRK37C",
+    "label": "tableaureader",
+    "name": "Tableau Reader",
+    "timeStamp": "2026-07-18T18:50:09Z",
+    "type": "pkgInDmg"
   }
 ]
