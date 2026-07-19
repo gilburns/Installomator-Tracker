@@ -690,6 +690,11 @@
       "lastSeen": "2026-07-18T18:42:11Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "mkuser": {
+      "firstSeen": "2026-07-19T07:05:49Z",
+      "lastSeen": "2026-07-19T07:05:49Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "mmhmm": {
       "firstSeen": "2026-07-18T18:42:17Z",
       "lastSeen": "2026-07-18T18:42:17Z",
@@ -1190,6 +1195,11 @@
       "lastSeen": "2026-07-18T18:52:19Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "veracrypt-fuse-t": {
+      "firstSeen": "2026-07-19T07:13:31Z",
+      "lastSeen": "2026-07-19T07:13:31Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "vernierspectralanalysis": {
       "firstSeen": "2026-07-18T18:52:24Z",
       "lastSeen": "2026-07-18T18:52:24Z",
@@ -1213,6 +1223,11 @@
     "wavescentral": {
       "firstSeen": "2026-07-18T18:52:58Z",
       "lastSeen": "2026-07-18T18:52:58Z",
+      "reason": "invalid JSON output"
+    },
+    "webcatalog": {
+      "firstSeen": "2026-07-19T07:14:07Z",
+      "lastSeen": "2026-07-19T07:14:07Z",
       "reason": "invalid JSON output"
     },
     "webexmeetings": {

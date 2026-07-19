@@ -9,5 +9,16 @@
     "name": "Numi",
     "timeStamp": "2026-07-03T15:58:06Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.34",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.numi.app/updates/3.32.721/Numi.dmg",
+    "expectedTeamID": "4BT8G3UCSZ",
+    "label": "numi",
+    "name": "Numi",
+    "timeStamp": "2026-07-19T07:06:56Z",
+    "type": "dmg"
   }
 ]
