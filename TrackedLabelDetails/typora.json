@@ -9,5 +9,16 @@
     "name": "Typora",
     "timeStamp": "2026-07-03T16:06:51Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.14.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.typora.io/mac/Typora-1.14.6.dmg",
+    "expectedTeamID": "9HWK5273G4",
+    "label": "typora",
+    "name": "Typora",
+    "timeStamp": "2026-07-20T19:01:52Z",
+    "type": "dmg"
   }
 ]

@@ -9,5 +9,16 @@
     "name": "zoom.us",
     "timeStamp": "2026-07-03T16:09:30Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.1.5.84650",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.zoom.us/prod/7.1.5.84650/ZoomInstallerIT.pkg",
+    "expectedTeamID": "BJ4HAAB9B3",
+    "label": "zoom",
+    "name": "zoom.us",
+    "timeStamp": "2026-07-20T19:04:03Z",
+    "type": "pkg"
   }
 ]
