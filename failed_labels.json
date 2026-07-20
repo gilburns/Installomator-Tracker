@@ -705,6 +705,11 @@
       "lastSeen": "2026-07-18T18:42:17Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "mobikinassistantforandroid": {
+      "firstSeen": "2026-07-20T07:20:17Z",
+      "lastSeen": "2026-07-20T07:20:17Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "mobirise": {
       "firstSeen": "2026-07-18T18:42:20Z",
       "lastSeen": "2026-07-18T18:42:20Z",
