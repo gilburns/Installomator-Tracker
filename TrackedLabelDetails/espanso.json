@@ -9,5 +9,16 @@
     "name": "Espanso",
     "timeStamp": "2026-07-03T15:45:36Z",
     "type": "appInDmgInZip"
+  },
+  {
+    "appName": "Espanso.app",
+    "appNewVersion": "2.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/",
+    "expectedTeamID": "6424323YUH",
+    "label": "espanso",
+    "name": "Espanso",
+    "timeStamp": "2026-07-21T18:38:26Z",
+    "type": "appInDmgInZip"
   }
 ]

@@ -9,5 +9,16 @@
     "name": "Cloudflare_WARP",
     "timeStamp": "2026-07-03T15:42:23Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.6.880",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.6.880.0",
+    "expectedTeamID": "68WVV388M8",
+    "label": "cloudflarewarp",
+    "name": "Cloudflare_WARP",
+    "timeStamp": "2026-07-21T18:35:10Z",
+    "type": "pkg"
   }
 ]

@@ -10,5 +10,17 @@
     "name": "VirtualBox",
     "timeStamp": "2026-07-03T16:07:49Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.2.14",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.virtualbox.org/virtualbox/7.2.14/VirtualBox-7.2.14-174565-macOSArm64.dmg",
+    "downloadURLi386": "https://download.virtualbox.org/virtualbox/7.2.14/VirtualBox-7.2.14-174565-OSX.dmg",
+    "expectedTeamID": "VB5E2TV963",
+    "label": "virtualboxlatest",
+    "name": "VirtualBox",
+    "timeStamp": "2026-07-21T19:01:04Z",
+    "type": "pkgInDmg"
   }
 ]

@@ -31,5 +31,16 @@
     "name": "Workbrew",
     "timeStamp": "2026-07-14T18:49:20Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.10.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/706576996/74a6fb66-f3db-4a1f-b63d-f15ef35affb4?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-21T19%3A47%3A37Z&rscd=attachment%3B+filename%3DWorkbrew-1.10.3.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-21T18%3A46%3A47Z&ske=2026-07-21T19%3A47%3A37Z&sks=b&skv=2018-11-09&sig=JMOmZ%2F7mDn23esXvTfQu9sxGKdtLrPgPlzhWVufCIlY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDY2Mzk1MCwibmJmIjoxNzg0NjYwMzUwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.hNG1Idam9quFxzckaXOL1pcezQXjrdRd6gHtel03o-s&response-content-disposition=attachment%3B%20filename%3DWorkbrew-1.10.3.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "676JW3JDLF",
+    "label": "workbrew",
+    "name": "Workbrew",
+    "timeStamp": "2026-07-21T19:02:18Z",
+    "type": "pkg"
   }
 ]

@@ -9,5 +9,16 @@
     "name": "Microsoft Outlook",
     "timeStamp": "2026-07-03T15:56:27Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "16.111",
+    "blockingProcesses": [],
+    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.111.26071913_Updater.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftoutlook-monthly",
+    "name": "Microsoft Outlook",
+    "timeStamp": "2026-07-21T18:50:30Z",
+    "type": "pkg"
   }
 ]

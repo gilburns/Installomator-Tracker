@@ -37,5 +37,18 @@
     "name": "Firefox",
     "timeStamp": "2026-07-14T18:32:46Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "153.0",
+    "blockingProcesses": [
+      "firefox"
+    ],
+    "downloadURL": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0/mac/en-US/Firefox%20153.0.pkg",
+    "expectedTeamID": "43AQ936H96",
+    "label": "firefoxpkg_intl",
+    "name": "Firefox",
+    "timeStamp": "2026-07-21T18:39:02Z",
+    "type": "pkg"
   }
 ]

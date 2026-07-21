@@ -4,6 +4,7 @@
     "appNewVersion": "5.10.0",
     "blockingProcesses": [],
     "downloadURL": "https://dl.eviware.com/soapuios/5.10.0/SoapUI-x64-5.10.0.dmg",
+    "downloadURLi386": "https://dl.eviware.com/soapuios/5.10.0/SoapUI-x64-5.10.0.dmg",
     "expectedTeamID": "HVA5GNL2LF",
     "label": "soapuiopensource",
     "name": "SoapUI",

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.3.16",
+    "blockingProcesses": [],
+    "downloadURL": "https://storage.korg.com/korgms/korg_collection/mac/KORG_Software_Pass_1_3_16.dmg",
+    "expectedTeamID": "9H3HFX7NG2",
+    "label": "korgsoftwarepass",
+    "name": "Korg Software Pass",
+    "timeStamp": "2026-07-21T18:45:40Z",
+    "type": "pkgInDmg"
+  }
+]

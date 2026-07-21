@@ -9,5 +9,16 @@
     "name": "DisplayLink Manager",
     "timeStamp": "2026-07-03T15:44:27Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "16.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.synaptics.com/sites/default/files/exe_files/2026-07/DisplayLink%20Manager%20Graphics%20Connectivity16.2-EXE.pkg",
+    "expectedTeamID": "73YQY62QM3",
+    "label": "displaylinkmanager",
+    "name": "DisplayLink Manager",
+    "timeStamp": "2026-07-21T18:37:14Z",
+    "type": "pkg"
   }
 ]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "12.10.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://static.perimeter81.com/agents/mac/Harmony_SASE_12.10.0.11628.pkg",
+    "expectedTeamID": "924635PD62",
+    "label": "harmonysase",
+    "name": "Harmony SASE",
+    "timeStamp": "2026-07-21T18:41:44Z",
+    "type": "pkg"
+  }
+]
