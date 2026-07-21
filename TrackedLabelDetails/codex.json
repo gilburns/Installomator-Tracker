@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "26.715.52143",
+    "appNewVersion": "26.715.61943",
     "blockingProcesses": [],
     "downloadURL": "https://persistent.oaistatic.com/codex-app-prod/Codex.dmg",
     "expectedTeamID": "2DC432GLL2",
     "label": "codex",
     "name": "Codex",
-    "timeStamp": "2026-07-20T18:43:43Z",
+    "timeStamp": "2026-07-21T06:59:30Z",
     "type": "dmg"
   }
 ]

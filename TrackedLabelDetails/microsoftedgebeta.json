@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "151.0.4129.35",
+    "blockingProcesses": [],
+    "downloadURL": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/38190bd1-80ca-42ae-b5c0-4a99f149da30/MicrosoftEdgeBeta-151.0.4129.35.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftedgebeta",
+    "name": "Microsoft Edge Beta",
+    "timeStamp": "2026-07-21T07:12:21Z",
+    "type": "pkg"
+  }
+]

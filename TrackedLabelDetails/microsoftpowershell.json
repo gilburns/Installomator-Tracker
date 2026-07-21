@@ -10,5 +10,17 @@
     "name": "PowerShell",
     "timeStamp": "2026-07-03T15:56:31Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.6.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/49609581/ddf8c046-fb06-4804-a2a9-e6df88e20cf7?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-21T08%3A03%3A24Z&rscd=attachment%3B+filename%3Dpowershell-7.6.4-osx-arm64.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-21T07%3A02%3A25Z&ske=2026-07-21T08%3A03%3A24Z&sks=b&skv=2018-11-09&sig=xThGHu7IYgsde3z69HFolRCqHPyf82jk5N4DCiw%2BUoo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDYxOTc1MywibmJmIjoxNzg0NjE3OTUzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.z_wzV52d6Zw5OnsJQFtoFDw5ngAY8RA7tDBtD0uXCFQ&response-content-disposition=attachment%3B%20filename%3Dpowershell-7.6.4-osx-arm64.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/49609581/99b61704-9084-474d-9f1d-abf18103a0af?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-21T08%3A12%3A25Z&rscd=attachment%3B+filename%3Dpowershell-7.6.4-osx-x64.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-21T07%3A11%3A32Z&ske=2026-07-21T08%3A12%3A25Z&sks=b&skv=2018-11-09&sig=MpPxifm93rvy8YpfSxQl%2BrzxasGT72rzbUOJgIPpOjU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDYxOTc1NCwibmJmIjoxNzg0NjE3OTU0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.DBaOLBUln9dVxQYz1dj9_Ced--UKGZUYvdPqu46U_X4&response-content-disposition=attachment%3B%20filename%3Dpowershell-7.6.4-osx-x64.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftpowershell",
+    "name": "PowerShell",
+    "timeStamp": "2026-07-21T07:12:33Z",
+    "type": "pkg"
   }
 ]

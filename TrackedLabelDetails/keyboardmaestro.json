@@ -12,5 +12,19 @@
     "name": "Keyboard Maestro",
     "timeStamp": "2026-07-03T15:50:52Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "11.1",
+    "blockingProcesses": [
+      "Keyboard Maestro Engine",
+      "Keyboard Maestro"
+    ],
+    "downloadURL": "https://files.stairways.com/keyboardmaestro-1110.zip",
+    "expectedTeamID": "QMHRBA4LGH",
+    "label": "keyboardmaestro",
+    "name": "Keyboard Maestro",
+    "timeStamp": "2026-07-21T07:07:58Z",
+    "type": "zip"
   }
 ]
