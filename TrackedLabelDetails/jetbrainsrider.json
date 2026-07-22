@@ -10,5 +10,17 @@
     "name": "Rider",
     "timeStamp": "2026-07-03T15:50:12Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-cdn.jetbrains.com/rider/JetBrains.Rider-2026.2-aarch64.dmg",
+    "downloadURLi386": "https://download-cdn.jetbrains.com/rider/JetBrains.Rider-2026.2.dmg",
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainsrider",
+    "name": "Rider",
+    "timeStamp": "2026-07-22T18:42:01Z",
+    "type": "dmg"
   }
 ]

@@ -20,5 +20,16 @@
     "name": "Snagit",
     "timeStamp": "2026-07-21T18:57:31Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.3.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.techsmith.com/snagitmac/releases/2026.3.1/snagit.dmg",
+    "expectedTeamID": "7TQL462TU8",
+    "label": "snagit2026",
+    "name": "Snagit",
+    "timeStamp": "2026-07-22T18:53:21Z",
+    "type": "dmg"
   }
 ]

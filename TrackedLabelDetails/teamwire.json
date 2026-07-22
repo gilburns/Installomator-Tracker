@@ -10,5 +10,17 @@
     "name": "Teamwire",
     "timeStamp": "2026-07-03T16:05:37Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop.teamwire.eu/dist/v5.0.0/teamwire-5.0.0-mac-arm64.dmg",
+    "downloadURLi386": "https://desktop.teamwire.eu/dist/v5.0.0/teamwire-5.0.0-mac-x64.dmg",
+    "expectedTeamID": "2JCSJ44B3U",
+    "label": "teamwire",
+    "name": "Teamwire",
+    "timeStamp": "2026-07-22T18:54:35Z",
+    "type": "dmg"
   }
 ]

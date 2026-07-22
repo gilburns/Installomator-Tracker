@@ -10,5 +10,17 @@
     "name": "Liberica JDK 8 Full LTS",
     "timeStamp": "2026-07-03T15:51:47Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "502",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/115621629/f6c675bf-9725-4b23-b81d-2c0eeec7258a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-22T19%3A28%3A03Z&rscd=attachment%3B+filename%3Dbellsoft-jdk8u502%2B9-macos-aarch64-full.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-22T18%3A27%3A13Z&ske=2026-07-22T19%3A28%3A03Z&sks=b&skv=2018-11-09&sig=9LV2a4MvYZtMriM%2BVg4Cxb1EK3UMEY0U00rsT9E%2FZ44%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDc0OTQxMiwibmJmIjoxNzg0NzQ1ODEyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.loNbNd9a2Z4OVoqIwkr5qdvQqsqgm1U5uAYKoOHI2Y8&response-content-disposition=attachment%3B%20filename%3Dbellsoft-jdk8u502%2B9-macos-aarch64-full.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/115621629/67130b3f-e246-47cf-885d-34b3c62ba377?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-22T19%3A27%3A56Z&rscd=attachment%3B+filename%3Dbellsoft-jdk8u502%2B9-macos-amd64-full.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-22T18%3A27%3A43Z&ske=2026-07-22T19%3A27%3A56Z&sks=b&skv=2018-11-09&sig=d%2Fm%2FNYREd9qyWU2qzyb60JhiIZTJQ3V%2BiaT8rbAH%2BzU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDc0OTQxMywibmJmIjoxNzg0NzQ1ODEzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.JYzOqTDEmZ9sNcKWUidjrHl45BPL0sjDELgfK0Enucg&response-content-disposition=attachment%3B%20filename%3Dbellsoft-jdk8u502%2B9-macos-amd64-full.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "8LBATW8FZA",
+    "label": "libericajdk8ltsfull",
+    "name": "Liberica JDK 8 Full LTS",
+    "timeStamp": "2026-07-22T18:43:31Z",
+    "type": "pkg"
   }
 ]

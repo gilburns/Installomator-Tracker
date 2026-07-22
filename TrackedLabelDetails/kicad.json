@@ -17,5 +17,24 @@
     "name": "KiCad",
     "timeStamp": "2026-07-03T15:51:00Z",
     "type": "dmg"
+  },
+  {
+    "appName": "KiCad/KiCad.app",
+    "appNewVersion": "10.0.5",
+    "blockingProcesses": [
+      "gerbview",
+      "bitmap2component",
+      "kicad",
+      "pl_editor",
+      "pcb_calculator",
+      "pcbnew",
+      "eeschema"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/14849992/4b69ac3f-09ef-408c-8ccd-d20f71251c37?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-22T19%3A28%3A01Z&rscd=attachment%3B+filename%3Dkicad-unified-universal-10.0.5.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-22T18%3A27%3A55Z&ske=2026-07-22T19%3A28%3A01Z&sks=b&skv=2018-11-09&sig=kI5sC3h%2FeWFu71YV5WNc6ELmsmxySIbSrWhH2FF%2F7N0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDc0OTM2OSwibmJmIjoxNzg0NzQ1NzY5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.4R-x7BanD_PfsGzrEM4FO_-WzdL78hwWI-eaxm9zCwI&response-content-disposition=attachment%3B%20filename%3Dkicad-unified-universal-10.0.5.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "9FQDHNY6U2",
+    "label": "kicad",
+    "name": "KiCad",
+    "timeStamp": "2026-07-22T18:42:48Z",
+    "type": "dmg"
   }
 ]

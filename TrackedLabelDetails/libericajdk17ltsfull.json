@@ -10,5 +10,17 @@
     "name": "Liberica JDK 17 Full LTS",
     "timeStamp": "2026-07-03T15:51:43Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "17.0.20+10",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/115621629/1d4c8ba5-a671-4cde-9239-8a459daca978?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-22T19%3A29%3A00Z&rscd=attachment%3B+filename%3Dbellsoft-jdk17.0.20%2B10-macos-aarch64-full.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-22T18%3A28%3A31Z&ske=2026-07-22T19%3A29%3A00Z&sks=b&skv=2018-11-09&sig=NZ0N8WAhY5DRL66b3itWt1c2P3Bncj%2FIcGm%2F2H4SR%2FE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDc0OTQwOCwibmJmIjoxNzg0NzQ1ODA4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.dXCXVLwCzGwq8ZvmRBksQmhWvB-QX-mpWS78zjw7vtc&response-content-disposition=attachment%3B%20filename%3Dbellsoft-jdk17.0.20%2B10-macos-aarch64-full.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/115621629/d5d5e557-916c-4489-b4ed-dc274569e61d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-22T19%3A27%3A59Z&rscd=attachment%3B+filename%3Dbellsoft-jdk17.0.20%2B10-macos-amd64-full.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-22T18%3A27%3A56Z&ske=2026-07-22T19%3A27%3A59Z&sks=b&skv=2018-11-09&sig=xCh5WD6xGfhZYbGSwx2mwtaEDc4NNg7G%2F1rg61ChRb4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDc0OTQxMCwibmJmIjoxNzg0NzQ1ODEwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.IrNcFUjLQnSsOBIrHK7NBtjZOoRMK0hntOrjSkHU0rc&response-content-disposition=attachment%3B%20filename%3Dbellsoft-jdk17.0.20%2B10-macos-amd64-full.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "8LBATW8FZA",
+    "label": "libericajdk17ltsfull",
+    "name": "Liberica JDK 17 Full LTS",
+    "timeStamp": "2026-07-22T18:43:27Z",
+    "type": "pkg"
   }
 ]
