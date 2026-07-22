@@ -1,14 +1,14 @@
 [
   {
     "appName": "",
-    "appNewVersion": "2026.2.0.",
+    "appNewVersion": "2026.2.1.",
     "blockingProcesses": [],
     "downloadURL": "https://www.tableau.com/downloads/desktop/reg-mac-arm64",
     "downloadURLi386": "https://www.tableau.com/downloads/desktop/reg-mac",
     "expectedTeamID": "QJ4XPRK37C",
     "label": "tableaudesktop",
     "name": "Tableau Desktop",
-    "timeStamp": "2026-07-03T16:05:29Z",
+    "timeStamp": "2026-07-22T07:15:04Z",
     "type": "pkgInDmg"
   }
 ]

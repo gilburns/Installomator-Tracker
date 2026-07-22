@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "5.6.2",
+    "appNewVersion": "5.6.3",
     "blockingProcesses": [],
     "downloadURL": "https://downloads.qlab.app/downloads/QLab.dmg",
     "expectedTeamID": "7672N4CCJM",
     "label": "qlab",
     "name": "QLab",
-    "timeStamp": "2026-07-03T16:01:35Z",
+    "timeStamp": "2026-07-22T07:12:39Z",
     "type": "dmg"
   }
 ]

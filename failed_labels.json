@@ -375,6 +375,11 @@
       "lastSeen": "2026-07-21T18:38:38Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "fastscripts": {
+      "firstSeen": "2026-07-22T07:00:40Z",
+      "lastSeen": "2026-07-22T07:00:40Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "fierycommandworkstation": {
       "firstSeen": "2026-07-21T18:38:44Z",
       "lastSeen": "2026-07-21T18:38:44Z",
@@ -673,6 +678,11 @@
     "miro": {
       "firstSeen": "2026-07-21T18:50:50Z",
       "lastSeen": "2026-07-21T18:50:50Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "mkuser": {
+      "firstSeen": "2026-07-22T07:09:47Z",
+      "lastSeen": "2026-07-22T07:09:47Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mmhmm": {
@@ -1098,6 +1108,11 @@
     "tidal": {
       "firstSeen": "2026-07-21T18:59:16Z",
       "lastSeen": "2026-07-21T18:59:16Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "tigervnc": {
+      "firstSeen": "2026-07-22T07:15:37Z",
+      "lastSeen": "2026-07-22T07:15:37Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "toonboomharmony2024": {

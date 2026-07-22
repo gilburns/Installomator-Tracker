@@ -10,5 +10,17 @@
     "name": "Amazon Corretto 21 JDK",
     "timeStamp": "2026-07-03T15:37:00Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "21.0.12.8.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://corretto.aws/downloads/resources/21.0.12.8.1/amazon-corretto-21.0.12.8.1-macosx-aarch64.pkg",
+    "downloadURLi386": "https://corretto.aws/downloads/resources/21.0.12.8.1/amazon-corretto-21.0.12.8.1-macosx-x64.pkg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "amazoncorretto21jdk",
+    "name": "Amazon Corretto 21 JDK",
+    "timeStamp": "2026-07-22T06:52:43Z",
+    "type": "pkg"
   }
 ]

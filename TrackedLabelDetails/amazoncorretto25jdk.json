@@ -9,5 +9,16 @@
     "name": "Amazon Corretto 25 JDK",
     "timeStamp": "2026-07-03T15:37:03Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "25.0.4.7.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://corretto.aws/downloads/resources/25.0.4.7.1/amazon-corretto-25.0.4.7.1-macosx-x64.pkg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "amazoncorretto25jdk",
+    "name": "Amazon Corretto 25 JDK",
+    "timeStamp": "2026-07-22T06:52:48Z",
+    "type": "pkg"
   }
 ]
