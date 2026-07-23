@@ -9,5 +9,16 @@
     "name": "Bitwarden",
     "timeStamp": "2026-07-03T15:39:34Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.7.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/53538899/6cf8f603-d61d-4226-90b0-4a8424ff3161?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-23T19%3A10%3A49Z&rscd=attachment%3B+filename%3DBitwarden-2026.7.0-universal.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-23T18%3A10%3A06Z&ske=2026-07-23T19%3A10%3A49Z&sks=b&skv=2018-11-09&sig=%2BCwgSpIAFO4BgmsHm96RXxONpxKlga4fZjtsJ2SYU1Y%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDgzNDc4NiwibmJmIjoxNzg0ODMxMTg2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.WiJ64JkM9rJgf3RBG4YlLTNBpt9x40f4If2Y_keSb9s&response-content-disposition=attachment%3B%20filename%3DBitwarden-2026.7.0-universal.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "LTZ2PFU5D6",
+    "label": "bitwarden",
+    "name": "Bitwarden",
+    "timeStamp": "2026-07-23T18:28:53Z",
+    "type": "dmg"
   }
 ]

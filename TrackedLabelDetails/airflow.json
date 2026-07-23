@@ -22,5 +22,17 @@
     "name": "Air",
     "timeStamp": "2026-07-14T06:44:41Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.1.52",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/804007771/fb69a7b3-8875-4508-9a2c-1ffae3e42466?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-23T19%3A10%3A50Z&rscd=attachment%3B+filename%3DAir-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-23T18%3A10%3A06Z&ske=2026-07-23T19%3A10%3A50Z&sks=b&skv=2018-11-09&sig=71cZ4EDILaCxiGbYXHfVr%2FIXfG4Cpo3AM3Z251ImeFs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDgzNDg0OSwibmJmIjoxNzg0ODMxMjQ5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.6IIox6AGD2msw6oXA3q_bJE2FlSrje1M2oPZxpWuZjA&response-content-disposition=attachment%3B%20filename%3DAir-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/804007771/47495a08-9dca-415a-bc38-9f1d2d3f92ee?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-23T19%3A13%3A03Z&rscd=attachment%3B+filename%3DAir-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-23T18%3A12%3A33Z&ske=2026-07-23T19%3A13%3A03Z&sks=b&skv=2018-11-09&sig=QGc6lPUfgi2DE7Ibd2MwDYIryhtX9fBH%2FGdnZmdSaqI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDgzNDg1MSwibmJmIjoxNzg0ODMxMjUxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.LAQY-4JCrjxfscSQVdm7J-mX-RcUjnQnBumBCJ-B4QQ&response-content-disposition=attachment%3B%20filename%3DAir-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "8RBYE8TY7T",
+    "label": "airflow",
+    "name": "Air",
+    "timeStamp": "2026-07-23T18:27:28Z",
+    "type": "dmg"
   }
 ]

@@ -375,6 +375,11 @@
       "lastSeen": "2026-07-23T07:01:37Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "fellow": {
+      "firstSeen": "2026-07-23T18:37:03Z",
+      "lastSeen": "2026-07-23T18:37:03Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "fierycommandworkstation": {
       "firstSeen": "2026-07-23T07:01:46Z",
       "lastSeen": "2026-07-23T07:01:46Z",
@@ -580,6 +585,11 @@
       "lastSeen": "2026-07-23T07:09:19Z",
       "reason": "invalid JSON output"
     },
+    "mamp": {
+      "firstSeen": "2026-07-23T18:44:06Z",
+      "lastSeen": "2026-07-23T18:44:06Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "meistertask": {
       "firstSeen": "2026-07-23T07:10:49Z",
       "lastSeen": "2026-07-23T07:10:49Z",
@@ -683,6 +693,11 @@
     "mmhmm-studio": {
       "firstSeen": "2026-07-23T07:11:41Z",
       "lastSeen": "2026-07-23T07:11:41Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "mobikinassistantforandroid": {
+      "firstSeen": "2026-07-23T18:45:03Z",
+      "lastSeen": "2026-07-23T18:45:03Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mobirise": {
@@ -1163,6 +1178,11 @@
     "vfx": {
       "firstSeen": "2026-07-23T07:21:08Z",
       "lastSeen": "2026-07-23T07:21:08Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "viscosity": {
+      "firstSeen": "2026-07-23T18:52:45Z",
+      "lastSeen": "2026-07-23T18:52:45Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "vpntracker365": {

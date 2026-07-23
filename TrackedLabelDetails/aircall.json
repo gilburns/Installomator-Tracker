@@ -21,5 +21,17 @@
     "name": "Aircall Workspace",
     "timeStamp": "2026-07-18T06:40:23Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.15.30",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-electron.aircall.io/aircall-workspace/Aircall-Workspace-1.15.30-arm64.pkg",
+    "downloadURLi386": "https://download-electron.aircall.io/aircall-workspace/Aircall-Workspace-1.15.30-x64.pkg",
+    "expectedTeamID": "3ML357Q795",
+    "label": "aircall",
+    "name": "Aircall Workspace",
+    "timeStamp": "2026-07-23T18:27:25Z",
+    "type": "pkg"
   }
 ]
