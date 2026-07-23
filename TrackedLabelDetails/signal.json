@@ -31,5 +31,16 @@
     "name": "Signal",
     "timeStamp": "2026-07-16T07:08:27Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.20.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.signal.org/desktop/signal-desktop-mac-universal-8.20.0.dmg",
+    "expectedTeamID": "U68MSDN6DR",
+    "label": "signal",
+    "name": "Signal",
+    "timeStamp": "2026-07-23T07:17:20Z",
+    "type": "dmg"
   }
 ]

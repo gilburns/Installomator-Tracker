@@ -34,5 +34,17 @@
     "name": "DataGrip",
     "timeStamp": "2026-07-16T18:36:38Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.2.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-cdn.jetbrains.com/datagrip/datagrip-2026.2.1-aarch64.dmg",
+    "downloadURLi386": "https://download-cdn.jetbrains.com/datagrip/datagrip-2026.2.1.dmg",
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainsdatagrip",
+    "name": "DataGrip",
+    "timeStamp": "2026-07-23T07:05:28Z",
+    "type": "dmg"
   }
 ]

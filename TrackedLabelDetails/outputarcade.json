@@ -9,5 +9,16 @@
     "name": "Arcade",
     "timeStamp": "2026-07-03T15:58:58Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.15.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-builds.outputaudio.com/arcade/Arcade_OSX_Install_2.15.0.R27500.pkg",
+    "expectedTeamID": "M4BQRFQ23V",
+    "label": "outputarcade",
+    "name": "Arcade",
+    "timeStamp": "2026-07-23T07:13:29Z",
+    "type": "pkg"
   }
 ]

@@ -10,5 +10,17 @@
     "name": "JupyterLab",
     "timeStamp": "2026-07-03T15:50:31Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.6.21",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/90307576/13db14d0-632b-48ba-a5ba-55ddcf5a40df?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-23T07%3A58%3A13Z&rscd=attachment%3B+filename%3DJupyterLab-Setup-macOS-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-23T06%3A57%3A28Z&ske=2026-07-23T07%3A58%3A13Z&sks=b&skv=2018-11-09&sig=culCP18KLhIvHApNRbX9Ct3pdhEJpytF%2B8jKTu572ws%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDc5Mzk3NSwibmJmIjoxNzg0NzkwMzc1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.nRtzAcC_7VTw0Xam5hZwOjRwjyA135fvDbz7pBlymCo&response-content-disposition=attachment%3B%20filename%3DJupyterLab-Setup-macOS-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/90307576/6e937060-09d4-46f1-9d30-372032b42749?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-23T07%3A45%3A58Z&rscd=attachment%3B+filename%3DJupyterLab-Setup-macOS-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-23T06%3A45%3A29Z&ske=2026-07-23T07%3A45%3A58Z&sks=b&skv=2018-11-09&sig=3xa4wwL8hI7GxaF5Hyt9TJwbu6fPfKIVvQ3%2Bqw99chw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDc5Mzk3NiwibmJmIjoxNzg0NzkwMzc2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.D3FLYVd0R6msYlBjAfEHd5_Id8zBAe78UgDgMwrE6V4&response-content-disposition=attachment%3B%20filename%3DJupyterLab-Setup-macOS-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "2YJ64GUAVW",
+    "label": "jupyterlab",
+    "name": "JupyterLab",
+    "timeStamp": "2026-07-23T07:06:15Z",
+    "type": "dmg"
   }
 ]

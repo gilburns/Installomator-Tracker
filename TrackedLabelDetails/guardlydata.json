@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.17.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://storage.googleapis.com/guardlydata-apps/arm64/GuardlyData.pkg",
+    "downloadURLi386": "https://storage.googleapis.com/guardlydata-apps/x86_64/GuardlyData-Intel.pkg",
+    "expectedTeamID": "GMZ7XULHBM",
+    "label": "guardlydata",
+    "name": "GuardlyData",
+    "timeStamp": "2026-07-23T07:03:52Z",
+    "type": "pkg"
+  }
+]
