@@ -665,6 +665,11 @@
       "lastSeen": "2026-07-24T07:09:52Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "mkuser": {
+      "firstSeen": "2026-07-24T18:46:17Z",
+      "lastSeen": "2026-07-24T18:46:17Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "mmhmm": {
       "firstSeen": "2026-07-24T07:10:00Z",
       "lastSeen": "2026-07-24T07:10:00Z",

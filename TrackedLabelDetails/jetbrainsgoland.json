@@ -22,5 +22,17 @@
     "name": "GoLand",
     "timeStamp": "2026-07-16T18:36:47Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.2.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-cdn.jetbrains.com/go/goland-2026.2.0.1-aarch64.dmg",
+    "downloadURLi386": "https://download-cdn.jetbrains.com/go/goland-2026.2.0.1.dmg",
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainsgoland",
+    "name": "GoLand",
+    "timeStamp": "2026-07-24T18:41:45Z",
+    "type": "dmg"
   }
 ]

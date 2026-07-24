@@ -64,5 +64,16 @@
     "name": "Vivaldi",
     "timeStamp": "2026-07-22T07:17:14Z",
     "type": "tbz"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.1.4087.58",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.vivaldi.com/stable-auto/Vivaldi.8.1.4087.58.universal.tar.xz",
+    "expectedTeamID": "4XF3XNRN6Y",
+    "label": "vivaldi",
+    "name": "Vivaldi",
+    "timeStamp": "2026-07-24T18:54:38Z",
+    "type": "tbz"
   }
 ]

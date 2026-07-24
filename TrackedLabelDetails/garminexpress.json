@@ -1,7 +1,7 @@
 [
   {
     "appName": "",
-    "appNewVersion": "7.29.1.0",
+    "appNewVersion": "7.29.2.0",
     "blockingProcesses": [
       "Garmin Express",
       "Garmin Express Service"
@@ -10,7 +10,7 @@
     "expectedTeamID": "72ES32VZUA",
     "label": "garminexpress",
     "name": "Garmin Express",
-    "timeStamp": "2026-07-03T15:46:37Z",
+    "timeStamp": "2026-07-24T18:39:05Z",
     "type": "pkgInDmg"
   }
 ]
