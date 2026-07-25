@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "6.2.2219",
+    "appNewVersion": "6.3.2326",
     "blockingProcesses": [],
     "downloadURL": "https://dl.cleverfiles.com/diskdrill.dmg",
     "expectedTeamID": "A3W62KZY8Z",
     "label": "diskdrill",
     "name": "Disk Drill",
-    "timeStamp": "2026-07-07T01:11:08Z",
+    "timeStamp": "2026-07-25T12:51:13Z",
     "type": "dmg"
   }
 ]
