@@ -42,5 +42,16 @@
     "name": "OneDrive",
     "timeStamp": "2026-07-21T18:50:28Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.129.0706",
+    "blockingProcesses": [],
+    "downloadURL": "https://oneclient.sfx.ms/Mac/Installers/26.129.0706.0003/universal/OneDrive.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftonedrivesuprod",
+    "name": "OneDrive",
+    "timeStamp": "2026-07-25T07:01:48Z",
+    "type": "pkg"
   }
 ]
