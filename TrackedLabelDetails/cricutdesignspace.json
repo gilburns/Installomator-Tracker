@@ -42,5 +42,16 @@
     "name": "Cricut Design Space",
     "timeStamp": "2026-07-20T18:44:03Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.79.83",
+    "blockingProcesses": [],
+    "downloadURL": "https://staticcontent.cricut.com/a/software/osx-native/CricutDesignSpace-Install-v9.79.83.dmg?Expires=1785181096&Signature=ILAB1gbWFXY7A1KGcxC~Y6cnFRsyBwamqxonZhLswiu~v4ArmSm8vM6QW9hlB2K9gHzyWU19PTgNSxC0nzfgSc-JhsFEcZ00pAosJfwS~JHe0nsxugO6v7PAlJTMWW0cfk8T5T7Cg-hXyeKAIWBoICdPYARr4TDM~5UDBXe31hCLYbXr6FJaBpT0bQB8yQI6uQ4ZGjtknUfpgvjLx2RY4C1swMrDyCYGxTZNcriTugrxhPagwXjIF3HrUPYYDJEcZY7mOeWDroRLRx0BPSpXL6SsD9HAKXHiVZMOgFQxIKXkabsiRVt~mqWngy24wB1QT7va~OmGmszyPeV0E5Uyvw__&Key-Pair-Id=K2W1AJ47IQWIOI",
+    "expectedTeamID": "25627ZFVT7",
+    "label": "cricutdesignspace",
+    "name": "Cricut Design Space",
+    "timeStamp": "2026-07-27T18:38:16Z",
+    "type": "dmg"
   }
 ]
