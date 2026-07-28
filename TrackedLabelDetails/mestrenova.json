@@ -31,5 +31,16 @@
     "name": "MestReNova",
     "timeStamp": "2026-07-20T07:19:45Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "45b7",
+    "blockingProcesses": [],
+    "downloadURL": "https://mestrelab.com/downloads/mnova/mac/MestReNova-45b7-9702-55066.dmg",
+    "expectedTeamID": "DH5EKRR34H",
+    "label": "mestrenova",
+    "name": "MestReNova",
+    "timeStamp": "2026-07-28T07:09:01Z",
+    "type": "dmg"
   }
 ]

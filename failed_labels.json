@@ -725,6 +725,11 @@
       "lastSeen": "2026-07-25T12:53:37Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "mysqlworkbenchce": {
+      "firstSeen": "2026-07-28T07:11:19Z",
+      "lastSeen": "2026-07-28T07:11:19Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "namiral": {
       "firstSeen": "2026-07-24T07:10:29Z",
       "lastSeen": "2026-07-25T12:53:39Z",

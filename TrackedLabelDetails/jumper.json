@@ -22,5 +22,17 @@
     "name": "Jumper",
     "timeStamp": "2026-07-14T06:57:15Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.07.27",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.getjumper.io/jumper-2026.07.27-build-3283.dmg",
+    "downloadURLi386": "https://download.getjumper.io/intel/jumper-2026.07.27-build-3283-intel.dmg",
+    "expectedTeamID": "PP557RNS84",
+    "label": "jumper",
+    "name": "Jumper",
+    "timeStamp": "2026-07-28T07:05:18Z",
+    "type": "dmg"
   }
 ]

@@ -9,5 +9,16 @@
     "name": "LuLu",
     "timeStamp": "2026-07-03T15:53:41Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.4.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/103010090/01ea353e-fdf7-4660-85f2-307e70020f31?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-28T07%3A55%3A19Z&rscd=attachment%3B+filename%3DLuLu_4.4.3.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-28T06%3A54%3A52Z&ske=2026-07-28T07%3A55%3A19Z&sks=b&skv=2018-11-09&sig=yNT7o%2BgmsjypRX%2BtNyqCDewyWFMX9D00QU2%2BW9fXndg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTIyMjczMywibmJmIjoxNzg1MjIyNDMzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.hLsbP6g72y3hVbALe7EXf362nMtsYD21nJz76RtSJGs&response-content-disposition=attachment%3B%20filename%3DLuLu_4.4.3.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "VBG97UB4TA",
+    "label": "lulu",
+    "name": "LuLu",
+    "timeStamp": "2026-07-28T07:07:13Z",
+    "type": "dmg"
   }
 ]

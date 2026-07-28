@@ -20,5 +20,16 @@
     "name": "Thunderbird",
     "timeStamp": "2026-07-17T07:16:51Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "153.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.mozilla.org/?product=thunderbird-153.0.1-SSL&os=osx&lang=en-US",
+    "expectedTeamID": "43AQ936H96",
+    "label": "thunderbird",
+    "name": "Thunderbird",
+    "timeStamp": "2026-07-28T07:16:52Z",
+    "type": "dmg"
   }
 ]
