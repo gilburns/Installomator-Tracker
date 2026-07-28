@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.19.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://sfc-repo.snowflakecomputing.com/odbc/macuniversal/3.19.0/snowflake_odbc_mac_64universal-3.19.0.dmg",
+    "expectedTeamID": "W4NT6CRQ7U",
+    "label": "snowflakeodbc",
+    "name": "Snowflake ODBC Driver",
+    "timeStamp": "2026-07-28T18:58:17Z",
+    "type": "pkgInDmg"
+  }
+]

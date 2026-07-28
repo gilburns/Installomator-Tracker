@@ -10,5 +10,17 @@
     "name": "Raindrop.io",
     "timeStamp": "2026-07-03T16:01:39Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.7.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/211905151/7e241641-50bc-4992-ac5b-a3821bb947d3?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-28T19%3A50%3A07Z&rscd=attachment%3B+filename%3DRaindrop-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-28T18%3A49%3A39Z&ske=2026-07-28T19%3A50%3A07Z&sks=b&skv=2018-11-09&sig=wbo0I3f5ONvFLwb%2FpwxGMRwFO2k9n5STjaP16CfEK3U%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI2ODUxOSwibmJmIjoxNzg1MjY0OTE5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.gm9Ug9XVXpk-8jtJxaHg-7SBY6_-oOJrrt14hdjSFCE&response-content-disposition=attachment%3B%20filename%3DRaindrop-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/211905151/4469746f-0261-4d45-bedd-3e712c70634f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-28T19%3A51%3A57Z&rscd=attachment%3B+filename%3DRaindrop-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-28T18%3A51%3A46Z&ske=2026-07-28T19%3A51%3A57Z&sks=b&skv=2018-11-09&sig=fWhl5KAwrgvXOyo%2BdZZVlyOsezgbsOedzbWon0ktQl0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI2ODUyMSwibmJmIjoxNzg1MjY0OTIxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.3C2CHj0HeedWAznpWyDWju2RaVaAknT4XSL78G7WoGQ&response-content-disposition=attachment%3B%20filename%3DRaindrop-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "7459JWM5TY",
+    "label": "raindropio",
+    "name": "Raindrop.io",
+    "timeStamp": "2026-07-28T18:55:19Z",
+    "type": "dmg"
   }
 ]

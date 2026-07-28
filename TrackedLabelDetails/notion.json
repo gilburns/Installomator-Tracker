@@ -42,5 +42,16 @@
     "name": "Notion",
     "timeStamp": "2026-07-21T07:13:43Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.28.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop-release.notion-static.com/Notion-7.28.0-universal.dmg",
+    "expectedTeamID": "LBQJ96FQ8D",
+    "label": "notion",
+    "name": "Notion",
+    "timeStamp": "2026-07-28T18:52:19Z",
+    "type": "dmg"
   }
 ]

@@ -9,5 +9,16 @@
     "name": "Kaleidoscope",
     "timeStamp": "2026-07-03T15:50:33Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.kaleidoscope.app/v7/prod/Kaleidoscope-7.0-10499.app.zip",
+    "expectedTeamID": "4G35KLFD64",
+    "label": "kaleidoscope",
+    "name": "Kaleidoscope",
+    "timeStamp": "2026-07-28T18:45:19Z",
+    "type": "zip"
   }
 ]

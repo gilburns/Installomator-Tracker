@@ -11,5 +11,18 @@
     "name": "Support",
     "timeStamp": "2026-07-03T16:05:18Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.0.4",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/295764062/eb5b2a9c-7adb-47c3-b763-5b55a3ec2888?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-28T19%3A52%3A04Z&rscd=attachment%3B+filename%3DSupport.3.0.4.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-28T18%3A51%3A12Z&ske=2026-07-28T19%3A52%3A04Z&sks=b&skv=2018-11-09&sig=2AvOvWPYhrCgWPv06CB0037BwHxhbMiDaYzy3YWEu1M%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI2NTM4NSwibmJmIjoxNzg1MjY1MDg1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.-Iu7SdmSeF0ImlMOlKQwjvCnJvh6H96PUPJ25gJA2fI&response-content-disposition=attachment%3B%20filename%3DSupport.3.0.4.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "98LJ4XBGYK",
+    "label": "supportapp",
+    "name": "Support",
+    "timeStamp": "2026-07-28T18:59:12Z",
+    "type": "pkg"
   }
 ]

@@ -13,5 +13,20 @@
     "name": "Gram Editor",
     "timeStamp": "2026-07-03T15:47:24Z",
     "type": "dmg"
+  },
+  {
+    "appName": "Gram.app",
+    "appNewVersion": "3.2.0",
+    "blockingProcesses": [
+      "gram",
+      "Gram"
+    ],
+    "downloadURL": "https://codeberg.org/GramEditor/gram/releases/download/3.2.0/Gram-aarch64-3.2.0.dmg",
+    "downloadURLi386": "https://ziranpub.b-cdn.net/Gram-x86_64-3.2.0.dmg",
+    "expectedTeamID": "TQ3LTB39SU",
+    "label": "gram",
+    "name": "Gram Editor",
+    "timeStamp": "2026-07-28T18:42:35Z",
+    "type": "dmg"
   }
 ]

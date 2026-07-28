@@ -1,13 +1,13 @@
 [
   {
     "appName": "VNC Viewer.app",
-    "appNewVersion": "7.15.1",
+    "appNewVersion": "7.18.1",
     "blockingProcesses": [],
     "downloadURL": "https://downloads.realvnc.com/download/file/viewer.files/VNC-Viewer-Latest-MacOSX-universal.dmg",
     "expectedTeamID": "ZNCQ8JEH7X",
     "label": "realvncviewer",
     "name": "Real VNC Viewer",
-    "timeStamp": "2026-07-03T16:01:51Z",
+    "timeStamp": "2026-07-28T18:55:31Z",
     "type": "dmg"
   }
 ]
