@@ -9,5 +9,16 @@
     "name": "MacVector",
     "timeStamp": "2026-07-03T15:53:57Z",
     "type": "dmg"
+  },
+  {
+    "appName": "MacVector/MacVector.app",
+    "appNewVersion": "26.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://macvector.net/MacVector26.0.2(64).dmg",
+    "expectedTeamID": "BK85R8X44N",
+    "label": "macvector",
+    "name": "MacVector",
+    "timeStamp": "2026-07-29T18:35:51Z",
+    "type": "dmg"
   }
 ]

@@ -215,6 +215,11 @@
       "lastSeen": "2026-07-29T06:58:41Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-07-29T18:23:30Z",
+      "lastSeen": "2026-07-29T18:23:30Z",
+      "reason": "invalid JSON output"
+    },
     "camunda": {
       "firstSeen": "2026-07-29T06:58:58Z",
       "lastSeen": "2026-07-29T06:58:58Z",
@@ -428,6 +433,11 @@
     "gotowebinar": {
       "firstSeen": "2026-07-29T07:06:57Z",
       "lastSeen": "2026-07-29T07:06:57Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "gram": {
+      "firstSeen": "2026-07-29T18:31:22Z",
+      "lastSeen": "2026-07-29T18:31:22Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "grammarly": {
@@ -668,6 +678,11 @@
     "miro": {
       "firstSeen": "2026-07-29T07:15:28Z",
       "lastSeen": "2026-07-29T07:15:28Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "mkuser": {
+      "firstSeen": "2026-07-29T18:38:09Z",
+      "lastSeen": "2026-07-29T18:38:09Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mmhmm": {
@@ -1193,6 +1208,11 @@
     "weprint": {
       "firstSeen": "2026-07-29T07:27:44Z",
       "lastSeen": "2026-07-29T07:27:44Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "wisenetwave": {
+      "firstSeen": "2026-07-29T18:47:24Z",
+      "lastSeen": "2026-07-29T18:47:24Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "wordservice": {

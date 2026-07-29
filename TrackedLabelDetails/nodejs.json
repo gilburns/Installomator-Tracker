@@ -20,5 +20,16 @@
     "name": "nodejs",
     "timeStamp": "2026-07-08T18:48:48Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "v26.5.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://nodejs.org/dist/latest/node-v26.5.1.pkg",
+    "expectedTeamID": "HX7739G8FX",
+    "label": "nodejs",
+    "name": "nodejs",
+    "timeStamp": "2026-07-29T18:38:59Z",
+    "type": "pkg"
   }
 ]
