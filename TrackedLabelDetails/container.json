@@ -20,5 +20,16 @@
     "name": "container",
     "timeStamp": "2026-07-07T07:19:12Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/993475914/2fa40bfa-b360-413f-b915-00e26069d56c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-29T07%3A51%3A22Z&rscd=attachment%3B+filename%3Dcontainer-1.2.0-installer-signed.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-29T06%3A50%3A46Z&ske=2026-07-29T07%3A51%3A22Z&sks=b&skv=2018-11-09&sig=TrArP9rKcg3Hni5eK0%2F9OhvghGdKWMcwf6k3btLq4LE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTMxMDMxNiwibmJmIjoxNzg1MzA4NTE2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.uz5pXoE4x8M-wW3VRDYoCDKY3Jal68WQowaffzWicEk&response-content-disposition=attachment%3B%20filename%3Dcontainer-1.2.0-installer-signed.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "UPBK2H6LZM",
+    "label": "container",
+    "name": "container",
+    "timeStamp": "2026-07-29T07:01:55Z",
+    "type": "pkg"
   }
 ]

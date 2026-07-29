@@ -22,5 +22,16 @@
     "name": "Zulu JDK 11",
     "timeStamp": "2026-07-22T07:18:36Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "/bin/",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.azul.com/zulu/bin/",
+    "expectedTeamID": "TDTHCUPYFR",
+    "label": "zulujdk11",
+    "name": "Zulu JDK 11",
+    "timeStamp": "2026-07-29T07:28:31Z",
+    "type": "pkgInDmg"
   }
 ]
