@@ -31,5 +31,16 @@
     "name": "Snagit",
     "timeStamp": "2026-07-22T18:53:21Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2025.4.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.techsmith.com/snagitmac/releases/2025.4.1/snagit.dmg",
+    "expectedTeamID": "7TQL462TU8",
+    "label": "snagit2025",
+    "name": "Snagit",
+    "timeStamp": "2026-07-30T18:52:18Z",
+    "type": "dmg"
   }
 ]

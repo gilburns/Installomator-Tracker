@@ -830,6 +830,11 @@
       "lastSeen": "2026-07-29T07:19:28Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "privileges2": {
+      "firstSeen": "2026-07-30T18:50:24Z",
+      "lastSeen": "2026-07-30T18:50:24Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "proctortrack": {
       "firstSeen": "2026-07-29T07:19:52Z",
       "lastSeen": "2026-07-29T07:19:52Z",

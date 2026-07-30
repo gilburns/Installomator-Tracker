@@ -9,5 +9,16 @@
     "name": "Parallels Client",
     "timeStamp": "2026-07-03T15:59:12Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "21.2.27300",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.parallels.com/ras/v21/21.2.1.27300/RasClient-Mac-Notarized-21.2.1-27300.pkg",
+    "expectedTeamID": "4C6364ACXT",
+    "label": "parallelsrasclient",
+    "name": "Parallels Client",
+    "timeStamp": "2026-07-30T18:48:27Z",
+    "type": "pkg"
   }
 ]

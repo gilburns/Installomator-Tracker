@@ -10,5 +10,17 @@
     "name": "Temurin 17",
     "timeStamp": "2026-07-03T15:45:08Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "17.0.20+8",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/372925194/bbf21e10-3517-4048-b7a1-a3cf997d0a03?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-30T19%3A14%3A14Z&rscd=attachment%3B+filename%3DOpenJDK17U-jdk_aarch64_mac_hotspot_17.0.20_8.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-30T18%3A13%3A43Z&ske=2026-07-30T19%3A14%3A14Z&sks=b&skv=2018-11-09&sig=uaGGKO2BLer%2FeMCu247lmZEtG50%2BWIsPJ3MWqZavvy8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ0MDI4MywibmJmIjoxNzg1NDM2NjgzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.f_5KZdUH-WRkCr12JzyLGCJ7aNcs-pNm4fAFt18vcZk&response-content-disposition=attachment%3B%20filename%3DOpenJDK17U-jdk_aarch64_mac_hotspot_17.0.20_8.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/372925194/f3a7208d-2043-4e86-803e-2e0484a0869d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-30T19%3A17%3A33Z&rscd=attachment%3B+filename%3DOpenJDK17U-jdk_x64_mac_hotspot_17.0.20_8.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-30T18%3A17%3A08Z&ske=2026-07-30T19%3A17%3A33Z&sks=b&skv=2018-11-09&sig=3QxNmMDwJq2CtuKIUiBcaFVKPlkkqbQSssfo1SXY3A4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ0MDI4NCwibmJmIjoxNzg1NDM2Njg0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.vyGjX14CU84Tw8ymcUH06eJFs_7UqN3oaeYMXY7YZBQ&response-content-disposition=attachment%3B%20filename%3DOpenJDK17U-jdk_x64_mac_hotspot_17.0.20_8.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "JCDTMS22B4",
+    "label": "eclipsetemurin17",
+    "name": "Temurin 17",
+    "timeStamp": "2026-07-30T18:38:03Z",
+    "type": "pkg"
   }
 ]

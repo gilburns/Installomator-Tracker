@@ -9,5 +9,16 @@
     "name": "Obsidian",
     "timeStamp": "2026-07-03T15:58:17Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.13.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/262342594/9671e2dc-3ba0-4242-9ca7-48a7c232279b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-30T19%3A41%3A41Z&rscd=attachment%3B+filename%3DObsidian-1.13.4.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-30T18%3A40%3A58Z&ske=2026-07-30T19%3A41%3A41Z&sks=b&skv=2018-11-09&sig=ZAs%2FRwSh2hwkaK2%2FH99NAmdCZqAN8%2B73zescf7RrXV4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ0MDgxMCwibmJmIjoxNzg1NDM3MjEwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.PRLc-yGA3L7C_RwP6GEMMTWvvmJZTdy_irE0aGa4hKA&response-content-disposition=attachment%3B%20filename%3DObsidian-1.13.4.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "6JSW4SJWN9",
+    "label": "obsidian",
+    "name": "Obsidian",
+    "timeStamp": "2026-07-30T18:47:32Z",
+    "type": "dmg"
   }
 ]
