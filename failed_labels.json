@@ -175,6 +175,11 @@
       "lastSeen": "2026-07-29T06:58:00Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "bibdesk": {
+      "firstSeen": "2026-07-30T06:55:53Z",
+      "lastSeen": "2026-07-30T06:55:53Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "blackhole16ch": {
       "firstSeen": "2026-07-29T06:58:11Z",
       "lastSeen": "2026-07-29T06:58:11Z",
@@ -589,6 +594,11 @@
       "firstSeen": "2026-07-29T07:13:13Z",
       "lastSeen": "2026-07-29T07:13:13Z",
       "reason": "invalid JSON output"
+    },
+    "mamp": {
+      "firstSeen": "2026-07-30T07:12:16Z",
+      "lastSeen": "2026-07-30T07:12:16Z",
+      "reason": "resolve failed (exit 142)"
     },
     "meistertask": {
       "firstSeen": "2026-07-29T07:14:35Z",

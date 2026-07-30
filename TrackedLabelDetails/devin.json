@@ -46,5 +46,17 @@
     "name": "Devin",
     "timeStamp": "2026-07-20T07:10:43Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.6.22",
+    "blockingProcesses": [],
+    "downloadURL": "https://windsurf-stable.codeiumdata.com/darwin-arm64/stable/d5152ff5891d78b46644988943b78f408d06b861/Devin-darwin-arm64-3.6.22.zip`,darwinArm64Dmg:`https://windsurf-stable.codeiumdata.com/darwin-arm64-dmg/stable/d5152ff5891d78b46644988943b78f408d06b861/Devin-darwin-arm64-3.6.22.dmg",
+    "downloadURLi386": "https://windsurf-stable.codeiumdata.com/darwin-arm64/stable/d5152ff5891d78b46644988943b78f408d06b861/Devin-darwin-arm64-3.6.22.zip`,darwinArm64Dmg:`https://windsurf-stable.codeiumdata.com/darwin-arm64-dmg/stable/d5152ff5891d78b46644988943b78f408d06b861/Devin-darwin-arm64-3.6.22.dmg`,darwinX64:`https://windsurf-stable.codeiumdata.com/darwin-x64/stable/d5152ff5891d78b46644988943b78f408d06b861/Devin-darwin-x64-3.6.22.zip`,darwinX64Dmg:`https://windsurf-stable.codeiumdata.com/darwin-x64-dmg/stable/d5152ff5891d78b46644988943b78f408d06b861/Devin-darwin-x64-3.6.22.dmg",
+    "expectedTeamID": "83Z2LHX6XW",
+    "label": "devin",
+    "name": "Devin",
+    "timeStamp": "2026-07-30T07:01:03Z",
+    "type": "dmg"
   }
 ]

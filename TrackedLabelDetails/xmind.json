@@ -31,5 +31,16 @@
     "name": "Xmind",
     "timeStamp": "2026-07-13T07:31:53Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.05.01105",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl3.xmind.app/Xmind-for-macOS-26.05.01105-202607290707.dmg",
+    "expectedTeamID": "4WV38P2X5K",
+    "label": "xmind",
+    "name": "Xmind",
+    "timeStamp": "2026-07-30T07:22:25Z",
+    "type": "dmg"
   }
 ]

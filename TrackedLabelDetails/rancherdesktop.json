@@ -10,5 +10,17 @@
     "name": "Rancher Desktop",
     "timeStamp": "2026-07-03T16:01:44Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.24.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/306701996/b5b2306c-34dc-45e2-baf6-18909b045446?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-30T08%3A04%3A08Z&rscd=attachment%3B+filename%3DRancher.Desktop-1.24.0-mac.aarch64.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-30T07%3A03%3A38Z&ske=2026-07-30T08%3A04%3A08Z&sks=b&skv=2018-11-09&sig=u5XSollW269gJlk7NFyd7Lo74jdmNseBqVqFprhEe6c%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM5OTM3MiwibmJmIjoxNzg1Mzk1NzcyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.BxIJSQFVJc0QBMFZwEbQRAby9Q_NEv1tLoozPVRIN-E&response-content-disposition=attachment%3B%20filename%3DRancher.Desktop-1.24.0-mac.aarch64.zip&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/306701996/e254b150-a554-4c3d-ae46-59b1d7f6062b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-30T08%3A02%3A41Z&rscd=attachment%3B+filename%3DRancher.Desktop-1.24.0-mac.x86_64.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-30T07%3A01%3A42Z&ske=2026-07-30T08%3A02%3A41Z&sks=b&skv=2018-11-09&sig=twcebJgipr2AHbyGn2kZhB561gcEifp5PNwCpwdb7%2Bk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM5OTM3MywibmJmIjoxNzg1Mzk1NzczLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.5cQ88YTUy1E2_hO7_-V6cuB0LlYU3AZpCYLauvdb6FQ&response-content-disposition=attachment%3B%20filename%3DRancher.Desktop-1.24.0-mac.x86_64.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "2Q6FHJR3H3",
+    "label": "rancherdesktop",
+    "name": "Rancher Desktop",
+    "timeStamp": "2026-07-30T07:16:11Z",
+    "type": "zip"
   }
 ]

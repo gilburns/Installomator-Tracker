@@ -12,5 +12,19 @@
     "name": "Anaconda-Navigator",
     "timeStamp": "2026-07-03T15:37:05Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.07",
+    "blockingProcesses": [
+      "Anaconda-Navigator.app"
+    ],
+    "downloadURL": "https://repo.anaconda.com/archive/Anaconda3-2026.07-1-MacOSX-arm64.pkg",
+    "downloadURLi386": "https://repo.anaconda.com/archive/Anaconda3-2025.06-1-MacOSX-x86_64.pkg",
+    "expectedTeamID": "Z5788K4JT7",
+    "label": "anaconda",
+    "name": "Anaconda-Navigator",
+    "timeStamp": "2026-07-30T06:53:54Z",
+    "type": "pkg"
   }
 ]
