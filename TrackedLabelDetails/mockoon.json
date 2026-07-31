@@ -9,5 +9,16 @@
     "name": "Mockoon",
     "timeStamp": "2026-07-03T15:57:04Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.8.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/97478419/49d19a21-6077-40b3-906c-bdb3722cc73a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-31T19%3A27%3A12Z&rscd=attachment%3B+filename%3Dmockoon.setup.9.8.0.universal.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-31T18%3A27%3A11Z&ske=2026-07-31T19%3A27%3A12Z&sks=b&skv=2018-11-09&sig=zyh2QJiMD5UC%2B8i3oODff5CdkkwjvgSlOBpl0JAt0jk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTUyNzQ2NywibmJmIjoxNzg1NTIzODY3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.z7jWuiOrydNNp528GxwHUOWRiJKz02yh9hJ0MvXRKBE&response-content-disposition=attachment%3B%20filename%3Dmockoon.setup.9.8.0.universal.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "8443RQQKK6",
+    "label": "mockoon",
+    "name": "Mockoon",
+    "timeStamp": "2026-07-31T18:51:07Z",
+    "type": "dmg"
   }
 ]

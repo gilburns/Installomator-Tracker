@@ -710,6 +710,11 @@
       "lastSeen": "2026-07-29T07:15:33Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "mobikinassistantforandroid": {
+      "firstSeen": "2026-07-31T18:51:02Z",
+      "lastSeen": "2026-07-31T18:51:02Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "mobirise": {
       "firstSeen": "2026-07-29T07:15:36Z",
       "lastSeen": "2026-07-29T07:15:36Z",
@@ -753,6 +758,11 @@
     "nodejslts": {
       "firstSeen": "2026-07-29T07:17:24Z",
       "lastSeen": "2026-07-29T07:17:24Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "nomachine": {
+      "firstSeen": "2026-07-31T18:51:57Z",
+      "lastSeen": "2026-07-31T18:51:57Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "nomad": {

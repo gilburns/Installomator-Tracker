@@ -34,5 +34,17 @@
     "name": "Podman Desktop",
     "timeStamp": "2026-07-30T18:49:00Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.29.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/465844859/76565337-44b3-4433-8bf5-661891307ac7?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-31T19%3A52%3A21Z&rscd=attachment%3B+filename%3Dpodman-desktop-airgap-1.29.1-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-31T18%3A52%3A05Z&ske=2026-07-31T19%3A52%3A21Z&sks=b&skv=2018-11-09&sig=bYNujDh022hxo8hiU4opZK8S1dt3gBSc7ZXzzF5y4y0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTUyNzYyNywibmJmIjoxNzg1NTI0MDI3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.lnjvweZIJg1zhYM1YySNvsCyJ9D_LgtXlSa0ZGSs6B8&response-content-disposition=attachment%3B%20filename%3Dpodman-desktop-airgap-1.29.1-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/465844859/815229e3-5321-4153-8dc7-df3904e5b46f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-31T19%3A53%3A39Z&rscd=attachment%3B+filename%3Dpodman-desktop-airgap-1.29.1-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-31T18%3A53%3A30Z&ske=2026-07-31T19%3A53%3A39Z&sks=b&skv=2018-11-09&sig=NTjnh4y5d11yQbJSpB%2FM9c%2Fp5UoXV4hTI0OjN5trZss%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTUyNzYyOSwibmJmIjoxNzg1NTI0MDI5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.6mMu7Dp42mfChpiUEo-kMiZQ3TsoTLr-K01Xbel53PM&response-content-disposition=attachment%3B%20filename%3Dpodman-desktop-airgap-1.29.1-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "HYSCB8KRL2",
+    "label": "podmandesktopairgap",
+    "name": "Podman Desktop",
+    "timeStamp": "2026-07-31T18:53:47Z",
+    "type": "dmg"
   }
 ]
