@@ -9,5 +9,16 @@
     "name": "krita",
     "timeStamp": "2026-07-03T15:51:21Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.3.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://paducahix.mm.fcix.net/kdeftp/stable/krita/5.3.3/krita-5.3.3-signed.dmg",
+    "expectedTeamID": "DL93766A3G",
+    "label": "krita",
+    "name": "krita",
+    "timeStamp": "2026-07-31T07:13:02Z",
+    "type": "dmg"
   }
 ]

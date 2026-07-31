@@ -11,5 +11,18 @@
     "name": "tophat",
     "timeStamp": "2026-07-03T16:06:20Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.5.2",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/843554833/4004fbc1-707a-402e-8ed9-e48493647d2c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-31T08%3A07%3A33Z&rscd=attachment%3B+filename%3DTophat-2.5.2.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-31T07%3A07%3A10Z&ske=2026-07-31T08%3A07%3A33Z&sks=b&skv=2018-11-09&sig=nXRz7Rv4175%2F%2BC7aa8W9wuKhUXlVE3WzpV2spRHMpMw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ4Mjc2MCwibmJmIjoxNzg1NDgyNDYwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.a7j_DijMpK39Pajm7GW5fMyZFfcauK3Zv-j20EdNJ1s&response-content-disposition=attachment%3B%20filename%3DTophat-2.5.2.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "A7XGC83MZE",
+    "label": "tophat",
+    "name": "tophat",
+    "timeStamp": "2026-07-31T07:20:59Z",
+    "type": "zip"
   }
 ]

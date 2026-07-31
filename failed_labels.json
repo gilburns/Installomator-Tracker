@@ -230,6 +230,11 @@
       "lastSeen": "2026-07-29T06:58:58Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "captureone": {
+      "firstSeen": "2026-07-31T07:02:45Z",
+      "lastSeen": "2026-07-31T07:02:45Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "cardpresso": {
       "firstSeen": "2026-07-29T06:59:02Z",
       "lastSeen": "2026-07-29T06:59:02Z",
@@ -1219,6 +1224,11 @@
       "firstSeen": "2026-07-29T07:27:36Z",
       "lastSeen": "2026-07-29T07:27:36Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "wechat": {
+      "firstSeen": "2026-07-31T07:23:46Z",
+      "lastSeen": "2026-07-31T07:23:46Z",
+      "reason": "resolve failed (exit 142)"
     },
     "weprint": {
       "firstSeen": "2026-07-29T07:27:44Z",
