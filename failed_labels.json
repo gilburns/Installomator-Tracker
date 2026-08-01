@@ -215,6 +215,11 @@
       "lastSeen": "2026-08-01T06:54:44Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-08-01T18:22:44Z",
+      "lastSeen": "2026-08-01T18:22:44Z",
+      "reason": "invalid JSON output"
+    },
     "camunda": {
       "firstSeen": "2026-08-01T06:54:59Z",
       "lastSeen": "2026-08-01T06:54:59Z",
