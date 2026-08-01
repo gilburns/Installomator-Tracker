@@ -53,5 +53,16 @@
     "name": "Zen",
     "timeStamp": "2026-07-25T18:43:40Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.21.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/778556932/f71f8f42-c6ad-49c7-9eb7-a91888d7c364?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-01T08%3A16%3A16Z&rscd=attachment%3B+filename%3Dzen.macos-universal.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-01T07%3A15%3A37Z&ske=2026-08-01T08%3A16%3A16Z&sks=b&skv=2018-11-09&sig=9mKoKx%2Bh4bCC%2F%2Bbq3iZcxv8sgScrqew6qAeKVRy5jpU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU3MjQ4OCwibmJmIjoxNzg1NTY4ODg4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.3DUrMQzs3vLD8vpjwfP-6LnX-mGnuC5vEaRWYeoBUGQ&response-content-disposition=attachment%3B%20filename%3Dzen.macos-universal.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "9V5K9TP787",
+    "label": "zen",
+    "name": "Zen",
+    "timeStamp": "2026-08-01T07:21:28Z",
+    "type": "dmg"
   }
 ]

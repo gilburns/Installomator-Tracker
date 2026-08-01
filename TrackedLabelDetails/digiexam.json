@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.1.24",
+    "blockingProcesses": [
+      "digiexam"
+    ],
+    "downloadURL": "https://cdn.crabnebula.app/asset/01KNVC20D6Y3N0TMHZHS611CJ6?from=%7B%22orgSlug%22%3A%22digiexam%22%2C%22appSlug%22%3A%22digiexam%22%2C%22updatePlatform%22%3A%22macos-universal%22%2C%22current%22%3A%220.0.0%22%7D",
+    "expectedTeamID": "73T9H7VE4P",
+    "label": "digiexam",
+    "name": "Digiexam",
+    "timeStamp": "2026-08-01T06:58:06Z",
+    "type": "tbz"
+  }
+]

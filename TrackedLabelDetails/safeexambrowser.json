@@ -11,5 +11,18 @@
     "name": "Safe Exam Browser",
     "timeStamp": "2026-07-03T16:03:23Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.7",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/39591651/dc0aae00-b13a-40da-94bc-c40f893b1988?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-01T08%3A13%3A32Z&rscd=attachment%3B+filename%3DSafeExamBrowser-3.7.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-01T07%3A12%3A58Z&ske=2026-08-01T08%3A13%3A32Z&sks=b&skv=2018-11-09&sig=BYu0OzxpKs0nNLzJogZTSs3vQovTT4de578XhdO6fiM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU3MDMzNSwibmJmIjoxNzg1NTY4NTM1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Ci8lwp0g2s_3D02GxsC3F8nNZqUOdVEYYNEDhSH8zjs&response-content-disposition=attachment%3B%20filename%3DSafeExamBrowser-3.7.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "6F38DNSC7X",
+    "label": "safeexambrowser",
+    "name": "Safe Exam Browser",
+    "timeStamp": "2026-08-01T07:15:35Z",
+    "type": "dmg"
   }
 ]

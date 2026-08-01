@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1268073280/e8594aa6-4cbe-415c-a5f8-a062279127ab?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-01T07%3A54%3A15Z&rscd=attachment%3B+filename%3DContainerManager.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-01T06%3A53%3A26Z&ske=2026-08-01T07%3A54%3A15Z&sks=b&skv=2018-11-09&sig=z7fNBVw7dvB1MBdLsggWbvlOk57J%2B0CeowXfTYvBb5c%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU2OTIxNSwibmJmIjoxNzg1NTY3NDE1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.2VMWt0tXkUdifdqTwkUIU35qhJLy7B1JJbXlX0A5nmE&response-content-disposition=attachment%3B%20filename%3DContainerManager.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "N8GJ2Y5Z9T",
+    "label": "containermanager",
+    "name": "ContainerManager",
+    "timeStamp": "2026-08-01T06:56:55Z",
+    "type": "dmg"
+  }
+]

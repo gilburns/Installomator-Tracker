@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "26730",
+    "appNewVersion": "26625",
     "blockingProcesses": [],
     "downloadURL": "https://github.com/",
     "expectedTeamID": "Y6RX44QG2G",
     "label": "shotcut",
     "name": "shotcut",
-    "timeStamp": "2026-07-31T18:56:05Z",
+    "timeStamp": "2026-08-01T07:16:12Z",
     "type": "dmg"
   }
 ]
