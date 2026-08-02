@@ -20,5 +20,16 @@
     "name": "LinearMouse",
     "timeStamp": "2026-07-11T07:03:22Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.11.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/375653778/5ee30e73-f731-4a06-986f-bdbeec89e0ec?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-02T19%3A33%3A21Z&rscd=attachment%3B+filename%3DLinearMouse.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-02T18%3A33%3A13Z&ske=2026-08-02T19%3A33%3A21Z&sks=b&skv=2018-11-09&sig=VJ5UMqogcUM%2F7Bei2Lsz8fFPL1aGEYh7nfsUnUYbACk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTY5NTkzOSwibmJmIjoxNzg1Njk1NjM5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ut3DSzpKPmD6piQkrQvwX0I2LnibgPgU20K3KINd4FA&response-content-disposition=attachment%3B%20filename%3DLinearMouse.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "C5686NKYJ7",
+    "label": "linearmouse",
+    "name": "LinearMouse",
+    "timeStamp": "2026-08-02T18:33:59Z",
+    "type": "dmg"
   }
 ]
