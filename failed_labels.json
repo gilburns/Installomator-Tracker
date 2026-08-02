@@ -550,6 +550,11 @@
       "lastSeen": "2026-08-01T07:06:46Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "macadminspython": {
+      "firstSeen": "2026-08-02T07:06:47Z",
+      "lastSeen": "2026-08-02T07:06:47Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "mackiemasterfader": {
       "firstSeen": "2026-08-01T07:06:56Z",
       "lastSeen": "2026-08-01T07:06:56Z",
@@ -1153,6 +1158,11 @@
     "vanilla": {
       "firstSeen": "2026-08-01T07:19:57Z",
       "lastSeen": "2026-08-01T07:19:57Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "veracrypt-fuse-t": {
+      "firstSeen": "2026-08-02T07:16:31Z",
+      "lastSeen": "2026-08-02T07:16:31Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "vernierspectralanalysis": {
