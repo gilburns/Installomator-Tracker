@@ -9,5 +9,16 @@
     "name": "ZoomPresence",
     "timeStamp": "2026-07-03T16:09:32Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.1.5.13403",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.zoom.us/prod/7.1.5.13403/ZoomRooms.pkg",
+    "expectedTeamID": "BJ4HAAB9B3",
+    "label": "zoomrooms",
+    "name": "ZoomPresence",
+    "timeStamp": "2026-08-03T07:33:18Z",
+    "type": "pkg"
   }
 ]

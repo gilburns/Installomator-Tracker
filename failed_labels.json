@@ -1205,6 +1205,11 @@
       "lastSeen": "2026-08-01T07:20:42Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "wechat": {
+      "firstSeen": "2026-08-03T07:32:31Z",
+      "lastSeen": "2026-08-03T07:32:31Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "weprint": {
       "firstSeen": "2026-08-01T07:20:51Z",
       "lastSeen": "2026-08-01T07:20:51Z",

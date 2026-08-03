@@ -10,5 +10,17 @@
     "name": "OrbStack",
     "timeStamp": "2026-07-03T15:58:44Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.2.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn-updates.orbstack.dev/arm64/OrbStack_v2.2.2_20903_arm64.dmg",
+    "downloadURLi386": "https://cdn-updates.orbstack.dev/amd64/OrbStack_v2.2.2_20903_amd64.dmg",
+    "expectedTeamID": "HUAQ24HBR6",
+    "label": "orbstack",
+    "name": "OrbStack",
+    "timeStamp": "2026-08-03T07:24:54Z",
+    "type": "dmg"
   }
 ]

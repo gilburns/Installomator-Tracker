@@ -20,5 +20,16 @@
     "name": "Favro",
     "timeStamp": "2026-07-26T18:28:56Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.0.196",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.favro.com/FavroDesktop/macOS/x64/Favro-1.0.196.dmg",
+    "expectedTeamID": "PUA8Q354ZF",
+    "label": "favro",
+    "name": "Favro",
+    "timeStamp": "2026-08-03T07:15:27Z",
+    "type": "dmg"
   }
 ]
