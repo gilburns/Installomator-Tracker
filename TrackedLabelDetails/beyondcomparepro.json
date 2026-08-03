@@ -20,5 +20,16 @@
     "name": "Beyond Compare",
     "timeStamp": "2026-07-22T18:29:06Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.2.5.32528",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.scootersoftware.com/BCompareOSX-5.2.5.32528.zip",
+    "expectedTeamID": "BS29TEJF86",
+    "label": "beyondcomparepro",
+    "name": "Beyond Compare",
+    "timeStamp": "2026-08-03T18:36:54Z",
+    "type": "zip"
   }
 ]

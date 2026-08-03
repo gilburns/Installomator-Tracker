@@ -20,5 +20,16 @@
     "name": "Prune",
     "timeStamp": "2026-07-30T07:15:55Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/231824166/5645e738-aafc-4127-83fd-a152da2220cb?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-03T19%3A52%3A47Z&rscd=attachment%3B+filename%3DPrune.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-03T18%3A52%3A41Z&ske=2026-08-03T19%3A52%3A47Z&sks=b&skv=2018-11-09&sig=ZiOJ4CwHCk9a%2FsjUMu%2Fj3PBYzpqOUelPwfWv1p4m%2FWw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc4MzU1MSwibmJmIjoxNzg1NzgzMjUxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.sMYgQUQTU1AwZ2CSVwPz6bA_o6OUDhXOn0jj0BVJGBE&response-content-disposition=attachment%3B%20filename%3DPrune.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "PS2F6S478M",
+    "label": "prune",
+    "name": "Prune",
+    "timeStamp": "2026-08-03T18:54:11Z",
+    "type": "zip"
   }
 ]

@@ -40,5 +40,19 @@
     "name": "Docker",
     "timeStamp": "2026-07-27T18:39:58Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.85.0",
+    "blockingProcesses": [
+      "Docker Desktop"
+    ],
+    "downloadURL": "https://desktop.docker.com/mac/main/arm64/235549/Docker.dmg",
+    "downloadURLi386": "https://desktop.docker.com/mac/main/amd64/235549/Docker.dmg",
+    "expectedTeamID": "9BNSXJN65R",
+    "label": "docker",
+    "name": "Docker",
+    "timeStamp": "2026-08-03T18:42:13Z",
+    "type": "dmg"
   }
 ]
