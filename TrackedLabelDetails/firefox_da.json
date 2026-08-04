@@ -63,5 +63,18 @@
     "name": "Firefox",
     "timeStamp": "2026-07-28T18:41:08Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "153.0.3",
+    "blockingProcesses": [
+      "firefox"
+    ],
+    "downloadURL": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0.3/win32/en-US/Firefox%20Setup%20153.0.3.exe",
+    "expectedTeamID": "43AQ936H96",
+    "label": "firefox_da",
+    "name": "Firefox",
+    "timeStamp": "2026-08-04T18:41:31Z",
+    "type": "dmg"
   }
 ]

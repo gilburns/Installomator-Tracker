@@ -1,7 +1,7 @@
 [
   {
     "appName": "",
-    "appNewVersion": "46.7.0.35472",
+    "appNewVersion": "46.8.0.33593",
     "blockingProcesses": [
       "Webex",
       "Webex Teams",
@@ -13,7 +13,7 @@
     "expectedTeamID": "DE8Y96K9QP",
     "label": "webex",
     "name": "Webex",
-    "timeStamp": "2026-07-21T19:01:41Z",
+    "timeStamp": "2026-08-04T18:55:19Z",
     "type": "dmg"
   }
 ]

@@ -9,5 +9,16 @@
     "name": "CodeMeter",
     "timeStamp": "2026-07-03T15:42:49Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.wibu.com/de/support/anwendersoftware/anwendersoftware/file/download/17994.html?tx_wibudownloads_downloadlist%5BdirectDownload%5D=directDownload&amp;tx_wibudownloads_downloadlist%5BuseAwsS3%5D=0&amp;cHash=8dba7ab094dec6267346f04fce2a2bcd",
+    "expectedTeamID": "2SE7W37452",
+    "label": "codemeter",
+    "name": "CodeMeter",
+    "timeStamp": "2026-08-04T18:38:14Z",
+    "type": "pkgInDmg"
   }
 ]

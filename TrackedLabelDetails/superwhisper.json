@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "2.17.0",
+    "appNewVersion": "2.17.1",
     "blockingProcesses": [],
     "downloadURL": "https://builds.superwhisper.com/latest/superwhisper.dmg",
     "expectedTeamID": "XDP69BYUP9",
     "label": "superwhisper",
     "name": "superwhisper",
-    "timeStamp": "2026-07-29T18:43:59Z",
+    "timeStamp": "2026-08-04T18:52:47Z",
     "type": "dmg"
   }
 ]

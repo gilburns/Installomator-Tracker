@@ -34,5 +34,17 @@
     "name": "JetBrains Toolbox",
     "timeStamp": "2026-07-29T18:33:21Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.6.4.86641",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-cdn.jetbrains.com/toolbox/jetbrains-toolbox-3.6.4.86641-arm64.dmg",
+    "downloadURLi386": "https://download-cdn.jetbrains.com/toolbox/jetbrains-toolbox-3.6.4.86641.dmg",
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainstoolbox",
+    "name": "JetBrains Toolbox",
+    "timeStamp": "2026-08-04T18:44:37Z",
+    "type": "dmg"
   }
 ]

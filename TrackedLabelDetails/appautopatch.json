@@ -9,5 +9,16 @@
     "name": "App Auto-Patch",
     "timeStamp": "2026-08-04T06:54:05Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.6.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/641651211/66e9358d-d12a-403d-a34f-8775993090bf?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-04T19%3A09%3A20Z&rscd=attachment%3B+filename%3DAppAutoPatch-3.6.3.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-04T18%3A08%3A48Z&ske=2026-08-04T19%3A09%3A20Z&sks=b&skv=2018-11-09&sig=YusHxdbT6XlbhEjUzF5Mvq%2FUIEe4APFbXG9rpr2btSo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg2ODY4NiwibmJmIjoxNzg1ODY4Mzg2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.1EoO5Bhe2yKHO6oc3YqkvoBlN39B8URMgDZIAIAE1Vk&response-content-disposition=attachment%3B%20filename%3DAppAutoPatch-3.6.3.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "4XSYV3BTMX",
+    "label": "appautopatch",
+    "name": "App Auto-Patch",
+    "timeStamp": "2026-08-04T18:33:06Z",
+    "type": "pkg"
   }
 ]
