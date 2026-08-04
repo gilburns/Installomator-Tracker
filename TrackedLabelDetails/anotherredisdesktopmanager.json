@@ -16,6 +16,7 @@
     "appNewVersion": "1.7.2",
     "blockingProcesses": [],
     "downloadURL": "https://github.com/",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/164574693/fdaf400f-5b5a-4d77-bd5b-efdfe9c1a1eb?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-04T07%3A27%3A40Z&rscd=attachment%3B+filename%3DAnother-Redis-Desktop-Manager-mac-1.7.2-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-04T06%3A26%3A50Z&ske=2026-08-04T07%3A27%3A40Z&sks=b&skv=2018-11-09&sig=ldi6aeBEiXEyH6vqpnphJ2S9AayZvOsNbBUIFjaF994%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTgyODIzNywibmJmIjoxNzg1ODI2NDM3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.4yVwj75E6ITO_VmKNeEAXiTBfPNGp8rVR_39JYN3i9Q&response-content-disposition=attachment%3B%20filename%3DAnother-Redis-Desktop-Manager-mac-1.7.2-x64.dmg&response-content-type=application%2Foctet-stream",
     "expectedTeamID": "68JN8DV835",
     "label": "anotherredisdesktopmanager",
     "name": "Another Redis Desktop Manager",
