@@ -20,5 +20,16 @@
     "name": "TextExpander",
     "timeStamp": "2026-07-14T18:46:54Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.4.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.textexpander.com/mac/846.3/TextExpander_8.4.6.dmg",
+    "expectedTeamID": "7PKJ6G4DXL",
+    "label": "textexpander",
+    "name": "TextExpander",
+    "timeStamp": "2026-08-05T18:56:40Z",
+    "type": "dmg"
   }
 ]

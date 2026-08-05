@@ -12,5 +12,19 @@
     "name": "Python",
     "timeStamp": "2026-07-03T16:00:31Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.14.7",
+    "blockingProcesses": [
+      "IDLE",
+      "Python Launcher"
+    ],
+    "downloadURL": "https://www.python.org/ftp/python/3.14.7/python-3.14.7-macos11.pkg",
+    "expectedTeamID": "BMM5U3QVKW",
+    "label": "python",
+    "name": "Python",
+    "timeStamp": "2026-08-05T18:53:17Z",
+    "type": "pkg"
   }
 ]

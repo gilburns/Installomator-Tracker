@@ -31,5 +31,16 @@
     "name": "Cinema 4D",
     "timeStamp": "2026-07-22T18:32:39Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.3.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/cinema4d/releases/2026.3.4/Cinema4D_2026_2026.3.4_Mac.dmg",
+    "expectedTeamID": "4ZY22YGXQG",
+    "label": "cinema4d2026",
+    "name": "Cinema 4D",
+    "timeStamp": "2026-08-05T18:37:33Z",
+    "type": "dmg"
   }
 ]

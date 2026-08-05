@@ -24,5 +24,18 @@
     "name": "Egnyte Core",
     "timeStamp": "2026-07-16T18:31:33Z",
     "type": "dmg"
+  },
+  {
+    "appName": "Egnyte.app",
+    "appNewVersion": "1.19.1",
+    "blockingProcesses": [
+      "Egnyte"
+    ],
+    "downloadURL": "https://egnyte-cdn.egnyte.com/desktopapp/mac/en-us/1.19.1/Egnyte_1.19.1_2367.dmg",
+    "expectedTeamID": "FELUD555VC",
+    "label": "egnytecore",
+    "name": "Egnyte Core",
+    "timeStamp": "2026-08-05T18:40:37Z",
+    "type": "dmg"
   }
 ]
