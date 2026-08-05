@@ -20,5 +20,16 @@
     "name": "Jitsi Meet",
     "timeStamp": "2026-07-11T18:33:13Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.8.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/76293911/c395d08d-8452-41aa-97fe-0bd053c48d65?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-05T07%3A58%3A19Z&rscd=attachment%3B+filename%3Djitsi-meet.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-05T06%3A57%3A34Z&ske=2026-08-05T07%3A58%3A19Z&sks=b&skv=2018-11-09&sig=sL7OJCu8%2FDRrUz5LZ4jEuxRL5UhlaAK%2FPpnRuuOkIyo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTkxNzM3MSwibmJmIjoxNzg1OTEzNzcxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.9in5U0LDHMhnDa6zBTQqgE1EUEJ-0y8IhooPQ-lBeII&response-content-disposition=attachment%3B%20filename%3Djitsi-meet.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "FC967L3QRG",
+    "label": "jitsimeet",
+    "name": "Jitsi Meet",
+    "timeStamp": "2026-08-05T07:09:31Z",
+    "type": "dmg"
   }
 ]
