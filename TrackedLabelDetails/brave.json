@@ -94,5 +94,17 @@
     "name": "Brave Browser",
     "timeStamp": "2026-07-31T07:01:11Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "193.132",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/110178895/de8f23ff-76aa-4652-8c4a-55d95cd53e45?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-06T07%3A36%3A05Z&rscd=attachment%3B+filename%3DBrave-Browser-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-06T06%3A35%3A15Z&ske=2026-08-06T07%3A36%3A05Z&sks=b&skv=2018-11-09&sig=K%2BmZi3kxnccj3g8ZlfYk79dtTjXdRkHYnzliaEwaxR4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjAwMjk3NiwibmJmIjoxNzg1OTk5Mzc2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.LH487jJbAbFRjfRKaOgPvJd6twyP9dT7glH_AlSxxIA&response-content-disposition=attachment%3B%20filename%3DBrave-Browser-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/110178895/24f05e8f-df0b-4c9e-9912-77ca508e0801?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-06T07%3A34%3A20Z&rscd=attachment%3B+filename%3DBrave-Browser-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-06T06%3A34%3A04Z&ske=2026-08-06T07%3A34%3A20Z&sks=b&skv=2018-11-09&sig=IZPQcUi3FmTl3OK8oS1k62gqbqtrOcVOU%2Fnb6q8lbMA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjAwMjk3OCwibmJmIjoxNzg1OTk5Mzc4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.-bC2GxbFL4VCY-1pXjEZDbIi_jM_u9cRta4KijdqIPw&response-content-disposition=attachment%3B%20filename%3DBrave-Browser-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "KL8N8XSYF4",
+    "label": "brave",
+    "name": "Brave Browser",
+    "timeStamp": "2026-08-06T06:56:15Z",
+    "type": "dmg"
   }
 ]

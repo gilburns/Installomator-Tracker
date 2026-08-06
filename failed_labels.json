@@ -30,6 +30,11 @@
       "lastSeen": "2026-08-05T06:54:56Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "airserver": {
+      "firstSeen": "2026-08-06T06:54:38Z",
+      "lastSeen": "2026-08-06T06:54:38Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "airtable": {
       "firstSeen": "2026-08-05T06:55:11Z",
       "lastSeen": "2026-08-05T06:55:11Z",
@@ -1108,6 +1113,11 @@
     "tidal": {
       "firstSeen": "2026-08-05T07:24:50Z",
       "lastSeen": "2026-08-05T07:24:50Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "tigervnc": {
+      "firstSeen": "2026-08-06T07:16:44Z",
+      "lastSeen": "2026-08-06T07:16:44Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "toonboomharmony2024": {
