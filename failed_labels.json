@@ -655,6 +655,11 @@
       "lastSeen": "2026-08-05T07:15:18Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "microsoftskypeforbusiness": {
+      "firstSeen": "2026-08-07T18:32:11Z",
+      "lastSeen": "2026-08-07T18:32:11Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "microsoftskypeforbusinessremovaltool": {
       "firstSeen": "2026-08-05T07:15:20Z",
       "lastSeen": "2026-08-05T07:15:20Z",
@@ -1223,6 +1228,11 @@
     "webextoolsremoval": {
       "firstSeen": "2026-08-05T07:27:09Z",
       "lastSeen": "2026-08-05T07:27:09Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "webexvdiplugin": {
+      "firstSeen": "2026-08-07T18:39:47Z",
+      "lastSeen": "2026-08-07T18:39:47Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "weprint": {
