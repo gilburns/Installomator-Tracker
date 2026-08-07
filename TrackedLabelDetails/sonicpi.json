@@ -10,5 +10,17 @@
     "name": "Sonic Pi",
     "timeStamp": "2026-07-03T16:04:30Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://sonic-pi.net/files/releases/v5.0.0/Sonic-Pi-for-Mac-arm64-v5.0.0.dmg",
+    "downloadURLi386": "https://sonic-pi.net/files/releases/v5.0.0/Sonic-Pi-for-Mac-x64-v5.0.0.dmg",
+    "expectedTeamID": "MM65S3L4NG",
+    "label": "sonicpi",
+    "name": "Sonic Pi",
+    "timeStamp": "2026-08-07T06:44:59Z",
+    "type": "dmg"
   }
 ]

@@ -20,5 +20,16 @@
     "name": "Viscosity",
     "timeStamp": "2026-07-08T07:21:28Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.13.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://swupdate.sparklabs.com/download/mac/release/viscosity/Viscosity%201.13.1.dmg",
+    "expectedTeamID": "34XR7GXFPX",
+    "label": "viscosity",
+    "name": "Viscosity",
+    "timeStamp": "2026-08-07T06:48:19Z",
+    "type": "dmg"
   }
 ]
