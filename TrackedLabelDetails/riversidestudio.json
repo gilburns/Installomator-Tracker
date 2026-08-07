@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "1.28.0",
+    "appNewVersion": "1.29.0",
     "blockingProcesses": [],
     "downloadURL": "https://assets.riverside.fm/mac-desktop-app/current-release/RiversideStudio.dmg",
     "expectedTeamID": "LH94UTHM4U",
     "label": "riversidestudio",
     "name": "Riverside Studio",
-    "timeStamp": "2026-07-27T07:27:17Z",
+    "timeStamp": "2026-08-07T02:37:05Z",
     "type": "dmg"
   }
 ]

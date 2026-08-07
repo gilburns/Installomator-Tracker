@@ -9,5 +9,16 @@
     "name": "inMusic Software Center",
     "timeStamp": "2026-07-03T15:49:16Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.39.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.inmusicbrands.com/SI04/1391/inMusic%20Software%20Center-darwin-universal-1.39.1.zip",
+    "expectedTeamID": "NDEA34327T",
+    "label": "inmusicsoftwarecenter",
+    "name": "inMusic Software Center",
+    "timeStamp": "2026-08-07T02:29:10Z",
+    "type": "zip"
   }
 ]

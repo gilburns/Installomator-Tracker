@@ -9,5 +9,16 @@
     "name": "Proton Drive",
     "timeStamp": "2026-07-03T16:00:18Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://proton.me/download/drive/macos/3.0.2/ProtonDrive-3.0.2.dmg",
+    "expectedTeamID": "2SB5Z68H26",
+    "label": "protondrive",
+    "name": "Proton Drive",
+    "timeStamp": "2026-08-07T02:36:26Z",
+    "type": "dmg"
   }
 ]

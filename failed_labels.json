@@ -10,6 +10,11 @@
       "lastSeen": "2026-08-05T18:32:07Z",
       "reason": "invalid JSON output"
     },
+    "abstract": {
+      "firstSeen": "2026-08-07T02:18:12Z",
+      "lastSeen": "2026-08-07T02:18:12Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "acroniscyberprotectconnect": {
       "firstSeen": "2026-08-05T06:53:58Z",
       "lastSeen": "2026-08-05T06:53:58Z",
@@ -978,6 +983,11 @@
     "skype": {
       "firstSeen": "2026-08-05T07:22:45Z",
       "lastSeen": "2026-08-05T07:22:45Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "sloth": {
+      "firstSeen": "2026-08-07T02:37:57Z",
+      "lastSeen": "2026-08-07T02:37:57Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "snapgene": {
