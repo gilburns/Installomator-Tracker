@@ -505,6 +505,11 @@
       "lastSeen": "2026-08-05T07:08:02Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-08-08T06:25:35Z",
+      "lastSeen": "2026-08-08T06:25:35Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "island": {
       "firstSeen": "2026-08-05T07:08:18Z",
       "lastSeen": "2026-08-05T07:08:18Z",
@@ -1199,6 +1204,11 @@
       "firstSeen": "2026-08-05T07:26:30Z",
       "lastSeen": "2026-08-05T07:26:30Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "vlc": {
+      "firstSeen": "2026-08-08T06:39:29Z",
+      "lastSeen": "2026-08-08T06:39:29Z",
+      "reason": "resolve failed (exit 142)"
     },
     "vpntracker365": {
       "firstSeen": "2026-08-05T07:26:53Z",

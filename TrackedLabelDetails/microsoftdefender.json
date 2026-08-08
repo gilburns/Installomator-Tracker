@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "101.26052.0016",
+    "appNewVersion": "101.26062.0009",
     "blockingProcesses": [],
     "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav.pkg",
     "expectedTeamID": "UBF8T346G9",
     "label": "microsoftdefender",
     "name": "Microsoft Defender",
-    "timeStamp": "2026-08-07T18:31:53Z",
+    "timeStamp": "2026-08-08T06:29:49Z",
     "type": "pkg"
   }
 ]
