@@ -20,5 +20,16 @@
     "name": "calibre",
     "timeStamp": "2026-08-01T06:54:50Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.13.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.calibre-ebook.com/9.13.0/calibre-9.13.0.dmg",
+    "expectedTeamID": "NTY7FVCEKP",
+    "label": "calibre",
+    "name": "calibre",
+    "timeStamp": "2026-08-08T18:12:37Z",
+    "type": "dmg"
   }
 ]

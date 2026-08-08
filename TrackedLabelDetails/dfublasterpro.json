@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://twocanoes-software-updates.s3.amazonaws.com/DFU_Blaster_Pro.dmg",
+    "expectedTeamID": "UXP6YEHSPW",
+    "label": "dfublasterpro",
+    "name": "DFU Blaster Pro",
+    "timeStamp": "2026-08-08T18:17:16Z",
+    "type": "pkgInDmg"
+  }
+]
