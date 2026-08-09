@@ -790,6 +790,11 @@
       "lastSeen": "2026-08-08T18:32:03Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "outset": {
+      "firstSeen": "2026-08-09T06:33:37Z",
+      "lastSeen": "2026-08-09T06:33:37Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "pcoipclient": {
       "firstSeen": "2026-08-08T18:32:25Z",
       "lastSeen": "2026-08-08T18:32:25Z",
@@ -1098,6 +1103,11 @@
     "tidal": {
       "firstSeen": "2026-08-08T18:38:39Z",
       "lastSeen": "2026-08-08T18:38:39Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "tigervnc": {
+      "firstSeen": "2026-08-09T06:38:46Z",
+      "lastSeen": "2026-08-09T06:38:46Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "toonboomharmony2024": {
