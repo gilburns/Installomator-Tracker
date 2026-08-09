@@ -64,5 +64,16 @@
     "name": "Stats",
     "timeStamp": "2026-08-02T18:41:03Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.0.11",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/189285554/3fef1f25-b6e2-4df0-b036-c590a1ed8dfc?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-09T19%3A35%3A56Z&rscd=attachment%3B+filename%3DStats.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-09T18%3A35%3A03Z&ske=2026-08-09T19%3A35%3A56Z&sks=b&skv=2018-11-09&sig=blnUJv6MJQBOIDS1ui37ZM4ovae3SUJ0zvrMEBK1bSg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjMwMDk1NSwibmJmIjoxNzg2MzAwNjU1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.MJQ1nsoB92YRG20rsigERsVvbMSP8wx5zVCz4vPgWqE&response-content-disposition=attachment%3B%20filename%3DStats.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "RP2S87B72W",
+    "label": "stats",
+    "name": "Stats",
+    "timeStamp": "2026-08-09T18:37:35Z",
+    "type": "dmg"
   }
 ]
