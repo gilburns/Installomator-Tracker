@@ -34,5 +34,17 @@
     "name": "PHPStorm",
     "timeStamp": "2026-07-23T18:40:55Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.2.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-cdn.jetbrains.com/webide/PhpStorm-2026.2.1-aarch64.dmg",
+    "downloadURLi386": "https://download-cdn.jetbrains.com/webide/PhpStorm-2026.2.1.dmg",
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainsphpstorm",
+    "name": "PHPStorm",
+    "timeStamp": "2026-08-10T18:32:09Z",
+    "type": "dmg"
   }
 ]

@@ -53,5 +53,16 @@
     "name": "FL Studio",
     "timeStamp": "2026-07-27T18:41:47Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "FL Studio 2026.app",
+    "appNewVersion": "26.1.4.5356",
+    "blockingProcesses": [],
+    "downloadURL": "https://install.image-line.com/flstudio/flstudio_mac_26.1.4.5356.dmg",
+    "expectedTeamID": "N68WEP5ZZZ",
+    "label": "flstudiomac",
+    "name": "FL Studio",
+    "timeStamp": "2026-08-10T18:28:48Z",
+    "type": "pkgInDmg"
   }
 ]

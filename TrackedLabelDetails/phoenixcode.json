@@ -10,5 +10,17 @@
     "name": "Phoenix Code",
     "timeStamp": "2026-07-03T15:59:26Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.2.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/583268323/fcd6e973-a5c9-42b7-991e-9078f444b115?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-10T19%3A26%3A04Z&rscd=attachment%3B+filename%3DPhoenix.Code_5.2.4_aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-10T18%3A25%3A30Z&ske=2026-08-10T19%3A26%3A04Z&sks=b&skv=2018-11-09&sig=srRU4FML9j%2FH6e%2BdV8CBSD%2FLQMKIhSEDUusfbWg%2FTJI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjM5MDg4MywibmJmIjoxNzg2Mzg3MjgzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.EDpfbn6Wq-rxK82xI8DmVnApop_bU99uVq-fLhVQLHc&response-content-disposition=attachment%3B%20filename%3DPhoenix.Code_5.2.4_aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/583268323/f7b65dd6-7960-499c-ad00-1544fd0015d8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-10T19%3A24%3A55Z&rscd=attachment%3B+filename%3DPhoenix.Code_5.2.4_x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-10T18%3A24%3A26Z&ske=2026-08-10T19%3A24%3A55Z&sks=b&skv=2018-11-09&sig=Atx8%2FBuYyCVpbV8bckwkHDDrC%2FOyPJ2Rn%2BJvb5OPkHA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjM5MDg4NSwibmJmIjoxNzg2Mzg3Mjg1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.gbdhPxK8icUdFT26GNHbE5H0tl_mP9gHm90hJLUVdc0&response-content-disposition=attachment%3B%20filename%3DPhoenix.Code_5.2.4_x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "8F632A866K",
+    "label": "phoenixcode",
+    "name": "Phoenix Code",
+    "timeStamp": "2026-08-10T18:41:23Z",
+    "type": "dmg"
   }
 ]

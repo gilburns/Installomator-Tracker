@@ -20,5 +20,16 @@
     "name": "QGIS-LTR",
     "timeStamp": "2026-07-08T18:51:13Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.44.13",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl2.qgis.org/downloads/macos/ltr/qgis_ltr_final-3_44_13.dmg",
+    "expectedTeamID": "4F7N4UDA22",
+    "label": "qgisltr",
+    "name": "QGIS-LTR",
+    "timeStamp": "2026-08-10T18:42:35Z",
+    "type": "dmg"
   }
 ]

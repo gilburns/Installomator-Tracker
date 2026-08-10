@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.0.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://ankerwork.s3.us-west-2.amazonaws.com/electron/AnkerWork-Setup-arm64.dmg",
+    "downloadURLi386": "https://ankerwork.s3.us-west-2.amazonaws.com/electron/AnkerWork-Setup-x64.dmg",
+    "expectedTeamID": "BVL93LPC7F",
+    "label": "ankerwork",
+    "name": "AnkerWork",
+    "timeStamp": "2026-08-10T18:18:53Z",
+    "type": "dmg"
+  }
+]
