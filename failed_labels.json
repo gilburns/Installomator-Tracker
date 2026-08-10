@@ -1100,6 +1100,11 @@
       "lastSeen": "2026-08-09T18:38:47Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "tigervnc": {
+      "firstSeen": "2026-08-10T06:52:04Z",
+      "lastSeen": "2026-08-10T06:52:04Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "toonboomharmony2024": {
       "firstSeen": "2026-08-09T18:38:53Z",
       "lastSeen": "2026-08-09T18:38:53Z",
