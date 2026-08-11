@@ -79,7 +79,7 @@
   },
   {
     "appName": "",
-    "appNewVersion": "16.111.26080215",
+    "appNewVersion": "16.112.26081010",
     "blockingProcesses": [
       "Microsoft PowerPoint"
     ],
@@ -87,7 +87,7 @@
     "expectedTeamID": "UBF8T346G9",
     "label": "microsoftpowerpoint",
     "name": "Microsoft PowerPoint",
-    "timeStamp": "2026-08-05T18:49:54Z",
+    "timeStamp": "2026-08-11T18:34:18Z",
     "type": "pkg"
   }
 ]

@@ -108,5 +108,16 @@
     "name": "Ollama",
     "timeStamp": "2026-08-11T06:37:39Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.32.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/658928958/a4341484-3f74-4c7e-acd3-51d2760b4b32?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-11T19%3A30%3A42Z&rscd=attachment%3B+filename%3DOllama-darwin.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-11T18%3A30%3A31Z&ske=2026-08-11T19%3A30%3A42Z&sks=b&skv=2018-11-09&sig=2Aek4gOdWcm5qFPsiLzQictiRamI1IObA9oDS00hF44%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjQ3NjkzMCwibmJmIjoxNzg2NDczMzMwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.TUeqKF5c7Nhg3bq95zBofuLo4525d44waNmxYFiWsMU&response-content-disposition=attachment%3B%20filename%3DOllama-darwin.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "3MU9H2V9Y9",
+    "label": "ollama",
+    "name": "Ollama",
+    "timeStamp": "2026-08-11T18:35:29Z",
+    "type": "zip"
   }
 ]

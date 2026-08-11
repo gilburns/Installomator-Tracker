@@ -82,5 +82,19 @@
     "name": "FireCut for DaVinci Resolve",
     "timeStamp": "2026-07-28T18:41:05Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.1.2",
+    "blockingProcesses": [
+      "Resolve"
+    ],
+    "downloadURL": "https://davinci-dl.firecut.ai/FireCut_DR_Dist/v4_1_2/FireCut.for.DaVinci.Resolve.v4_1_2.arm64.dmg",
+    "downloadURLi386": "https://davinci-dl.firecut.ai/FireCut_DR_Dist/v4_1_2/FireCut.for.DaVinci.Resolve.v4_1_2.x64.dmg",
+    "expectedTeamID": "7ASRSVAEMS",
+    "label": "firecutfordavinciresolve",
+    "name": "FireCut for DaVinci Resolve",
+    "timeStamp": "2026-08-11T18:26:54Z",
+    "type": "dmg"
   }
 ]

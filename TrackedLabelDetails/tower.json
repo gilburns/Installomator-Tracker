@@ -31,5 +31,16 @@
     "name": "Tower",
     "timeStamp": "2026-07-29T18:45:14Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "17.1.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.git-tower.com/apps/tower3-mac/553-594bc90a/Tower-17.1.1-553.zip",
+    "expectedTeamID": "UN97WY764J",
+    "label": "tower",
+    "name": "Tower",
+    "timeStamp": "2026-08-11T18:40:28Z",
+    "type": "zip"
   }
 ]
