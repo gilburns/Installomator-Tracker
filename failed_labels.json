@@ -220,6 +220,11 @@
       "lastSeen": "2026-08-10T18:21:49Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-08-11T06:21:10Z",
+      "lastSeen": "2026-08-11T06:21:10Z",
+      "reason": "invalid JSON output"
+    },
     "camunda": {
       "firstSeen": "2026-08-10T18:22:05Z",
       "lastSeen": "2026-08-10T18:22:05Z",
@@ -489,6 +494,11 @@
       "firstSeen": "2026-08-10T18:31:03Z",
       "lastSeen": "2026-08-10T18:31:03Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "inkscape": {
+      "firstSeen": "2026-08-11T06:30:16Z",
+      "lastSeen": "2026-08-11T06:30:16Z",
+      "reason": "resolve failed (exit 142)"
     },
     "island": {
       "firstSeen": "2026-08-10T18:31:22Z",
@@ -1150,6 +1160,11 @@
       "lastSeen": "2026-08-10T18:49:46Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "veracrypt-fuse-t": {
+      "firstSeen": "2026-08-11T06:44:43Z",
+      "lastSeen": "2026-08-11T06:44:43Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "vernierspectralanalysis": {
       "firstSeen": "2026-08-10T18:49:52Z",
       "lastSeen": "2026-08-10T18:49:52Z",
@@ -1190,6 +1205,11 @@
       "lastSeen": "2026-08-10T18:50:31Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "wechat": {
+      "firstSeen": "2026-08-11T06:46:30Z",
+      "lastSeen": "2026-08-11T06:46:30Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "weprint": {
       "firstSeen": "2026-08-10T18:50:39Z",
       "lastSeen": "2026-08-10T18:50:39Z",
@@ -1203,6 +1223,11 @@
     "workplacechat": {
       "firstSeen": "2026-08-10T18:50:52Z",
       "lastSeen": "2026-08-10T18:50:52Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "xcreds": {
+      "firstSeen": "2026-08-11T06:46:50Z",
+      "lastSeen": "2026-08-11T06:46:50Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "xeroxphaser7800": {
