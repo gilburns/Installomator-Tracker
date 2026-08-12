@@ -9,5 +9,16 @@
     "name": "Talkdesk",
     "timeStamp": "2026-07-03T16:05:34Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://td-infra-prd-us-east-1-s3-atlaselectron.s3.amazonaws.com/talkdesk-3.2.0.dmg",
+    "expectedTeamID": "YGGJX44TB8",
+    "label": "talkdeskcxcloud",
+    "name": "Talkdesk",
+    "timeStamp": "2026-08-12T18:48:05Z",
+    "type": "dmg"
   }
 ]

@@ -20,5 +20,16 @@
     "name": "Steinberg Library Manager",
     "timeStamp": "2026-08-07T02:38:37Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.2.81",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.steinberg.net/static_content/runtime-components/steinberg-library-manager/3.2.81.60-8bf3ce2a-4217-3867-8195-9b6f3096f0a3/Steinberg_Library_Manager_mac.dmg",
+    "expectedTeamID": "5PMY476BJ6",
+    "label": "steinberglibrarymanager",
+    "name": "Steinberg Library Manager",
+    "timeStamp": "2026-08-12T18:47:24Z",
+    "type": "pkgInDmg"
   }
 ]

@@ -9,5 +9,16 @@
     "name": "UA Connect",
     "timeStamp": "2026-07-03T16:06:52Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.9.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://builds.uaudio.com/apps/UA_Connect/UA_Connect_1_9_6_3797_Mac.dmg",
+    "expectedTeamID": "4KAC9AX6CG",
+    "label": "uaconnect",
+    "name": "UA Connect",
+    "timeStamp": "2026-08-12T18:50:32Z",
+    "type": "dmg"
   }
 ]
