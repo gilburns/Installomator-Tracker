@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "2.16.2",
+    "appNewVersion": "2.17.0",
     "blockingProcesses": [],
     "downloadURL": "https://desktop-release.q.us-east-1.amazonaws.com/latest/Kiro%20CLI.dmg",
     "expectedTeamID": "94KV3E626L",
     "label": "kirocli",
     "name": "Kiro CLI",
-    "timeStamp": "2026-08-07T02:31:02Z",
+    "timeStamp": "2026-08-12T06:42:00Z",
     "type": "dmg"
   }
 ]

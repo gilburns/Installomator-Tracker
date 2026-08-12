@@ -20,5 +20,16 @@
     "name": "Windows App",
     "timeStamp": "2026-07-28T07:09:36Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "11.3.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.3.9_installer.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftwindowsapp",
+    "name": "Windows App",
+    "timeStamp": "2026-08-12T06:45:03Z",
+    "type": "pkg"
   }
 ]

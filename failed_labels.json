@@ -540,6 +540,11 @@
       "lastSeen": "2026-08-10T18:33:09Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "korgsoftwarepass": {
+      "firstSeen": "2026-08-12T06:42:03Z",
+      "lastSeen": "2026-08-12T06:42:03Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "lexarrecoverytool": {
       "firstSeen": "2026-08-10T18:33:51Z",
       "lastSeen": "2026-08-10T18:33:51Z",

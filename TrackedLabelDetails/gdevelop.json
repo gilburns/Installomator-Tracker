@@ -53,5 +53,16 @@
     "name": "GDevelop 5",
     "timeStamp": "2026-08-11T18:27:30Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.6.279",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/21331090/570b2712-c6d0-4c41-9a93-f549ea307003?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-12T07%3A24%3A30Z&rscd=attachment%3B+filename%3DGDevelop-5-5.6.279-universal.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-12T06%3A23%3A59Z&ske=2026-08-12T07%3A24%3A30Z&sks=b&skv=2018-11-09&sig=KZNYZxyAwcCWlCCj2yvwqhTs3Tf%2B6qNr7oNvpcjpqus%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjUyMDI2NywibmJmIjoxNzg2NTE2NjY3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.x_E3xDto32bjkefIPWcweveRv7792Nx396Dv3hkxcX8&response-content-disposition=attachment%3B%20filename%3DGDevelop-5-5.6.279-universal.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "5CG65LEVUK",
+    "label": "gdevelop",
+    "name": "GDevelop 5",
+    "timeStamp": "2026-08-12T06:37:47Z",
+    "type": "dmg"
   }
 ]
