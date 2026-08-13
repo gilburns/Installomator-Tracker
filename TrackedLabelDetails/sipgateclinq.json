@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "2.42.0",
+    "appNewVersion": "2.43.2",
     "blockingProcesses": [],
     "downloadURL": "https://desktop.download.sipgate.com/sipgate.dmg",
     "expectedTeamID": "K4L4M6DD76",
     "label": "sipgateclinq",
     "name": "Sipgate",
-    "timeStamp": "2026-07-22T18:53:00Z",
+    "timeStamp": "2026-08-13T06:59:12Z",
     "type": "dmg"
   }
 ]

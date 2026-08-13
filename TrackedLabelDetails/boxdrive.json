@@ -20,5 +20,16 @@
     "name": "Box",
     "timeStamp": "2026-07-08T06:54:45Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.53.223",
+    "blockingProcesses": [],
+    "downloadURL": "https://e3.boxcdn.net/desktop/releases/mac/BoxDrive-2.53.223.pkg",
+    "expectedTeamID": "M683GB7CPW",
+    "label": "boxdrive",
+    "name": "Box",
+    "timeStamp": "2026-08-13T06:34:59Z",
+    "type": "pkg"
   }
 ]
