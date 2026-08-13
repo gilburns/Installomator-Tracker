@@ -395,6 +395,11 @@
       "lastSeen": "2026-08-13T06:42:53Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "garminbasecamp": {
+      "firstSeen": "2026-08-13T18:28:06Z",
+      "lastSeen": "2026-08-13T18:28:06Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "googlechromeenterprise": {
       "firstSeen": "2026-08-13T06:43:52Z",
       "lastSeen": "2026-08-13T06:43:52Z",
@@ -480,6 +485,11 @@
       "lastSeen": "2026-08-13T06:44:38Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "hype": {
+      "firstSeen": "2026-08-13T18:30:18Z",
+      "lastSeen": "2026-08-13T18:30:18Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "i1Profiler": {
       "firstSeen": "2026-08-13T06:44:50Z",
       "lastSeen": "2026-08-13T06:44:50Z",
@@ -524,6 +534,11 @@
       "firstSeen": "2026-08-13T06:46:28Z",
       "lastSeen": "2026-08-13T06:46:28Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "kdrive": {
+      "firstSeen": "2026-08-13T18:33:03Z",
+      "lastSeen": "2026-08-13T18:33:03Z",
+      "reason": "resolve failed (exit 142)"
     },
     "klokki": {
       "firstSeen": "2026-08-13T06:47:07Z",
@@ -833,6 +848,11 @@
     "proofpointautoupdater": {
       "firstSeen": "2026-08-13T06:55:58Z",
       "lastSeen": "2026-08-13T06:55:58Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "prusaslicer": {
+      "firstSeen": "2026-08-13T18:39:52Z",
+      "lastSeen": "2026-08-13T18:39:52Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "qgis-pr": {

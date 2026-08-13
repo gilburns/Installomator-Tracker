@@ -196,5 +196,16 @@
     "name": "Cursor",
     "timeStamp": "2026-08-12T06:34:33Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.16.13",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.cursor.com/production/ea1aa2c63ff7f41a377f250d1c8fd7dd2230e283/darwin/universal/Cursor-darwin-universal.dmg",
+    "expectedTeamID": "VDXQ22DGB9",
+    "label": "cursorai",
+    "name": "Cursor",
+    "timeStamp": "2026-08-13T18:23:54Z",
+    "type": "dmg"
   }
 ]
