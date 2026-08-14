@@ -31,5 +31,16 @@
     "name": "RStudio",
     "timeStamp": "2026-07-21T18:56:24Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.08.0+187",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/rstudio-desktop/electron/macos/RStudio-2026.08.0-187.dmg",
+    "expectedTeamID": "FYF2F5GFX4",
+    "label": "rstudio",
+    "name": "RStudio",
+    "timeStamp": "2026-08-14T06:56:17Z",
+    "type": "dmg"
   }
 ]
