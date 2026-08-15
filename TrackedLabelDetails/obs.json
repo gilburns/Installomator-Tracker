@@ -34,5 +34,17 @@
     "name": "OBS",
     "timeStamp": "2026-07-25T07:02:45Z",
     "type": "dmg"
+  },
+  {
+    "appName": "OBS.app",
+    "appNewVersion": "32.2.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/13233158/b2e1b346-545f-497b-8699-ea443af9cf4c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-15T07%3A05%3A35Z&rscd=attachment%3B+filename%3DOBS-Studio-32.2.2-macOS-Apple.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-15T06%3A04%3A58Z&ske=2026-08-15T07%3A05%3A35Z&sks=b&skv=2018-11-09&sig=q548yku5aF5auU5vJQllqnd34noypi99ee4tzuBHOxE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4Njc3ODYwMCwibmJmIjoxNzg2Nzc1MDAwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.djuSu1n3qil52qjuhLRH9NHymC2dd7qXS1PoCqvAAgE&response-content-disposition=attachment%3B%20filename%3DOBS-Studio-32.2.2-macOS-Apple.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/13233158/ad1ff457-a247-4d5e-95bd-42260ace45a5?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-15T07%3A02%3A24Z&rscd=attachment%3B+filename%3DOBS-Studio-32.2.2-macOS-Intel.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-15T06%3A02%3A07Z&ske=2026-08-15T07%3A02%3A24Z&sks=b&skv=2018-11-09&sig=u7jbjuzhVVdoP0nqJBut2DOrO1Papi7nfex1AqnkYOo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4Njc3ODYwMiwibmJmIjoxNzg2Nzc1MDAyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.oFWi8cUkyRx0gpFynP5qcDxc4kVKi5x7MKZB1dKFYrA&response-content-disposition=attachment%3B%20filename%3DOBS-Studio-32.2.2-macOS-Intel.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "2MMRE5MTB8",
+    "label": "obs",
+    "name": "OBS",
+    "timeStamp": "2026-08-15T06:23:19Z",
+    "type": "dmg"
   }
 ]
