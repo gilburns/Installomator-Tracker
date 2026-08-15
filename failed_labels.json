@@ -585,6 +585,11 @@
       "lastSeen": "2026-08-14T06:49:07Z",
       "reason": "invalid JSON output"
     },
+    "mamp": {
+      "firstSeen": "2026-08-15T18:18:11Z",
+      "lastSeen": "2026-08-15T18:18:11Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "meistertask": {
       "firstSeen": "2026-08-14T06:50:35Z",
       "lastSeen": "2026-08-14T06:50:35Z",
