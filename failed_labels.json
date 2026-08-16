@@ -900,6 +900,11 @@
       "lastSeen": "2026-08-14T06:56:04Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "rodecentral": {
+      "firstSeen": "2026-08-16T18:22:57Z",
+      "lastSeen": "2026-08-16T18:22:57Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "rodeconnect": {
       "firstSeen": "2026-08-14T06:56:10Z",
       "lastSeen": "2026-08-14T06:56:10Z",
