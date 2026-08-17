@@ -75,5 +75,16 @@
     "name": "DuckDuckGo",
     "timeStamp": "2026-08-10T06:35:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.204.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://staticcdn.duckduckgo.com/macos-desktop-browser/duckduckgo-1.204.0.787.dmg",
+    "expectedTeamID": "HKE973VLUW",
+    "label": "duckduckgo",
+    "name": "DuckDuckGo",
+    "timeStamp": "2026-08-17T06:18:19Z",
+    "type": "dmg"
   }
 ]
