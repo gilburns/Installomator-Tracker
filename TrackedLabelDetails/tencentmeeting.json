@@ -34,5 +34,17 @@
     "name": "TencentMeeting",
     "timeStamp": "2026-07-23T07:19:15Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.45.2.404",
+    "blockingProcesses": [],
+    "downloadURL": "https://updatecdn.meeting.qq.com/cos/5bd79d10ed54b140514f895501bd65f7/TencentMeeting_0300000000_3.45.2.404.publish.arm64.officialwebsite.dmg",
+    "downloadURLi386": "https://updatecdn.meeting.qq.com/cos/2625f283be0c386e65d173c5f0cee56b/TencentMeeting_0300000000_3.45.2.404.publish.x86_64.officialwebsite.dmg",
+    "expectedTeamID": "88L2Q4487U",
+    "label": "tencentmeeting",
+    "name": "TencentMeeting",
+    "timeStamp": "2026-08-17T18:30:19Z",
+    "type": "dmg"
   }
 ]

@@ -9,5 +9,16 @@
     "name": "Plex",
     "timeStamp": "2026-07-03T15:59:37Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.115.0.426-4e960a1d",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.plex.tv/plex-desktop/1.115.0.426-4e960a1d/macos/Plex-1.115.0.426-4e960a1d-universal.zip",
+    "expectedTeamID": "K4QJ56KR4A",
+    "label": "plexdesktop",
+    "name": "Plex",
+    "timeStamp": "2026-08-17T18:26:46Z",
+    "type": "zip"
   }
 ]
