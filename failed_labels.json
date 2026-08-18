@@ -780,6 +780,11 @@
       "lastSeen": "2026-08-14T06:52:39Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "obsioscamera": {
+      "firstSeen": "2026-08-18T06:22:28Z",
+      "lastSeen": "2026-08-18T06:22:28Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "odrive": {
       "firstSeen": "2026-08-14T06:52:42Z",
       "lastSeen": "2026-08-14T06:52:42Z",
