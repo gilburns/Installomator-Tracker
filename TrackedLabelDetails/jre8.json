@@ -20,5 +20,16 @@
     "name": "Java Runtime Environment 8",
     "timeStamp": "2026-07-21T18:44:53Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.8.503.25",
+    "blockingProcesses": [],
+    "downloadURL": "https://sdlc-esd.oracle.com/ESD6/JSCDL/jre/8u503-b25/2fde65a2208f40a5b5f4c844b0dff092/jre-8u503-fcs-cb-bin-b25-macosx-x64-31_jul_2026_au.dmg?GroupName=JSC&FilePath=/ESD6/JSCDL/jre/8u503-b25/2fde65a2208f40a5b5f4c844b0dff092/jre-8u503-fcs-cb-bin-b25-macosx-x64-31_jul_2026_au.dmg&BHost=javadl.sun.com&File=jre-8u503-fcs-cb-bin-b25-macosx-x64-31_jul_2026_au.dmg&AuthParam=1787078313_24bc8a8b649704a49e56628daf6808f8&ext=.dmg",
+    "expectedTeamID": "VB5E2TV963",
+    "label": "jre8",
+    "name": "Java Runtime Environment 8",
+    "timeStamp": "2026-08-18T18:18:33Z",
+    "type": "pkgInDmg"
   }
 ]

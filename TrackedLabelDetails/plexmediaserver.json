@@ -31,5 +31,16 @@
     "name": "Plex Media Server",
     "timeStamp": "2026-08-04T18:49:45Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.43.3.10896",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.plex.tv/plex-media-server-new/1.43.3.10896-cb3ebc72d/macos/PlexMediaServer-1.43.3.10896-cb3ebc72d-universal.zip",
+    "expectedTeamID": "K4QJ56KR4A",
+    "label": "plexmediaserver",
+    "name": "Plex Media Server",
+    "timeStamp": "2026-08-18T18:24:06Z",
+    "type": "zip"
   }
 ]

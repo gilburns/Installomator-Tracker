@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "10.8.1",
+    "appNewVersion": "10.9.0",
     "blockingProcesses": [],
     "downloadURL": "https://downloads.nordcdn.com/apps/macos/generic/NordVPN-OpenVPN/latest/NordVPN.pkg",
     "expectedTeamID": "W5W395V82Y",
     "label": "nordvpn",
     "name": "NordVPN",
-    "timeStamp": "2026-08-05T18:50:54Z",
+    "timeStamp": "2026-08-18T18:22:52Z",
     "type": "pkg"
   }
 ]

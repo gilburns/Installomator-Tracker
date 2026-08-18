@@ -31,5 +31,16 @@
     "name": "Tor Browser",
     "timeStamp": "2026-07-21T18:59:32Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "15.0.20",
+    "blockingProcesses": [],
+    "downloadURL": "https://dist.torproject.org/torbrowser/15.0.20/tor-browser-macos-15.0.20.dmg",
+    "expectedTeamID": "MADPSAYN6T",
+    "label": "torbrowser",
+    "name": "Tor Browser",
+    "timeStamp": "2026-08-18T18:27:45Z",
+    "type": "dmg"
   }
 ]

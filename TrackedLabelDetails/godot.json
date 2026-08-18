@@ -20,5 +20,16 @@
     "name": "Godot",
     "timeStamp": "2026-07-15T06:57:07Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.7.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://godot-releases.nbg1.your-objectstorage.com/4.7.2-stable/Godot_v4.7.2-stable_macos.universal.zip",
+    "expectedTeamID": "6K46PWY5DM",
+    "label": "godot",
+    "name": "Godot",
+    "timeStamp": "2026-08-18T18:16:21Z",
+    "type": "zip"
   }
 ]

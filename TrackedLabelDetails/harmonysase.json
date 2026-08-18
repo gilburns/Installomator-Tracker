@@ -31,5 +31,16 @@
     "name": "Harmony SASE",
     "timeStamp": "2026-08-05T07:07:15Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "12.11.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://static.perimeter81.com/agents/mac/Harmony_SASE_12.11.0.12314.pkg",
+    "expectedTeamID": "924635PD62",
+    "label": "harmonysase",
+    "name": "Harmony SASE",
+    "timeStamp": "2026-08-18T18:16:52Z",
+    "type": "pkg"
   }
 ]
