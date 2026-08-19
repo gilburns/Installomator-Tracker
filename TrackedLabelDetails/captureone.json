@@ -20,5 +20,16 @@
     "name": "Capture One",
     "timeStamp": "2026-07-15T18:28:14Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "16.8.5.30",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.captureone.pro/d/mac/debbc02a493fea3a41cbbe034852ec8424de2826/CaptureOne.Mac.16.8.5.30.dmg",
+    "expectedTeamID": "5WTDB5F65L",
+    "label": "captureone",
+    "name": "Capture One",
+    "timeStamp": "2026-08-19T18:16:19Z",
+    "type": "dmg"
   }
 ]

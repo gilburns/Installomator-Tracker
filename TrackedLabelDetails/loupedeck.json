@@ -9,5 +9,16 @@
     "name": "Loupedeck",
     "timeStamp": "2026-07-03T15:53:34Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.4.1.364",
+    "blockingProcesses": [],
+    "downloadURL": "https://loupedeck-support.devops.logitech.io/hubfs/Knowledge%20Base/LD%20Software%20Downloads/6.4.1/LoupedeckInstaller_6.4.1.364.dmg",
+    "expectedTeamID": "M24R8BN5BK",
+    "label": "loupedeck",
+    "name": "Loupedeck",
+    "timeStamp": "2026-08-19T18:29:41Z",
+    "type": "pkgInDmg"
   }
 ]
