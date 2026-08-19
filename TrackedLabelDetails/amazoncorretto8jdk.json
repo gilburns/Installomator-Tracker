@@ -22,5 +22,17 @@
     "name": "Amazon Corretto 8 JDK",
     "timeStamp": "2026-07-22T06:52:48Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.504.01.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://corretto.aws/downloads/resources/8.504.01.1/amazon-corretto-8.504.01.1-macosx-aarch64.pkg",
+    "downloadURLi386": "https://corretto.aws/downloads/resources/8.504.01.1/amazon-corretto-8.504.01.1-macosx-x64.pkg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "amazoncorretto8jdk",
+    "name": "Amazon Corretto 8 JDK",
+    "timeStamp": "2026-08-19T06:09:19Z",
+    "type": "pkg"
   }
 ]

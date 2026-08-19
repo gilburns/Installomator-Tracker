@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "151.0.7922.138",
+    "appNewVersion": "151.0.7922.170",
     "blockingProcesses": [],
     "downloadURL": "https://dl.google.com/tag/s/appguid%3DCOM.GOOGLE.CHROME%26brand%3DGGRO/chrome/mac/universal/stable/googlechrome.dmg",
     "expectedTeamID": "EQHXZ8M8AV",
     "label": "googlechrome",
     "name": "Google Chrome",
-    "timeStamp": "2026-08-12T06:38:23Z",
+    "timeStamp": "2026-08-19T06:18:43Z",
     "type": "dmg"
   }
 ]

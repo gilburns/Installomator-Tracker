@@ -76,5 +76,18 @@
     "name": "IDrive",
     "timeStamp": "2026-08-07T06:34:25Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.0.0.88",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://static.idriveonlinebackup.com/downloads/081726/IDrive.dmg",
+    "expectedTeamID": "JWDCNYZ922",
+    "label": "idrive",
+    "name": "IDrive",
+    "timeStamp": "2026-08-19T06:19:31Z",
+    "type": "pkgInDmg"
   }
 ]

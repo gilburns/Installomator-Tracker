@@ -92,7 +92,7 @@
   },
   {
     "appName": "",
-    "appNewVersion": "16.112.26081720",
+    "appNewVersion": "16.112.26081010",
     "blockingProcesses": [
       "Microsoft OneNote"
     ],
@@ -100,7 +100,7 @@
     "expectedTeamID": "UBF8T346G9",
     "label": "microsoftonenote",
     "name": "Microsoft OneNote",
-    "timeStamp": "2026-08-18T18:21:44Z",
+    "timeStamp": "2026-08-19T06:24:19Z",
     "type": "pkg"
   }
 ]
