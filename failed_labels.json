@@ -500,6 +500,11 @@
       "lastSeen": "2026-08-20T06:21:29Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-08-20T18:17:09Z",
+      "lastSeen": "2026-08-20T18:17:09Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "island": {
       "firstSeen": "2026-08-20T06:21:44Z",
       "lastSeen": "2026-08-20T06:21:44Z",

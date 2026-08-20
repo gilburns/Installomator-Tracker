@@ -46,5 +46,17 @@
     "name": "Bruno",
     "timeStamp": "2026-07-23T18:29:14Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/542284380/857aaa2f-3591-4bd1-8617-582ca2dd0185?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-20T18%3A57%3A26Z&rscd=attachment%3B+filename%3Dbruno_4.1.0_arm64_mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-20T17%3A56%3A54Z&ske=2026-08-20T18%3A57%3A26Z&sks=b&skv=2018-11-09&sig=H8mSTuu4i8DnyGbFGTYggz%2BZyXXj2dpU2W00YwjC9NY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzI1MzAyOCwibmJmIjoxNzg3MjQ5NDI4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.i2r_31xyP0FN5g1U28s_lCN8BUX5jKwRS_XyTxTVw3w&response-content-disposition=attachment%3B%20filename%3Dbruno_4.1.0_arm64_mac.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/542284380/53ab8deb-45bf-47b6-b7ab-40ab0fdd3d1c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-20T19%3A02%3A40Z&rscd=attachment%3B+filename%3Dbruno_4.1.0_x64_mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-20T18%3A02%3A22Z&ske=2026-08-20T19%3A02%3A40Z&sks=b&skv=2018-11-09&sig=%2FnESws3ci%2BoJlrwvJxySdAnuqHnUDSDAJKzpN34IjrE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzI1MzAzMSwibmJmIjoxNzg3MjQ5NDMxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.eTphJM4Tcr2UeOLUZoOvWW_lTdngs1L3HT1f--Ews0E&response-content-disposition=attachment%3B%20filename%3Dbruno_4.1.0_x64_mac.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "W7LPPWA48L",
+    "label": "bruno",
+    "name": "Bruno",
+    "timeStamp": "2026-08-20T18:10:28Z",
+    "type": "dmg"
   }
 ]
