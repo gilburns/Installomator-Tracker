@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "2.4",
+    "appNewVersion": "2.4.1",
     "blockingProcesses": [],
     "downloadURL": "https://s3.amazonaws.com/flyingmeat/Retrobatch2.zip",
     "expectedTeamID": "WZCN9HJ4VP",
     "label": "retrobatch",
     "name": "Retrobatch",
-    "timeStamp": "2026-08-12T06:49:24Z",
+    "timeStamp": "2026-08-20T06:32:59Z",
     "type": "zip"
   }
 ]

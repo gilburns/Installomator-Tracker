@@ -31,5 +31,16 @@
     "name": "Rectangle",
     "timeStamp": "2026-07-15T18:47:18Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.99",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/193162629/4e36a935-47c5-4156-868d-d5ee600db165?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-20T07%3A32%3A06Z&rscd=attachment%3B+filename%3DRectangle0.99.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-20T06%3A31%3A23Z&ske=2026-08-20T07%3A32%3A06Z&sks=b&skv=2018-11-09&sig=9tIoZQl%2FP6MjSSTtLmuGIucZxLvxfFOGHgeavMDyQZQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzIwNzgxMSwibmJmIjoxNzg3MjA3NTExLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.gKYCr-linev1Q52b1vioUwpdOkhe4M6L0TvrY9TkHX8&response-content-disposition=attachment%3B%20filename%3DRectangle0.99.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "XSYZ3E4B7D",
+    "label": "rectangle",
+    "name": "Rectangle",
+    "timeStamp": "2026-08-20T06:31:51Z",
+    "type": "dmg"
   }
 ]
