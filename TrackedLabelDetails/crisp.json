@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.5.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1308919753/8b97f7a8-7169-4d2e-a185-58f0b73d0fdf?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-21T07%3A05%3A49Z&rscd=attachment%3B+filename%3DCrisp.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-21T06%3A05%3A42Z&ske=2026-08-21T07%3A05%3A49Z&sks=b&skv=2018-11-09&sig=i6B6qkc6sglTeKbpyKqwmZ27zJSbBtkjbo2phJ7F1n8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzI5MzM5MiwibmJmIjoxNzg3MjkzMDkyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.J6_PDmIGyXxFdygQpHHiBRF_8rbziX2Q3obXs6UjlsM&response-content-disposition=attachment%3B%20filename%3DCrisp.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "HQHWD6JXX7",
+    "label": "crisp",
+    "name": "Crisp",
+    "timeStamp": "2026-08-21T06:18:12Z",
+    "type": "dmg"
+  }
+]
