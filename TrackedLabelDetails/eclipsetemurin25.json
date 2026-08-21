@@ -10,5 +10,17 @@
     "name": "Temurin 25",
     "timeStamp": "2026-08-04T07:02:09Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "25.0.4.1+1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/901810329/14921b3c-679c-4f44-b997-a4384c3b59fd?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-21T18%3A58%3A25Z&rscd=attachment%3B+filename%3DOpenJDK25U-jdk_aarch64_mac_hotspot_25.0.4.1_1.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-21T17%3A58%3A24Z&ske=2026-08-21T18%3A58%3A25Z&sks=b&skv=2018-11-09&sig=cyPLhmg4KIzUrANrfYXZR%2B9Dbg7qmZMjneIssWzhbYk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzMzOTY0OCwibmJmIjoxNzg3MzM2MDQ4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.rpkxvAInOR93F5aLjDiD2LNOv86fpKRZyp4E7slDZWk&response-content-disposition=attachment%3B%20filename%3DOpenJDK25U-jdk_aarch64_mac_hotspot_25.0.4.1_1.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/901810329/c75c752f-c1f3-4dc0-aaa6-ee964ba385d2?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-21T18%3A56%3A32Z&rscd=attachment%3B+filename%3DOpenJDK25U-jdk_x64_mac_hotspot_25.0.4.1_1.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-21T17%3A55%3A53Z&ske=2026-08-21T18%3A56%3A32Z&sks=b&skv=2018-11-09&sig=d9osFfqsC0GWgt%2F%2FTBIuKwxalX362BVhe2hCsGOVjek%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzMzOTY4NSwibmJmIjoxNzg3MzM2MDg1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.mbPqI3gpvivo_f4CqWUrswqiFOuT_sSvzMRK0aUIti0&response-content-disposition=attachment%3B%20filename%3DOpenJDK25U-jdk_x64_mac_hotspot_25.0.4.1_1.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "JCDTMS22B4",
+    "label": "eclipsetemurin25",
+    "name": "Temurin 25",
+    "timeStamp": "2026-08-21T18:14:44Z",
+    "type": "pkg"
   }
 ]

@@ -560,6 +560,11 @@
       "lastSeen": "2026-08-21T06:28:01Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "macadminspython": {
+      "firstSeen": "2026-08-21T18:21:00Z",
+      "lastSeen": "2026-08-21T18:21:00Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "mackiemasterfader": {
       "firstSeen": "2026-08-21T06:28:07Z",
       "lastSeen": "2026-08-21T06:28:07Z",
@@ -1103,6 +1108,11 @@
     "tidal": {
       "firstSeen": "2026-08-21T06:38:02Z",
       "lastSeen": "2026-08-21T06:38:02Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "tigervnc": {
+      "firstSeen": "2026-08-21T18:29:54Z",
+      "lastSeen": "2026-08-21T18:29:54Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "timelymemory": {

@@ -42,5 +42,16 @@
     "name": "Obsidian",
     "timeStamp": "2026-08-12T18:41:29Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.13.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/",
+    "expectedTeamID": "6JSW4SJWN9",
+    "label": "obsidian",
+    "name": "Obsidian",
+    "timeStamp": "2026-08-21T18:24:46Z",
+    "type": "dmg"
   }
 ]
