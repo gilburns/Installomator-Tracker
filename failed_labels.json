@@ -850,6 +850,11 @@
       "lastSeen": "2026-08-21T06:33:33Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "prusaslicer": {
+      "firstSeen": "2026-08-22T06:24:32Z",
+      "lastSeen": "2026-08-22T06:24:32Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "qgis-pr": {
       "firstSeen": "2026-08-21T06:33:49Z",
       "lastSeen": "2026-08-21T06:33:49Z",
