@@ -275,6 +275,11 @@
       "lastSeen": "2026-08-21T06:18:31Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "dbvisualizer": {
+      "firstSeen": "2026-08-22T18:11:14Z",
+      "lastSeen": "2026-08-22T18:11:14Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "dcpomatic": {
       "firstSeen": "2026-08-21T06:18:36Z",
       "lastSeen": "2026-08-21T06:18:36Z",
@@ -1229,6 +1234,11 @@
       "firstSeen": "2026-08-21T06:40:09Z",
       "lastSeen": "2026-08-21T06:40:09Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "wechat": {
+      "firstSeen": "2026-08-22T18:29:04Z",
+      "lastSeen": "2026-08-22T18:29:04Z",
+      "reason": "resolve failed (exit 142)"
     },
     "weprint": {
       "firstSeen": "2026-08-21T06:40:18Z",

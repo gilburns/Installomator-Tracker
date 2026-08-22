@@ -61,14 +61,14 @@
   },
   {
     "appName": "",
-    "appNewVersion": "266.4.3911",
+    "appNewVersion": "268.3.4037",
     "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20266.4.3911.arm64.dmg",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20266.4.3911.dmg",
     "expectedTeamID": "G7HH3F8CAK",
     "label": "dropbox",
     "name": "Dropbox",
-    "timeStamp": "2026-08-19T06:15:55Z",
+    "timeStamp": "2026-08-22T18:12:16Z",
     "type": "dmg"
   }
 ]
