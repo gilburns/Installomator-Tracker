@@ -20,5 +20,16 @@
     "name": "Omnissa Horizon Client",
     "timeStamp": "2026-07-15T07:07:45Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.19.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download3.omnissa.com/software/CART27FQ2_MAC_2606/Omnissa-Horizon-Client-2606-8.19.0-32216012208.dmg",
+    "expectedTeamID": "S2ZMFGQM93",
+    "label": "omnissahorizonclient",
+    "name": "Omnissa Horizon Client",
+    "timeStamp": "2026-08-24T18:30:16Z",
+    "type": "pkgInDmg"
   }
 ]

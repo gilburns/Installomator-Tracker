@@ -64,5 +64,16 @@
     "name": "Ledger Wallet",
     "timeStamp": "2026-08-20T18:19:11Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.17.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.live.ledger.com/ledger-live-desktop-4.17.1-mac.dmg",
+    "expectedTeamID": "X6LFS5BQKN",
+    "label": "ledgerwallet",
+    "name": "Ledger Wallet",
+    "timeStamp": "2026-08-24T18:24:12Z",
+    "type": "dmg"
   }
 ]

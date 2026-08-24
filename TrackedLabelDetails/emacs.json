@@ -31,5 +31,16 @@
     "name": "Emacs",
     "timeStamp": "2026-07-26T07:00:48Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "31.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://emacsformacosx.com/download/emacs-builds/Emacs-31.1-universal.dmg",
+    "expectedTeamID": "5BRAQAFB8B",
+    "label": "emacs",
+    "name": "Emacs",
+    "timeStamp": "2026-08-24T18:18:34Z",
+    "type": "dmg"
   }
 ]

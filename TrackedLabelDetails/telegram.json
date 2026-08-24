@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "12.9",
+    "appNewVersion": "12.10",
     "blockingProcesses": [],
     "downloadURL": "https://osx.telegram.org/updates/Telegram.dmg",
     "expectedTeamID": "6N38VWS5BX",
     "label": "telegram",
     "name": "Telegram",
-    "timeStamp": "2026-07-14T18:46:45Z",
+    "timeStamp": "2026-08-24T18:36:42Z",
     "type": "dmg"
   }
 ]

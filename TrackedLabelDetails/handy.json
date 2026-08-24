@@ -70,5 +70,17 @@
     "name": "Handy",
     "timeStamp": "2026-08-08T06:23:52Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.9.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/931888694/5bd68d44-5c38-4717-b2ff-143b84e87726?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-24T18%3A56%3A44Z&rscd=attachment%3B+filename%3DHandy_0.9.6_aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-24T17%3A56%3A39Z&ske=2026-08-24T18%3A56%3A44Z&sks=b&skv=2018-11-09&sig=kpgTENjOWCGf4g3CkUfsA1iB%2FM9xUgedE1PKDTjGV58%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzU5NzQ3MiwibmJmIjoxNzg3NTk1NjcyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.X7i1Xi81hcjuYBnW_uFQP_tJaxvllsR-1CYd-pWeg54&response-content-disposition=attachment%3B%20filename%3DHandy_0.9.6_aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/931888694/c136f5c6-2969-40b6-a44b-0033060ddcc3?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-24T19%3A11%3A37Z&rscd=attachment%3B+filename%3DHandy_0.9.6_x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-24T18%3A11%3A25Z&ske=2026-08-24T19%3A11%3A37Z&sks=b&skv=2018-11-09&sig=FfBqz7sHrm2pbRu4p5KwF8aKQGFg1JJ7eWKeQX7Cut8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzU5NzQ3MywibmJmIjoxNzg3NTk1NjczLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.OSffRM4tR_iVmoblcZdMQ9hP8VhRnPqHPQWTG6hV3M0&response-content-disposition=attachment%3B%20filename%3DHandy_0.9.6_x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "UWFLB4GC25",
+    "label": "handy",
+    "name": "Handy",
+    "timeStamp": "2026-08-24T18:21:12Z",
+    "type": "dmg"
   }
 ]
