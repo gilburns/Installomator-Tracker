@@ -20,5 +20,16 @@
     "name": "Splashtop Streamer",
     "timeStamp": "2026-07-09T07:44:25Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.8.6.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.splashtop.com/csrs/Splashtop_Streamer_Mac_DEPLOY_INSTALLER_v3.8.6.0.dmg",
+    "expectedTeamID": "CPQQ3AW49Y",
+    "label": "splashtopstreamer",
+    "name": "Splashtop Streamer",
+    "timeStamp": "2026-08-24T06:32:14Z",
+    "type": "pkgInDmg"
   }
 ]

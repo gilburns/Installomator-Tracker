@@ -9,5 +9,16 @@
     "name": "Splashtop Business",
     "timeStamp": "2026-07-03T16:04:40Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.8.6.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.splashtop.com/macclient/STB/Splashtop_Business_Mac_INSTALLER_v3.8.6.0.dmg",
+    "expectedTeamID": "CPQQ3AW49Y",
+    "label": "splashtopbusiness",
+    "name": "Splashtop Business",
+    "timeStamp": "2026-08-24T06:32:13Z",
+    "type": "pkgInDmg"
   }
 ]
