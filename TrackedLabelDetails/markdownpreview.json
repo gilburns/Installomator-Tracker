@@ -86,5 +86,16 @@
     "name": "Markdown Preview",
     "timeStamp": "2026-08-15T18:18:22Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.0.50",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1223187770/e4c14f6a-39db-4b9d-b69c-49e5ba186111?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-25T07%3A13%3A12Z&rscd=attachment%3B+filename%3DMarkdown-Preview.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-25T06%3A12%3A14Z&ske=2026-08-25T07%3A13%3A12Z&sks=b&skv=2018-11-09&sig=q6KfOM6dp%2FI0kRmy275SYPOuLwukYY7mxqeNURhD4rk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzYzOTU4OSwibmJmIjoxNzg3NjM5Mjg5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.o991UhWAPiNNYoz3QArCIzXZGbRu9VTjHwuIpDKWexw&response-content-disposition=attachment%3B%20filename%3DMarkdown-Preview.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "5P3TSMNV42",
+    "label": "markdownpreview",
+    "name": "Markdown Preview",
+    "timeStamp": "2026-08-25T06:28:08Z",
+    "type": "dmg"
   }
 ]
