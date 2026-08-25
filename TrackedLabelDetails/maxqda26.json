@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.maxqda.de/MAXQDA/MAXQDA.dmg",
+    "expectedTeamID": "7ME932KUT6",
+    "label": "maxqda26",
+    "name": "MAXQDA",
+    "timeStamp": "2026-08-25T18:29:23Z",
+    "type": "dmg"
+  }
+]

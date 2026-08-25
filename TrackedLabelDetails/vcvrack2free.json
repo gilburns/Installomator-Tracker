@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.6.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://vcvrack.com/downloads/RackFree-2.6.6-mac-x64+arm64.pkg",
+    "expectedTeamID": "V8SW9J626X",
+    "label": "vcvrack2free",
+    "name": "VCV Rack 2 Free",
+    "timeStamp": "2026-08-25T18:40:14Z",
+    "type": "pkg"
+  }
+]

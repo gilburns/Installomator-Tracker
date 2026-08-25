@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.10.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3-de-central.profitbricks.com/stackfield-desktop-apps/stackfield-arm64-mac.dmg",
+    "downloadURLi386": "https://s3-de-central.profitbricks.com/stackfield-desktop-apps/stackfield-mac.dmg",
+    "expectedTeamID": "LLK9S59M62",
+    "label": "stackfield",
+    "name": "Stackfield",
+    "timeStamp": "2026-08-25T18:37:06Z",
+    "type": "dmg"
+  }
+]

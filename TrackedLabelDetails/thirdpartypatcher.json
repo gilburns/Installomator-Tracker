@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "Available Software.app",
+    "appNewVersion": "1.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1217601844/61990b45-e581-4c5e-aa06-28d72351e835?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-25T19%3A34%3A43Z&rscd=attachment%3B+filename%3DThird_Party_Patcher-1.1.0.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-25T18%3A33%3A59Z&ske=2026-08-25T19%3A34%3A43Z&sks=b&skv=2018-11-09&sig=Q%2F6kLkku30KB8Uo3qjf9iENi8Z7gp8iSAcXarGV1OEs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzY4NDkwNywibmJmIjoxNzg3NjgzMTA3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ywQC312ah0eHlnObLddCkBIzMYZKAQ3rw7uMNBWVrYw&response-content-disposition=attachment%3B%20filename%3DThird_Party_Patcher-1.1.0.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "G4MQ57TVLE",
+    "label": "thirdpartypatcher",
+    "name": "Third Party Patcher",
+    "timeStamp": "2026-08-25T18:38:27Z",
+    "type": "pkg"
+  }
+]

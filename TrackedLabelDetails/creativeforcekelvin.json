@@ -70,5 +70,17 @@
     "name": "Kelvin",
     "timeStamp": "2026-08-20T18:12:47Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.9.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.creativeforce.io/released-files.042024/prod/kelvin/mac/Kelvin-6.9.0-mac-arm64.pkg",
+    "downloadURLi386": "https://download.creativeforce.io/released-files.042024/prod/kelvin/mac/Kelvin-6.9.0-mac.pkg",
+    "expectedTeamID": "Y5K3N5Y6PY",
+    "label": "creativeforcekelvin",
+    "name": "Kelvin",
+    "timeStamp": "2026-08-25T18:16:28Z",
+    "type": "pkg"
   }
 ]

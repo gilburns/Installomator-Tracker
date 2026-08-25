@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.2026.184",
+    "blockingProcesses": [],
+    "downloadURL": "https://persistent.oaistatic.com/sidekick/public/ChatGPT_Classic.pkg",
+    "expectedTeamID": "2DC432GLL2",
+    "label": "chatgptclassic",
+    "name": "ChatGPT Classic",
+    "timeStamp": "2026-08-25T18:14:08Z",
+    "type": "pkg"
+  }
+]

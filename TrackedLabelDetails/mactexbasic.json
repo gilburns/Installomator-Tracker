@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026",
+    "blockingProcesses": [],
+    "downloadURL": "https://latex.us/systems/mac/mactex/BasicTeX.pkg",
+    "expectedTeamID": "RBGCY5RJWM",
+    "label": "mactexbasic",
+    "name": "MacTeX Basic",
+    "timeStamp": "2026-08-25T18:27:45Z",
+    "type": "pkg"
+  }
+]

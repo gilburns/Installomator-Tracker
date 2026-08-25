@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.cloud.lastpass.com/lastpass-for-desktop-macos/universal/LastPassForDesktopMac.dmg",
+    "expectedTeamID": "RNDLY9ZML8",
+    "label": "lastpassdesktop",
+    "name": "LastPass for Desktop",
+    "timeStamp": "2026-08-25T18:25:28Z",
+    "type": "dmg"
+  }
+]

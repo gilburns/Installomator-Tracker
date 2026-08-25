@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.2.19",
+    "blockingProcesses": [],
+    "downloadURL": "https://d3gcli72yxqn2z.cloudfront.net/downloads/connect/latest/bin/ibm-aspera-connect_4.2.19.956-HEAD_macOS_x86_64.pkg",
+    "expectedTeamID": "PETKK2G752",
+    "label": "asperaconnect",
+    "name": "IBM Aspera Connect",
+    "timeStamp": "2026-08-25T18:12:11Z",
+    "type": "pkg"
+  }
+]

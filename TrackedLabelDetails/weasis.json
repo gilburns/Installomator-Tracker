@@ -31,5 +31,16 @@
     "name": "Weasis",
     "timeStamp": "2026-08-03T07:31:16Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.7.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/3484241/749af651-ac60-49c3-bf11-59499fbd06e5?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-25T19%3A40%3A40Z&rscd=attachment%3B+filename%3DWeasis-4.7.3-aarch64.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-25T18%3A40%3A18Z&ske=2026-08-25T19%3A40%3A40Z&sks=b&skv=2018-11-09&sig=WAS7F6j%2BU6hYdqCIcZUl%2BxePNqEMDxPnGmp23c1hf8Y%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzY4NTA1NiwibmJmIjoxNzg3NjgzMjU2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.1huj9sfq4pd7MOJw22DvAy3MMTKw6I6RNE1y5F-PHjw&response-content-disposition=attachment%3B%20filename%3DWeasis-4.7.3-aarch64.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "T52M998N47",
+    "label": "weasis",
+    "name": "Weasis",
+    "timeStamp": "2026-08-25T18:40:56Z",
+    "type": "pkg"
   }
 ]

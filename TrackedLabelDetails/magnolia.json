@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.7.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1207215070/c0c40827-337d-49b4-af19-c1d5dafad29e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-25T19%3A11%3A36Z&rscd=attachment%3B+filename%3DMagnolia-mac-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-25T18%3A10%3A38Z&ske=2026-08-25T19%3A11%3A36Z&sks=b&skv=2018-11-09&sig=pqTsvTTCiUPldzq2RdkH8%2BBG17EEjWm205hiqxWHEKo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzY4NjA5OCwibmJmIjoxNzg3NjgyNDk4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.rHVMi6IVGlVC6K3KD46ifO1SgrnsKRb_iHxUe_EfnCA&response-content-disposition=attachment%3B%20filename%3DMagnolia-mac-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "DTRLLXT8T7",
+    "label": "magnolia",
+    "name": "Magnolia",
+    "timeStamp": "2026-08-25T18:28:18Z",
+    "type": "dmg"
+  }
+]

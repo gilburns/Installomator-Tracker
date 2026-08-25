@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.getfiddler.com/mac-arm64/Fiddler%20Everywhere%208.0.2.dmg",
+    "downloadURLi386": "https://downloads.getfiddler.com/mac/Fiddler%20Everywhere%208.0.2.dmg",
+    "expectedTeamID": "CHSQ3M3P37",
+    "label": "fiddlereverywhere",
+    "name": "Fiddler Everywhere",
+    "timeStamp": "2026-08-25T18:19:23Z",
+    "type": "dmg"
+  }
+]

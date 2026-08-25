@@ -9,5 +9,16 @@
     "name": "Royal TSX",
     "timeStamp": "2026-07-03T16:03:18Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.4.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://royaltsx-v6.royalapps.com/updates/royaltsx_6.4.4.1000.dmg",
+    "expectedTeamID": "VXP8K9EDP6",
+    "label": "royaltsx",
+    "name": "Royal TSX",
+    "timeStamp": "2026-08-25T18:35:37Z",
+    "type": "dmg"
   }
 ]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/latenightsw.com/SDNotary2-2.0-104.zip",
+    "expectedTeamID": "Z7S6X96M3X",
+    "label": "sdnotary2",
+    "name": "SD Notary 2",
+    "timeStamp": "2026-08-25T18:35:55Z",
+    "type": "zip"
+  }
+]

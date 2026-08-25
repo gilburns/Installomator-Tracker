@@ -46,5 +46,17 @@
     "name": "Luma",
     "timeStamp": "2026-08-11T18:23:49Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.8.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.creativeforce.io/released-files.042024/prod/luma/mac/Luma-2.8.0-mac-arm64.pkg",
+    "downloadURLi386": "https://download.creativeforce.io/released-files.042024/prod/luma/mac/Luma-2.8.0-mac.pkg",
+    "expectedTeamID": "Y5K3N5Y6PY",
+    "label": "creativeforceluma",
+    "name": "Luma",
+    "timeStamp": "2026-08-25T18:16:31Z",
+    "type": "pkg"
   }
 ]

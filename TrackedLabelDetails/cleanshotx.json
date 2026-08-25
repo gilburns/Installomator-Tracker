@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.8.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.getcleanshot.com/v3/CleanShot-X-4.8.10.dmg",
+    "expectedTeamID": "AFJU4P8ZV4",
+    "label": "cleanshotx",
+    "name": "CleanShot X",
+    "timeStamp": "2026-08-25T18:15:24Z",
+    "type": "dmg"
+  }
+]

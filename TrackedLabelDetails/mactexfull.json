@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "TeX Live Utility.app",
+    "appNewVersion": "2026",
+    "blockingProcesses": [],
+    "downloadURL": "https://mirrors.ibiblio.org/pub/mirrors/CTAN/systems/mac/mactex/MacTeX.pkg",
+    "expectedTeamID": "RBGCY5RJWM",
+    "label": "mactexfull",
+    "name": "MacTeX Full",
+    "timeStamp": "2026-08-25T18:28:07Z",
+    "type": "pkg"
+  }
+]

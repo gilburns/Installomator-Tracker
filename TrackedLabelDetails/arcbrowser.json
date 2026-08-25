@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.161.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://releases.arc.net/release/Arc-1.161.1-85803.dmg",
+    "expectedTeamID": "S6N382Y83G",
+    "label": "arcbrowser",
+    "name": "Arc",
+    "timeStamp": "2026-08-25T18:10:59Z",
+    "type": "dmg"
+  }
+]

@@ -32,6 +32,7 @@
       "DbVisualizer"
     ],
     "downloadURL": "https://downloads.dbvis.net/product_download/dbvis-26.2.2/media/dbvis_macos-aarch64_26_2_2.dmg",
+    "downloadURLi386": "https://downloads.dbvis.net/product_download/dbvis-26.2.2/media/dbvis_macos-x64_26_2_2.dmg",
     "expectedTeamID": "U9TP5KYV49",
     "label": "dbvisualizer",
     "name": "DbVisualizer",
