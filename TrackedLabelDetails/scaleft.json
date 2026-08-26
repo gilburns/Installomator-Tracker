@@ -37,5 +37,18 @@
     "name": "ScaleFT",
     "timeStamp": "2026-08-20T18:26:47Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.112.0",
+    "blockingProcesses": [
+      "ScaleFT"
+    ],
+    "downloadURL": "https://dist.scaleft.com/repos/macos/stable/all/macos-client/v1.112.0/ScaleFT-1.112.0.pkg",
+    "expectedTeamID": "B7F62B65BN",
+    "label": "scaleft",
+    "name": "ScaleFT",
+    "timeStamp": "2026-08-26T06:36:23Z",
+    "type": "pkg"
   }
 ]

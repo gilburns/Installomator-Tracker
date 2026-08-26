@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1226286910/5dd54e2b-6f90-446b-b742-0ce2227535c6?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-26T07%3A31%3A09Z&rscd=attachment%3B+filename%3DWhatCable.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-26T06%3A31%3A03Z&ske=2026-08-26T07%3A31%3A09Z&sks=b&skv=2018-11-09&sig=X%2FIghGgiKFCbJ5p70zIbqBDjBNSJP4PLqNvn%2FWy%2BitQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzcyODMxNywibmJmIjoxNzg3NzI2NTE3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.GevnPcYrNOycNLC7XQz8SHp7FCEZdNfn9vS1l4cE9gw&response-content-disposition=attachment%3B%20filename%3DWhatCable.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "M4RUJ7W6MP",
+    "label": "whatcable",
+    "name": "WhatCable",
+    "timeStamp": "2026-08-26T06:41:57Z",
+    "type": "zip"
+  }
+]

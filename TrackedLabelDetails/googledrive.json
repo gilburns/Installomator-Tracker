@@ -1,7 +1,7 @@
 [
   {
     "appName": "Google Drive.app",
-    "appNewVersion": "129.0.1",
+    "appNewVersion": "130.0.2",
     "blockingProcesses": [
       "Google Docs",
       "Google Drive",
@@ -12,7 +12,7 @@
     "expectedTeamID": "EQHXZ8M8AV",
     "label": "googledrive",
     "name": "Google Drive File Stream",
-    "timeStamp": "2026-08-05T18:42:58Z",
+    "timeStamp": "2026-08-26T06:22:10Z",
     "type": "pkgInDmg"
   }
 ]
