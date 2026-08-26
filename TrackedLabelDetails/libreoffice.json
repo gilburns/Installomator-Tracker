@@ -26,5 +26,19 @@
     "name": "LibreOffice",
     "timeStamp": "2026-07-24T18:43:25Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.8.0",
+    "blockingProcesses": [
+      "soffice"
+    ],
+    "downloadURL": "https://mirror1.cs-georgetown.net/tdf/libreoffice/stable/26.8.0/mac/aarch64/LibreOffice_26.8.0_MacOS_aarch64.dmg",
+    "downloadURLi386": "https://mirror1.cs-georgetown.net/tdf/libreoffice/stable/26.8.0/mac/x86_64/LibreOffice_26.8.0_MacOS_x86-64.dmg",
+    "expectedTeamID": "7P5S3ZLCN7",
+    "label": "libreoffice",
+    "name": "LibreOffice",
+    "timeStamp": "2026-08-26T18:54:06Z",
+    "type": "dmg"
   }
 ]

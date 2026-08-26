@@ -20,5 +20,16 @@
     "name": "Sketch",
     "timeStamp": "2026-07-14T18:45:15Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.sketch.com/sketch-2026.3-233959.zip",
+    "expectedTeamID": "WUGMZZ5K46",
+    "label": "sketch",
+    "name": "Sketch",
+    "timeStamp": "2026-08-26T19:04:33Z",
+    "type": "zip"
   }
 ]

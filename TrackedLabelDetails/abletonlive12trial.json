@@ -24,5 +24,18 @@
     "name": "Ableton Live 12 Trial",
     "timeStamp": "2026-07-14T18:24:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "12.4.5",
+    "blockingProcesses": [
+      "Live"
+    ],
+    "downloadURL": "https://cdn-downloads.ableton.com/channels/12.4.5/ableton_live_trial_12.4.5_universal.dmg",
+    "expectedTeamID": "MWR434WD94",
+    "label": "abletonlive12trial",
+    "name": "Ableton Live 12 Trial",
+    "timeStamp": "2026-08-26T18:36:39Z",
+    "type": "dmg"
   }
 ]

@@ -97,5 +97,16 @@
     "name": "Opera",
     "timeStamp": "2026-08-20T18:23:55Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "135.0.5973.55",
+    "blockingProcesses": [],
+    "downloadURL": "https://get.geo.opera.com/pub/opera/desktop/135.0.5973.55/mac/Opera_135.0.5973.55_Setup.dmg",
+    "expectedTeamID": "A2P9LX4JPN",
+    "label": "opera",
+    "name": "Opera",
+    "timeStamp": "2026-08-26T19:00:24Z",
+    "type": "dmg"
   }
 ]

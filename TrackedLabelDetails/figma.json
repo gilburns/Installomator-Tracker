@@ -1,14 +1,14 @@
 [
   {
     "appName": "",
-    "appNewVersion": "126.7.10",
+    "appNewVersion": "126.8.16",
     "blockingProcesses": [],
     "downloadURL": "https://desktop.figma.com/mac-arm/Figma.zip",
     "downloadURLi386": "https://desktop.figma.com/mac/Figma.zip",
     "expectedTeamID": "T8RA8NE3B7",
     "label": "figma",
     "name": "Figma",
-    "timeStamp": "2026-07-27T18:41:20Z",
+    "timeStamp": "2026-08-26T18:47:16Z",
     "type": "zip"
   }
 ]

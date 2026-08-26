@@ -24,5 +24,18 @@
     "name": "Ableton Live 12 Suite",
     "timeStamp": "2026-07-14T18:24:00Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "12.4.5",
+    "blockingProcesses": [
+      "Live"
+    ],
+    "downloadURL": "https://cdn-downloads.ableton.com/channels/12.4.5/ableton_live_suite_12.4.5_universal.dmg",
+    "expectedTeamID": "MWR434WD94",
+    "label": "abletonlive12suite",
+    "name": "Ableton Live 12 Suite",
+    "timeStamp": "2026-08-26T18:36:38Z",
+    "type": "dmg"
   }
 ]
