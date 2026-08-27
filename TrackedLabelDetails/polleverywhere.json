@@ -20,5 +20,16 @@
     "name": "Poll Everywhere",
     "timeStamp": "2026-08-04T18:49:51Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "<meta name=\"csrf-token\" content=\"Sph-f0ruiF_VLSFK-jd44vp8RBG8diC9JGXvB_t_hOvfyc00dslRrHetTYwyksCWs6p_h3bkBY0Nsrn0v0KmXg\" />",
+    "blockingProcesses": [],
+    "downloadURL": "https://polleverywhere-app.s3.amazonaws.com/mac-stable/<meta name=\"csrf-token\" content=\"Sph-f0ruiF_VLSFK-jd44vp8RBG8diC9JGXvB_t_hOvfyc00dslRrHetTYwyksCWs6p_h3bkBY0Nsrn0v0KmXg\" />/pollev.dmg",
+    "expectedTeamID": "W48F3X5M8W",
+    "label": "polleverywhere",
+    "name": "Poll Everywhere",
+    "timeStamp": "2026-08-27T09:26:40Z",
+    "type": "dmg"
   }
 ]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.45.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/220546758/032221c5-ad11-4f33-82c8-3ebc5055d674?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-27T10%3A11%3A14Z&rscd=attachment%3B+filename%3DHeadlamp-0.45.0-mac-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-27T09%3A11%3A04Z&ske=2026-08-27T10%3A11%3A14Z&sks=b&skv=2018-11-09&sig=GpVa9H9yDB1Kh3idb5R9Gh04LDBUlLWVaNLLf%2BiZsvA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzgyNTc5NywibmJmIjoxNzg3ODIyMTk3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.aqU1bPPwbc-DK138iuLlpn6ZkrIkaz9AF7OoSWGYBoA&response-content-disposition=attachment%3B%20filename%3DHeadlamp-0.45.0-mac-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/220546758/7f452d0e-5076-4c81-88a7-c92e1d7600c5?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-27T10%3A10%3A25Z&rscd=attachment%3B+filename%3DHeadlamp-0.45.0-mac-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-27T09%3A10%3A20Z&ske=2026-08-27T10%3A10%3A25Z&sks=b&skv=2018-11-09&sig=fmAW4%2B8pbDPqTLEiuoLt%2FJkeeTd0Xm6eQqtM44hkU3o%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzgyNTc5OCwibmJmIjoxNzg3ODIyMTk4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.-I_G4ABjL5CoC9IaeFhu2WR_rbIwH4g1O2O5gBfe0Xo&response-content-disposition=attachment%3B%20filename%3DHeadlamp-0.45.0-mac-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "5N2JF58U87",
+    "label": "headlamp",
+    "name": "Headlamp",
+    "timeStamp": "2026-08-27T09:16:37Z",
+    "type": "dmg"
+  }
+]
