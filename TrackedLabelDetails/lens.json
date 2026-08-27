@@ -22,5 +22,17 @@
     "name": "Lens",
     "timeStamp": "2026-08-19T18:28:04Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.8.270956-latest",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.k8slens.dev/ide/Lens-2026.8.270956-latest-arm64.dmg",
+    "downloadURLi386": "https://downloads.k8slens.dev/ide/Lens-2026.8.270956-latest.dmg",
+    "expectedTeamID": "JJ22T2W355",
+    "label": "lens",
+    "name": "Lens",
+    "timeStamp": "2026-08-27T21:25:57Z",
+    "type": "dmg"
   }
 ]

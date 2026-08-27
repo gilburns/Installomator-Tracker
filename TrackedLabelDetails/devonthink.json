@@ -9,5 +9,16 @@
     "name": "DEVONthink",
     "timeStamp": "2026-07-03T15:44:08Z",
     "type": "appInDmgInZip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.devontechnologies.com/download/devonthink/4.4/DEVONthink.dmg.zip",
+    "expectedTeamID": "679S2QUWR8",
+    "label": "devonthink",
+    "name": "DEVONthink",
+    "timeStamp": "2026-08-27T21:18:43Z",
+    "type": "appInDmgInZip"
   }
 ]

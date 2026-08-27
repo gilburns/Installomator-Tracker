@@ -34,5 +34,17 @@
     "name": "Krisp",
     "timeStamp": "2026-08-07T18:30:10Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.16",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.krisp.ai/mp/mn/3.16/mac/Krisp_3.16.6_arm64.pkg",
+    "downloadURLi386": "https://cdn.krisp.ai/mp/mn/3.16/mac/Krisp_3.16.6_x64.pkg",
+    "expectedTeamID": "U5R26XM5Z2",
+    "label": "krisp",
+    "name": "Krisp",
+    "timeStamp": "2026-08-27T21:25:34Z",
+    "type": "pkg"
   }
 ]

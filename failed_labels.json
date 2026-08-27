@@ -245,6 +245,11 @@
       "lastSeen": "2026-08-27T09:11:21Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "codemeter": {
+      "firstSeen": "2026-08-27T21:17:33Z",
+      "lastSeen": "2026-08-27T21:17:33Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "coderunner": {
       "firstSeen": "2026-08-27T09:11:30Z",
       "lastSeen": "2026-08-27T09:11:30Z",
@@ -539,6 +544,11 @@
       "firstSeen": "2026-08-27T09:20:45Z",
       "lastSeen": "2026-08-27T09:20:45Z",
       "reason": "resolve failed (exit 142)"
+    },
+    "loupedeck": {
+      "firstSeen": "2026-08-27T21:26:32Z",
+      "lastSeen": "2026-08-27T21:26:32Z",
+      "reason": "missing appNewVersion or downloadURL"
     },
     "lsagent": {
       "firstSeen": "2026-08-27T09:21:06Z",
@@ -1110,6 +1120,11 @@
       "lastSeen": "2026-08-27T09:31:58Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "tigervnc": {
+      "firstSeen": "2026-08-27T21:34:52Z",
+      "lastSeen": "2026-08-27T21:34:52Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "timelymemory": {
       "firstSeen": "2026-08-27T09:32:00Z",
       "lastSeen": "2026-08-27T09:32:00Z",
@@ -1204,6 +1219,11 @@
       "firstSeen": "2026-08-27T09:34:21Z",
       "lastSeen": "2026-08-27T09:34:21Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "wechat": {
+      "firstSeen": "2026-08-27T21:38:00Z",
+      "lastSeen": "2026-08-27T21:38:00Z",
+      "reason": "resolve failed (exit 142)"
     },
     "weprint": {
       "firstSeen": "2026-08-27T09:34:31Z",
