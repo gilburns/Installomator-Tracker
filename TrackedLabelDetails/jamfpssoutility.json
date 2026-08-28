@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.2.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1213094634/3ff20b81-1b37-42dc-999c-dd9988e4c62b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-28T22%3A36%3A42Z&rscd=attachment%3B+filename%3DPSSOUtility.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-28T21%3A36%3A42Z&ske=2026-08-28T22%3A36%3A42Z&sks=b&skv=2018-11-09&sig=jYGORHgCh1oLsGRCNXai8Qv4SyansBBoltHEAoFQh1g%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4Nzk1MzQ5NywibmJmIjoxNzg3OTUzMTk3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.R0cChZhIkpQclEEj0qD1DlyYTeSk9Dn2ggTmMvRK__c&response-content-disposition=attachment%3B%20filename%3DPSSOUtility.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "483DWKW443",
+    "label": "jamfpssoutility",
+    "name": "PSSO Utility",
+    "timeStamp": "2026-08-28T21:39:57Z",
+    "type": "pkg"
+  }
+]

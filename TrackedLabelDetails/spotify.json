@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.2.98.301",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.scdn.co/SpotifyARM64.dmg",
+    "downloadURLi386": "https://download.scdn.co/Spotify.dmg",
+    "expectedTeamID": "2FNC3A47ZF",
+    "label": "spotify",
+    "name": "Spotify",
+    "timeStamp": "2026-08-28T21:52:32Z",
+    "type": "dmg"
+  }
+]
