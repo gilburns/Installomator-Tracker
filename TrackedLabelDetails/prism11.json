@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "11.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.graphpad.com/downloads/prism/11/11.1.0/InstallPrism11.dmg",
+    "expectedTeamID": "YQ2D36NS9M",
+    "label": "prism11",
+    "name": "Prism 11",
+    "timeStamp": "2026-08-28T09:32:10Z",
+    "type": "dmg"
+  }
+]

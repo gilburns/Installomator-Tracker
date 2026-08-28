@@ -82,5 +82,17 @@
     "name": "AWS VPN Client",
     "timeStamp": "2026-08-19T06:09:57Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.0.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://d20adtppz83p9s.cloudfront.net/OSX_ARM64/6.0.3/AWS_VPN_Client_ARM64.pkg",
+    "downloadURLi386": "https://d20adtppz83p9s.cloudfront.net/OSX/6.0.3/AWS_VPN_Client.pkg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "awsvpnclient",
+    "name": "AWS VPN Client",
+    "timeStamp": "2026-08-28T09:11:27Z",
+    "type": "pkg"
   }
 ]
