@@ -9,5 +9,16 @@
     "name": "Harper",
     "timeStamp": "2026-08-24T18:21:15Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.9.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Automattic/harper/releases/tag/v2.9.1",
+    "expectedTeamID": "PZYM8XX95Q",
+    "label": "harper",
+    "name": "Harper",
+    "timeStamp": "2026-08-29T06:23:08Z",
+    "type": "dmg"
   }
 ]
