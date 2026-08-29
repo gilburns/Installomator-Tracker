@@ -205,6 +205,11 @@
       "lastSeen": "2026-08-29T06:14:58Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-08-29T18:10:21Z",
+      "lastSeen": "2026-08-29T18:10:21Z",
+      "reason": "invalid JSON output"
+    },
     "camunda": {
       "firstSeen": "2026-08-29T06:15:12Z",
       "lastSeen": "2026-08-29T06:15:12Z",
@@ -448,6 +453,11 @@
     "harmonysase": {
       "firstSeen": "2026-08-29T06:23:07Z",
       "lastSeen": "2026-08-29T06:23:07Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "harper": {
+      "firstSeen": "2026-08-29T18:18:43Z",
+      "lastSeen": "2026-08-29T18:18:43Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "hmavpn": {
@@ -1129,6 +1139,11 @@
       "firstSeen": "2026-08-29T06:39:04Z",
       "lastSeen": "2026-08-29T06:39:04Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "twingate": {
+      "firstSeen": "2026-08-29T18:30:30Z",
+      "lastSeen": "2026-08-29T18:30:30Z",
+      "reason": "invalid JSON output"
     },
     "ultracompare": {
       "firstSeen": "2026-08-29T06:39:13Z",

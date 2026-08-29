@@ -42,5 +42,16 @@
     "name": "Nexus Shell",
     "timeStamp": "2026-08-21T18:24:20Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.7.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1176026856/4a4bb6a6-9b94-4064-90b7-b8c8b9b897d2?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-29T19%3A20%3A28Z&rscd=attachment%3B+filename%3DNexus-Shell-v1.7.3.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-29T18%3A19%3A46Z&ske=2026-08-29T19%3A20%3A28Z&sks=b&skv=2018-11-09&sig=xgDd%2Bt%2BHjGDMTX7zrHGljsJ86XP1dGsv4jOC1Q7mJfU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODAyOTY2NiwibmJmIjoxNzg4MDI3ODY2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.bBnxZSlgHBtqlf4LNHhAbp02KvK2znBbENQdduiDWdk&response-content-disposition=attachment%3B%20filename%3DNexus-Shell-v1.7.3.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "5MBFAB57U2",
+    "label": "nexusshell",
+    "name": "Nexus Shell",
+    "timeStamp": "2026-08-29T18:24:25Z",
+    "type": "dmg"
   }
 ]

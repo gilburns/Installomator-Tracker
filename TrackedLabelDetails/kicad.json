@@ -36,5 +36,24 @@
     "name": "KiCad",
     "timeStamp": "2026-07-22T18:42:48Z",
     "type": "dmg"
+  },
+  {
+    "appName": "KiCad/KiCad.app",
+    "appNewVersion": "10.0.6",
+    "blockingProcesses": [
+      "gerbview",
+      "bitmap2component",
+      "kicad",
+      "pl_editor",
+      "pcb_calculator",
+      "pcbnew",
+      "eeschema"
+    ],
+    "downloadURL": "https://github.com/",
+    "expectedTeamID": "9FQDHNY6U2",
+    "label": "kicad",
+    "name": "KiCad",
+    "timeStamp": "2026-08-29T18:21:21Z",
+    "type": "dmg"
   }
 ]
