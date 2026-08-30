@@ -550,6 +550,11 @@
       "lastSeen": "2026-08-29T06:27:48Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "macadminspython": {
+      "firstSeen": "2026-08-30T06:24:09Z",
+      "lastSeen": "2026-08-30T06:24:09Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "mackiemasterfader": {
       "firstSeen": "2026-08-29T06:27:55Z",
       "lastSeen": "2026-08-29T06:27:55Z",

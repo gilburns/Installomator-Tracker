@@ -20,5 +20,16 @@
     "name": "Karabiner-Elements",
     "timeStamp": "2026-07-05T07:18:05Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "16.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/63037806/6c2febde-48ce-45b0-91ba-efa18bfc7b6d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-30T07%3A20%3A15Z&rscd=attachment%3B+filename%3DKarabiner-Elements-16.2.0.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-30T06%3A19%3A35Z&ske=2026-08-30T07%3A20%3A15Z&sks=b&skv=2018-11-09&sig=7vuN9tVuLjIpahws1CgS%2BM%2FggFj%2F4RSFdy6ll%2B%2B54NY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODA3Mjc2MCwibmJmIjoxNzg4MDcwOTYwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.GqKk3jMYCqCpC3XKbRX0tLIYQWX-1fr0uBsWe9rrm4E&response-content-disposition=attachment%3B%20filename%3DKarabiner-Elements-16.2.0.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "G43BCU2T37",
+    "label": "karabinerelements",
+    "name": "Karabiner-Elements",
+    "timeStamp": "2026-08-30T06:22:40Z",
+    "type": "pkgInDmg"
   }
 ]
