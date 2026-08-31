@@ -1230,6 +1230,11 @@
       "lastSeen": "2026-08-29T06:40:29Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "wechat": {
+      "firstSeen": "2026-08-31T06:38:44Z",
+      "lastSeen": "2026-08-31T06:38:44Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "weprint": {
       "firstSeen": "2026-08-29T06:40:37Z",
       "lastSeen": "2026-08-29T06:40:37Z",
