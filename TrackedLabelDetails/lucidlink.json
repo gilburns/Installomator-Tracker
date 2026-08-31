@@ -20,5 +20,16 @@
     "name": "Lucid",
     "timeStamp": "2026-07-04T18:40:48Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.10.8741",
+    "blockingProcesses": [],
+    "downloadURL": "https://d3il9duqikhdqy.cloudfront.net/latest/osx/lucid-2.10.8741.pkg",
+    "expectedTeamID": "Y4KMJPU2B4",
+    "label": "lucidlink",
+    "name": "Lucid",
+    "timeStamp": "2026-08-31T18:24:10Z",
+    "type": "pkg"
   }
 ]

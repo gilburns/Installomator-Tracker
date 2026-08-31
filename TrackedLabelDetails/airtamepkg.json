@@ -9,5 +9,16 @@
     "name": "Airtame",
     "timeStamp": "2026-07-03T15:36:48Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.16.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://airtame-app.b-cdn.net/app/latest/mac/Airtame-4.16.0.pkg",
+    "expectedTeamID": "4TPSP88HN2",
+    "label": "airtamepkg",
+    "name": "Airtame",
+    "timeStamp": "2026-08-31T18:09:39Z",
+    "type": "pkg"
   }
 ]

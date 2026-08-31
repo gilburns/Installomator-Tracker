@@ -58,5 +58,17 @@
     "name": "Emdash",
     "timeStamp": "2026-08-30T06:18:14Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.2.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1046096502/0d4ee828-06c1-41dd-bc5b-4e9e99728643?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-31T19%3A06%3A45Z&rscd=attachment%3B+filename%3Demdash-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-31T18%3A06%3A20Z&ske=2026-08-31T19%3A06%3A45Z&sks=b&skv=2018-11-09&sig=4JcQgX%2BFUg2HlZyZAwYqeaWLnIKEtUb38lq8FIhyZ8U%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODIwMzg2NCwibmJmIjoxNzg4MjAwMjY0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.nRKNzXKlTH0vD4GJmJPllPasrC43cSOsitjXrW8Z49E&response-content-disposition=attachment%3B%20filename%3Demdash-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/1046096502/ffa5d786-c1a5-4775-82b2-8121f612407a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-31T19%3A06%3A05Z&rscd=attachment%3B+filename%3Demdash-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-31T18%3A06%3A00Z&ske=2026-08-31T19%3A06%3A05Z&sks=b&skv=2018-11-09&sig=W9Y7JapIs7G8mJNTix6Q6g5tWSo3Ag0ZFCOtds3bG0Q%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODIwMzg2NSwibmJmIjoxNzg4MjAwMjY1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.VKD7UpIJrV-tJw9Xyg4baz_c7Py8GBzJkLfZ5gowsoY&response-content-disposition=attachment%3B%20filename%3Demdash-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "2AZ6648627",
+    "label": "emdash",
+    "name": "Emdash",
+    "timeStamp": "2026-08-31T18:17:44Z",
+    "type": "dmg"
   }
 ]

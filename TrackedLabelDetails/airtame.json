@@ -9,5 +9,16 @@
     "name": "Airtame",
     "timeStamp": "2026-07-03T15:36:47Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.16.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://airtame-app.b-cdn.net/app/latest/mac/Airtame-4.16.0.dmg",
+    "expectedTeamID": "4TPSP88HN2",
+    "label": "airtame",
+    "name": "Airtame",
+    "timeStamp": "2026-08-31T18:09:38Z",
+    "type": "dmg"
   }
 ]
