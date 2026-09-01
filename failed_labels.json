@@ -1130,6 +1130,16 @@
       "lastSeen": "2026-08-29T06:38:11Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "tortalk_en": {
+      "firstSeen": "2026-09-01T06:34:39Z",
+      "lastSeen": "2026-09-01T06:34:39Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "tortalk_se": {
+      "firstSeen": "2026-09-01T06:34:39Z",
+      "lastSeen": "2026-09-01T06:34:39Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "tower": {
       "firstSeen": "2026-08-29T06:38:49Z",
       "lastSeen": "2026-08-29T06:38:49Z",

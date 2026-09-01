@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "10.1.5",
+    "appNewVersion": "10.1.13",
     "blockingProcesses": [],
     "downloadURL": "https://downloads.dedoose.com/dedoose-app-releases/Dedoose-Mac.dmg",
     "expectedTeamID": "9U74Q6K62X",
     "label": "dedoose",
     "name": "Dedoose",
-    "timeStamp": "2026-07-03T15:43:36Z",
+    "timeStamp": "2026-09-01T06:19:19Z",
     "type": "dmg"
   }
 ]
