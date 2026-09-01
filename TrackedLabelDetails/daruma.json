@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "1.3.3",
+    "appNewVersion": "1.3.4",
     "blockingProcesses": [],
     "downloadURL": "https://delivery.kadomaru.app/daruma/Daruma.dmg",
     "expectedTeamID": "TRLMQKJQ97",
     "label": "daruma",
     "name": "Daruma",
-    "timeStamp": "2026-08-31T18:15:44Z",
+    "timeStamp": "2026-09-01T18:14:30Z",
     "type": "dmg"
   }
 ]

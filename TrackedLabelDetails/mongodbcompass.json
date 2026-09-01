@@ -58,5 +58,17 @@
     "name": "MongoDB Compass",
     "timeStamp": "2026-08-25T18:30:31Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.50.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/31547508/0f6a0043-fa2e-4da4-9d23-887ea8858afc?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-01T19%3A19%3A31Z&rscd=attachment%3B+filename%3Dmongodb-compass-1.50.0-darwin-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-01T18%3A18%3A48Z&ske=2026-09-01T19%3A19%3A31Z&sks=b&skv=2018-11-09&sig=vTeZ10jkiqNDxWm486KvgPUoysQ4iD26LOUGtSWXl2E%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODI5MDYzNiwibmJmIjoxNzg4Mjg3MDM2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.-sb7ZAflzxYBQu2KiBMzceYmB5M_U-D6t7Zpsu3yp3k&response-content-disposition=attachment%3B%20filename%3Dmongodb-compass-1.50.0-darwin-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/31547508/bd8804e5-6ad2-4aed-a820-e44a8d7a81e5?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-01T18%3A58%3A49Z&rscd=attachment%3B+filename%3Dmongodb-compass-1.50.0-darwin-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-01T17%3A58%3A12Z&ske=2026-09-01T18%3A58%3A49Z&sks=b&skv=2018-11-09&sig=o9pI9htGT%2BSEDOxFnKJDSi0sclteOTsSfHCGL6YRskc%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODI5MDYzOCwibmJmIjoxNzg4Mjg3MDM4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ._nBrJf4qVAJwL1M9NUxla_wQkHKW1e0pjvqnefLGU7I&response-content-disposition=attachment%3B%20filename%3Dmongodb-compass-1.50.0-darwin-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "4XWMY46275",
+    "label": "mongodbcompass",
+    "name": "MongoDB Compass",
+    "timeStamp": "2026-09-01T18:23:56Z",
+    "type": "dmg"
   }
 ]

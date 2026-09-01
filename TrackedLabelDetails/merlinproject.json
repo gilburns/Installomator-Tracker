@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "9.1.107.10.20250911",
+    "appNewVersion": "9.1.212.01.20261326",
     "blockingProcesses": [],
     "downloadURL": "https://www.projectwizards.net/downloads/MerlinProject.zip",
     "expectedTeamID": "9R6P9VZV27",
     "label": "merlinproject",
     "name": "Merlin Project",
-    "timeStamp": "2026-07-03T15:56:01Z",
+    "timeStamp": "2026-09-01T18:23:04Z",
     "type": "zip"
   }
 ]
