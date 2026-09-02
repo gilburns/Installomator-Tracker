@@ -31,5 +31,16 @@
     "name": "DragonFrame 2025",
     "timeStamp": "2026-07-16T18:31:02Z",
     "type": "pkg"
+  },
+  {
+    "appName": "Applications/Dragonframe 2025/Dragonframe 2025.app",
+    "appNewVersion": "2026.07.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.dragonframe.com/download/Dragonframe_2026.07.4.pkg",
+    "expectedTeamID": "PG7SM8SD8M",
+    "label": "dragonframe2025",
+    "name": "DragonFrame 2025",
+    "timeStamp": "2026-09-02T18:14:54Z",
+    "type": "pkg"
   }
 ]

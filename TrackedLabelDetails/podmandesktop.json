@@ -42,5 +42,16 @@
     "name": "Podman Desktop",
     "timeStamp": "2026-07-31T18:53:46Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.29.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/465844859/01aa1eb7-7f6e-4e6a-885b-f826897fdf2a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-02T19%3A19%3A30Z&rscd=attachment%3B+filename%3Dpodman-desktop-1.29.3-universal.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-02T18%3A18%3A42Z&ske=2026-09-02T19%3A19%3A30Z&sks=b&skv=2018-11-09&sig=LnRXnnv5ETELhaFCrk8reQ5IYfaKMtexXNYVB3pdnZY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODM3NzI0OSwibmJmIjoxNzg4MzczNjQ5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.iy1ZWWCPLfy3hIVb22I3KHEj6PnyGWGaiDanXgOdqBY&response-content-disposition=attachment%3B%20filename%3Dpodman-desktop-1.29.3-universal.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "HYSCB8KRL2",
+    "label": "podmandesktop",
+    "name": "Podman Desktop",
+    "timeStamp": "2026-09-02T18:27:29Z",
+    "type": "dmg"
   }
 ]

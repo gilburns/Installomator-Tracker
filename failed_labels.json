@@ -210,6 +210,11 @@
       "lastSeen": "2026-09-02T06:21:44Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-09-02T18:11:18Z",
+      "lastSeen": "2026-09-02T18:11:18Z",
+      "reason": "invalid JSON output"
+    },
     "camunda": {
       "firstSeen": "2026-09-02T06:22:01Z",
       "lastSeen": "2026-09-02T06:22:01Z",
@@ -850,6 +855,11 @@
       "lastSeen": "2026-09-02T06:44:17Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "prusaslicer": {
+      "firstSeen": "2026-09-02T18:28:11Z",
+      "lastSeen": "2026-09-02T18:28:11Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "qgis-pr": {
       "firstSeen": "2026-09-02T06:44:32Z",
       "lastSeen": "2026-09-02T06:44:32Z",
@@ -1178,6 +1188,11 @@
     "vanilla": {
       "firstSeen": "2026-09-02T06:51:00Z",
       "lastSeen": "2026-09-02T06:51:00Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "veracrypt-fuse-t": {
+      "firstSeen": "2026-09-02T18:32:53Z",
+      "lastSeen": "2026-09-02T18:32:53Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "vernierspectralanalysis": {
