@@ -435,6 +435,11 @@
       "lastSeen": "2026-09-02T06:31:11Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "gram": {
+      "firstSeen": "2026-09-03T18:20:58Z",
+      "lastSeen": "2026-09-03T18:20:58Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "grammarly": {
       "firstSeen": "2026-09-02T06:31:19Z",
       "lastSeen": "2026-09-02T06:31:19Z",
@@ -584,6 +589,11 @@
       "firstSeen": "2026-09-02T06:38:01Z",
       "lastSeen": "2026-09-02T06:38:01Z",
       "reason": "invalid JSON output"
+    },
+    "mamp": {
+      "firstSeen": "2026-09-03T18:26:35Z",
+      "lastSeen": "2026-09-03T18:26:35Z",
+      "reason": "resolve failed (exit 142)"
     },
     "meistertask": {
       "firstSeen": "2026-09-02T06:39:31Z",
