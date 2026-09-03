@@ -12,13 +12,13 @@
   },
   {
     "appName": "Espanso.app",
-    "appNewVersion": "2.4.0",
+    "appNewVersion": "2.4.1",
     "blockingProcesses": [],
     "downloadURL": "https://github.com/",
     "expectedTeamID": "6424323YUH",
     "label": "espanso",
     "name": "Espanso",
-    "timeStamp": "2026-07-21T18:38:26Z",
+    "timeStamp": "2026-09-03T06:21:08Z",
     "type": "appInDmgInZip"
   }
 ]
