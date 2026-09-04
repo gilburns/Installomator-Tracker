@@ -31,5 +31,16 @@
     "name": "Arc",
     "timeStamp": "2026-09-03T18:10:07Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.163.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://releases.arc.net/release/Arc-1.163.1-86571.dmg",
+    "expectedTeamID": "S6N382Y83G",
+    "label": "arcbrowser",
+    "name": "Arc",
+    "timeStamp": "2026-09-04T18:11:05Z",
+    "type": "dmg"
   }
 ]

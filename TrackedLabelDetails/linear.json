@@ -1,7 +1,7 @@
 [
   {
     "appName": "",
-    "appNewVersion": "1.32.3",
+    "appNewVersion": "1.32.4",
     "blockingProcesses": [
       "Linear",
       "Linear Helper"
@@ -10,7 +10,7 @@
     "expectedTeamID": "7VZ2S3V9RV",
     "label": "linear",
     "name": "Linear",
-    "timeStamp": "2026-09-03T18:24:54Z",
+    "timeStamp": "2026-09-04T18:30:03Z",
     "type": "dmg"
   }
 ]

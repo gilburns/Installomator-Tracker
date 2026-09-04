@@ -46,5 +46,17 @@
     "name": "OpenCode",
     "timeStamp": "2026-09-03T06:29:55Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.18.28",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/975734319/90b52e6e-2273-4b22-9cd2-22ef9373b9ba?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-04T19%3A15%3A24Z&rscd=attachment%3B+filename%3Dopencode-desktop-mac-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-04T18%3A14%3A29Z&ske=2026-09-04T19%3A15%3A24Z&sks=b&skv=2018-11-09&sig=HAW1NmUZx0peIm%2BUjghRB%2FzMYoEmCzS41bOrrR1eL3k%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODU1MDQ4MywibmJmIjoxNzg4NTQ2ODgzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ._7fSuFQqlRnkpSmeHj4PGBu1kiAOQTNwMeae5F3Gs1k&response-content-disposition=attachment%3B%20filename%3Dopencode-desktop-mac-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/975734319/cc5fdae9-d660-4441-9440-e6b598e0a380?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-04T19%3A16%3A21Z&rscd=attachment%3B+filename%3Dopencode-desktop-mac-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-04T18%3A15%3A55Z&ske=2026-09-04T19%3A16%3A21Z&sks=b&skv=2018-11-09&sig=kX7tweocwFmuT6cU1noY5v0oj86cwdcHPq4fNAdPaZ4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODU1MDQ4NCwibmJmIjoxNzg4NTQ2ODg0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.RycNXi3F5picJZlro3L96urvrqfdKgC7dZV0WaI6IZ8&response-content-disposition=attachment%3B%20filename%3Dopencode-desktop-mac-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "5NZ4Q7NXJ4",
+    "label": "opencode",
+    "name": "OpenCode",
+    "timeStamp": "2026-09-04T18:34:43Z",
+    "type": "dmg"
   }
 ]
