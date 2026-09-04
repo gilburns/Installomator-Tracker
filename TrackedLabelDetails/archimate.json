@@ -22,5 +22,17 @@
     "name": "Archi",
     "timeStamp": "2026-08-29T18:08:55Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "https://github.com/archimatetool/archi.io/releases/download/5_10_0/Archi-Mac-Silicon-5.10.0.dmg",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1062861973/337f409a-e1dd-4a5a-8306-02601e0be97d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-04T06%3A55%3A22Z&rscd=attachment%3B+filename%3DArchi-Mac-Silicon-5.10.0.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-04T05%3A55%3A02Z&ske=2026-09-04T06%3A55%3A22Z&sks=b&skv=2018-11-09&sig=sTu%2Fcf98bJSStXGuswU5WOmMlMHRuweS1HpjLOnILDs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODUwNjA0MCwibmJmIjoxNzg4NTAyNDQwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.qB6RR2qKrYUKTAlcqfKBzTfkToBS345ZaPVPxIF8VPk&response-content-disposition=attachment%3B%20filename%3DArchi-Mac-Silicon-5.10.0.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/1062861973/0563d512-59dd-4638-83ca-2cb7a25d83aa?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-04T06%3A58%3A50Z&rscd=attachment%3B+filename%3DArchi-Mac-5.10.0.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-04T05%3A58%3A44Z&ske=2026-09-04T06%3A58%3A50Z&sks=b&skv=2018-11-09&sig=wsYueByT1VefTspy7Tlg62rUjoq4%2BekdWr8e3sLadEQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODUwNjA0MiwibmJmIjoxNzg4NTAyNDQyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.U0mkBJGRUftDYA7VXnMNRMG4G1dgB2c2tLR_IMAp4Ug&response-content-disposition=attachment%3B%20filename%3DArchi-Mac-5.10.0.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "375WT5T296",
+    "label": "archimate",
+    "name": "Archi",
+    "timeStamp": "2026-09-04T06:14:00Z",
+    "type": "dmg"
   }
 ]

@@ -20,5 +20,16 @@
     "name": "Snowflake ODBC Driver",
     "timeStamp": "2026-08-20T06:34:28Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.20.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://sfc-repo.snowflakecomputing.com/odbc/macuniversal/3.20.0/snowflake_odbc_mac_64universal-3.20.0.dmg",
+    "expectedTeamID": "W4NT6CRQ7U",
+    "label": "snowflakeodbc",
+    "name": "Snowflake ODBC Driver",
+    "timeStamp": "2026-09-04T06:40:15Z",
+    "type": "pkgInDmg"
   }
 ]
