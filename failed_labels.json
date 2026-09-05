@@ -670,6 +670,11 @@
       "lastSeen": "2026-09-04T18:33:14Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "mkuser": {
+      "firstSeen": "2026-09-05T06:28:04Z",
+      "lastSeen": "2026-09-05T06:28:04Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "mmhmm": {
       "firstSeen": "2026-09-04T18:33:22Z",
       "lastSeen": "2026-09-04T18:33:22Z",
@@ -955,6 +960,11 @@
       "lastSeen": "2026-09-04T18:38:38Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "sequelace": {
+      "firstSeen": "2026-09-05T06:31:23Z",
+      "lastSeen": "2026-09-05T06:31:23Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "sidekick": {
       "firstSeen": "2026-09-04T18:38:53Z",
       "lastSeen": "2026-09-04T18:38:53Z",
@@ -1089,6 +1099,11 @@
       "firstSeen": "2026-09-04T18:40:52Z",
       "lastSeen": "2026-09-04T18:40:52Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "tembo": {
+      "firstSeen": "2026-09-05T06:34:39Z",
+      "lastSeen": "2026-09-05T06:34:39Z",
+      "reason": "resolve failed (exit 142)"
     },
     "things": {
       "firstSeen": "2026-09-04T18:41:09Z",
