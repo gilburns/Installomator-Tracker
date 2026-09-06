@@ -42,5 +42,16 @@
     "name": "TickTick",
     "timeStamp": "2026-09-01T06:34:21Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.2.01",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.ticktick.app/download/mac/TickTick_8.2.01_918.dmg",
+    "expectedTeamID": "75TY9UT8AY",
+    "label": "ticktick",
+    "name": "TickTick",
+    "timeStamp": "2026-09-06T06:32:59Z",
+    "type": "dmg"
   }
 ]

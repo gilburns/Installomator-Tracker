@@ -42,5 +42,16 @@
     "name": "AltTab",
     "timeStamp": "2026-08-19T18:12:50Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "11.6.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/202353432/9ce8cbb6-4f24-41f4-a8c7-9cf9d6c831fe?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-06T07%3A03%3A50Z&rscd=attachment%3B+filename%3DAltTab-11.6.0.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-06T06%3A02%3A56Z&ske=2026-09-06T07%3A03%3A50Z&sks=b&skv=2018-11-09&sig=WkeptcaIbVVBYkOO8UnCGnjtPFdabDM4jg5H37KoP94%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODY3NTM4NiwibmJmIjoxNzg4Njc1MDg2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.5qbO7j2RIaMRdxr21O1bnkNxyX6xO3cr4c2_AIxcCyE&response-content-disposition=attachment%3B%20filename%3DAltTab-11.6.0.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "QXD7GW8FHY",
+    "label": "alttab",
+    "name": "AltTab",
+    "timeStamp": "2026-09-06T06:11:25Z",
+    "type": "zip"
   }
 ]

@@ -205,6 +205,11 @@
       "lastSeen": "2026-09-04T18:14:44Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-09-06T06:13:16Z",
+      "lastSeen": "2026-09-06T06:13:16Z",
+      "reason": "invalid JSON output"
+    },
     "camunda": {
       "firstSeen": "2026-09-04T18:15:02Z",
       "lastSeen": "2026-09-04T18:15:02Z",
@@ -820,6 +825,11 @@
       "lastSeen": "2026-09-04T18:35:38Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "polylens": {
+      "firstSeen": "2026-09-06T06:29:32Z",
+      "lastSeen": "2026-09-06T06:29:32Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "portingkit": {
       "firstSeen": "2026-09-04T18:35:52Z",
       "lastSeen": "2026-09-04T18:35:52Z",
@@ -1104,6 +1114,11 @@
       "firstSeen": "2026-09-05T06:34:39Z",
       "lastSeen": "2026-09-05T06:34:39Z",
       "reason": "resolve failed (exit 142)"
+    },
+    "textexpander": {
+      "firstSeen": "2026-09-06T06:32:51Z",
+      "lastSeen": "2026-09-06T06:32:51Z",
+      "reason": "missing appNewVersion or downloadURL"
     },
     "things": {
       "firstSeen": "2026-09-04T18:41:09Z",
