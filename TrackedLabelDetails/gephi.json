@@ -10,5 +10,17 @@
     "name": "Gephi",
     "timeStamp": "2026-07-03T15:46:44Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.11.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/2624521/87106961-c8d1-41d4-a24f-e4ff801391e6?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-06T19%3A08%3A24Z&rscd=attachment%3B+filename%3Dgephi-0.11.3-macos-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-06T18%3A08%3A06Z&ske=2026-09-06T19%3A08%3A24Z&sks=b&skv=2018-11-09&sig=wvMhEEgZRW3TlIMtbdJij%2BmUBLCHDanN83b6ImRb6aE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODcyMjIxMCwibmJmIjoxNzg4NzE4NjEwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.3y-wdmEb_WAYS28mkwTCvtUyTcp6V_nZDytFbKn6kak&response-content-disposition=attachment%3B%20filename%3Dgephi-0.11.3-macos-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/2624521/fe0ae096-9fc2-4950-ac84-33334ce0950f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-06T19%3A09%3A06Z&rscd=attachment%3B+filename%3Dgephi-0.11.3-macos-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-06T18%3A08%3A35Z&ske=2026-09-06T19%3A09%3A06Z&sks=b&skv=2018-11-09&sig=4%2FmUlCZxVBPXP2DmBMVk%2FCSUyKKEsA5qYRlF4uz53GI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODcyMjIxMSwibmJmIjoxNzg4NzE4NjExLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.0HFh41_MSsJiAix07sAsUFp71iJyJWKxTt-vopI9QdI&response-content-disposition=attachment%3B%20filename%3Dgephi-0.11.3-macos-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "3D8H75J8UL",
+    "label": "gephi",
+    "name": "Gephi",
+    "timeStamp": "2026-09-06T18:16:50Z",
+    "type": "dmg"
   }
 ]

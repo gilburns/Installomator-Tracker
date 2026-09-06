@@ -31,5 +31,16 @@
     "name": "AudioPen",
     "timeStamp": "2026-08-28T09:11:20Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.37",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1151712348/beafd50f-788f-4659-ba3a-eca6519747d9?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-06T19%3A08%3A06Z&rscd=attachment%3B+filename%3DAudioPen-2.37.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-06T18%3A07%3A43Z&ske=2026-09-06T19%3A08%3A06Z&sks=b&skv=2018-11-09&sig=3FxCNBmAesaR8%2B8JOoX97QJPbn4T8%2BoaY9zlkL8%2BGm8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODcxOTk0OCwibmJmIjoxNzg4NzE4MTQ4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.hFEQRNgeAOj1Dxo3DSio1reB-E3KrpyhaO0DmYGXUyY&response-content-disposition=attachment%3B%20filename%3DAudioPen-2.37.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "WBFQ68C53U",
+    "label": "audiopen",
+    "name": "AudioPen",
+    "timeStamp": "2026-09-06T18:09:08Z",
+    "type": "dmg"
   }
 ]
