@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "3.6.3",
+    "appNewVersion": "3.6.4",
     "blockingProcesses": [],
     "downloadURL": "https://downloads.imazing.com/mac/iMazing/iMazing3forMac.dmg",
     "expectedTeamID": "J5PR93692Y",
     "label": "imazing3",
     "name": "iMazing",
-    "timeStamp": "2026-08-27T21:23:21Z",
+    "timeStamp": "2026-09-07T18:18:07Z",
     "type": "dmg"
   }
 ]
