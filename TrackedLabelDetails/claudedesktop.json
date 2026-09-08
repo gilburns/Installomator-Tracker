@@ -488,5 +488,19 @@
     "name": "Claude",
     "timeStamp": "2026-09-05T06:15:54Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.49585.0",
+    "blockingProcesses": [
+      "Claude",
+      "Claude Helper"
+    ],
+    "downloadURL": "https://downloads.claude.ai/releases/darwin/universal/1.49585.0/Claude-41ad1dff5275eedc8af25989f59f33c5efe14063.zip",
+    "expectedTeamID": "Q6L2SF6YDW",
+    "label": "claudedesktop",
+    "name": "Claude",
+    "timeStamp": "2026-09-08T18:15:08Z",
+    "type": "zip"
   }
 ]

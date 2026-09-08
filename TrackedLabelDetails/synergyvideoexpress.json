@@ -31,5 +31,16 @@
     "name": "Synergy Video Express",
     "timeStamp": "2026-08-25T18:37:47Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.1.4.250",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.synergysportstech.com/apps/videoexpress/production/macOS/Synergy_Video_Express_1_1_4_250.dmg",
+    "expectedTeamID": "BATB6XS52B",
+    "label": "synergyvideoexpress",
+    "name": "Synergy Video Express",
+    "timeStamp": "2026-09-08T18:38:17Z",
+    "type": "dmg"
   }
 ]

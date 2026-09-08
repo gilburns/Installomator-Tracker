@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "4.7.0",
+    "appNewVersion": "4.7.1",
     "blockingProcesses": [],
     "downloadURL": "https://download.nonstrict.eu/bezel/Bezel.dmg",
     "expectedTeamID": "WT5N9FK54M",
     "label": "bezel",
     "name": "Bezel",
-    "timeStamp": "2026-07-07T18:42:57Z",
+    "timeStamp": "2026-09-08T18:13:13Z",
     "type": "dmg"
   }
 ]
