@@ -37,5 +37,18 @@
     "name": "redshift",
     "timeStamp": "2026-08-12T18:45:05Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.9.0",
+    "blockingProcesses": [
+      "Cinema 4D"
+    ],
+    "downloadURL": "https://installer.maxon.net/installer/rs/redshift_2026.9.0_2810739899_macos_min.dmg",
+    "expectedTeamID": "4ZY22YGXQG",
+    "label": "redshiftlite",
+    "name": "redshift",
+    "timeStamp": "2026-09-09T18:34:40Z",
+    "type": "dmg"
   }
 ]

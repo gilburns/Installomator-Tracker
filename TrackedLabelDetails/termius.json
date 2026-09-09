@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "9.43.1",
+    "appNewVersion": "10.0.0",
     "blockingProcesses": [],
     "downloadURL": "https://download.termius.com/mac-universal/Termius.dmg",
     "expectedTeamID": "6KN952WR85",
     "label": "termius",
     "name": "Termius",
-    "timeStamp": "2026-08-25T18:38:12Z",
+    "timeStamp": "2026-09-09T18:37:24Z",
     "type": "dmg"
   }
 ]

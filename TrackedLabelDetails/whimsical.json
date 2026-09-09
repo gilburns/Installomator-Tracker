@@ -1,7 +1,7 @@
 [
   {
     "appName": "Whimsical.app",
-    "appNewVersion": "2026.10.3",
+    "appNewVersion": "2026.12.2",
     "blockingProcesses": [
       "Whimsical"
     ],
@@ -10,7 +10,7 @@
     "expectedTeamID": "2N6497CB83",
     "label": "whimsical",
     "name": "Whimsical",
-    "timeStamp": "2026-08-26T19:09:38Z",
+    "timeStamp": "2026-09-09T18:40:18Z",
     "type": "dmg"
   }
 ]

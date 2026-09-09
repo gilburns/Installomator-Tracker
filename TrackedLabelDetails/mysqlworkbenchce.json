@@ -10,5 +10,16 @@
     "name": "MySQLWorkbench",
     "timeStamp": "2026-07-03T15:57:30Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.7.0.CE",
+    "blockingProcesses": [],
+    "downloadURL": "https://dev.mysql.com/get/Downloads/MySQLGUITools/",
+    "expectedTeamID": "VB5E2TV963",
+    "label": "mysqlworkbenchce",
+    "name": "MySQLWorkbench",
+    "timeStamp": "2026-09-09T18:29:47Z",
+    "type": "dmg"
   }
 ]
