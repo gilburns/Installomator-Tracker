@@ -115,5 +115,18 @@
     "name": "Goose",
     "timeStamp": "2026-09-04T06:24:04Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.50.0",
+    "blockingProcesses": [
+      "Goose"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/2a0cde75-cb53-4b94-b275-f3d86fb623fc?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-09T07%3A19%3A33Z&rscd=attachment%3B+filename%3Dgoose-source-v1.50.0.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-09T06%3A18%3A50Z&ske=2026-09-09T07%3A19%3A33Z&sks=b&skv=2018-11-09&sig=wWUoDuCemxBdIMa9ymMApzguj8zwdf2fxNFv9n27jmc%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODkzODU0NywibmJmIjoxNzg4OTM0OTQ3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.sOm5fqxXBZsBf1nW-JBVe6sE5FGw_jYInkniOKM0qSw&response-content-disposition=attachment%3B%20filename%3Dgoose-source-v1.50.0.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "W2L75AE9HQ",
+    "label": "goose",
+    "name": "Goose",
+    "timeStamp": "2026-09-09T06:22:27Z",
+    "type": "zip"
   }
 ]

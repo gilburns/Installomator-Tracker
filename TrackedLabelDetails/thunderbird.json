@@ -75,5 +75,16 @@
     "name": "Thunderbird",
     "timeStamp": "2026-09-02T06:49:28Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "155.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/155.0.1/mac/en-US/Thunderbird%20155.0.1.dmg",
+    "expectedTeamID": "43AQ936H96",
+    "label": "thunderbird",
+    "name": "Thunderbird",
+    "timeStamp": "2026-09-09T06:34:49Z",
+    "type": "dmg"
   }
 ]

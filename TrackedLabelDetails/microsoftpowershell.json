@@ -34,5 +34,17 @@
     "name": "PowerShell",
     "timeStamp": "2026-08-14T18:33:52Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.6.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/49609581/8d0b34c9-dafd-4f68-a915-70b35df45be5?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-09T07%3A21%3A58Z&rscd=attachment%3B+filename%3Dpowershell-7.6.6-osx-arm64.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-09T06%3A21%3A30Z&ske=2026-09-09T07%3A21%3A58Z&sks=b&skv=2018-11-09&sig=b7YtZyYGDNmD1Lkp06OLdoSLIqs9yU4vcjhHN0knvLg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODkzNzE0MSwibmJmIjoxNzg4OTM1MzQxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.zP7N4BOJz1m8TPnaQCYdPdce178qFEHja7_gS0DNxhs&response-content-disposition=attachment%3B%20filename%3Dpowershell-7.6.6-osx-arm64.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/49609581/c926d0e4-eaa6-49ce-adc7-d13e24addc59?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-09T07%3A20%3A30Z&rscd=attachment%3B+filename%3Dpowershell-7.6.6-osx-x64.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-09T06%3A20%3A07Z&ske=2026-09-09T07%3A20%3A30Z&sks=b&skv=2018-11-09&sig=VAzXK8mmGIQYt2KWbqtQzhoWR9sjn2y9hsSzzqneArI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODkzNzE0MiwibmJmIjoxNzg4OTM1MzQyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.p_2I3-xwgAiBPw6JyKMuaWWyk2Qo4UnT3HAedG7Afpo&response-content-disposition=attachment%3B%20filename%3Dpowershell-7.6.6-osx-x64.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftpowershell",
+    "name": "PowerShell",
+    "timeStamp": "2026-09-09T06:29:01Z",
+    "type": "pkg"
   }
 ]

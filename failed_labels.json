@@ -160,6 +160,11 @@
       "lastSeen": "2026-09-08T18:13:02Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "bettertouchtool": {
+      "firstSeen": "2026-09-09T06:13:50Z",
+      "lastSeen": "2026-09-09T06:13:50Z",
+      "reason": "invalid JSON output"
+    },
     "betterzip": {
       "firstSeen": "2026-09-08T18:13:11Z",
       "lastSeen": "2026-09-08T18:13:11Z",
@@ -1113,6 +1118,11 @@
     "tidal": {
       "firstSeen": "2026-09-08T18:38:57Z",
       "lastSeen": "2026-09-08T18:38:57Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "tigervnc": {
+      "firstSeen": "2026-09-09T06:34:50Z",
+      "lastSeen": "2026-09-09T06:34:50Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "timelymemory": {

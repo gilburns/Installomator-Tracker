@@ -9,5 +9,16 @@
     "name": "OmniPresence",
     "timeStamp": "2026-07-03T15:58:28Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.omnigroup.com/software/macOS/14/OmniPresence-1.10.dmg",
+    "expectedTeamID": "34YW5XSRB7",
+    "label": "omnipresence",
+    "name": "OmniPresence",
+    "timeStamp": "2026-09-09T06:30:12Z",
+    "type": "dmg"
   }
 ]

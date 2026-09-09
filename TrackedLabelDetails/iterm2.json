@@ -12,5 +12,19 @@
     "name": "iTerm",
     "timeStamp": "2026-07-03T15:49:28Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.7.0",
+    "blockingProcesses": [
+      "iTerm",
+      "iTerm2"
+    ],
+    "downloadURL": "https://iterm2.com/downloads/stable/iTerm2-3_7_0.zip",
+    "expectedTeamID": "H7V7XYVQ7D",
+    "label": "iterm2",
+    "name": "iTerm",
+    "timeStamp": "2026-09-09T06:23:56Z",
+    "type": "zip"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "1.124.1",
+    "appNewVersion": "1.125.0",
     "blockingProcesses": [],
     "downloadURL": "https://desktop-release.canva.com/Canva-latest.dmg",
     "expectedTeamID": "5HD2ARTBFS",
     "label": "canva",
     "name": "Canva",
-    "timeStamp": "2026-08-28T09:12:57Z",
+    "timeStamp": "2026-09-09T06:14:44Z",
     "type": "dmg"
   }
 ]
