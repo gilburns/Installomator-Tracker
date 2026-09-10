@@ -210,6 +210,11 @@
       "lastSeen": "2026-09-09T18:12:50Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-09-10T06:14:53Z",
+      "lastSeen": "2026-09-10T06:14:53Z",
+      "reason": "invalid JSON output"
+    },
     "camunda": {
       "firstSeen": "2026-09-09T18:13:03Z",
       "lastSeen": "2026-09-09T18:13:03Z",
@@ -425,6 +430,11 @@
       "lastSeen": "2026-09-09T18:19:30Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "gram": {
+      "firstSeen": "2026-09-10T06:22:03Z",
+      "lastSeen": "2026-09-10T06:22:03Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "grammarly": {
       "firstSeen": "2026-09-09T18:19:38Z",
       "lastSeen": "2026-09-09T18:19:38Z",
@@ -494,6 +504,11 @@
       "firstSeen": "2026-09-09T18:20:44Z",
       "lastSeen": "2026-09-09T18:20:44Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "inkscape": {
+      "firstSeen": "2026-09-10T06:24:00Z",
+      "lastSeen": "2026-09-10T06:24:00Z",
+      "reason": "resolve failed (exit 142)"
     },
     "island": {
       "firstSeen": "2026-09-09T18:21:16Z",
@@ -579,6 +594,11 @@
       "firstSeen": "2026-09-09T18:27:00Z",
       "lastSeen": "2026-09-09T18:27:00Z",
       "reason": "invalid JSON output"
+    },
+    "mamp": {
+      "firstSeen": "2026-09-10T06:28:39Z",
+      "lastSeen": "2026-09-10T06:28:39Z",
+      "reason": "resolve failed (exit 142)"
     },
     "meistertask": {
       "firstSeen": "2026-09-09T18:28:09Z",
@@ -848,6 +868,11 @@
     "proofpointautoupdater": {
       "firstSeen": "2026-09-09T18:32:59Z",
       "lastSeen": "2026-09-09T18:32:59Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "prusaslicer": {
+      "firstSeen": "2026-09-10T06:33:16Z",
+      "lastSeen": "2026-09-10T06:33:16Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "qgis-pr": {
@@ -1224,6 +1249,11 @@
       "firstSeen": "2026-09-09T18:40:04Z",
       "lastSeen": "2026-09-09T18:40:04Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "wechat": {
+      "firstSeen": "2026-09-10T06:39:32Z",
+      "lastSeen": "2026-09-10T06:39:32Z",
+      "reason": "resolve failed (exit 142)"
     },
     "weprint": {
       "firstSeen": "2026-09-09T18:40:10Z",

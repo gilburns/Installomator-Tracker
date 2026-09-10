@@ -238,5 +238,17 @@
     "name": "Loom",
     "timeStamp": "2026-09-08T18:27:42Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.374.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.loom.com/desktop-packages/Loom-0.374.2-arm64.dmg",
+    "downloadURLi386": "https://cdn.loom.com/desktop-packages/Loom-0.374.2.dmg",
+    "expectedTeamID": "QGD2ZPXZZG",
+    "label": "loom",
+    "name": "Loom",
+    "timeStamp": "2026-09-10T06:27:05Z",
+    "type": "dmg"
   }
 ]
