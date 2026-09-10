@@ -42,5 +42,16 @@
     "name": "AlDente",
     "timeStamp": "2026-09-09T18:09:47Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.39.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/240818838/11402d3c-9f78-419e-a3ac-5383af2c18de?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-10T18%3A43%3A04Z&rscd=attachment%3B+filename%3DAlDente.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-10T17%3A42%3A48Z&ske=2026-09-10T18%3A43%3A04Z&sks=b&skv=2018-11-09&sig=PLF7MK622JM14E0xn5UNdZIMzubKy6lWtMgd5%2BnSxuE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTA2NTU2MiwibmJmIjoxNzg5MDYzNzYyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.d_i7TyWAntBiVQa-5CTjWRcIX4WmV_b01pjWZQ78yug&response-content-disposition=attachment%3B%20filename%3DAlDente.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "3WVC84GB99",
+    "label": "aldente",
+    "name": "AlDente",
+    "timeStamp": "2026-09-10T18:09:22Z",
+    "type": "dmg"
   }
 ]

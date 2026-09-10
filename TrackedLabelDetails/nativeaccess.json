@@ -1,14 +1,14 @@
 [
   {
     "appName": "",
-    "appNewVersion": "3.25.2",
+    "appNewVersion": "3.26.0",
     "blockingProcesses": [],
     "downloadURL": "https://na-update.native-instruments.com/arm64/Native-Access-arm64-mac-latest.zip",
     "downloadURLi386": "https://na-update.native-instruments.com/Native-Access-x64-mac-latest.zip",
     "expectedTeamID": "83K5EG6Z9V",
     "label": "nativeaccess",
     "name": "Native Access",
-    "timeStamp": "2026-07-23T18:45:30Z",
+    "timeStamp": "2026-09-10T18:25:55Z",
     "type": "zip"
   }
 ]

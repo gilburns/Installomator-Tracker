@@ -545,6 +545,11 @@
       "lastSeen": "2026-09-09T18:23:07Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "latexit": {
+      "firstSeen": "2026-09-10T18:23:06Z",
+      "lastSeen": "2026-09-10T18:23:06Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "levelscreenrecorder": {
       "firstSeen": "2026-09-09T18:24:42Z",
       "lastSeen": "2026-09-09T18:24:42Z",
