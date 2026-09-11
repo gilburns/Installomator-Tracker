@@ -9,5 +9,16 @@
     "name": "Clari Copilot",
     "timeStamp": "2026-07-29T07:00:58Z",
     "type": "dmg"
+  },
+  {
+    "appName": "Clari-Copilot.app",
+    "appNewVersion": "3.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://strings-rta-public.s3.us-east-1.amazonaws.com/enterprise/Clari-Copilot-3.0.0.dmg",
+    "expectedTeamID": "AN4U5AWX9M",
+    "label": "claricopilot",
+    "name": "Clari Copilot",
+    "timeStamp": "2026-09-11T06:15:50Z",
+    "type": "dmg"
   }
 ]

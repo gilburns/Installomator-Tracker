@@ -9,5 +9,16 @@
     "name": "GatherV2",
     "timeStamp": "2026-07-03T15:46:40Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.54.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.gather.town/desktop-v2/GatherV2-0.54.0-universal.dmg",
+    "expectedTeamID": "W28UKP642P",
+    "label": "gather2",
+    "name": "GatherV2",
+    "timeStamp": "2026-09-11T06:20:34Z",
+    "type": "dmg"
   }
 ]
