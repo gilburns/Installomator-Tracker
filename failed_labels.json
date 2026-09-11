@@ -1005,6 +1005,11 @@
       "lastSeen": "2026-09-09T18:35:46Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "sizeup": {
+      "firstSeen": "2026-09-11T18:28:16Z",
+      "lastSeen": "2026-09-11T18:28:16Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "sketchup2024": {
       "firstSeen": "2026-09-09T18:35:47Z",
       "lastSeen": "2026-09-09T18:35:47Z",

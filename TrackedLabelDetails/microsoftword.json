@@ -131,7 +131,7 @@
   },
   {
     "appName": "",
-    "appNewVersion": "16.112.26090911",
+    "appNewVersion": "16.112.26083020",
     "blockingProcesses": [
       "Microsoft Word"
     ],
@@ -139,7 +139,7 @@
     "expectedTeamID": "UBF8T346G9",
     "label": "microsoftword",
     "name": "Microsoft Word",
-    "timeStamp": "2026-09-11T06:26:45Z",
+    "timeStamp": "2026-09-11T18:22:30Z",
     "type": "pkg"
   }
 ]
