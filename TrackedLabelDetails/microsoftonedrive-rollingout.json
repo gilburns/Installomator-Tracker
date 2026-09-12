@@ -75,5 +75,16 @@
     "name": "OneDrive",
     "timeStamp": "2026-09-02T18:24:19Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.158.0816",
+    "blockingProcesses": [],
+    "downloadURL": "https://oneclient.sfx.ms/Mac/Installers/26.158.0816.0002/universal/OneDrive.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftonedrive-rollingout",
+    "name": "OneDrive",
+    "timeStamp": "2026-09-12T06:25:45Z",
+    "type": "pkg"
   }
 ]

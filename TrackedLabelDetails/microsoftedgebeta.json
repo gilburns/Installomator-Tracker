@@ -141,5 +141,16 @@
     "name": "Microsoft Edge Beta",
     "timeStamp": "2026-09-10T06:29:16Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "154.0.4258.12",
+    "blockingProcesses": [],
+    "downloadURL": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c4199f6e-1797-4907-a966-e318cff31bd3/MicrosoftEdgeBeta-154.0.4258.12.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftedgebeta",
+    "name": "Microsoft Edge Beta",
+    "timeStamp": "2026-09-12T06:25:40Z",
+    "type": "pkg"
   }
 ]
