@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "9.8.57",
+    "appNewVersion": "9.8.58",
     "blockingProcesses": [],
     "downloadURL": "https://files.hamrick.com/vuea6498.dmg",
     "expectedTeamID": "5D5BXT9KP5",
     "label": "vuescanuni",
     "name": "VueScan",
-    "timeStamp": "2026-08-23T18:26:28Z",
+    "timeStamp": "2026-09-12T18:33:08Z",
     "type": "dmg"
   }
 ]
