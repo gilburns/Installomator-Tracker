@@ -119,5 +119,16 @@
     "name": "Stats",
     "timeStamp": "2026-09-06T18:15:41Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.0.16",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/189285554/aaa6e325-d4b8-4108-90a2-5399ef385b2e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-13T19%3A07%3A15Z&rscd=attachment%3B+filename%3DStats.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-13T18%3A06%3A17Z&ske=2026-09-13T19%3A07%3A15Z&sks=b&skv=2018-11-09&sig=%2BdXjBEci01bnp2eDjV%2FRBChwGtmapKFgt1YzgP8feYw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTMyMzY5NCwibmJmIjoxNzg5MzIzMzk0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.kfcvuErYW6PZyOPL7Yh-nghAq6RwA5-_K11IyU5XVCo&response-content-disposition=attachment%3B%20filename%3DStats.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "RP2S87B72W",
+    "label": "exelbanstats",
+    "name": "Stats",
+    "timeStamp": "2026-09-13T18:16:34Z",
+    "type": "dmg"
   }
 ]

@@ -1210,6 +1210,11 @@
       "lastSeen": "2026-09-09T18:39:14Z",
       "reason": "invalid JSON output"
     },
+    "vagrant": {
+      "firstSeen": "2026-09-13T18:30:20Z",
+      "lastSeen": "2026-09-13T18:30:20Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "vanilla": {
       "firstSeen": "2026-09-09T18:39:17Z",
       "lastSeen": "2026-09-09T18:39:17Z",
