@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "9.7.3",
+    "appNewVersion": "9.8.0",
     "blockingProcesses": [],
     "downloadURL": "https://download.anydesk.com/anydesk.dmg",
     "expectedTeamID": "KHRWM533LU",
     "label": "anydesk",
     "name": "AnyDesk",
-    "timeStamp": "2026-07-22T18:27:07Z",
+    "timeStamp": "2026-09-14T18:09:34Z",
     "type": "dmg"
   }
 ]

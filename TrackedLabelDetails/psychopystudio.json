@@ -42,5 +42,16 @@
     "name": "PsychoPy Studio",
     "timeStamp": "2026-08-27T21:31:35Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.2.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/879116/c50a9985-ac72-40af-a541-3da635d5760d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-14T19%3A07%3A07Z&rscd=attachment%3B+filename%3DPsychoPy_Studio_2026.2.4.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-14T18%3A06%3A51Z&ske=2026-09-14T19%3A07%3A07Z&sks=b&skv=2018-11-09&sig=C%2BwLxRWx5UxyZoDlCOMvnsfDdh%2FerwYNC8vaF5U5qUs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTQxNDA1NywibmJmIjoxNzg5NDEwNDU3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.FBaBkfqWz-GKsROyY0Wdd6eVSgE1fHUPY4l7fkH5VIM&response-content-disposition=attachment%3B%20filename%3DPsychoPy_Studio_2026.2.4.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "NM3SX67P2X",
+    "label": "psychopystudio",
+    "name": "PsychoPy Studio",
+    "timeStamp": "2026-09-14T18:27:37Z",
+    "type": "dmg"
   }
 ]

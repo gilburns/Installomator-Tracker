@@ -170,6 +170,11 @@
       "lastSeen": "2026-09-09T18:12:12Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "bibdesk": {
+      "firstSeen": "2026-09-14T18:10:25Z",
+      "lastSeen": "2026-09-14T18:10:25Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "blackhole16ch": {
       "firstSeen": "2026-09-09T18:12:23Z",
       "lastSeen": "2026-09-09T18:12:23Z",
@@ -1344,6 +1349,11 @@
       "firstSeen": "2026-09-09T18:41:01Z",
       "lastSeen": "2026-09-09T18:41:01Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "zulujdkfx17": {
+      "firstSeen": "2026-09-14T18:35:36Z",
+      "lastSeen": "2026-09-14T18:35:36Z",
+      "reason": "resolve failed (exit 142)"
     }
   },
   "labelsHash": "40b9a27d7e57518c118279aa77a7c1c9ffea695226fcaa2f5eb0e4e6030680ef",
