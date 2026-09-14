@@ -470,6 +470,11 @@
       "lastSeen": "2026-09-09T18:19:54Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "hazel": {
+      "firstSeen": "2026-09-14T06:26:26Z",
+      "lastSeen": "2026-09-14T06:26:26Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "hmavpn": {
       "firstSeen": "2026-09-09T18:20:05Z",
       "lastSeen": "2026-09-09T18:20:05Z",
@@ -1288,6 +1293,11 @@
     "xeroxphaser7800": {
       "firstSeen": "2026-09-09T18:40:35Z",
       "lastSeen": "2026-09-09T18:40:35Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "xeroxworkcentre7800": {
+      "firstSeen": "2026-09-14T06:41:42Z",
+      "lastSeen": "2026-09-14T06:41:42Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "zappy": {

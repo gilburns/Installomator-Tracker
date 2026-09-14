@@ -20,5 +20,16 @@
     "name": "OmniOutliner",
     "timeStamp": "2026-07-29T07:18:01Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.omnigroup.com/software/macOS/15/OmniOutliner-6.3.dmg",
+    "expectedTeamID": "34YW5XSRB7",
+    "label": "omnioutliner6",
+    "name": "OmniOutliner",
+    "timeStamp": "2026-09-14T06:33:38Z",
+    "type": "dmg"
   }
 ]
