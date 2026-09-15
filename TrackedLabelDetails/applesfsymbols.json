@@ -9,5 +9,16 @@
     "name": "SF Symbols",
     "timeStamp": "2026-07-03T15:37:23Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "27.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-27.dmg",
+    "expectedTeamID": "Software Update",
+    "label": "applesfsymbols",
+    "name": "SF Symbols",
+    "timeStamp": "2026-09-15T06:14:31Z",
+    "type": "pkgInDmg"
   }
 ]
