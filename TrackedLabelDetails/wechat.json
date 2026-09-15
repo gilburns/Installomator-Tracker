@@ -240,5 +240,16 @@
     "name": "WeChat",
     "timeStamp": "2026-09-15T06:45:57Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.1.15.14",
+    "blockingProcesses": [],
+    "downloadURL": "https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.15.14_270094.dmg?t=1789461060",
+    "expectedTeamID": "5A4RE8SF68",
+    "label": "wechat",
+    "name": "WeChat",
+    "timeStamp": "2026-09-15T18:32:43Z",
+    "type": "dmg"
   }
 ]

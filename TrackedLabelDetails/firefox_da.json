@@ -141,5 +141,18 @@
     "name": "Firefox",
     "timeStamp": "2026-09-04T18:22:16Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "156.0",
+    "blockingProcesses": [
+      "firefox"
+    ],
+    "downloadURL": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/156.0/win32/en-US/Firefox%20Setup%20156.0.exe",
+    "expectedTeamID": "43AQ936H96",
+    "label": "firefox_da",
+    "name": "Firefox",
+    "timeStamp": "2026-09-15T18:16:57Z",
+    "type": "dmg"
   }
 ]

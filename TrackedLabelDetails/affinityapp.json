@@ -1,13 +1,13 @@
 [
   {
     "appName": "Affinity.app",
-    "appNewVersion": "3.2.3",
+    "appNewVersion": "3.3.0",
     "blockingProcesses": [],
     "downloadURL": "https://downloads.affinity.studio/Affinity.dmg",
     "expectedTeamID": "5HD2ARTBFS",
     "label": "affinityapp",
     "name": "Affinity",
-    "timeStamp": "2026-07-15T18:25:33Z",
+    "timeStamp": "2026-09-15T18:08:08Z",
     "type": "dmg"
   }
 ]

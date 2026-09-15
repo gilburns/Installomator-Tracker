@@ -210,6 +210,11 @@
       "lastSeen": "2026-09-15T06:17:20Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-09-15T18:10:43Z",
+      "lastSeen": "2026-09-15T18:10:43Z",
+      "reason": "invalid JSON output"
+    },
     "camunda": {
       "firstSeen": "2026-09-15T06:17:39Z",
       "lastSeen": "2026-09-15T06:17:39Z",
@@ -500,6 +505,11 @@
       "lastSeen": "2026-09-15T06:26:21Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-09-15T18:18:56Z",
+      "lastSeen": "2026-09-15T18:18:56Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "island": {
       "firstSeen": "2026-09-15T06:26:42Z",
       "lastSeen": "2026-09-15T06:26:42Z",
@@ -693,6 +703,11 @@
     "mmhmm-studio": {
       "firstSeen": "2026-09-15T06:34:44Z",
       "lastSeen": "2026-09-15T06:34:44Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "mobikinassistantforandroid": {
+      "firstSeen": "2026-09-15T18:24:41Z",
+      "lastSeen": "2026-09-15T18:24:41Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mobirise": {
