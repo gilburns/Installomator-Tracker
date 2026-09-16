@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "2.36.45",
+    "appNewVersion": "2.36.46",
     "blockingProcesses": [],
     "downloadURL": "https://awscli.amazonaws.com/AWSCLIV2.pkg",
     "expectedTeamID": "94KV3E626L",
     "label": "awscli2",
     "name": "AWSCLI",
-    "timeStamp": "2026-09-15T06:16:00Z",
+    "timeStamp": "2026-09-16T06:16:05Z",
     "type": "pkg"
   }
 ]

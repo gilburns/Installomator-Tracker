@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.5.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1132082476/b34e4ff0-32b4-46d0-a6ef-4a5e372e4726?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-16T07%3A16%3A10Z&rscd=attachment%3B+filename%3DBetterShot-0.5.3_arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-16T06%3A15%3A41Z&ske=2026-09-16T07%3A16%3A10Z&sks=b&skv=2018-11-09&sig=9vDrvhyO6%2BbBehjZNAyWiMls8QECW1541KHZvbDr5ss%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTU0MTE4OCwibmJmIjoxNzg5NTM5Mzg4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.mNlSCWIXxyXIsC56atUCy6v8f0BfLvTjC0c0WpraG4U&response-content-disposition=attachment%3B%20filename%3DBetterShot-0.5.3_arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://github.com/",
+    "expectedTeamID": "8JL39GK2DC",
+    "label": "bettershot",
+    "name": "BetterShot",
+    "timeStamp": "2026-09-16T06:16:27Z",
+    "type": "dmg"
+  }
+]

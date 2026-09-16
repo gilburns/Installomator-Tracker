@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "12.0.2",
+    "appNewVersion": "12.0.3",
     "blockingProcesses": [],
     "downloadURL": "https://downloads.econtechnologies.com/CS4_Download.dmg",
     "expectedTeamID": "9U697UM7YX",
     "label": "chronosync",
     "name": "ChronoSync",
-    "timeStamp": "2026-07-03T15:41:57Z",
+    "timeStamp": "2026-09-16T06:18:30Z",
     "type": "pkgInDmg"
   }
 ]
