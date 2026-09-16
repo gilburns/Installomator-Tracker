@@ -125,6 +125,16 @@
       "lastSeen": "2026-09-16T06:15:52Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "audacity3": {
+      "firstSeen": "2026-09-16T18:10:04Z",
+      "lastSeen": "2026-09-16T18:10:04Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "audacity4": {
+      "firstSeen": "2026-09-16T18:10:04Z",
+      "lastSeen": "2026-09-16T18:10:04Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "avertouch": {
       "firstSeen": "2026-09-16T06:16:04Z",
       "lastSeen": "2026-09-16T06:16:04Z",
@@ -470,6 +480,11 @@
       "lastSeen": "2026-09-16T06:25:27Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "hazel": {
+      "firstSeen": "2026-09-16T18:20:12Z",
+      "lastSeen": "2026-09-16T18:20:12Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "hmavpn": {
       "firstSeen": "2026-09-16T06:25:39Z",
       "lastSeen": "2026-09-16T06:25:39Z",
@@ -503,6 +518,11 @@
     "inetclearreportsdesigner": {
       "firstSeen": "2026-09-16T06:26:20Z",
       "lastSeen": "2026-09-16T06:26:20Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "inkscape": {
+      "firstSeen": "2026-09-16T18:20:58Z",
+      "lastSeen": "2026-09-16T18:20:58Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "island": {
@@ -563,6 +583,11 @@
     "lucifer": {
       "firstSeen": "2026-09-16T06:32:10Z",
       "lastSeen": "2026-09-16T06:32:10Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "macadminspython": {
+      "firstSeen": "2026-09-16T18:24:17Z",
+      "lastSeen": "2026-09-16T18:24:17Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mackiemasterfader": {

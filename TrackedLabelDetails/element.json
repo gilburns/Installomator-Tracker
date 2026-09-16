@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "1.12.27",
+    "appNewVersion": "1.12.28",
     "blockingProcesses": [],
     "downloadURL": "https://packages.element.io/desktop/install/macos/Element.dmg",
     "expectedTeamID": "7J4U792NQT",
     "label": "element",
     "name": "Element",
-    "timeStamp": "2026-09-01T18:16:04Z",
+    "timeStamp": "2026-09-16T18:16:41Z",
     "type": "dmg"
   }
 ]

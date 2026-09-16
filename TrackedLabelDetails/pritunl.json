@@ -53,5 +53,16 @@
     "name": "Pritunl",
     "timeStamp": "2026-09-08T18:34:06Z",
     "type": "pkgInZip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.4.4752.50",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/35986723/c350bc0b-24f0-4806-b943-c77925c33285?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-16T19%3A06%3A26Z&rscd=attachment%3B+filename%3DPritunl.pkg.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-16T18%3A05%3A59Z&ske=2026-09-16T19%3A06%3A26Z&sks=b&skv=2018-11-09&sig=Bts5KdzSsUfEiLktchDBiDfcIQvTW8L2CoNZvX%2F18YM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTU4Njk3MCwibmJmIjoxNzg5NTgzMzcwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.2hupbP1t4UdcNhdYNGZWem7aRc-M7w8MrYaP3oF32zw&response-content-disposition=attachment%3B%20filename%3DPritunl.pkg.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "U22BLATN63",
+    "label": "pritunl",
+    "name": "Pritunl",
+    "timeStamp": "2026-09-16T18:29:31Z",
+    "type": "pkgInZip"
   }
 ]
