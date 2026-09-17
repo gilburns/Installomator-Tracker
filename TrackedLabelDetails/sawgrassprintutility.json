@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "2026.3.0",
+    "appNewVersion": "2026.3.1",
     "blockingProcesses": [],
     "downloadURL": "https://print.sawgrassink.com/SawgrassPrintUtility.dmg",
     "expectedTeamID": "2DD4HMHX5K",
     "label": "sawgrassprintutility",
     "name": "Sawgrass Print Utility",
-    "timeStamp": "2026-09-01T18:28:08Z",
+    "timeStamp": "2026-09-17T18:29:07Z",
     "type": "dmg"
   }
 ]

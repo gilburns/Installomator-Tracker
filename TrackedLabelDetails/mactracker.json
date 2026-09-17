@@ -20,5 +20,16 @@
     "name": "Mactracker",
     "timeStamp": "2026-09-17T06:27:48Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.2.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://mactracker.ca/downloads/Mactracker_8.2.5.zip",
+    "expectedTeamID": "63TP32R3AB",
+    "label": "mactracker",
+    "name": "Mactracker",
+    "timeStamp": "2026-09-17T18:23:08Z",
+    "type": "zip"
   }
 ]

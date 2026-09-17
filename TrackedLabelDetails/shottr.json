@@ -9,5 +9,16 @@
     "name": "Shottr",
     "timeStamp": "2026-07-03T16:03:59Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.9.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://shottr.cc/dl/Shottr-1.9.2.dmg",
+    "expectedTeamID": "2Y683PRQWN",
+    "label": "shottr",
+    "name": "Shottr",
+    "timeStamp": "2026-09-17T18:29:38Z",
+    "type": "dmg"
   }
 ]

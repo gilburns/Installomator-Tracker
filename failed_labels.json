@@ -220,6 +220,11 @@
       "lastSeen": "2026-09-16T06:17:16Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-09-17T18:12:02Z",
+      "lastSeen": "2026-09-17T18:12:02Z",
+      "reason": "invalid JSON output"
+    },
     "camunda": {
       "firstSeen": "2026-09-16T06:17:29Z",
       "lastSeen": "2026-09-16T06:17:29Z",
@@ -718,6 +723,11 @@
     "mmhmm-studio": {
       "firstSeen": "2026-09-16T06:34:49Z",
       "lastSeen": "2026-09-16T06:34:49Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "mobikinassistantforandroid": {
+      "firstSeen": "2026-09-17T18:25:08Z",
+      "lastSeen": "2026-09-17T18:25:08Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mobirise": {

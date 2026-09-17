@@ -20,5 +20,16 @@
     "name": "Citrix Workspace",
     "timeStamp": "2026-09-04T18:17:20Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.09.0.17",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.citrix.com/26704/CitrixWorkspaceApp.dmg?__gda__=exp=1789672386~acl=/*~hmac=f6c4df3a0dbb8c3d1d81efbc68b98ecfb798f52c8f72373a90adaa421ca5d8b8",
+    "expectedTeamID": "S272Y5R93J",
+    "label": "citrixworkspace",
+    "name": "Citrix Workspace",
+    "timeStamp": "2026-09-17T18:13:06Z",
+    "type": "pkgInDmg"
   }
 ]

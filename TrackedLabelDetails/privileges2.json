@@ -9,5 +9,16 @@
     "name": "Privileges",
     "timeStamp": "2026-07-03T16:00:08Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.6.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/138925737/5245f325-b2a1-438f-8847-5c49c6b7b5d0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-17T19%3A04%3A12Z&rscd=attachment%3B+filename%3DPrivileges_2.6.0.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-17T18%3A03%3A40Z&ske=2026-09-17T19%3A04%3A12Z&sks=b&skv=2018-11-09&sig=F5qpjgOxdoON90ept6u2%2Br3Ck3siONg5PyVfBHJrPYU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTY3MTQ3OSwibmJmIjoxNzg5NjY5Njc5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.BzkPPq1vhsdJ_5FM5wOdgSpjO_eVpRPfdro8vMo9yNo&response-content-disposition=attachment%3B%20filename%3DPrivileges_2.6.0.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "7R5ZEU67FQ",
+    "label": "privileges2",
+    "name": "Privileges",
+    "timeStamp": "2026-09-17T18:27:59Z",
+    "type": "pkg"
   }
 ]
