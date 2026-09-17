@@ -142,5 +142,17 @@
     "name": "Devin",
     "timeStamp": "2026-09-15T18:14:33Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.10.31",
+    "blockingProcesses": [],
+    "downloadURL": "https://windsurf-stable.codeiumdata.com/darwin-arm64-dmg/stable/b98cc43128712ba73c60cca73876f58a710aaa27/Devin-darwin-arm64-3.10.31.dmg",
+    "downloadURLi386": "https://windsurf-stable.codeiumdata.com/darwin-x64-dmg/stable/b98cc43128712ba73c60cca73876f58a710aaa27/Devin-darwin-x64-3.10.31.dmg",
+    "expectedTeamID": "83Z2LHX6XW",
+    "label": "devin",
+    "name": "Devin",
+    "timeStamp": "2026-09-17T06:19:40Z",
+    "type": "dmg"
   }
 ]

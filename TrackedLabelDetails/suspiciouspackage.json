@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "4.7",
+    "appNewVersion": "4.8",
     "blockingProcesses": [],
     "downloadURL": "https://mothersruin.com/software/downloads/SuspiciousPackage.dmg",
     "expectedTeamID": "936EB786NH",
     "label": "suspiciouspackage",
     "name": "Suspicious Package",
-    "timeStamp": "2026-08-05T18:56:01Z",
+    "timeStamp": "2026-09-17T06:35:25Z",
     "type": "dmg"
   }
 ]

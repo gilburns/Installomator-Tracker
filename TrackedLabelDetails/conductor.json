@@ -322,5 +322,17 @@
     "name": "Conductor",
     "timeStamp": "2026-09-10T06:16:32Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.86.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.crabnebula.app/asset/01M2PBHVHE6X87DMCVJ4VQD1PX?from=%7B%22orgSlug%22%3A%22melty%22%2C%22appSlug%22%3A%22conductor%22%2C%22publicPlatform%22%3A%22dmg-aarch64%22%7D",
+    "downloadURLi386": "https://cdn.crabnebula.app/asset/01M2PBJ8D83CCQFHNVSWK0M4SC?from=%7B%22orgSlug%22%3A%22melty%22%2C%22appSlug%22%3A%22conductor%22%2C%22publicPlatform%22%3A%22dmg-x86_64%22%7D",
+    "expectedTeamID": "27XN666UJ7",
+    "label": "conductor",
+    "name": "Conductor",
+    "timeStamp": "2026-09-17T06:18:27Z",
+    "type": "dmg"
   }
 ]
