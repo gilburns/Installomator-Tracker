@@ -46,5 +46,17 @@
     "name": "RubyMine",
     "timeStamp": "2026-09-03T18:23:04Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.2.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-cdn.jetbrains.com/ruby/RubyMine-2026.2.3-aarch64.dmg?Signature=UhUm0lBit1K8dBAzEk7QPRyGTlvq68~FwMlSL8fL0QtziGwbyYb8j4palSwk9nophGlfkwLCzCVH0pL6gopl9S88e5ABxA~rdZKFkzfTJ8Z5EhdIvVJcPeu-aDh6tVu4qiqY-IW1yb9-i9uuEbcrRbsDflmGXzAfqyM3e35qusuMcG6CUQeIML5L3LfpmUK2tdDKtiARruZLfG0mY8dnc4OorF~2ojrLNWSC5en-PRxT8v7ImU09BSFRwj-7997uR4qtpewMZfwgfNAjPfbFZPhdPvQFgffmSc17RNb8mFPKmO0yaF3ft8zKFgMWj-FTpNgdXl4P7Ft6d6pugF-g6g__&Key-Pair-Id=K2PI9GMSMWJY0&Expires=1789840960",
+    "downloadURLi386": "https://download-cdn.jetbrains.com/ruby/RubyMine-2026.2.3.dmg?Expires=1789842138&Signature=GgAyE85tmo0qFaWCATWX-wfjiHeejQtCzU34jlskIFDvlYPE97kOxl78HfvzI8MkL42QvcI1SR648ZA1q0NNdopTdfD~JO5RsL7jLSXzw9CrC66cbVTCK3DjvoT3~QenEe5nST2I0Jc5xj9mE81-4fNaVoEB73NdFj7EQl9MZoOg3objHDxtiwJ3mInO5EUrhuHhDQkC0tMgY0wny83nkhOwy3YYyGcqyc7ePZE95RIkkYoItldRkJoAXGWd88mSKCdu-odeA5APskqVcUB-QE9d41f7jL-sYCm1VoP3~eKrIaXRkIziqrs4b9wnfR~KFjffQi0phgBNrE9ZrknKpw__&Key-Pair-Id=K2PI9GMSMWJY0",
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainsrubymine",
+    "name": "RubyMine",
+    "timeStamp": "2026-09-18T18:22:16Z",
+    "type": "dmg"
   }
 ]

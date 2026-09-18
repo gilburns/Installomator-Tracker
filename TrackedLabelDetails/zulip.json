@@ -9,5 +9,16 @@
     "name": "Zulip",
     "timeStamp": "2026-07-03T16:09:34Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.13.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop-download.zulip.com/v5.13.1/Zulip-5.13.1-arm64.dmg",
+    "expectedTeamID": "66KHCWMEYB",
+    "label": "zulip",
+    "name": "Zulip",
+    "timeStamp": "2026-09-18T18:36:03Z",
+    "type": "dmg"
   }
 ]

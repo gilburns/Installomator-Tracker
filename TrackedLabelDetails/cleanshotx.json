@@ -20,5 +20,16 @@
     "name": "CleanShot X",
     "timeStamp": "2026-09-01T18:13:03Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.getcleanshot.com/v3/CleanShot-X-5.0.1.dmg",
+    "expectedTeamID": "AFJU4P8ZV4",
+    "label": "cleanshotx",
+    "name": "CleanShot X",
+    "timeStamp": "2026-09-18T18:12:52Z",
+    "type": "dmg"
   }
 ]
