@@ -31,5 +31,16 @@
     "name": "OmniFocus",
     "timeStamp": "2026-09-14T06:33:36Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.9.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.omnigroup.com/software/macOS/15/OmniFocus-4.9.1.dmg",
+    "expectedTeamID": "34YW5XSRB7",
+    "label": "omnifocus4",
+    "name": "OmniFocus",
+    "timeStamp": "2026-09-18T06:36:27Z",
+    "type": "dmg"
   }
 ]

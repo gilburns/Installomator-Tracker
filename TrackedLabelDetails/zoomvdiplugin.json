@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.0.12.27080",
+    "blockingProcesses": [
+      "ZoomVDI",
+      "zoom.us"
+    ],
+    "downloadURL": "https://cdn.zoom.us/prod/vdi/7.0.12.27080/ZoomVDI_7.0.12.universal.pkg",
+    "expectedTeamID": "BJ4HAAB9B3",
+    "label": "zoomvdiplugin",
+    "name": "ZoomVDI",
+    "timeStamp": "2026-09-18T06:47:00Z",
+    "type": "pkg"
+  }
+]

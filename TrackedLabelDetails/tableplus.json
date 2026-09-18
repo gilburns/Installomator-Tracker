@@ -119,5 +119,16 @@
     "name": "TablePlus",
     "timeStamp": "2026-09-14T18:30:22Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "802",
+    "blockingProcesses": [],
+    "downloadURL": "https://files.tableplus.com/macos/802/TablePlus.dmg",
+    "expectedTeamID": "3X57WP8E8V",
+    "label": "tableplus",
+    "name": "TablePlus",
+    "timeStamp": "2026-09-18T06:43:02Z",
+    "type": "dmg"
   }
 ]

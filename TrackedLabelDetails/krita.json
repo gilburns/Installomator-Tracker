@@ -20,5 +20,16 @@
     "name": "krita",
     "timeStamp": "2026-07-31T07:13:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.3.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://mirrors.ocf.berkeley.edu/kde/stable/krita/5.3.4/krita-5.3.4-signed.dmg",
+    "expectedTeamID": "DL93766A3G",
+    "label": "krita",
+    "name": "krita",
+    "timeStamp": "2026-09-18T06:29:04Z",
+    "type": "dmg"
   }
 ]
