@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.80.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.kutasoftware.com/retail/mac/IGE-Site-2.80.02.dmg",
+    "expectedTeamID": "2XHJ678JT7",
+    "label": "infinitegeometry",
+    "name": "Infinite Geometry",
+    "timeStamp": "2026-09-19T06:26:45Z",
+    "type": "dmg"
+  }
+]
