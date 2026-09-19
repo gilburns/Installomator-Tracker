@@ -22,5 +22,17 @@
     "name": "Zettlr",
     "timeStamp": "2026-07-26T18:47:48Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.8.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/115446081/65f502be-6ac4-410c-9907-23374d6aa91e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-19T19%3A29%3A11Z&rscd=attachment%3B+filename%3DZettlr-4.8.0-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-19T18%3A28%3A14Z&ske=2026-09-19T19%3A29%3A11Z&sks=b&skv=2018-11-09&sig=cbJN75QCGRRy9WMjiTR%2FPxzUHj1LBfMxk0oM6V2UOLQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTg0Njg4OCwibmJmIjoxNzg5ODQzMjg4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.oRjw3837N_H4C19tUgOcriij1nVBMkCBXR2txxS7ORE&response-content-disposition=attachment%3B%20filename%3DZettlr-4.8.0-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/115446081/7c0f0db2-fb57-4a81-94ae-b4f1090a9bb2?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-19T19%3A39%3A57Z&rscd=attachment%3B+filename%3DZettlr-4.8.0-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-19T18%3A39%3A34Z&ske=2026-09-19T19%3A39%3A57Z&sks=b&skv=2018-11-09&sig=F3l7ODj9ASWkdHHPXQhHHZG7tCXFauOcq%2BMBR%2F7ieOQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTg0Njg4OSwibmJmIjoxNzg5ODQzMjg5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ihP4kBRXBEvUS3--lgLiADCqmr4GOlPV7BHMaLX-I7A&response-content-disposition=attachment%3B%20filename%3DZettlr-4.8.0-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "QS52BN8W68",
+    "label": "zettlr",
+    "name": "Zettlr",
+    "timeStamp": "2026-09-19T18:41:28Z",
+    "type": "dmg"
   }
 ]

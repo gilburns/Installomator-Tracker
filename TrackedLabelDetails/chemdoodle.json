@@ -22,5 +22,17 @@
     "name": "ChemDoodle",
     "timeStamp": "2026-09-16T06:17:36Z",
     "type": "dmg"
+  },
+  {
+    "appName": "ChemDoodle/ChemDoodle.app",
+    "appNewVersion": "12.12.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.ichemlabs.com/downloads/ChemDoodle-macos-aarch64-12.12.1.dmg",
+    "downloadURLi386": "https://www.ichemlabs.com/downloads/ChemDoodle-macos-x64-12.12.1.dmg",
+    "expectedTeamID": "9XP397UW95",
+    "label": "chemdoodle",
+    "name": "ChemDoodle",
+    "timeStamp": "2026-09-19T18:13:19Z",
+    "type": "dmg"
   }
 ]

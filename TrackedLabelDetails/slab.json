@@ -10,5 +10,17 @@
     "name": "Slab",
     "timeStamp": "2026-07-03T16:04:11Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.8.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/383895324/e191d072-2bcb-4489-8130-4e5ce37b2c9d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-19T19%3A27%3A49Z&rscd=attachment%3B+filename%3DSlab-1.8.0-darwin-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-19T18%3A27%3A32Z&ske=2026-09-19T19%3A27%3A49Z&sks=b&skv=2018-11-09&sig=gwWDAoFGZTvZ3ig5ohguTNey4H5p%2F0F5kGZKLp%2FTANo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTg0NjU3NiwibmJmIjoxNzg5ODQyOTc2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.-Or1sLSgXm1LQORHWvkjVg5yWfH9rN-6qY2ktiOeRYw&response-content-disposition=attachment%3B%20filename%3DSlab-1.8.0-darwin-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/383895324/7418dfce-673b-4770-87df-971cf1972df3?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-19T19%3A20%3A42Z&rscd=attachment%3B+filename%3DSlab-1.8.0-darwin-x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-19T18%3A20%3A23Z&ske=2026-09-19T19%3A20%3A42Z&sks=b&skv=2018-11-09&sig=qDZpq4kgvxiSowF2seLayPjxVFFUL3BAaD5j0Xcb8%2FI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTg0NjU3NywibmJmIjoxNzg5ODQyOTc3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.vA5GwwyqnYt3y2N8ILFy8fPWtNeuGmDf0f_PeyKGNUc&response-content-disposition=attachment%3B%20filename%3DSlab-1.8.0-darwin-x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "Q67SW996Z5",
+    "label": "slab",
+    "name": "Slab",
+    "timeStamp": "2026-09-19T18:36:16Z",
+    "type": "dmg"
   }
 ]

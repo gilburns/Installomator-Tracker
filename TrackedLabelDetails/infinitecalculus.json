@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.80.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.kutasoftware.com/retail/mac/ICA-Site-2.80.02.dmg",
+    "expectedTeamID": "2XHJ678JT7",
+    "label": "infinitecalculus",
+    "name": "Infinite Calculus",
+    "timeStamp": "2026-09-19T18:22:26Z",
+    "type": "dmg"
+  }
+]
