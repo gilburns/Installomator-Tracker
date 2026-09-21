@@ -53,5 +53,16 @@
     "name": "Proxyman",
     "timeStamp": "2026-09-07T18:25:53Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/142885098/2b1c8bba-ef04-456e-b16f-ea0b16d8be6c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-21T19%3A24%3A15Z&rscd=attachment%3B+filename%3DProxyman_26.0.0.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-21T18%3A24%3A11Z&ske=2026-09-21T19%3A24%3A15Z&sks=b&skv=2018-11-09&sig=dbeav2pKs5p4vIqkNik7yHYJZ%2BnIK8KkzSzT5pPUDck%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDAxNzEyMiwibmJmIjoxNzkwMDE1MzIyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.nw_SV0yyKudApxQh8ni0SZQy5LlBXj3OhAqLHHDpMx8&response-content-disposition=attachment%3B%20filename%3DProxyman_26.0.0.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "3X57WP8E8V",
+    "label": "proxyman",
+    "name": "Proxyman",
+    "timeStamp": "2026-09-21T18:28:42Z",
+    "type": "dmg"
   }
 ]

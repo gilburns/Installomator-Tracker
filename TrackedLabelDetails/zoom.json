@@ -31,5 +31,16 @@
     "name": "zoom.us",
     "timeStamp": "2026-09-18T18:35:58Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.2.1.88329",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.zoom.us/prod/7.2.1.88329/ZoomInstallerIT.pkg",
+    "expectedTeamID": "BJ4HAAB9B3",
+    "label": "zoom",
+    "name": "zoom.us",
+    "timeStamp": "2026-09-21T18:35:21Z",
+    "type": "pkg"
   }
 ]
