@@ -34,5 +34,17 @@
     "name": "FFmpeg",
     "timeStamp": "2026-08-19T06:17:26Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://ffmpeg.martin-riedl.de/download/macos/arm64/1789931890_9.0.2/ffmpeg.pkg",
+    "downloadURLi386": "https://ffmpeg.martin-riedl.de/download/macos/amd64/1789931006_9.0.2/ffmpeg.pkg",
+    "expectedTeamID": "KU3N25YGLU",
+    "label": "ffmpegmartinriedl",
+    "name": "FFmpeg",
+    "timeStamp": "2026-09-21T06:25:26Z",
+    "type": "pkg"
   }
 ]
