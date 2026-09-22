@@ -226,5 +226,24 @@
     "name": "MicrosoftOffice365",
     "timeStamp": "2026-09-19T06:35:16Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "16.113.26092012",
+    "blockingProcesses": [
+      "Microsoft AutoUpdate",
+      "Microsoft Word",
+      "Microsoft PowerPoint",
+      "Microsoft Excel",
+      "Microsoft OneNote",
+      "Microsoft Outlook",
+      "OneDrive"
+    ],
+    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.113.26092012_Installer.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftoffice365",
+    "name": "MicrosoftOffice365",
+    "timeStamp": "2026-09-22T18:28:13Z",
+    "type": "pkg"
   }
 ]

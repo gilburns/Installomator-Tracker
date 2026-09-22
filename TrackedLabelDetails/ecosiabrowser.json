@@ -141,5 +141,16 @@
     "name": "Ecosia Browser",
     "timeStamp": "2026-09-16T18:16:35Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "153.1.8010.14",
+    "blockingProcesses": [],
+    "downloadURL": "https://df02732b5e02e1517101f7db3543d01b.eu.r2.cloudflarestorage.com/browser-app-cms-repo-eco/144548e4-670e-46ef-be30-8d14ad305f19/build/153.1.8010.14/EcosiaBrowser-153.1.8010.14_uni.dmg?X-Amz-Expires=86400&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=bd9f723203c25e6c74c81a9c651b8e34%2F20260922%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260922T181817Z&X-Amz-SignedHeaders=host&X-Amz-Signature=66fb17015d0dd3005a8aec5a36e1628e337c7553fa2cd39907ea90f3bbe0d991",
+    "expectedTeamID": "33YMRSYD2L",
+    "label": "ecosiabrowser",
+    "name": "Ecosia Browser",
+    "timeStamp": "2026-09-22T18:18:17Z",
+    "type": "dmg"
   }
 ]

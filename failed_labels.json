@@ -570,6 +570,11 @@
       "lastSeen": "2026-09-20T06:25:29Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "kimplusclientmodul": {
+      "firstSeen": "2026-09-22T18:24:42Z",
+      "lastSeen": "2026-09-22T18:24:42Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "klokki": {
       "firstSeen": "2026-09-20T06:26:01Z",
       "lastSeen": "2026-09-20T06:26:01Z",

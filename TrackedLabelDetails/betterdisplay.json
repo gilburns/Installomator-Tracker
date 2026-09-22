@@ -42,5 +42,16 @@
     "name": "BetterDisplay",
     "timeStamp": "2026-09-10T18:10:52Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.0.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/420628737/f8ef111c-d48a-428d-9d6d-3b0e95f6cf27?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-22T19%3A06%3A52Z&rscd=attachment%3B+filename%3DBetterDisplay-v5.0.6.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-22T18%3A06%3A13Z&ske=2026-09-22T19%3A06%3A52Z&sks=b&skv=2018-11-09&sig=n2IF2CmpwFX190q9MaQXfE1QdDXA2t09FK1IGbLyH%2Bs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDEwMjQ5MSwibmJmIjoxNzkwMTAwNjkxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.MihYRsKh58GY83o5OHF1dFxYKCwqBBnaGXxUu-kksVc&response-content-disposition=attachment%3B%20filename%3DBetterDisplay-v5.0.6.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "299YSU96J7",
+    "label": "betterdisplay",
+    "name": "BetterDisplay",
+    "timeStamp": "2026-09-22T18:11:31Z",
+    "type": "dmg"
   }
 ]
