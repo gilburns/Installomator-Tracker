@@ -262,5 +262,17 @@
     "name": "Zed",
     "timeStamp": "2026-09-17T06:38:37Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.21.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/340547520/fc1dabf1-a892-4309-aca2-0431254577c0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-23T19%3A13%3A24Z&rscd=attachment%3B+filename%3DZed-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-23T18%3A13%3A23Z&ske=2026-09-23T19%3A13%3A24Z&sks=b&skv=2018-11-09&sig=gbdq0icGmNi4b0fPownQY8aJ9mHA8sr6wzObM%2FyD%2BoA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDE5MjMzMCwibmJmIjoxNzkwMTg4NzMwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.xzz7Ne0LKUCMOs5Ns1DXbbEE8PGfXpNZQh5PauO7xKA&response-content-disposition=attachment%3B%20filename%3DZed-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/340547520/8aeee51e-cac4-4ad1-8153-f7357149caab?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-23T19%3A19%3A21Z&rscd=attachment%3B+filename%3DZed-x86_64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-23T18%3A18%3A36Z&ske=2026-09-23T19%3A19%3A21Z&sks=b&skv=2018-11-09&sig=ueaJzgOb0ZQK1wa84Tpj7x4MFs3xEBfkB2trTpiVVco%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDE5MjMzMiwibmJmIjoxNzkwMTg4NzMyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.AC2OTvw6B08dKYAakrbgzrY3IE-5i42zkPqySBXUpzo&response-content-disposition=attachment%3B%20filename%3DZed-x86_64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "MQ55VZLNZQ",
+    "label": "zed",
+    "name": "Zed",
+    "timeStamp": "2026-09-23T18:38:50Z",
+    "type": "dmg"
   }
 ]

@@ -20,5 +20,16 @@
     "name": "FontBase",
     "timeStamp": "2026-07-20T18:47:00Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.6.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://releases.fontba.se/mac/FontBase-2026.6.0.dmg",
+    "expectedTeamID": "457B89RFCZ",
+    "label": "fontbase",
+    "name": "FontBase",
+    "timeStamp": "2026-09-23T18:20:31Z",
+    "type": "dmg"
   }
 ]

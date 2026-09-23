@@ -20,5 +20,16 @@
     "name": "Tabby",
     "timeStamp": "2026-07-23T07:18:58Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.0.236",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/77213120/119c4340-395a-489d-822d-c61b88d38b0f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-23T19%3A30%3A35Z&rscd=attachment%3B+filename%3Dtabby-1.0.236-macos-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-23T18%3A30%3A24Z&ske=2026-09-23T19%3A30%3A35Z&sks=b&skv=2018-11-09&sig=23VVpCHU7k6r7P0g7hSM0S6%2Buz9WNFsep4QK0uAzqOQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDE5MjEyNywibmJmIjoxNzkwMTg4NTI3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ._b8sVKU6PWuesbfPkTEj-nHQe5B_z_qkkh5Wsd19wEQ&response-content-disposition=attachment%3B%20filename%3Dtabby-1.0.236-macos-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "V4JSMC46SY",
+    "label": "tabby",
+    "name": "Tabby",
+    "timeStamp": "2026-09-23T18:35:27Z",
+    "type": "dmg"
   }
 ]

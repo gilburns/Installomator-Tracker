@@ -53,5 +53,16 @@
     "name": "Anki",
     "timeStamp": "2026-09-16T06:14:20Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.09.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/ankitects/anki/releases/download/26.09.3/anki-launcher-26.09.3-mac.dmg",
+    "expectedTeamID": "7ZM8SLJM4P",
+    "label": "anki",
+    "name": "Anki",
+    "timeStamp": "2026-09-23T18:10:52Z",
+    "type": "dmg"
   }
 ]

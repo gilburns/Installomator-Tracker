@@ -42,5 +42,16 @@
     "name": "A Better Finder Rename 12",
     "timeStamp": "2026-09-10T18:08:54Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "12.35",
+    "blockingProcesses": [],
+    "downloadURL": "https://d3k6s0oeufjjjn.cloudfront.net/download0_664ee4b43c05e/ABFRX12.dmg",
+    "expectedTeamID": "7Y9KW4ND8W",
+    "label": "abetterfinderrename12",
+    "name": "A Better Finder Rename 12",
+    "timeStamp": "2026-09-23T18:09:59Z",
+    "type": "dmg"
   }
 ]

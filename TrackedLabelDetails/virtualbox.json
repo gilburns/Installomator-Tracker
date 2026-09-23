@@ -53,5 +53,16 @@
     "name": "VirtualBox",
     "timeStamp": "2026-09-16T18:34:53Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.2.20",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.virtualbox.org/virtualbox/7.2.20/VirtualBox-7.2.20-175154-OSX.dmg",
+    "expectedTeamID": "VB5E2TV963",
+    "label": "virtualbox",
+    "name": "VirtualBox",
+    "timeStamp": "2026-09-23T18:37:23Z",
+    "type": "pkgInDmg"
   }
 ]
