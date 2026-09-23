@@ -163,5 +163,16 @@
     "name": "Notion",
     "timeStamp": "2026-09-22T06:30:14Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.35.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop-release.notion-static.com/Notion-7.35.1-universal.dmg",
+    "expectedTeamID": "LBQJ96FQ8D",
+    "label": "notion",
+    "name": "Notion",
+    "timeStamp": "2026-09-23T06:31:36Z",
+    "type": "dmg"
   }
 ]

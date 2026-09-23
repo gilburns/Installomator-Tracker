@@ -317,5 +317,16 @@
     "name": "Granola",
     "timeStamp": "2026-09-22T18:20:58Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.580.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://dr2v7l5emb758.cloudfront.net/7.580.1/Granola-7.580.1-mac-universal.dmg",
+    "expectedTeamID": "QZ7DHHLN25",
+    "label": "granola",
+    "name": "Granola",
+    "timeStamp": "2026-09-23T06:23:14Z",
+    "type": "dmg"
   }
 ]

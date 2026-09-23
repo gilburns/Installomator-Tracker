@@ -22,5 +22,17 @@
     "name": "Tableau Prep Builder",
     "timeStamp": "2026-08-27T21:34:16Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.2.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.tableau.com/esdalt/tableau_prep/2026.2.3/TableauPrep-2026-2-3-arm64.dmg",
+    "downloadURLi386": "https://downloads.tableau.com/esdalt/tableau_prep/2026.2.3/TableauPrep-2026-2-3.dmg",
+    "expectedTeamID": "QJ4XPRK37C",
+    "label": "tableauprepbuilder",
+    "name": "Tableau Prep Builder",
+    "timeStamp": "2026-09-23T06:36:51Z",
+    "type": "pkgInDmg"
   }
 ]
