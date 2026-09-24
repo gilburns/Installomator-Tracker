@@ -20,5 +20,16 @@
     "name": "IBM Aspera",
     "timeStamp": "2026-07-21T06:54:14Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.1.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.ibmaspera.com/downloads/desktop/macos/1.1.1/stable/universal/ibm-aspera-desktop-1.1.1.pkg",
+    "expectedTeamID": "PETKK2G752",
+    "label": "aspera",
+    "name": "IBM Aspera",
+    "timeStamp": "2026-09-24T06:15:42Z",
+    "type": "pkg"
   }
 ]

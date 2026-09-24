@@ -9,5 +9,16 @@
     "name": "mkuser",
     "timeStamp": "2026-07-04T18:43:17Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.9.11-1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/426721502/15725b95-9ac3-4a5d-a390-31ebc80c4563?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-24T07%3A27%3A30Z&rscd=attachment%3B+filename%3Dmkuser-2026.9.11-1.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-24T06%3A27%3A21Z&ske=2026-09-24T07%3A27%3A30Z&sks=b&skv=2018-11-09&sig=TB5XPZKY5AIKEFwygSrESvAlkv9BeppT7FdGL4ZzsDk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDIzMjA3OSwibmJmIjoxNzkwMjMxNzc5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.k3YE_jjWBQGbk29ZXdR4k5PRQ-u-nAc57WYWSpeuMJg&response-content-disposition=attachment%3B%20filename%3Dmkuser-2026.9.11-1.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "YRW6NUGA63",
+    "label": "mkuser",
+    "name": "mkuser",
+    "timeStamp": "2026-09-24T06:36:20Z",
+    "type": "pkg"
   }
 ]

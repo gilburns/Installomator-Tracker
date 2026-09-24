@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.51.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://storage.googleapis.com/downloads-camunda-cloud-release/camunda-modeler/5.51.1/camunda-modeler-5.51.1-mac-arm64.dmg?GoogleAccessId=download-center-reader%40camunda-public.iam.gserviceaccount.com&Expires=1790231561&Signature=fLxRERkrpRqoz2ugaWBneIHYhK8%2FucYw4H4AbAY7oNnvIVKYUzDXr5Tk8L0hVNX9Vy6i1Caye%2FKfM9d4UX%2FLSBHxBOYIPRZi162CjIxzgrqQjhDRADHPnqgiUPB%2BgtTEHUVtNNbz2B5%2FtM%2B6QVhajlrAJaJXvhQmrXqJYIZBI15lclDEmQfv1UzeF%2FLz5GgjkqU2265GOPvQMf6OhBovF0vidDnWQqr6CF7ozyFlYMH%2F2WFsdccIQzrUOR9HmojrWk7ZuiUbT7JzLaIY4YLj5ZNmedOoIzlZFUybFc8GYVD05xgVE5ZKJSOZl8THGEJx7Y0Rc4tILu7mVWdXIEAZRg%3D%3D&response-content-disposition=attachment%3B%20filename%3D%22camunda-modeler-5.51.1-mac-arm64.dmg%22",
+    "downloadURLi386": "https://storage.googleapis.com/downloads-camunda-cloud-release/camunda-modeler/5.51.1/camunda-modeler-5.51.1-mac-x64.dmg?GoogleAccessId=download-center-reader%40camunda-public.iam.gserviceaccount.com&Expires=1790231562&Signature=XZJlRjmV5ccidobKIBh8UsTX2TgfLD4YSG2Lk4Q%2F8voRAlIVdRtoyiOUTHwvui1x1u32xT9XyKSl7YseUcFKQQrinszR6NNiY8IrmENQCR5YglK71y2FkNFw%2FCoUYa47QXIcgd3J8jsizuV7yHRvA9Ki4aOUcDtznt9msw70Qh2oJiMXgbhs6ZP19I%2BveyC5yTovMDXycCXvsh4dv2lBqNfvlc7q6VTwxWYDgZmj05e8fhKOZ7J9lsUjjuljCmutQJ162PmbFK4Uo8i6hY2Zrs%2BQXGdytn2hFkzTuPg8JAxr7gKsvV027t%2F8qy8iEZb7oTGmJg6BnHDRuRKNPaU9cw%3D%3D&response-content-disposition=attachment%3B%20filename%3D%22camunda-modeler-5.51.1-mac-x64.dmg%22",
+    "expectedTeamID": "3JVGD57JQZ",
+    "label": "camunda",
+    "name": "Camunda Modeler",
+    "timeStamp": "2026-09-24T06:17:41Z",
+    "type": "dmg"
+  }
+]

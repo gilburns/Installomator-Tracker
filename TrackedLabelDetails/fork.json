@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.70.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.fork.dev/mac/Fork-2.70.2.dmg",
+    "expectedTeamID": "Q6M7LEEA66",
+    "label": "fork",
+    "name": "Fork",
+    "timeStamp": "2026-09-24T06:24:24Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.4.0-129",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://pan-gp-client.s3.amazonaws.com/6.4.0-129/GlobalProtect.pkg",
+    "expectedTeamID": "PXPZ95SK77",
+    "label": "globalprotect64",
+    "name": "GlobalProtect",
+    "timeStamp": "2026-09-24T06:25:05Z",
+    "type": "pkg"
+  }
+]
