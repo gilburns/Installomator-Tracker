@@ -31,5 +31,16 @@
     "name": "Carbon Copy Cloner",
     "timeStamp": "2026-09-14T06:18:41Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.2.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-7.2.1.8411.zip",
+    "expectedTeamID": "L4F2DED5Q7",
+    "label": "carboncopycloner",
+    "name": "Carbon Copy Cloner",
+    "timeStamp": "2026-09-24T18:12:50Z",
+    "type": "zip"
   }
 ]

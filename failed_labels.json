@@ -240,6 +240,11 @@
       "lastSeen": "2026-09-24T06:17:25Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-09-24T18:12:33Z",
+      "lastSeen": "2026-09-24T18:12:33Z",
+      "reason": "invalid JSON output"
+    },
     "cardpresso": {
       "firstSeen": "2026-09-24T06:17:47Z",
       "lastSeen": "2026-09-24T06:17:47Z",
@@ -254,6 +259,16 @@
       "firstSeen": "2026-09-24T06:19:12Z",
       "lastSeen": "2026-09-24T06:19:12Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "chronoagent": {
+      "firstSeen": "2026-09-24T18:15:51Z",
+      "lastSeen": "2026-09-24T18:15:51Z",
+      "reason": "resolve failed (exit 142)"
+    },
+    "chronosync": {
+      "firstSeen": "2026-09-24T18:16:51Z",
+      "lastSeen": "2026-09-24T18:16:51Z",
+      "reason": "resolve failed (exit 142)"
     },
     "cisdemdocumentreader": {
       "firstSeen": "2026-09-24T06:19:21Z",
@@ -710,6 +725,11 @@
       "lastSeen": "2026-09-24T06:36:13Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "mkuser": {
+      "firstSeen": "2026-09-24T18:28:35Z",
+      "lastSeen": "2026-09-24T18:28:35Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "mmhmm": {
       "firstSeen": "2026-09-24T06:36:20Z",
       "lastSeen": "2026-09-24T06:36:20Z",
@@ -718,6 +738,11 @@
     "mmhmm-studio": {
       "firstSeen": "2026-09-24T06:36:20Z",
       "lastSeen": "2026-09-24T06:36:20Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "mobikinassistantforandroid": {
+      "firstSeen": "2026-09-24T18:28:37Z",
+      "lastSeen": "2026-09-24T18:28:37Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mobirise": {
@@ -1213,6 +1238,11 @@
     "vanilla": {
       "firstSeen": "2026-09-24T06:46:31Z",
       "lastSeen": "2026-09-24T06:46:31Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "veracrypt-fuse-t": {
+      "firstSeen": "2026-09-24T18:36:03Z",
+      "lastSeen": "2026-09-24T18:36:03Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "vernierspectralanalysis": {

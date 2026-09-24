@@ -9,5 +9,16 @@
     "name": "Keka",
     "timeStamp": "2026-07-03T15:50:49Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.6.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/73220421/494c2cf0-bc65-4979-9bb0-5f45b2b68652?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-24T19%3A20%3A19Z&rscd=attachment%3B+filename%3DKeka-1.6.8.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-24T18%3A20%3A00Z&ske=2026-09-24T19%3A20%3A19Z&sks=b&skv=2018-11-09&sig=j%2FFpJIOc%2B5RhrlidTZeeEcJBGRddc9Ygp0omb1nQH%2BM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDI3NjA3OCwibmJmIjoxNzkwMjc0Mjc4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.0TebCrZwvvZ3xelFNQtS6LbWM0CGcx7RdeH2dKZiGrg&response-content-disposition=attachment%3B%20filename%3DKeka-1.6.8.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "4FG648TM2A",
+    "label": "keka",
+    "name": "Keka",
+    "timeStamp": "2026-09-24T18:24:38Z",
+    "type": "dmg"
   }
 ]

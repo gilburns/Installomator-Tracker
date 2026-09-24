@@ -20,5 +20,16 @@
     "name": "Processing",
     "timeStamp": "2026-07-20T07:22:56Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.5.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/844382769/e04855ea-ffee-421f-9fa9-521b26ea17c8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-24T19%3A26%3A57Z&rscd=attachment%3B+filename%3Dprocessing-4.5.7-macos-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-24T18%3A26%3A43Z&ske=2026-09-24T19%3A26%3A57Z&sks=b&skv=2018-11-09&sig=ilcKR%2FIgLLUKgnFzlNZKMER%2Bt9NHPNGDLVOJV6ci5rI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDI3ODI3NSwibmJmIjoxNzkwMjc0Njc1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.CoelIpbn5OBHDMvfV1gCQ-f3QX-JcV-leq4Lk8faZIk&response-content-disposition=attachment%3B%20filename%3Dprocessing-4.5.7-macos-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "6297K33652",
+    "label": "processing4",
+    "name": "Processing",
+    "timeStamp": "2026-09-24T18:31:15Z",
+    "type": "dmg"
   }
 ]

@@ -185,5 +185,16 @@
     "name": "Raycast",
     "timeStamp": "2026-09-14T18:27:55Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://x-r2.raycast-releases.com/Raycast_2.5.1.0_09c79271d6_arm64.dmg",
+    "expectedTeamID": "SY64MV22J9",
+    "label": "raycast",
+    "name": "Raycast",
+    "timeStamp": "2026-09-24T18:31:42Z",
+    "type": "dmg"
   }
 ]
