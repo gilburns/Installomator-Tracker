@@ -540,6 +540,11 @@
       "lastSeen": "2026-09-24T06:27:44Z",
       "reason": "resolve failed (exit 142)"
     },
+    "installomatormate": {
+      "firstSeen": "2026-09-25T06:25:43Z",
+      "lastSeen": "2026-09-25T06:25:43Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "island": {
       "firstSeen": "2026-09-24T06:28:03Z",
       "lastSeen": "2026-09-24T06:28:03Z",
@@ -629,6 +634,11 @@
       "firstSeen": "2026-09-24T06:33:40Z",
       "lastSeen": "2026-09-24T06:33:40Z",
       "reason": "invalid JSON output"
+    },
+    "mamp": {
+      "firstSeen": "2026-09-25T06:30:10Z",
+      "lastSeen": "2026-09-25T06:30:10Z",
+      "reason": "resolve failed (exit 142)"
     },
     "meistertask": {
       "firstSeen": "2026-09-24T06:35:21Z",
