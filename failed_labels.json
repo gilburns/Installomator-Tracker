@@ -215,6 +215,11 @@
       "lastSeen": "2026-09-24T06:16:49Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "blender": {
+      "firstSeen": "2026-09-25T18:12:07Z",
+      "lastSeen": "2026-09-25T18:12:07Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "boxsync": {
       "firstSeen": "2026-09-24T06:17:09Z",
       "lastSeen": "2026-09-24T06:17:09Z",
@@ -849,6 +854,11 @@
       "firstSeen": "2026-09-24T06:38:05Z",
       "lastSeen": "2026-09-24T06:38:05Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "opera": {
+      "firstSeen": "2026-09-25T18:28:45Z",
+      "lastSeen": "2026-09-25T18:28:45Z",
+      "reason": "resolve failed (exit 142)"
     },
     "origin": {
       "firstSeen": "2026-09-24T06:38:11Z",
