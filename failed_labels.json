@@ -250,6 +250,11 @@
       "lastSeen": "2026-09-24T18:12:33Z",
       "reason": "invalid JSON output"
     },
+    "camunda": {
+      "firstSeen": "2026-09-26T06:13:58Z",
+      "lastSeen": "2026-09-26T06:13:58Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-09-24T06:17:47Z",
       "lastSeen": "2026-09-24T06:17:47Z",
@@ -379,6 +384,11 @@
       "firstSeen": "2026-09-24T06:22:45Z",
       "lastSeen": "2026-09-24T06:22:45Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "elan": {
+      "firstSeen": "2026-09-26T06:18:44Z",
+      "lastSeen": "2026-09-26T06:18:44Z",
+      "reason": "resolve failed (exit 142)"
     },
     "enpass": {
       "firstSeen": "2026-09-24T06:22:56Z",

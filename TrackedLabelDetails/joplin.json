@@ -43,5 +43,16 @@
     "name": "Joplin",
     "timeStamp": "2026-09-11T18:19:34Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.7.21",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/79162682/59d67731-d3b6-474d-95aa-93b175cc15e7?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-26T07%3A02%3A38Z&rscd=attachment%3B+filename%3DJoplin-3.7.21-arm64.DMG&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-26T06%3A02%3A22Z&ske=2026-09-26T07%3A02%3A38Z&sks=b&skv=2018-11-09&sig=dFcg22XqmAAU0fB1aVe9LrH3Jv289nZ6co5z%2BGhD8xM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDQwNzM4MSwibmJmIjoxNzkwNDAzNzgxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.EyAVzhAK0Hf-WtUdFgh6lSrsFaBcMv4YSBv7ocYYUT0&response-content-disposition=attachment%3B%20filename%3DJoplin-3.7.21-arm64.DMG&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "A9BXAFS6CT",
+    "label": "joplin",
+    "name": "Joplin",
+    "timeStamp": "2026-09-26T06:23:01Z",
+    "type": "dmg"
   }
 ]

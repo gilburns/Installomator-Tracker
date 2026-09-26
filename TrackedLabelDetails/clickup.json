@@ -1,14 +1,14 @@
 [
   {
     "appName": "",
-    "appNewVersion": "Binary file (standard input) matches",
+    "appNewVersion": "3.5.343",
     "blockingProcesses": [],
     "downloadURL": "https://desktop.clickup.com/mac/dmg/arm64",
     "downloadURLi386": "https://desktop.clickup.com/mac",
     "expectedTeamID": "5RJWFAUGXQ",
     "label": "clickup",
     "name": "ClickUp",
-    "timeStamp": "2026-09-25T18:13:50Z",
+    "timeStamp": "2026-09-26T06:14:52Z",
     "type": "dmg"
   }
 ]
