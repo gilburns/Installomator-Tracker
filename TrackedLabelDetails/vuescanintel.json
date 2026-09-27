@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "9.8.58",
+    "appNewVersion": "9.8.59",
     "blockingProcesses": [],
     "downloadURL": "https://files.hamrick.com/vuex6498.dmg",
     "expectedTeamID": "5D5BXT9KP5",
     "label": "vuescanintel",
     "name": "VueScan",
-    "timeStamp": "2026-09-12T18:33:08Z",
+    "timeStamp": "2026-09-27T06:35:32Z",
     "type": "dmg"
   }
 ]
