@@ -9,5 +9,16 @@
     "name": "displaynote",
     "timeStamp": "2026-07-03T15:44:29Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.58.0.59411",
+    "blockingProcesses": [],
+    "downloadURL": "https://releases-static.displaynote.com/a4d376fd%2Ff40a%2F494f%2Fbfb7%2F0d3148d3e71b%2FDisplaynoteMontageClient-2.58.0.59411.pkg?response-content-disposition=attachment%3B%20filename=displaynote-mac-2.58.0.59411-released.pkg%3B%20size=297803507",
+    "expectedTeamID": "Q3ML87W6WF",
+    "label": "displaynote",
+    "name": "displaynote",
+    "timeStamp": "2026-09-28T18:15:57Z",
+    "type": "pkg"
   }
 ]
