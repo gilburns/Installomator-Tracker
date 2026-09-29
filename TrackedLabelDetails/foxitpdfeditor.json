@@ -63,5 +63,18 @@
     "name": "Foxit PDF Editor",
     "timeStamp": "2026-09-23T06:22:18Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.2.1.72098",
+    "blockingProcesses": [
+      "Foxit PDF Editor"
+    ],
+    "downloadURL": "https://cdn77.foxitsoftware.com/pub/foxit/editor/desktop/mac/2026.2.1/FoxitPDFEditor202621.L10N.Setup.pkg?secure=3XfIL4rnJKvbXzI6ci8ixw==,1790727552",
+    "expectedTeamID": "8GN47HTP75",
+    "label": "foxitpdfeditor",
+    "name": "Foxit PDF Editor",
+    "timeStamp": "2026-09-29T18:19:12Z",
+    "type": "pkg"
   }
 ]

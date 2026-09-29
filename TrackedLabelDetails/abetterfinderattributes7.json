@@ -42,5 +42,16 @@
     "name": "A Better Finder Attributes 7",
     "timeStamp": "2026-09-16T18:08:47Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.50",
+    "blockingProcesses": [],
+    "downloadURL": "https://d3k6s0oeufjjjn.cloudfront.net/download0_0e288ed41b8f7/ABFAX.dmg",
+    "expectedTeamID": "7Y9KW4ND8W",
+    "label": "abetterfinderattributes7",
+    "name": "A Better Finder Attributes 7",
+    "timeStamp": "2026-09-29T18:09:36Z",
+    "type": "dmg"
   }
 ]

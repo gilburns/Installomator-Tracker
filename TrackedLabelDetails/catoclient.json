@@ -12,5 +12,16 @@
     "name": "CatoClient",
     "timeStamp": "2026-07-03T15:40:35Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.1.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://clients.catonetworks.com/macos/6.1.1.13719/CatoClient.pkg",
+    "expectedTeamID": "CKGSB8CH43",
+    "label": "catoclient",
+    "name": "CatoClient",
+    "timeStamp": "2026-09-29T18:12:43Z",
+    "type": "pkg"
   }
 ]

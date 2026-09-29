@@ -9,5 +9,16 @@
     "name": "ipvision Connect",
     "timeStamp": "2026-07-03T15:49:25Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "<a href=\"dstny.dk.5.10.7.9419.osx.release.dmg\">dstny.dk.5.10.7.9419.osx.release.dmg</a>      43M  ",
+    "blockingProcesses": [],
+    "downloadURL": "https://my.ipvision.dk/connect/dstny_dk_5_10_7_9419_osx_release.dmg",
+    "expectedTeamID": "5RLWBLKGL2",
+    "label": "ipvisionconnect",
+    "name": "ipvision Connect",
+    "timeStamp": "2026-09-29T18:21:26Z",
+    "type": "dmg"
   }
 ]

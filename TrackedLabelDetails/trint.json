@@ -1,14 +1,14 @@
 [
   {
     "appName": "",
-    "appNewVersion": "0.1.25",
+    "appNewVersion": "0.1.26",
     "blockingProcesses": [],
     "downloadURL": "https://desktopapp.trint.com/latest/darwin/arm64/Trint.zip",
     "downloadURLi386": "https://desktopapp.trint.com/latest/darwin/x64/Trint.zip",
     "expectedTeamID": "4SN3PJXHG2",
     "label": "trint",
     "name": "Trint",
-    "timeStamp": "2026-07-30T18:54:27Z",
+    "timeStamp": "2026-09-29T18:33:08Z",
     "type": "zip"
   }
 ]

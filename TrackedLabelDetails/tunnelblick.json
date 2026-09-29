@@ -75,5 +75,16 @@
     "name": "Tunnelblick",
     "timeStamp": "2026-09-27T18:30:16Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "10.0beta04 (build 6530)",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/39261898/6610947e-adc7-457a-a887-4f24e2fea937?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-29T19%3A31%3A11Z&rscd=attachment%3B+filename%3DTunnelblick_10.0beta04_build_6530.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-29T18%3A31%3A01Z&ske=2026-09-29T19%3A31%3A11Z&sks=b&skv=2018-11-09&sig=zxM58tkVM6qe6R2%2FrBvvrE3RuQKtoXGSIdgASk4De38%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDcwODU5NCwibmJmIjoxNzkwNzA2Nzk0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.zh7UHvg8CCXcjKNbrMq6aGJ3gMTS0bl3mq23L3eVB08&response-content-disposition=attachment%3B%20filename%3DTunnelblick_10.0beta04_build_6530.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "Z2SG5H3HC8",
+    "label": "tunnelblick",
+    "name": "Tunnelblick",
+    "timeStamp": "2026-09-29T18:33:14Z",
+    "type": "dmg"
   }
 ]
