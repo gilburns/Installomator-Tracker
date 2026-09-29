@@ -42,5 +42,16 @@
     "name": "Pandoc",
     "timeStamp": "2026-08-29T06:32:31Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.12",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/571770/eb2b48ff-a896-4db0-b81b-a8d1b69a3408?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-29T07%3A34%3A03Z&rscd=attachment%3B+filename%3Dpandoc-3.12-arm64-macOS.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-29T06%3A33%3A04Z&ske=2026-09-29T07%3A34%3A03Z&sks=b&skv=2018-11-09&sig=J2NIYEomH0S34BsWfyA5w1%2BmpLeDC72q8PssREr1iPc%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDY2NTY5NiwibmJmIjoxNzkwNjYzODk2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.i9evFjcQWk3xyN4YJtmtIvG5o1K9Q25syvLEKYKNY28&response-content-disposition=attachment%3B%20filename%3Dpandoc-3.12-arm64-macOS.pkg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "5U2WKE6DES",
+    "label": "pandoc",
+    "name": "Pandoc",
+    "timeStamp": "2026-09-29T06:38:16Z",
+    "type": "pkg"
   }
 ]

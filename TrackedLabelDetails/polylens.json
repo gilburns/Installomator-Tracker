@@ -9,5 +9,16 @@
     "name": "Lens Desktop",
     "timeStamp": "2026-07-03T15:59:49Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.2.0.2181",
+    "blockingProcesses": [],
+    "downloadURL": "https://swupdate.lens.poly.com/lens-desktop-mac/5.2.0.2181/5.2.0.2181/PolyStudio-5.2.0.2181.dmg",
+    "expectedTeamID": "6HB5Y2QTA3",
+    "label": "polylens",
+    "name": "Lens Desktop",
+    "timeStamp": "2026-09-29T06:38:50Z",
+    "type": "pkgInDmg"
   }
 ]

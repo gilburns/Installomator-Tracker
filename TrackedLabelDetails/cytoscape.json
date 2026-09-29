@@ -10,5 +10,17 @@
     "name": "Cytoscape",
     "timeStamp": "2026-07-03T15:43:20Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.10.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/7654975/57399e0c-2392-4e9d-9867-da17dd45f69b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-29T07%3A10%3A08Z&rscd=attachment%3B+filename%3DCytoscape_3_10_5_macos_aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-29T06%3A09%3A50Z&ske=2026-09-29T07%3A10%3A08Z&sks=b&skv=2018-11-09&sig=%2FZlNEsQ8%2FSuYfaHcO%2BBZKM0x9iwE6iAEIE%2BvAWEujCM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDY2NjQ2NCwibmJmIjoxNzkwNjYyODY0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.YeVc6r_kwALrNsdVD5T9XhWFqB05l24Nm8HD-XUpWhg&response-content-disposition=attachment%3B%20filename%3DCytoscape_3_10_5_macos_aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/7654975/a0ab1d79-61d1-4cc2-a2a0-5459e5c37b6a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-29T07%3A01%3A49Z&rscd=attachment%3B+filename%3DCytoscape_3_10_5_macos_x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-29T06%3A01%3A23Z&ske=2026-09-29T07%3A01%3A49Z&sks=b&skv=2018-11-09&sig=ohwNIdZYqUKzbOvbs6dCkqzhjUmyGlNKPNmG7V%2FE8FE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDY2NjQ2NiwibmJmIjoxNzkwNjYyODY2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.B8PTFRwynjFhySYcdpx7PYyTYfD2DFGbGjqI4qGksgs&response-content-disposition=attachment%3B%20filename%3DCytoscape_3_10_5_macos_x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "35LDCJ33QT",
+    "label": "cytoscape",
+    "name": "Cytoscape",
+    "timeStamp": "2026-09-29T06:21:03Z",
+    "type": "dmg"
   }
 ]
