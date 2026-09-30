@@ -9,5 +9,16 @@
     "name": "Luna Display",
     "timeStamp": "2026-07-03T15:53:41Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.3.9.5015",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.astropad.com/luna/mac/LunaDisplay-5.3.9.5015.dmg",
+    "expectedTeamID": "8356ZZ8Y5K",
+    "label": "lunadisplay",
+    "name": "Luna Display",
+    "timeStamp": "2026-09-30T06:26:37Z",
+    "type": "dmg"
   }
 ]

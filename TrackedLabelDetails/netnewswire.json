@@ -42,5 +42,16 @@
     "name": "NetNewsWire",
     "timeStamp": "2026-09-20T18:25:57Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.1.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/91977145/bdd2c9a7-419f-43b0-9df9-92331e50af04?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-30T07%3A06%3A24Z&rscd=attachment%3B+filename%3DNetNewsWire7.1.5.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-30T06%3A05%3A33Z&ske=2026-09-30T07%3A06%3A24Z&sks=b&skv=2018-11-09&sig=D3Yp11OUkh3mwCnSX1JZEbvfJT7CtvdVPKIgUGu0Tbk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDc1MDA4NSwibmJmIjoxNzkwNzQ5Nzg1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.1iyGLQQFFEJi2rO8UYmXmvP3GSPQWo8OmcIyHDeh3vQ&response-content-disposition=attachment%3B%20filename%3DNetNewsWire7.1.5.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "M8L2WTLA8W",
+    "label": "netnewswire",
+    "name": "NetNewsWire",
+    "timeStamp": "2026-09-30T06:29:45Z",
+    "type": "zip"
   }
 ]

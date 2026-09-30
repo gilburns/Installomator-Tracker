@@ -545,6 +545,11 @@
       "lastSeen": "2026-09-29T06:29:19Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "keeperpasswordmanager": {
+      "firstSeen": "2026-09-30T06:25:03Z",
+      "lastSeen": "2026-09-30T06:25:03Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "kimplusclientmodul": {
       "firstSeen": "2026-09-29T06:29:56Z",
       "lastSeen": "2026-09-29T06:29:56Z",
@@ -1079,6 +1084,21 @@
       "firstSeen": "2026-09-29T06:42:44Z",
       "lastSeen": "2026-09-29T06:42:44Z",
       "reason": "invalid JSON output"
+    },
+    "steinbergactivationmanager": {
+      "firstSeen": "2026-09-30T06:34:11Z",
+      "lastSeen": "2026-09-30T06:34:11Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "steinberglibrarymanager": {
+      "firstSeen": "2026-09-30T06:34:12Z",
+      "lastSeen": "2026-09-30T06:34:12Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "steinbergmediabay": {
+      "firstSeen": "2026-09-30T06:34:13Z",
+      "lastSeen": "2026-09-30T06:34:13Z",
+      "reason": "missing appNewVersion or downloadURL"
     },
     "suitestudio": {
       "firstSeen": "2026-09-29T06:42:55Z",

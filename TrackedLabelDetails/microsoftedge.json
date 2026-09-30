@@ -229,5 +229,16 @@
     "name": "Microsoft Edge",
     "timeStamp": "2026-09-25T06:30:40Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "154.0.4258.48",
+    "blockingProcesses": [],
+    "downloadURL": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2597938c-842a-4ff0-b592-1c22c643b33d/MicrosoftEdge-154.0.4258.48.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftedge",
+    "name": "Microsoft Edge",
+    "timeStamp": "2026-09-30T06:28:40Z",
+    "type": "pkg"
   }
 ]
