@@ -9,5 +9,16 @@
     "name": "Audacity",
     "timeStamp": "2026-09-16T06:15:57Z",
     "type": "dmg"
+  },
+  {
+    "appName": "Audacity 4.app",
+    "appNewVersion": "4.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/32921736/756221f6-99d3-4ff6-94c5-29311b67a848?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-30T18%3A51%3A14Z&rscd=attachment%3B+filename%3Daudacity-macOS-4.0.1-universal.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-30T17%3A50%3A42Z&ske=2026-09-30T18%3A51%3A14Z&sks=b&skv=2018-11-09&sig=HHhYOZl92ZiA6e%2B5FO0RNsnG1udUR2MKMrC5dqeSLJw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDc5MzY2OSwibmJmIjoxNzkwNzkxODY5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.kA-QSieKVFU-se7r5IE5kH_6n0P8Ms3YaC6y1MaX4eM&response-content-disposition=attachment%3B%20filename%3Daudacity-macOS-4.0.1-universal.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "6EPAF2X3PR",
+    "label": "audacity4",
+    "name": "Audacity",
+    "timeStamp": "2026-09-30T18:11:09Z",
+    "type": "dmg"
   }
 ]

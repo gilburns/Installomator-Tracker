@@ -1,13 +1,13 @@
 [
   {
     "appName": "logioptionsplus.app",
-    "appNewVersion": "2.7.970334",
+    "appNewVersion": "2.8.981479",
     "blockingProcesses": [],
     "downloadURL": "https://download01.logi.com/web/ftp/pub/techsupport/optionsplus/logioptionsplus_installer.zip",
     "expectedTeamID": "QED4VVPZWA",
     "label": "logitechoptionsplus",
     "name": "Logi Options+",
-    "timeStamp": "2026-09-11T06:25:11Z",
+    "timeStamp": "2026-09-30T18:26:29Z",
     "type": "zip"
   }
 ]

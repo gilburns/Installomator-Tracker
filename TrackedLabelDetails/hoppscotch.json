@@ -69,5 +69,17 @@
     "name": "Hoppscotch",
     "timeStamp": "2026-09-24T18:22:39Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.9.00",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/715960984/9386418d-0a23-49a8-ae68-2c2af5d68a01?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-30T18%3A57%3A42Z&rscd=attachment%3B+filename%3DHoppscotch_mac_aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-30T17%3A57%3A26Z&ske=2026-09-30T18%3A57%3A42Z&sks=b&skv=2018-11-09&sig=z6p%2FtbyntiweGCPSCjDLKeeP5%2FDVoe%2ByDL467Vpha%2BA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDc5NDM2MCwibmJmIjoxNzkwNzkyNTYwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ._VmRgonGDOsGbw2yquG7EhdKiQBAb7ywcQ20uq7mnDk&response-content-disposition=attachment%3B%20filename%3DHoppscotch_mac_aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/715960984/8f83a814-f287-4bcb-9a14-423331e921ad?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-30T18%3A57%3A57Z&rscd=attachment%3B+filename%3DHoppscotch_mac_x64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-30T17%3A57%3A02Z&ske=2026-09-30T18%3A57%3A57Z&sks=b&skv=2018-11-09&sig=CjsFgIpXu7YVYf8A8jCWiCp0VHopS0f9rFH4YAxvLX0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDc5NDM2MSwibmJmIjoxNzkwNzkyNTYxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.SZEk3PGYYDc-dFbZ2jIZj_NN3BQpYD6QbbSba32Uacs&response-content-disposition=attachment%3B%20filename%3DHoppscotch_mac_x64.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "XBK86CMQGZ",
+    "label": "hoppscotch",
+    "name": "Hoppscotch",
+    "timeStamp": "2026-09-30T18:22:40Z",
+    "type": "dmg"
   }
 ]
