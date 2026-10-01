@@ -70,5 +70,17 @@
     "name": "CLion",
     "timeStamp": "2026-09-22T18:23:07Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.2.3.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-cdn.jetbrains.com/cpp/CLion-2026.2.3.1-aarch64.dmg",
+    "downloadURLi386": "https://download-cdn.jetbrains.com/cpp/CLion-2026.2.3.1.dmg",
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainsclion",
+    "name": "CLion",
+    "timeStamp": "2026-10-01T18:25:33Z",
+    "type": "dmg"
   }
 ]

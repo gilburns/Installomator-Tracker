@@ -100,6 +100,11 @@
       "lastSeen": "2026-09-29T06:15:03Z",
       "reason": "resolve failed (exit 99)"
     },
+    "arduinoide": {
+      "firstSeen": "2026-10-01T18:12:56Z",
+      "lastSeen": "2026-10-01T18:12:56Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "arq7": {
       "firstSeen": "2026-09-29T06:15:23Z",
       "lastSeen": "2026-09-29T06:15:23Z",

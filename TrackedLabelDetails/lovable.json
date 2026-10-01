@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "1.7.2",
+    "appNewVersion": "1.7.3",
     "blockingProcesses": [],
     "downloadURL": "https://downloads.lovable.dev/desktop/latest/mac",
     "expectedTeamID": "SWJU3R2URD",
     "label": "lovable",
     "name": "Lovable",
-    "timeStamp": "2026-09-16T18:24:11Z",
+    "timeStamp": "2026-10-01T18:28:36Z",
     "type": "dmg"
   }
 ]

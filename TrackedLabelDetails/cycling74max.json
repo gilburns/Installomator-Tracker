@@ -20,5 +20,16 @@
     "name": "Max",
     "timeStamp": "2026-07-28T18:38:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.cdn.cycling74.com/max9/Max920_261001.dmg",
+    "expectedTeamID": "GBXXCFCVW5",
+    "label": "cycling74max",
+    "name": "Max",
+    "timeStamp": "2026-10-01T18:18:48Z",
+    "type": "dmg"
   }
 ]
