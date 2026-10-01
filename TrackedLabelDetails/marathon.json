@@ -9,5 +9,16 @@
     "name": "Classic Marathon",
     "timeStamp": "2026-07-03T15:55:41Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "20260930",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/39701264/3441cf08-f2ad-42f5-85a4-b57b827ebc89?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-01T07%3A21%3A35Z&rscd=attachment%3B+filename%3DMarathon-20250930-Mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-01T06%3A21%3A04Z&ske=2026-10-01T07%3A21%3A35Z&sks=b&skv=2018-11-09&sig=bdQXBZYSqeCQqq6CIcu6iZyuMlmf12K01G9Ew%2BnKBxo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDgzODAyMSwibmJmIjoxNzkwODM2MjIxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.1LLF-dNoK0_8tV96VP8hSV2W9wbVajbNkkBZBM9PaHo&response-content-disposition=attachment%3B%20filename%3DMarathon-20250930-Mac.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "E8K89CXZE7",
+    "label": "marathon",
+    "name": "Classic Marathon",
+    "timeStamp": "2026-10-01T06:30:21Z",
+    "type": "dmg"
   }
 ]

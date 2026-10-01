@@ -31,5 +31,16 @@
     "name": "Okta Verify",
     "timeStamp": "2026-08-25T18:31:41Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.71.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://okta.okta.com/artifacts/OKTA_VERIFY_MACOS/9.71.0/OktaVerify-9.71.0-6544-f312771.pkg",
+    "expectedTeamID": "B7F62B65BN",
+    "label": "oktaverify",
+    "name": "Okta Verify",
+    "timeStamp": "2026-10-01T06:32:26Z",
+    "type": "pkg"
   }
 ]

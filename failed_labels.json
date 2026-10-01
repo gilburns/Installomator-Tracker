@@ -175,6 +175,11 @@
       "lastSeen": "2026-09-29T06:17:12Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "bibdesk": {
+      "firstSeen": "2026-10-01T06:15:20Z",
+      "lastSeen": "2026-10-01T06:15:20Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "blackhole16ch": {
       "firstSeen": "2026-09-29T06:17:24Z",
       "lastSeen": "2026-09-29T06:17:24Z",
@@ -365,6 +370,11 @@
       "lastSeen": "2026-09-29T06:23:37Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "eposconnect": {
+      "firstSeen": "2026-10-01T06:22:18Z",
+      "lastSeen": "2026-10-01T06:22:18Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "epsonprintlayout": {
       "firstSeen": "2026-09-29T06:23:43Z",
       "lastSeen": "2026-09-29T06:23:43Z",
@@ -408,6 +418,11 @@
     "fontexplorer": {
       "firstSeen": "2026-09-29T06:24:59Z",
       "lastSeen": "2026-09-29T06:24:59Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "freeplane": {
+      "firstSeen": "2026-10-01T06:23:55Z",
+      "lastSeen": "2026-10-01T06:23:55Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "googledrivebackupandsync": {
@@ -520,6 +535,11 @@
       "lastSeen": "2026-09-29T06:27:16Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-10-01T06:25:53Z",
+      "lastSeen": "2026-10-01T06:25:53Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "island": {
       "firstSeen": "2026-09-29T06:27:42Z",
       "lastSeen": "2026-09-29T06:27:42Z",
@@ -564,6 +584,11 @@
       "firstSeen": "2026-09-29T06:30:00Z",
       "lastSeen": "2026-09-29T06:30:00Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "launchcontrol": {
+      "firstSeen": "2026-10-01T06:29:02Z",
+      "lastSeen": "2026-10-01T06:29:02Z",
+      "reason": "resolve failed (exit 142)"
     },
     "levelscreenrecorder": {
       "firstSeen": "2026-09-29T06:31:35Z",
@@ -1010,6 +1035,11 @@
       "lastSeen": "2026-09-29T06:41:30Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "scribus": {
+      "firstSeen": "2026-10-01T06:35:10Z",
+      "lastSeen": "2026-10-01T06:35:10Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "sequelace": {
       "firstSeen": "2026-09-29T06:41:41Z",
       "lastSeen": "2026-09-29T06:41:41Z",
@@ -1029,6 +1059,11 @@
       "firstSeen": "2026-09-29T06:41:58Z",
       "lastSeen": "2026-09-29T06:41:58Z",
       "reason": "invalid JSON output"
+    },
+    "skim": {
+      "firstSeen": "2026-10-01T06:36:11Z",
+      "lastSeen": "2026-10-01T06:36:11Z",
+      "reason": "missing appNewVersion or downloadURL"
     },
     "snapgene": {
       "firstSeen": "2026-09-29T06:42:14Z",

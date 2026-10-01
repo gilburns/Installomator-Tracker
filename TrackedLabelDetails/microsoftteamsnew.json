@@ -134,5 +134,22 @@
     "name": "Microsoft Teams",
     "timeStamp": "2026-09-23T18:29:16Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26261.303.5165.1465",
+    "blockingProcesses": [
+      "MSTeams",
+      "Microsoft Teams",
+      "Microsoft Teams WebView",
+      "Microsoft Teams Launcher",
+      "Microsoft Teams (work preview)"
+    ],
+    "downloadURL": "https://teamsinstaller.public.onecdn.static.microsoft/production-osx/26261.303.5165.1465/MicrosoftTeams.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftteamsnew",
+    "name": "Microsoft Teams",
+    "timeStamp": "2026-10-01T06:31:08Z",
+    "type": "pkg"
   }
 ]
