@@ -9,5 +9,16 @@
     "name": "Transmit",
     "timeStamp": "2026-07-03T16:06:32Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.11.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.panic.com/transmit/Transmit%205.11.7.zip",
+    "expectedTeamID": "VE8FC488U5",
+    "label": "transmit5",
+    "name": "Transmit",
+    "timeStamp": "2026-10-02T06:44:16Z",
+    "type": "zip"
   }
 ]

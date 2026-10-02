@@ -22,5 +22,17 @@
     "name": "Todoist",
     "timeStamp": "2026-08-04T18:53:31Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.31.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://electron-dl.todoist.net/mac/Todoist-darwin-9.31.0-arm64-latest.dmg",
+    "downloadURLi386": "https://electron-dl.todoist.net/mac/Todoist-darwin-9.31.0-x64-latest.dmg",
+    "expectedTeamID": "S3DD273774",
+    "label": "todoist",
+    "name": "Todoist",
+    "timeStamp": "2026-10-02T06:43:51Z",
+    "type": "dmg"
   }
 ]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.7.21",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/900845528/97cb54d3-1c84-45a1-9435-a567699ee843?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-02T07%3A27%3A07Z&rscd=attachment%3B+filename%3DJamie.5.7.21.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-02T06%3A26%3A44Z&ske=2026-10-02T07%3A27%3A07Z&sks=b&skv=2018-11-09&sig=PVOpI8593JR4%2F7vmIUtM9SCvGSBZwRivaLd3AlMV0zE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDkyNDI5NywibmJmIjoxNzkwOTIyNDk3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.YYCi2OB36uMLlDR5nbd9Tc1UQO-To0fk7zguwGkObfo&response-content-disposition=attachment%3B%20filename%3DJamie.5.7.21.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "88YHHX72GQ",
+    "label": "jamie",
+    "name": "Jamie",
+    "timeStamp": "2026-10-02T06:28:16Z",
+    "type": "dmg"
+  }
+]

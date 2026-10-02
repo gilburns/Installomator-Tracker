@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "154.0.8037.93",
+    "appNewVersion": "154.0.8037.98",
     "blockingProcesses": [],
     "downloadURL": "https://dl.google.com/dl/chrome/mac/universal/stable/gcem/GoogleChrome.pkg",
     "expectedTeamID": "EQHXZ8M8AV",
     "label": "googlechromeenterprise",
     "name": "Google Chrome",
-    "timeStamp": "2026-09-30T06:22:15Z",
+    "timeStamp": "2026-10-02T06:26:02Z",
     "type": "pkg"
   }
 ]

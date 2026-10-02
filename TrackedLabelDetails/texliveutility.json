@@ -9,5 +9,16 @@
     "name": "TeX Live Utility",
     "timeStamp": "2026-07-03T16:05:49Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.58",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/22581590/6a4ac2f8-5aa6-48d1-94bf-b0ed1223aaac?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-02T07%3A33%3A50Z&rscd=attachment%3B+filename%3DTeX.Live.Utility.app-1.58.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-02T06%3A32%3A52Z&ske=2026-10-02T07%3A33%3A50Z&sks=b&skv=2018-11-09&sig=NrF2C5sjBoFW5wJly4DD3Ic5wnaiyxi%2BPtAZ4479uYA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDkyNTIxMiwibmJmIjoxNzkwOTIzNDEyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.a331mWp5y6WDHyWNu9gB0j1DEw1BURmX5ep8p73qx2Q&response-content-disposition=attachment%3B%20filename%3DTeX.Live.Utility.app-1.58.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "966Z24PX4J",
+    "label": "texliveutility",
+    "name": "TeX Live Utility",
+    "timeStamp": "2026-10-02T06:43:32Z",
+    "type": "zip"
   }
 ]

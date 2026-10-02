@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "90.0.81181",
+    "blockingProcesses": [],
+    "downloadURL": "https://update.sonos.com/software/7GphjB3HVD/Sonos_90.0-81181.dmg",
+    "expectedTeamID": "2G4LW83Q3E",
+    "label": "sonoss2",
+    "name": "Sonos",
+    "timeStamp": "2026-10-02T06:42:18Z",
+    "type": "dmg"
+  }
+]
