@@ -20,5 +20,16 @@
     "name": "Overlord",
     "timeStamp": "2026-09-15T18:26:22Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.9.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/811853013/d4312d91-9b15-475a-bbf0-0bbad3dd947d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-02T19%3A16%3A45Z&rscd=attachment%3B+filename%3DOverlord_2.9.1_universal.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-02T18%3A16%3A10Z&ske=2026-10-02T19%3A16%3A45Z&sks=b&skv=2018-11-09&sig=OODpjRoamQEv9LAJCFbpFr9Bu5ksgQQSSuT0jAt1Kno%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDk2Nzc0NCwibmJmIjoxNzkwOTY1OTQ0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.LfNqfHACNBcgXWOItRfqWBYKzYuR0dg0jSZ6X3l8jko&response-content-disposition=attachment%3B%20filename%3DOverlord_2.9.1_universal.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "4BF6YF8AAU",
+    "label": "overlord",
+    "name": "Overlord",
+    "timeStamp": "2026-10-02T18:32:24Z",
+    "type": "dmg"
   }
 ]

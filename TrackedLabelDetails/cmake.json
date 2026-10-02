@@ -42,5 +42,16 @@
     "name": "CMake",
     "timeStamp": "2026-08-25T18:15:56Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.4.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/537699/59653638-8f37-4de7-8e32-47b4724b2555?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-02T19%3A15%3A05Z&rscd=attachment%3B+filename%3Dcmake-4.4.4-macos-universal.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-02T18%3A14%3A14Z&ske=2026-10-02T19%3A15%3A05Z&sks=b&skv=2018-11-09&sig=aJ5Im2113z3tmxxKtjSWlcX0HkZ%2FCh3ff9F1kxhJFek%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDk2Njc3OSwibmJmIjoxNzkwOTY0OTc5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.bu5hv5n_EgWHrYzoXLyd4AOrME4TSTL4f8uooyYe_hY&response-content-disposition=attachment%3B%20filename%3Dcmake-4.4.4-macos-universal.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "W38PE5Y733",
+    "label": "cmake",
+    "name": "CMake",
+    "timeStamp": "2026-10-02T18:17:37Z",
+    "type": "dmg"
   }
 ]

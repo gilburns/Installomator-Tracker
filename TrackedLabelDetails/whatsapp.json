@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "26.39.19",
+    "appNewVersion": "26.39.21",
     "blockingProcesses": [],
     "downloadURL": "https://web.whatsapp.com/desktop/mac_native/release/?configuration=Release",
     "expectedTeamID": "57T9237FN3",
     "label": "whatsapp",
     "name": "WhatsApp",
-    "timeStamp": "2026-10-01T18:41:38Z",
+    "timeStamp": "2026-10-02T18:38:57Z",
     "type": "dmg"
   }
 ]

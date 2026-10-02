@@ -206,5 +206,18 @@
     "name": "draw.io",
     "timeStamp": "2026-09-26T18:14:08Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "31.7.0",
+    "blockingProcesses": [
+      "draw.io"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/31ef1277-55f4-4f47-a364-5efb787defef?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-02T19%3A13%3A40Z&rscd=attachment%3B+filename%3Ddraw.io-universal-31.7.0.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-02T18%3A13%3A34Z&ske=2026-10-02T19%3A13%3A40Z&sks=b&skv=2018-11-09&sig=Anq5%2BPmOjfDisbk3IwOoanp%2BlMjgM%2FltYkFrM9CRdbM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDk2ODc4MiwibmJmIjoxNzkwOTY1MTgyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.wnYRhWclqdHVpkxw-tZen47F1w6ukz_24ut6ctYKmXY&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-31.7.0.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "UZEUFB4N53",
+    "label": "drawio",
+    "name": "draw.io",
+    "timeStamp": "2026-10-02T18:19:41Z",
+    "type": "dmg"
   }
 ]

@@ -130,6 +130,16 @@
       "lastSeen": "2026-10-02T06:16:26Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "audacity3": {
+      "firstSeen": "2026-10-02T18:11:34Z",
+      "lastSeen": "2026-10-02T18:11:34Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "audacity4": {
+      "firstSeen": "2026-10-02T18:11:35Z",
+      "lastSeen": "2026-10-02T18:11:35Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "avertouch": {
       "firstSeen": "2026-10-02T06:16:37Z",
       "lastSeen": "2026-10-02T06:16:37Z",
@@ -233,6 +243,11 @@
     "busycontacts": {
       "firstSeen": "2026-10-02T06:17:55Z",
       "lastSeen": "2026-10-02T06:17:55Z",
+      "reason": "invalid JSON output"
+    },
+    "calibre": {
+      "firstSeen": "2026-10-02T18:13:07Z",
+      "lastSeen": "2026-10-02T18:13:07Z",
       "reason": "invalid JSON output"
     },
     "cardpresso": {
@@ -565,6 +580,11 @@
       "lastSeen": "2026-10-02T06:31:33Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "libreoffice": {
+      "firstSeen": "2026-10-02T18:28:08Z",
+      "lastSeen": "2026-10-02T18:28:08Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "libreofficelanguagepackintl": {
       "firstSeen": "2026-10-02T06:32:51Z",
       "lastSeen": "2026-10-02T06:32:51Z",
@@ -604,6 +624,11 @@
       "firstSeen": "2026-10-02T06:33:45Z",
       "lastSeen": "2026-10-02T06:33:45Z",
       "reason": "invalid JSON output"
+    },
+    "mamp": {
+      "firstSeen": "2026-10-02T18:29:50Z",
+      "lastSeen": "2026-10-02T18:29:50Z",
+      "reason": "resolve failed (exit 142)"
     },
     "meistertask": {
       "firstSeen": "2026-10-02T06:34:53Z",
@@ -995,6 +1020,11 @@
       "lastSeen": "2026-10-02T06:41:20Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "sequelace": {
+      "firstSeen": "2026-10-02T18:34:34Z",
+      "lastSeen": "2026-10-02T18:34:34Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "sidekick": {
       "firstSeen": "2026-10-02T06:41:38Z",
       "lastSeen": "2026-10-02T06:41:38Z",
@@ -1014,6 +1044,11 @@
       "firstSeen": "2026-10-02T06:42:05Z",
       "lastSeen": "2026-10-02T06:42:05Z",
       "reason": "invalid JSON output"
+    },
+    "soapuiopensource": {
+      "firstSeen": "2026-10-02T18:35:08Z",
+      "lastSeen": "2026-10-02T18:35:08Z",
+      "reason": "missing appNewVersion or downloadURL"
     },
     "sococo": {
       "firstSeen": "2026-10-02T06:42:09Z",
@@ -1130,6 +1165,11 @@
       "lastSeen": "2026-10-02T06:43:48Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "tigervnc": {
+      "firstSeen": "2026-10-02T18:36:50Z",
+      "lastSeen": "2026-10-02T18:36:50Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "timelymemory": {
       "firstSeen": "2026-10-02T06:43:50Z",
       "lastSeen": "2026-10-02T06:43:50Z",
@@ -1195,6 +1235,11 @@
       "lastSeen": "2026-10-02T06:46:13Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "veracrypt-fuse-t": {
+      "firstSeen": "2026-10-02T18:38:08Z",
+      "lastSeen": "2026-10-02T18:38:08Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "vernierspectralanalysis": {
       "firstSeen": "2026-10-02T06:46:18Z",
       "lastSeen": "2026-10-02T06:46:18Z",
@@ -1209,6 +1254,11 @@
       "firstSeen": "2026-10-02T06:46:41Z",
       "lastSeen": "2026-10-02T06:46:41Z",
       "reason": "invalid JSON output"
+    },
+    "wacomdrivers": {
+      "firstSeen": "2026-10-02T18:38:33Z",
+      "lastSeen": "2026-10-02T18:38:33Z",
+      "reason": "missing appNewVersion or downloadURL"
     },
     "wallyezflash": {
       "firstSeen": "2026-10-02T06:46:49Z",
