@@ -1,14 +1,14 @@
 [
   {
     "appName": "",
-    "appNewVersion": "1041.0.64",
+    "appNewVersion": "1041.0.65",
     "blockingProcesses": [],
     "downloadURL": "https://download.superhuman.com/Superhuman-arm64.dmg",
     "downloadURLi386": "https://download.superhuman.com/Superhuman.dmg",
     "expectedTeamID": "6XHFYUTQGX",
     "label": "superhuman",
     "name": "superhuman",
-    "timeStamp": "2026-10-02T06:42:58Z",
+    "timeStamp": "2026-10-03T06:46:23Z",
     "type": "dmg"
   }
 ]

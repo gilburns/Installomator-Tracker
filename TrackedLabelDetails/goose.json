@@ -167,5 +167,18 @@
     "name": "Goose",
     "timeStamp": "2026-09-23T18:21:32Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.53.0",
+    "blockingProcesses": [
+      "Goose"
+    ],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/94bba2af-42f2-4c6a-b531-0a70b7ed4887?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-03T07%3A25%3A33Z&rscd=attachment%3B+filename%3DGoose-darwin-arm64.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-03T06%3A24%3A56Z&ske=2026-10-03T07%3A25%3A33Z&sks=b&skv=2018-11-09&sig=xsGIB9fD9zFBo%2BIDEbSOAKx2G%2F2MyKaosIhwu1GWMMA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTAxMjUxNywibmJmIjoxNzkxMDA4OTE3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ZY8fpEOpVpsdcRXg65NOsNE09NPxUjsm17r2_7Dq5Go&response-content-disposition=attachment%3B%20filename%3DGoose-darwin-arm64.zip&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "W2L75AE9HQ",
+    "label": "goose",
+    "name": "Goose",
+    "timeStamp": "2026-10-03T06:28:37Z",
+    "type": "zip"
   }
 ]

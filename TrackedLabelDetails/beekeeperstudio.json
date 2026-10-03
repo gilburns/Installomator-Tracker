@@ -142,5 +142,17 @@
     "name": "Beekeeper Studio",
     "timeStamp": "2026-09-29T06:17:03Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.1.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/198484780/23e58df9-e7d9-49b1-9951-8c2ce00fb000?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-03T06%3A57%3A39Z&rscd=attachment%3B+filename%3DBeekeeper-Studio-6.1.5-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-03T05%3A57%3A21Z&ske=2026-10-03T06%3A57%3A39Z&sks=b&skv=2018-11-09&sig=3iHMuJL4YMSzKjm7oX4meiYs3hFPFiwrU8qRjpW5qJY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTAxMTkxOCwibmJmIjoxNzkxMDA4MzE4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.OGO19gkYjdxV2ZdoqPl2ER93hBeOG0NxMEZ9aXSoEeI&response-content-disposition=attachment%3B%20filename%3DBeekeeper-Studio-6.1.5-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURLi386": "https://release-assets.githubusercontent.com/github-production-release-asset/198484780/09f4bb35-862b-4213-a4ed-7e53027ac377?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-03T07%3A08%3A21Z&rscd=attachment%3B+filename%3DBeekeeper-Studio-6.1.5.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-03T06%3A08%3A14Z&ske=2026-10-03T07%3A08%3A21Z&sks=b&skv=2018-11-09&sig=nCY6%2B0H1pzQ4y4bICccMiAEr03XXn1fs9NyRrDXoFpY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTAxMTkxOSwibmJmIjoxNzkxMDA4MzE5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.6xNJdzF1FjFvU7m5u7fhe44aAfrQqIOwYHCtRT3Xl-A&response-content-disposition=attachment%3B%20filename%3DBeekeeper-Studio-6.1.5.dmg&response-content-type=application%2Foctet-stream",
+    "expectedTeamID": "7KK583U8H2",
+    "label": "beekeeperstudio",
+    "name": "Beekeeper Studio",
+    "timeStamp": "2026-10-03T06:18:37Z",
+    "type": "dmg"
   }
 ]

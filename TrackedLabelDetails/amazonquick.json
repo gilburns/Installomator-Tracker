@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.1.3753",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop.downloads.quick.aws.com/darwin/arm64/quick-external-cloud/Amazon%20Quick-1.1.3753-arm64.pkg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "amazonquick",
+    "name": "Amazon Quick",
+    "timeStamp": "2026-10-03T06:16:24Z",
+    "type": "pkg"
+  }
+]
