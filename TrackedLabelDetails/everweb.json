@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "4.5.0",
+    "appNewVersion": "4.6.0",
     "blockingProcesses": [],
     "downloadURL": "https://www.ragesw.com/files/everweb/everweb.dmg",
     "expectedTeamID": "A95T4TFRZ2",
     "label": "everweb",
     "name": "EverWeb",
-    "timeStamp": "2026-07-03T15:45:40Z",
+    "timeStamp": "2026-10-04T08:12:29Z",
     "type": "dmg"
   }
 ]
