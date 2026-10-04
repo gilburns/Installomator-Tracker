@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "1.4.0",
+    "appNewVersion": "1.4.1",
     "blockingProcesses": [],
     "downloadURL": "https://hennig.nu/repo/installomatormate/InstallomatorMate.zip",
     "expectedTeamID": "AGXG97HK25",
     "label": "installomatormate",
     "name": "InstallomatorMate",
-    "timeStamp": "2026-10-02T18:24:32Z",
+    "timeStamp": "2026-10-04T19:03:07Z",
     "type": "zip"
   }
 ]

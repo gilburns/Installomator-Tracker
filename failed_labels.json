@@ -1215,6 +1215,11 @@
       "lastSeen": "2026-10-04T08:31:55Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "veracrypt-fuse-t": {
+      "firstSeen": "2026-10-04T19:15:18Z",
+      "lastSeen": "2026-10-04T19:15:18Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "vernierspectralanalysis": {
       "firstSeen": "2026-10-04T08:32:00Z",
       "lastSeen": "2026-10-04T08:32:00Z",
