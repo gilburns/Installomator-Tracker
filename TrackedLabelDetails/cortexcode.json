@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.21.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://sfc-repo.snowflakecomputing.com/coco-desktop/downloads/latest/Cortex-Code-darwin-arm64.dmg",
+    "downloadURLi386": "https://sfc-repo.snowflakecomputing.com/coco-desktop/downloads/latest/Cortex-Code-darwin-x64.dmg",
+    "expectedTeamID": "W4NT6CRQ7U",
+    "label": "cortexcode",
+    "name": "Cortex Code",
+    "timeStamp": "2026-10-05T18:17:46Z",
+    "type": "dmg"
+  }
+]

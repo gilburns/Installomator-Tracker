@@ -22,5 +22,17 @@
     "name": "UJAM",
     "timeStamp": "2026-07-20T19:01:53Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.2.13",
+    "blockingProcesses": [],
+    "downloadURL": "https://software.ujam.com/ujamapp/UJAM-1.2.13-arm64.dmg",
+    "downloadURLi386": "https://software.ujam.com/ujamapp/UJAM-1.2.13.dmg",
+    "expectedTeamID": "9PRN6T272N",
+    "label": "ujamportal",
+    "name": "UJAM",
+    "timeStamp": "2026-10-05T18:41:45Z",
+    "type": "dmg"
   }
 ]
