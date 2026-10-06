@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.2.2",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://fw-download.ubnt.com/data/uid-identity-standard-desktop-app/da2c-macOS-4.2.2-26d981ba-1ce5-431e-98cf-2133b2889af9.pkg",
+    "expectedTeamID": "4P645293E8",
+    "label": "unifiendpoint",
+    "name": "UniFi Endpoint",
+    "timeStamp": "2026-10-06T06:43:32Z",
+    "type": "pkg"
+  }
+]

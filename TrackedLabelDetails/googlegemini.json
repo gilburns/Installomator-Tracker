@@ -1,13 +1,13 @@
 [
   {
     "appName": "",
-    "appNewVersion": "1.128.1.995",
+    "appNewVersion": "1.128.2.1001",
     "blockingProcesses": [],
     "downloadURL": "https://dl.google.com/release2/j33ro/release/Gemini.dmg",
     "expectedTeamID": "EQHXZ8M8AV",
     "label": "googlegemini",
     "name": "Gemini",
-    "timeStamp": "2026-10-05T06:31:28Z",
+    "timeStamp": "2026-10-06T06:23:05Z",
     "type": "dmg"
   }
 ]
