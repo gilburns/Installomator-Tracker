@@ -1,7 +1,7 @@
 [
   {
     "appName": "Acrobat Distiller.app",
-    "appNewVersion": "26.002.21931",
+    "appNewVersion": "26.002.2",
     "blockingProcesses": [
       "Acrobat Pro DC"
     ],
@@ -9,7 +9,7 @@
     "expectedTeamID": "JQ525L2MZD",
     "label": "adobeacrobatprodc",
     "name": "Adobe Acrobat Pro DC",
-    "timeStamp": "2026-09-17T18:09:05Z",
+    "timeStamp": "2026-10-06T18:09:35Z",
     "type": "pkgInDmg"
   }
 ]

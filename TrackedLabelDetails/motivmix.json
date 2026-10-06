@@ -9,5 +9,16 @@
     "name": "MOTIV Mix",
     "timeStamp": "2026-09-19T18:30:55Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.10.0.133",
+    "blockingProcesses": [],
+    "downloadURL": "https://content-files.shure.com/Software/motiv-mix/1-10-0/ShureMOTIVMixInstaller_mac.1.10.0.133.zip",
+    "expectedTeamID": "4K6323CXC4",
+    "label": "motivmix",
+    "name": "MOTIV Mix",
+    "timeStamp": "2026-10-06T18:27:24Z",
+    "type": "zip"
   }
 ]

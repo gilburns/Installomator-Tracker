@@ -140,6 +140,16 @@
       "lastSeen": "2026-10-06T06:15:14Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "audacity3": {
+      "firstSeen": "2026-10-06T18:10:55Z",
+      "lastSeen": "2026-10-06T18:10:55Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "audacity4": {
+      "firstSeen": "2026-10-06T18:10:55Z",
+      "lastSeen": "2026-10-06T18:10:55Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "avertouch": {
       "firstSeen": "2026-10-06T06:15:24Z",
       "lastSeen": "2026-10-06T06:15:24Z",

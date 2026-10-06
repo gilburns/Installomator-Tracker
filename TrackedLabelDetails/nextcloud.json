@@ -34,13 +34,13 @@
   },
   {
     "appName": "",
-    "appNewVersion": "34.0.4",
+    "appNewVersion": "34.0.5",
     "blockingProcesses": [],
     "downloadURL": "https://github.com/",
     "expectedTeamID": "NKUJUXUJ3B",
     "label": "nextcloud",
     "name": "Nextcloud",
-    "timeStamp": "2026-09-29T18:27:20Z",
+    "timeStamp": "2026-10-06T18:27:50Z",
     "type": "pkg"
   }
 ]
