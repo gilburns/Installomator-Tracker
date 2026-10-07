@@ -179,7 +179,7 @@ else
 fi
 
 newCount=0
-replacedCount=0
+staticCount=0
 unchangedCount=0
 failCount=0
 skippedCount=0
@@ -296,23 +296,26 @@ for labelFile in "${labelFiles[@]}"; do
         ' > "$tmpFile" || jqStatus=$?
     else
         # Some labels (e.g. 1password8) never redirect to a version-specific
-        # download URL - they just always point at "latest". For those, every
-        # tracked entry would carry an identical downloadURL that's already
-        # stale the moment a newer version ships, so accumulating history is
-        # pointless. Detect that case by comparing against the most recently
+        # download URL - they just always point at "latest". For those, the
+        # previous entry's downloadURL is stale the moment a newer version
+        # ships (it now downloads the new version, not the one it's recorded
+        # against). Detect that case by comparing against the most recently
         # tracked entry: if its downloadURL is identical to what we just
-        # resolved, replace it in place instead of appending. A label that
-        # does produce version-pinned URLs will never match here, so this
-        # only ever affects the static-URL pattern.
-        lastDownloadURL=$(echo "$currentTracked" | jq -r 'if length > 0 then (sort_by(.timeStamp) | last | .downloadURL) else empty end')
+        # resolved, still append the new entry - the version and timeStamp
+        # history is worth keeping - but strip downloadURL/downloadURLi386
+        # from the previous entry, so only the newest entry ever carries a
+        # download link. A label that does produce version-pinned URLs will
+        # never match here, so this only ever affects the static-URL pattern.
+        lastDownloadURL=$(echo "$currentTracked" | jq -r 'if length > 0 then (sort_by(.timeStamp) | last | .downloadURL // empty) else empty end')
 
         if [[ -n "$lastDownloadURL" && "$lastDownloadURL" == "$downloadURL" ]]; then
-            echo "[$label] new version: $appNewVersion (static downloadURL unchanged, replacing previous entry)"
-            replacedCount=$((replacedCount + 1))
+            echo "[$label] new version: $appNewVersion (static downloadURL unchanged, stripping URLs from previous entry)"
+            staticCount=$((staticCount + 1))
             jqStatus=0
             echo "$currentTracked" | jq -S --argjson entry "$jsonOutput" '
                 (sort_by(.timeStamp)) as $sorted
-                | ($sorted[:-1] + [$entry]) | sort_by(.timeStamp)
+                | ($sorted[:-1] + [$sorted[-1] | del(.downloadURL, .downloadURLi386)] + [$entry])
+                | sort_by(.timeStamp)
             ' > "$tmpFile" || jqStatus=$?
         else
             echo "[$label] new version: $appNewVersion"
@@ -337,7 +340,7 @@ for labelFile in "${labelFiles[@]}"; do
 done
 
 echo ""
-echo "Done. $totalCount labels processed: $newCount new, $replacedCount replaced (static URL), $unchangedCount unchanged, $failCount failed, $skippedCount skipped (known-broken)."
+echo "Done. $totalCount labels processed: $newCount new, $staticCount static-URL (previous entry URLs stripped), $unchangedCount unchanged, $failCount failed, $skippedCount skipped (known-broken)."
 
 if [[ $dry_run -eq 0 ]]; then
     if [[ $isFullRun -eq 1 ]]; then

@@ -16,11 +16,11 @@ A scheduled GitHub Actions workflow ([.github/workflows/track-labels.yml](.githu
 
 ### Why a version only gets recorded once
 
-Each label is resolved to a version number and download URL, same as running Installomator directly. If that version isn't already in `TrackedLabelDetails/<label>.json`, it's appended (or, for the handful of labels whose download URL never changes and always points at "latest" - see below - the previous entry is replaced instead). Already-seen versions are left alone. Over time this builds a full version history per label instead of just "whatever is current today."
+Each label is resolved to a version number and download URL, same as running Installomator directly. If that version isn't already in `TrackedLabelDetails/<label>.json`, it's appended (for the handful of labels whose download URL never changes and always points at "latest" - see below - the previous entry's download URLs are also removed). Already-seen versions are left alone. Over time this builds a full version history per label instead of just "whatever is current today."
 
-### Static-URL labels (no history to accumulate)
+### Static-URL labels (version history only)
 
-A few labels (e.g. `1password8`) never redirect to a version-pinned URL - they just always point at "latest," so every entry would carry an identical, already-stale-by-tomorrow download URL. For those, `update_tracked_labels.sh` detects the repeat and replaces the previous entry in place rather than accumulating meaningless duplicates. That label's file will only ever have one entry, updated as new versions ship.
+A few labels (e.g. `1password8`) never redirect to a version-pinned URL - they just always point at "latest," so once a newer version ships, the previous entry's download URL no longer downloads the version it's recorded against. For those, `update_tracked_labels.sh` detects the repeat, still appends the new version as its own entry, and removes `downloadURL` (and `downloadURLi386`, if present) from the previous entry. Only the newest entry carries a download URL. Older entries still record each version and when it was first seen.
 
 ### Dual-architecture labels
 
