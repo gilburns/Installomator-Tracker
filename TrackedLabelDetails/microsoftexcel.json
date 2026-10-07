@@ -187,11 +187,23 @@
     "blockingProcesses": [
       "Microsoft Excel"
     ],
-    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.113.26092714_Installer.pkg",
     "expectedTeamID": "UBF8T346G9",
     "label": "microsoftexcel",
     "name": "Microsoft Excel",
     "timeStamp": "2026-09-29T18:26:03Z",
+    "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "16.113.26100421",
+    "blockingProcesses": [
+      "Microsoft Excel"
+    ],
+    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.113.26092714_Installer.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftexcel",
+    "name": "Microsoft Excel",
+    "timeStamp": "2026-10-07T06:33:49Z",
     "type": "pkg"
   }
 ]

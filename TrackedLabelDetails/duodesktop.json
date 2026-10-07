@@ -3,11 +3,21 @@
     "appName": "",
     "appNewVersion": "7.21.0.0",
     "blockingProcesses": [],
-    "downloadURL": "https://dl.duosecurity.com/DuoDesktop-latest.pkg",
     "expectedTeamID": "FNN8Z5JMFP",
     "label": "duodesktop",
     "name": "Duo Desktop",
     "timeStamp": "2026-09-09T06:19:55Z",
+    "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.22.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.duosecurity.com/DuoDesktop-latest.pkg",
+    "expectedTeamID": "FNN8Z5JMFP",
+    "label": "duodesktop",
+    "name": "Duo Desktop",
+    "timeStamp": "2026-10-07T06:20:54Z",
     "type": "pkg"
   }
 ]
