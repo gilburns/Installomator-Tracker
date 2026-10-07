@@ -86,5 +86,16 @@
     "name": "Zotero",
     "timeStamp": "2026-10-01T06:40:21Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "10.0.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.zotero.org/client/release/10.0.6/Zotero-10.0.6.dmg",
+    "expectedTeamID": "8LAYR367YV",
+    "label": "zotero",
+    "name": "Zotero",
+    "timeStamp": "2026-10-07T18:39:26Z",
+    "type": "dmg"
   }
 ]

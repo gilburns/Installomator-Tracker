@@ -31,5 +31,16 @@
     "name": "Steinberg Media Bay",
     "timeStamp": "2026-08-18T18:26:39Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.4.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.steinberg.net/static_content/runtime-components/steinberg-media-bay/1.4.10.19-1437f559-ca55-3aa1-b51a-3e557188cbbd/MediaBay_Installer_mac.dmg",
+    "expectedTeamID": "5PMY476BJ6",
+    "label": "steinbergmediabay",
+    "name": "Steinberg Media Bay",
+    "timeStamp": "2026-10-07T18:35:07Z",
+    "type": "pkgInDmg"
   }
 ]

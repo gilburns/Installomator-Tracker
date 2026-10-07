@@ -615,6 +615,11 @@
       "lastSeen": "2026-10-07T06:31:55Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "macadminspython": {
+      "firstSeen": "2026-10-07T18:24:53Z",
+      "lastSeen": "2026-10-07T18:24:53Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "mackiemasterfader": {
       "firstSeen": "2026-10-07T06:32:02Z",
       "lastSeen": "2026-10-07T06:32:02Z",
@@ -634,6 +639,11 @@
       "firstSeen": "2026-10-07T06:32:20Z",
       "lastSeen": "2026-10-07T06:32:20Z",
       "reason": "invalid JSON output"
+    },
+    "mamp": {
+      "firstSeen": "2026-10-07T18:26:16Z",
+      "lastSeen": "2026-10-07T18:26:16Z",
+      "reason": "resolve failed (exit 142)"
     },
     "meistertask": {
       "firstSeen": "2026-10-07T06:33:31Z",
@@ -733,6 +743,11 @@
     "missiveapp": {
       "firstSeen": "2026-10-07T06:34:26Z",
       "lastSeen": "2026-10-07T06:34:26Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "mkuser": {
+      "firstSeen": "2026-10-07T18:27:39Z",
+      "lastSeen": "2026-10-07T18:27:39Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mmhmm": {
@@ -934,6 +949,11 @@
       "firstSeen": "2026-10-07T06:38:48Z",
       "lastSeen": "2026-10-07T06:38:48Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "redshift": {
+      "firstSeen": "2026-10-07T18:33:17Z",
+      "lastSeen": "2026-10-07T18:33:17Z",
+      "reason": "resolve failed (exit 142)"
     },
     "reflector4": {
       "firstSeen": "2026-10-07T06:38:56Z",
