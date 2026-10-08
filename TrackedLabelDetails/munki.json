@@ -5,7 +5,7 @@
     "blockingProcesses": [
       "NONE"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/618469474/71cab9d7-4f44-4518-b973-e8863e5260f9?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A57%3A36Z&rscd=attachment%3B+filename%3Dmunkitools-7.1.2.5700.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A57%3A08Z&ske=2026-07-03T16%3A57%3A36Z&sks=b&skv=2018-11-09&sig=tutbE37%2BrukE3IzYzN9qsy169hJE%2BeCyKhZvRCT%2BEZk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjA0MywibmJmIjoxNzgzMDk0MjQzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.vEFWgTctooBxtmL0I1rqKxaXADFImqZC47AGuwW8yYQ&response-content-disposition=attachment%3B%20filename%3Dmunkitools-7.1.2.5700.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/macadmins/munki-builds/releases/download/v7.1.2.5700/munkitools-7.1.2.5700.pkg",
     "expectedTeamID": "T4SK8ZXCXG",
     "label": "munki",
     "name": "Munki",
@@ -18,7 +18,7 @@
     "blockingProcesses": [
       "NONE"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/618469474/117b28ae-f360-4250-b864-7cdfeb6b4ded?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-14T19%3A38%3A38Z&rscd=attachment%3B+filename%3Dmunkitools-7.2.0.5787.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-14T18%3A37%3A53Z&ske=2026-07-14T19%3A38%3A38Z&sks=b&skv=2018-11-09&sig=rOrI4a4Wvw8qBYA%2F4VQY7DB8rOS9Tl9D9qBDVJYgh94%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDA1NjI0MywibmJmIjoxNzg0MDU0NDQzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.-NEVhSchN8du9K9JWBlyqE_SCKZ4q6aSQPaA6Sg5VFA&response-content-disposition=attachment%3B%20filename%3Dmunkitools-7.2.0.5787.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/macadmins/munki-builds/releases/download/v7.2.0.5787/munkitools-7.2.0.5787.pkg",
     "expectedTeamID": "T4SK8ZXCXG",
     "label": "munki",
     "name": "Munki",
@@ -31,7 +31,7 @@
     "blockingProcesses": [
       "NONE"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/618469474/bdabde1c-e450-401c-a5d6-fb545db20522?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-25T19%3A14%3A54Z&rscd=attachment%3B+filename%3Dmunkitools-7.3.0.5808.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-25T18%3A14%3A03Z&ske=2026-08-25T19%3A14%3A54Z&sks=b&skv=2018-11-09&sig=aE3TzXtQvalEJFKfDPaGrBN6i0Whqls3Ejvm%2FNPgzXs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzY4NDQ0NCwibmJmIjoxNzg3NjgyNjQ0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.VRQDzFPguoi4ay-sW6wBeAtb2PPwYf3mvgRIojJjfUw&response-content-disposition=attachment%3B%20filename%3Dmunkitools-7.3.0.5808.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/macadmins/munki-builds/releases/download/v7.3.0.5808/munkitools-7.3.0.5808.pkg",
     "expectedTeamID": "T4SK8ZXCXG",
     "label": "munki",
     "name": "Munki",

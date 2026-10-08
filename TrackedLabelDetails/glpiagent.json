@@ -5,7 +5,7 @@
     "blockingProcesses": [
       "NONE"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/228588138/38b613a5-5542-451e-8e9f-f32fa0165ad4?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A29%3A09Z&rscd=attachment%3B+filename%3DGLPI-Agent-1.18_arm64.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A08Z&ske=2026-07-03T16%3A29%3A09Z&sks=b&skv=2018-11-09&sig=2SJmbYymWrAI%2FhW3NmtvsZTBfMdnvaw4lE5RyAOu13k%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTQxOSwibmJmIjoxNzgzMDkzNjE5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.qpFD4SicoExkNxnOq9sLILRZbgDHX5v3HpoKathLw3g&response-content-disposition=attachment%3B%20filename%3DGLPI-Agent-1.18_arm64.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/glpi-project/glpi-agent/releases/download/1.18/GLPI-Agent-1.18_arm64.pkg",
     "expectedTeamID": "H7XJV96LX2",
     "label": "glpiagent",
     "name": "GLPI-agent",
@@ -18,7 +18,7 @@
     "blockingProcesses": [
       "NONE"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/228588138/74ef33ef-2cf7-41d8-9a4f-bf83c8a3b612?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-04T19%3A37%3A19Z&rscd=attachment%3B+filename%3DGLPI-Agent-1.19_arm64.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-04T18%3A37%3A05Z&ske=2026-08-04T19%3A37%3A19Z&sks=b&skv=2018-11-09&sig=km70zOktPxSEtBg3Q47tDgA4gBPcpaOT9NE6zoMwnQI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg3MDc0MywibmJmIjoxNzg1ODY4OTQzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.sXobPkyJExk8SAzTnC0xjLk7LhiikCVYv9n5c-kS0M4&response-content-disposition=attachment%3B%20filename%3DGLPI-Agent-1.19_arm64.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/glpi-project/glpi-agent/releases/download/1.19/GLPI-Agent-1.19_arm64.pkg",
     "expectedTeamID": "H7XJV96LX2",
     "label": "glpiagent",
     "name": "GLPI-agent",
@@ -31,7 +31,7 @@
     "blockingProcesses": [
       "NONE"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/228588138/17fb7eb4-60d4-474c-879f-d4d5004e79c2?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-24T18%3A59%3A48Z&rscd=attachment%3B+filename%3DGLPI-Agent-1.20_arm64.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-24T17%3A58%3A59Z&ske=2026-09-24T18%3A59%3A48Z&sks=b&skv=2018-11-09&sig=9Ul2GM0v6PQg5kMXPVk863PknQQ27c8BoFyizw2fxkw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDI3NTkxOCwibmJmIjoxNzkwMjc0MTE4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.QMevyleOPe1OvqaxPCs1rAJJqyt4mSCGuxRSwdBBtlc&response-content-disposition=attachment%3B%20filename%3DGLPI-Agent-1.20_arm64.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/glpi-project/glpi-agent/releases/download/1.20/GLPI-Agent-1.20_arm64.pkg",
     "expectedTeamID": "H7XJV96LX2",
     "label": "glpiagent",
     "name": "GLPI-agent",

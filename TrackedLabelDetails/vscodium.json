@@ -5,7 +5,7 @@
     "blockingProcesses": [
       "Electron"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/144590939/99e34f30-9758-4da4-8c05-5dda38ea99f4?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A55%3A37Z&rscd=attachment%3B+filename%3DVSCodium.arm64.1.121.03429.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A55%3A24Z&ske=2026-07-03T16%3A55%3A37Z&sks=b&skv=2018-11-09&sig=bXYqQNwaLjKlmU%2Bt1PAl6rMMcyIacq%2FlwpMsezpylLM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODQ5MSwibmJmIjoxNzgzMDk0ODkxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.8kl-FHgzOogYmdU3eu23oi2NRmSL0dNl4SC7NuDcy9E&response-content-disposition=attachment%3B%20filename%3DVSCodium.arm64.1.121.03429.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/VSCodium/vscodium/releases/download/1.121.03429/VSCodium.arm64.1.121.03429.dmg",
     "expectedTeamID": "VC39D2VNQ7",
     "label": "vscodium",
     "name": "VSCodium",
@@ -18,7 +18,7 @@
     "blockingProcesses": [
       "Electron"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/144590939/3dfacde1-9569-4060-839f-0281ae9ddb90?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-07T20%3A02%3A08Z&rscd=attachment%3B+filename%3DVSCodium.arm64.1.126.04524.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-07T19%3A01%3A24Z&ske=2026-07-07T20%3A02%3A08Z&sks=b&skv=2018-11-09&sig=zbKIlHp8KvgMLGZP2Hy%2BG%2ByO1evo0wN88YMazQDJIP4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzQ1NDgyNCwibmJmIjoxNzgzNDUxMjI0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.FAg_bvwQprswcxgvOxzc6Wemb66POkE0my75Ehi4kXM&response-content-disposition=attachment%3B%20filename%3DVSCodium.arm64.1.126.04524.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium.arm64.1.126.04524.dmg",
     "expectedTeamID": "VC39D2VNQ7",
     "label": "vscodium",
     "name": "VSCodium",
@@ -31,7 +31,7 @@
     "blockingProcesses": [
       "Electron"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/144590939/482bbf0d-b038-45d7-89c8-d31cfea6ac3d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-09T19%3A33%3A11Z&rscd=attachment%3B+filename%3DVSCodium.arm64.1.135.06055.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-09T18%3A33%3A03Z&ske=2026-09-09T19%3A33%3A11Z&sks=b&skv=2018-11-09&sig=z2Lc4TbtNC%2BjqPBgrnZJKiL0HqnY1pW4GrRXja2%2FtQA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODk4Mjc5MSwibmJmIjoxNzg4OTc5MTkxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.voaLlBuKFTYXxau7V47_MO7K-8qlxLyT6rJG2lg6VNE&response-content-disposition=attachment%3B%20filename%3DVSCodium.arm64.1.135.06055.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/VSCodium/vscodium/releases/download/1.135.06055/VSCodium.arm64.1.135.06055.dmg",
     "expectedTeamID": "VC39D2VNQ7",
     "label": "vscodium",
     "name": "VSCodium",

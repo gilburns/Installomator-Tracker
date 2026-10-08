@@ -5,7 +5,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/a2ad34d9-ffa5-4956-a4aa-eda8e06b3489?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A04Z&rscd=attachment%3B+filename%3DGoose-win32-x64-cuda.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A39Z&ske=2026-07-03T16%3A28%3A04Z&sks=b&skv=2018-11-09&sig=hAmhfdo4iGhe1qF9sQOMyw4vIjUJOIZstFBdr%2F7UE0M%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzIzNywibmJmIjoxNzgzMDkzNjM3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.akK7TMeDj8DZNkWZWNxngmbmYW9mbzI5dwr9eY9jduU&response-content-disposition=attachment%3B%20filename%3DGoose-win32-x64-cuda.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.41.0/Goose-win32-x64-cuda.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",
@@ -18,7 +18,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/1d39caa1-35c8-4f53-9d28-472f6d3f7749?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-14T07%3A41%3A30Z&rscd=attachment%3B+filename%3DGoose-win32-x64-cuda.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-14T06%3A40%3A36Z&ske=2026-07-14T07%3A41%3A30Z&sks=b&skv=2018-11-09&sig=zDC%2By9PVEBj152zjEnE%2FZgCE6o9RGh6Tefc8cgOUS1w%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDAxNTY0OSwibmJmIjoxNzg0MDEyMDQ5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Md5GaTIV5tuuDWxFc0XdNpbe0SXRPbi48af7eXFEV10&response-content-disposition=attachment%3B%20filename%3DGoose-win32-x64-cuda.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.42.0/Goose-win32-x64-cuda.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",
@@ -31,7 +31,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/ba6ae10f-d475-48d3-a6d7-268977f8354a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-14T19%3A23%3A08Z&rscd=attachment%3B+filename%3DGoose-win32-x64-cuda.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-14T18%3A22%3A23Z&ske=2026-07-14T19%3A23%3A08Z&sks=b&skv=2018-11-09&sig=l%2Ft2a3LOyqIqkIOuHhYVgY7VKJ4KPzc1vyAjgoZZOl4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDA1NzY3MCwibmJmIjoxNzg0MDU0MDcwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.vASSPxT1_dxn_vzr8exDOrlWDncWghqDy2z8E0vZcjY&response-content-disposition=attachment%3B%20filename%3DGoose-win32-x64-cuda.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.43.0/Goose-win32-x64-cuda.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",
@@ -44,7 +44,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/28e35e71-d211-4947-9745-5ed591eeee5e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-24T07%3A45%3A36Z&rscd=attachment%3B+filename%3DGoose-win32-x64-cuda.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-24T06%3A45%3A20Z&ske=2026-07-24T07%3A45%3A36Z&sks=b&skv=2018-11-09&sig=xk%2FqGao%2Fs0NfSYZ5brmKSPYIJKC3CISEK379RXQ6B4w%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDg4MDExNiwibmJmIjoxNzg0ODc2NTE2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.4_d7ZbT4Cs2h8EoI4PRjIhMHrg7jXvKz4J6BKCoNsEE&response-content-disposition=attachment%3B%20filename%3DGoose-win32-x64-cuda.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.44.0/Goose-win32-x64-cuda.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",
@@ -57,7 +57,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/ad8a4a30-5525-45d2-b69a-826de325de29?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-30T07%3A57%3A13Z&rscd=attachment%3B+filename%3Dgoose-source-v1.45.0.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-30T06%3A56%3A16Z&ske=2026-07-30T07%3A57%3A13Z&sks=b&skv=2018-11-09&sig=oAg20R1fiuxnAMBrlM9t7Rhof%2BJqTl6nR2ARQHWuImE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM5ODc2NCwibmJmIjoxNzg1Mzk1MTY0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.l1Wih1IVfktbMIgDXxrdxN6Ry8dH3LDCLevBO4wlXC4&response-content-disposition=attachment%3B%20filename%3Dgoose-source-v1.45.0.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.45.0/goose-source-v1.45.0.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",
@@ -70,7 +70,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/a82ff037-53cd-4ddf-acc7-b912fc73225d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-12T19%3A17%3A07Z&rscd=attachment%3B+filename%3Dgoose-source-v1.46.0.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-12T18%3A16%3A29Z&ske=2026-08-12T19%3A17%3A07Z&sks=b&skv=2018-11-09&sig=dN7Vq1Fu1qXXBqfkoiF7TNkfhuDK%2BnfXc8tqZY1VZbo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjU2MzAyOSwibmJmIjoxNzg2NTU5NDI5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Z0PxK0iTc944Q8swmwFZfSleV9crAt4VEI6fOLNbyo0&response-content-disposition=attachment%3B%20filename%3Dgoose-source-v1.46.0.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.46.0/goose-source-v1.46.0.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",
@@ -83,7 +83,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/6738267e-ee29-4b29-be49-02496eeabe4e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-21T18%3A59%3A14Z&rscd=attachment%3B+filename%3Dgoose-x86_64-pc-windows-msvc.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-21T17%3A58%3A16Z&ske=2026-08-21T18%3A59%3A14Z&sks=b&skv=2018-11-09&sig=0453deiIvVbqaTenTIcHzfq5pw1ezG9N7N95TeBR0%2Fg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzMzNzk5OCwibmJmIjoxNzg3MzM2MTk4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.bnsyDeYenY4l4Rz0AYL0dEj5Y1O8X_6hz7WSs2UXQtM&response-content-disposition=attachment%3B%20filename%3Dgoose-x86_64-pc-windows-msvc.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.47.0/goose-x86_64-pc-windows-msvc.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",
@@ -96,7 +96,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/442f16f5-e526-4178-9bf1-8a449ec680cb?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-27T22%3A07%3A47Z&rscd=attachment%3B+filename%3Dgoose-source-v1.48.0.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-27T21%3A06%3A59Z&ske=2026-08-27T22%3A07%3A47Z&sks=b&skv=2018-11-09&sig=ZVYJcoxX9PRvTdgrWl%2BCeYWFS5%2BCneyH%2B9uT0adRSBQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4Nzg2OTMyNiwibmJmIjoxNzg3ODY1NzI2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.qVcbpgqZjbucxsmBXD6hdRdGzzAmAnV-QrJMNJMBijU&response-content-disposition=attachment%3B%20filename%3Dgoose-source-v1.48.0.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.48.0/goose-source-v1.48.0.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",
@@ -109,7 +109,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/2321f684-ef0c-439c-adbf-94d7646c941e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-04T07%3A18%3A47Z&rscd=attachment%3B+filename%3Dgoose-source-v1.49.0.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-04T06%3A18%3A02Z&ske=2026-09-04T07%3A18%3A47Z&sks=b&skv=2018-11-09&sig=AYyeMKpiFdGfDIx%2FvztGvzTubfwPjvc9Qn%2BcNWu9frU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODUwNjY0NCwibmJmIjoxNzg4NTAzMDQ0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.UR-s5zFrUWjdLtF0jQlmFG2GdKcZFXCm3KhIA9qdxLQ&response-content-disposition=attachment%3B%20filename%3Dgoose-source-v1.49.0.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.49.0/goose-source-v1.49.0.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",
@@ -122,7 +122,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/2a0cde75-cb53-4b94-b275-f3d86fb623fc?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-09T07%3A19%3A33Z&rscd=attachment%3B+filename%3Dgoose-source-v1.50.0.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-09T06%3A18%3A50Z&ske=2026-09-09T07%3A19%3A33Z&sks=b&skv=2018-11-09&sig=wWUoDuCemxBdIMa9ymMApzguj8zwdf2fxNFv9n27jmc%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODkzODU0NywibmJmIjoxNzg4OTM0OTQ3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.sOm5fqxXBZsBf1nW-JBVe6sE5FGw_jYInkniOKM0qSw&response-content-disposition=attachment%3B%20filename%3Dgoose-source-v1.50.0.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.50.0/goose-source-v1.50.0.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",
@@ -135,7 +135,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/da39c619-bbd3-4004-879d-375e9ea89b3d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-15T07%3A17%3A27Z&rscd=attachment%3B+filename%3Dgoose-source-v1.50.1.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-15T06%3A16%3A53Z&ske=2026-09-15T07%3A17%3A27Z&sks=b&skv=2018-11-09&sig=cSV7q8vCo0jt5v%2FgqpOUMclNXNFLj24fXLJJAKRslG0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTQ1NzEwOCwibmJmIjoxNzg5NDUzNTA4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.1dSQr_pvxzQI9XGOcRJY2pJVkrzGi1tw7loIFYiVFc4&response-content-disposition=attachment%3B%20filename%3Dgoose-source-v1.50.1.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.50.1/goose-source-v1.50.1.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",
@@ -148,7 +148,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/a45b2337-6027-4d56-b746-2efdd1d28521?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-18T07%3A00%3A52Z&rscd=attachment%3B+filename%3Dgoose-x86_64-pc-windows-msvc.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-18T06%3A00%3A41Z&ske=2026-09-18T07%3A00%3A52Z&sks=b&skv=2018-11-09&sig=%2Fjzng%2BKxF24dcxJNSnQmwoGDQXLd8XiQknQ2VyyEiIE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTcxNDUxNiwibmJmIjoxNzg5NzEyNzE2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.o0rahksSNL0k1xXueQasa1tZCJF57eM4uxKxAIWNs98&response-content-disposition=attachment%3B%20filename%3Dgoose-x86_64-pc-windows-msvc.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.51.0/goose-x86_64-pc-windows-msvc.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",
@@ -161,7 +161,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/25fdefc5-e5db-4b71-9e43-28171aa223d1?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-23T19%3A02%3A46Z&rscd=attachment%3B+filename%3DGoose-darwin-arm64.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-23T18%3A02%3A33Z&ske=2026-09-23T19%3A02%3A46Z&sks=b&skv=2018-11-09&sig=nzk%2BKJ0dgl009vbLO906GCld3cZ8h5Ct3mdr9WNrgvE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDE5MTI5MiwibmJmIjoxNzkwMTg3NjkyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.wQw1CaruhM-MciHoaP_D3r4OCICVAR1wZOlb4hAo9ag&response-content-disposition=attachment%3B%20filename%3DGoose-darwin-arm64.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.52.0/Goose-darwin-arm64.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",
@@ -174,7 +174,7 @@
     "blockingProcesses": [
       "Goose"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/846698999/94bba2af-42f2-4c6a-b531-0a70b7ed4887?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-03T07%3A25%3A33Z&rscd=attachment%3B+filename%3DGoose-darwin-arm64.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-03T06%3A24%3A56Z&ske=2026-10-03T07%3A25%3A33Z&sks=b&skv=2018-11-09&sig=xsGIB9fD9zFBo%2BIDEbSOAKx2G%2F2MyKaosIhwu1GWMMA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTAxMjUxNywibmJmIjoxNzkxMDA4OTE3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ZY8fpEOpVpsdcRXg65NOsNE09NPxUjsm17r2_7Dq5Go&response-content-disposition=attachment%3B%20filename%3DGoose-darwin-arm64.zip&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.53.0/Goose-darwin-arm64.zip",
     "expectedTeamID": "W2L75AE9HQ",
     "label": "goose",
     "name": "Goose",

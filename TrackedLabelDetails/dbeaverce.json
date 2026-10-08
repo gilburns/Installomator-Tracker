@@ -5,7 +5,7 @@
     "blockingProcesses": [
       "dbeaver"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/44662669/b65ed20a-0a2f-4014-8d22-5bf4361bf3b5?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A28%3A00Z&rscd=attachment%3B+filename%3Ddbeaver-ce-26.1.1-macos-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A27%3A20Z&ske=2026-07-03T16%3A28%3A00Z&sks=b&skv=2018-11-09&sig=Nhww6sThJPTXbe2slQ90%2F3U1%2BlFg5Dx39Ca7DGaY6ys%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NjkyNCwibmJmIjoxNzgzMDkzMzI0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.s0cOuoa8ZLjhZYkTwLVqnWh5BJn2oVL06lDOjhWclN0&response-content-disposition=attachment%3B%20filename%3Ddbeaver-ce-26.1.1-macos-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/dbeaver/dbeaver/releases/download/26.1.1/dbeaver-ce-26.1.1-macos-aarch64.dmg",
     "expectedTeamID": "42B6MDKMW8",
     "label": "dbeaverce",
     "name": "DBeaver",
@@ -18,7 +18,7 @@
     "blockingProcesses": [
       "dbeaver"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/44662669/b7378a50-49eb-4a7a-8643-57f91d662138?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-05T19%3A02%3A33Z&rscd=attachment%3B+filename%3Ddbeaver-ce-26.1.2-macos-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-05T18%3A02%3A08Z&ske=2026-07-05T19%3A02%3A33Z&sks=b&skv=2018-11-09&sig=AQOnVraC%2F3yZ5jvdNE4wqwSkJMf992hivbWtx8r8Qtw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzI3OTcxMywibmJmIjoxNzgzMjc2MTEzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.qXoEHa3w48xqLw64wwWJsyyxw9_aFFS84gkwv4QSndQ&response-content-disposition=attachment%3B%20filename%3Ddbeaver-ce-26.1.2-macos-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/dbeaver/dbeaver/releases/download/26.1.2/dbeaver-ce-26.1.2-macos-aarch64.dmg",
     "expectedTeamID": "42B6MDKMW8",
     "label": "dbeaverce",
     "name": "DBeaver",
@@ -31,7 +31,7 @@
     "blockingProcesses": [
       "dbeaver"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/44662669/5c9552eb-7d64-444d-891c-1d2cc845b103?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-19T19%3A11%3A04Z&rscd=attachment%3B+filename%3Ddbeaver-ce-26.1.3-macos-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-19T18%3A10%3A44Z&ske=2026-07-19T19%3A11%3A04Z&sks=b&skv=2018-11-09&sig=lp898EC2UB1tjFPVXCxU1TKFurODt8OAOPsBBLmAd7o%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDQ4OTAyNCwibmJmIjoxNzg0NDg1NDI0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.2AVcVmXLz-Gz3U0W6Q3Q7f8dCpJ1IveMoJ-m4FqQmhk&response-content-disposition=attachment%3B%20filename%3Ddbeaver-ce-26.1.3-macos-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/dbeaver/dbeaver/releases/download/26.1.3/dbeaver-ce-26.1.3-macos-aarch64.dmg",
     "expectedTeamID": "42B6MDKMW8",
     "label": "dbeaverce",
     "name": "DBeaver",
@@ -44,7 +44,7 @@
     "blockingProcesses": [
       "dbeaver"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/44662669/c4dbdcdd-0fbf-4ded-b303-40d277ea860c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-02T19%3A15%3A40Z&rscd=attachment%3B+filename%3Ddbeaver-ce-26.1.4-macos-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-02T18%3A14%3A43Z&ske=2026-08-02T19%3A15%3A40Z&sks=b&skv=2018-11-09&sig=GFqqCTR7N9cGv9PiVifR4VrN8Nc%2Bx6QyEIclILWlbCQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTY5ODc4NSwibmJmIjoxNzg1Njk1MTg1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.h7KKlmnm8Hpu2P5BqhdDa4mqpvIKMutwYmd6_VLuxYc&response-content-disposition=attachment%3B%20filename%3Ddbeaver-ce-26.1.4-macos-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/dbeaver/dbeaver/releases/download/26.1.4/dbeaver-ce-26.1.4-macos-aarch64.dmg",
     "expectedTeamID": "42B6MDKMW8",
     "label": "dbeaverce",
     "name": "DBeaver",
@@ -57,7 +57,7 @@
     "blockingProcesses": [
       "dbeaver"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/44662669/bb1ebd90-def2-4e3e-886a-d9f3ca97a144?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-17T07%3A09%3A28Z&rscd=attachment%3B+filename%3Ddbeaver-ce-26.1.5-macos-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-17T06%3A08%3A55Z&ske=2026-08-17T07%3A09%3A28Z&sks=b&skv=2018-11-09&sig=Ba9oObpWLJ8a57zjMjVrFPwgWpuvZO48X6w0llTJsGc%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4Njk1MTAwOSwibmJmIjoxNzg2OTQ3NDA5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Ctk-bRkREtL6hHhq0np647Nnl1SDBO6IpDfIlrbBt80&response-content-disposition=attachment%3B%20filename%3Ddbeaver-ce-26.1.5-macos-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/dbeaver/dbeaver/releases/download/26.1.5/dbeaver-ce-26.1.5-macos-aarch64.dmg",
     "expectedTeamID": "42B6MDKMW8",
     "label": "dbeaverce",
     "name": "DBeaver",
@@ -70,7 +70,7 @@
     "blockingProcesses": [
       "dbeaver"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/44662669/54977757-a2d5-46cc-b5ab-d1bb46baf0e7?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-30T19%3A07%3A21Z&rscd=attachment%3B+filename%3Ddbeaver-ce-26.2.0-macos-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-30T18%3A06%3A53Z&ske=2026-08-30T19%3A07%3A21Z&sks=b&skv=2018-11-09&sig=gtvKIDwzvZfiPQjxn5HRooMnx7f1yKRqx%2FVnZaetJws%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODExNzIwMCwibmJmIjoxNzg4MTEzNjAwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.tnepS7iIJdwcbkoXmtTy4Upd-SxqkafgCxPlC2GiqmE&response-content-disposition=attachment%3B%20filename%3Ddbeaver-ce-26.2.0-macos-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/dbeaver/dbeaver/releases/download/26.2.0/dbeaver-ce-26.2.0-macos-aarch64.dmg",
     "expectedTeamID": "42B6MDKMW8",
     "label": "dbeaverce",
     "name": "DBeaver",
@@ -83,7 +83,7 @@
     "blockingProcesses": [
       "dbeaver"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/44662669/9dd3b9c3-cd5f-45fd-b552-c5397d78bd73?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-21T07%3A00%3A16Z&rscd=attachment%3B+filename%3Ddbeaver-ce-26.2.1-macos-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-21T05%3A59%3A39Z&ske=2026-09-21T07%3A00%3A16Z&sks=b&skv=2018-11-09&sig=KFswlqIG7siXisi3exDoTPHHYS3%2Bqf3aIm%2FqDRSwRNk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTk3NTM4OCwibmJmIjoxNzg5OTcxNzg4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.NooAZI0uWrLhjlYpvd7hmD7P0SIP0nH1t6pIEMGp0JE&response-content-disposition=attachment%3B%20filename%3Ddbeaver-ce-26.2.1-macos-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/dbeaver/dbeaver/releases/download/26.2.1/dbeaver-ce-26.2.1-macos-aarch64.dmg",
     "expectedTeamID": "42B6MDKMW8",
     "label": "dbeaverce",
     "name": "DBeaver",
@@ -96,7 +96,7 @@
     "blockingProcesses": [
       "dbeaver"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/44662669/dad979be-fae6-4ad6-8812-f51faa1586c1?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-05T07%3A23%3A34Z&rscd=attachment%3B+filename%3Ddbeaver-ce-26.2.2-macos-aarch64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-05T06%3A23%3A27Z&ske=2026-10-05T07%3A23%3A34Z&sks=b&skv=2018-11-09&sig=Cgdr3Lip%2FoELy9PkVTxvp9Zx8us6akemGWFsiIi1NSg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTE4NTI1MSwibmJmIjoxNzkxMTgxNjUxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Px5CViszCiq77P9pCw9efzfr7HSd3KxRLnkbJYqipNY&response-content-disposition=attachment%3B%20filename%3Ddbeaver-ce-26.2.2-macos-aarch64.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/dbeaver/dbeaver/releases/download/26.2.2/dbeaver-ce-26.2.2-macos-aarch64.dmg",
     "expectedTeamID": "42B6MDKMW8",
     "label": "dbeaverce",
     "name": "DBeaver",

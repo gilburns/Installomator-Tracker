@@ -5,7 +5,7 @@
     "blockingProcesses": [
       "NONE"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/295764062/a7e215d2-94d1-4cb6-bcd8-b0a9146f836d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A44%3A32Z&rscd=attachment%3B+filename%3DSupport.3.0.3.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A43%3A39Z&ske=2026-07-03T16%3A44%3A32Z&sks=b&skv=2018-11-09&sig=D%2BbRgyK8X7mDJSt7ANyBiIgVQAj%2BpXVWxe%2BR4osZpb8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NTAxOCwibmJmIjoxNzgzMDk0NzE4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.IBYjlXrof5TqzsAvQIibdl_AeZXISlbH54ckro1NBDw&response-content-disposition=attachment%3B%20filename%3DSupport.3.0.3.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/root3nl/SupportApp/releases/download/v3.0.3/Support.3.0.3.pkg",
     "expectedTeamID": "98LJ4XBGYK",
     "label": "supportapp",
     "name": "Support",
@@ -18,7 +18,7 @@
     "blockingProcesses": [
       "NONE"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/295764062/eb5b2a9c-7adb-47c3-b763-5b55a3ec2888?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-28T19%3A52%3A04Z&rscd=attachment%3B+filename%3DSupport.3.0.4.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-28T18%3A51%3A12Z&ske=2026-07-28T19%3A52%3A04Z&sks=b&skv=2018-11-09&sig=2AvOvWPYhrCgWPv06CB0037BwHxhbMiDaYzy3YWEu1M%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI2NTM4NSwibmJmIjoxNzg1MjY1MDg1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.-Iu7SdmSeF0ImlMOlKQwjvCnJvh6H96PUPJ25gJA2fI&response-content-disposition=attachment%3B%20filename%3DSupport.3.0.4.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/root3nl/SupportApp/releases/download/v3.0.4/Support.3.0.4.pkg",
     "expectedTeamID": "98LJ4XBGYK",
     "label": "supportapp",
     "name": "Support",
@@ -31,7 +31,7 @@
     "blockingProcesses": [
       "NONE"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/295764062/050aceb7-6fa6-4231-a42c-f754af52e995?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-04T19%3A38%3A59Z&rscd=attachment%3B+filename%3DSupport.3.0.5.pkg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-04T18%3A38%3A37Z&ske=2026-08-04T19%3A38%3A59Z&sks=b&skv=2018-11-09&sig=dmt9qfSqTFqmJ%2FuFKNgFAdsWO9NnLbTCKIq%2FYv1xVR0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg2OTgyNCwibmJmIjoxNzg1ODY5NTI0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.0yDBnMyu2nqK1D00gK6tz-SPkXzr9YflaioeCjsqc90&response-content-disposition=attachment%3B%20filename%3DSupport.3.0.5.pkg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/root3nl/SupportApp/releases/download/v3.0.5/Support.3.0.5.pkg",
     "expectedTeamID": "98LJ4XBGYK",
     "label": "supportapp",
     "name": "Support",

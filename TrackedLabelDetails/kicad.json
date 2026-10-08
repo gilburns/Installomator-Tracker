@@ -11,7 +11,7 @@
       "pcbnew",
       "eeschema"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/14849992/d3e33ac1-fa00-4b7b-9cf0-e94c84f567d8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A30%3A06Z&rscd=attachment%3B+filename%3Dkicad-unified-universal-10.0.4.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A17Z&ske=2026-07-03T16%3A30%3A06Z&sks=b&skv=2018-11-09&sig=l8PRzG1V0VKLNczfr6RoQ0hoYoxNIxITneLWfCk3AIM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzQ2MCwibmJmIjoxNzgzMDkzODYwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.4unyASXfaFWwuD1Q9eB11C1i-jEHRuOusZ_gQWuMyJ8&response-content-disposition=attachment%3B%20filename%3Dkicad-unified-universal-10.0.4.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.4/kicad-unified-universal-10.0.4.dmg",
     "expectedTeamID": "9FQDHNY6U2",
     "label": "kicad",
     "name": "KiCad",
@@ -30,7 +30,7 @@
       "pcbnew",
       "eeschema"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/14849992/4b69ac3f-09ef-408c-8ccd-d20f71251c37?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-22T19%3A28%3A01Z&rscd=attachment%3B+filename%3Dkicad-unified-universal-10.0.5.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-22T18%3A27%3A55Z&ske=2026-07-22T19%3A28%3A01Z&sks=b&skv=2018-11-09&sig=kI5sC3h%2FeWFu71YV5WNc6ELmsmxySIbSrWhH2FF%2F7N0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDc0OTM2OSwibmJmIjoxNzg0NzQ1NzY5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.4R-x7BanD_PfsGzrEM4FO_-WzdL78hwWI-eaxm9zCwI&response-content-disposition=attachment%3B%20filename%3Dkicad-unified-universal-10.0.5.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.5/kicad-unified-universal-10.0.5.dmg",
     "expectedTeamID": "9FQDHNY6U2",
     "label": "kicad",
     "name": "KiCad",

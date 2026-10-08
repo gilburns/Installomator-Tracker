@@ -18,7 +18,7 @@
     "blockingProcesses": [
       "NONE"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/39591651/dc0aae00-b13a-40da-94bc-c40f893b1988?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-01T08%3A13%3A32Z&rscd=attachment%3B+filename%3DSafeExamBrowser-3.7.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-01T07%3A12%3A58Z&ske=2026-08-01T08%3A13%3A32Z&sks=b&skv=2018-11-09&sig=BYu0OzxpKs0nNLzJogZTSs3vQovTT4de578XhdO6fiM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU3MDMzNSwibmJmIjoxNzg1NTY4NTM1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Ci8lwp0g2s_3D02GxsC3F8nNZqUOdVEYYNEDhSH8zjs&response-content-disposition=attachment%3B%20filename%3DSafeExamBrowser-3.7.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/SafeExamBrowser/seb-mac/releases/download/3.7/SafeExamBrowser-3.7.dmg",
     "expectedTeamID": "6F38DNSC7X",
     "label": "safeexambrowser",
     "name": "Safe Exam Browser",
@@ -31,7 +31,7 @@
     "blockingProcesses": [
       "NONE"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/39591651/094fe57d-63a6-4d64-8a52-84a8a7e9535d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-10T07%3A31%3A28Z&rscd=attachment%3B+filename%3DSafeExamBrowser-3.7.1.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-10T06%3A30%3A54Z&ske=2026-09-10T07%3A31%3A28Z&sks=b&skv=2018-11-09&sig=HQ3W0AeJj1MbP80CXE8NhS7v8u8MBaB2bVxNvj1Af8E%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTAyMzg0NSwibmJmIjoxNzg5MDIyMDQ1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.KePJjLzspqHykQ_Gmta7K-uj90fBj3Sqq2Sryhs1oek&response-content-disposition=attachment%3B%20filename%3DSafeExamBrowser-3.7.1.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/SafeExamBrowser/seb-mac/releases/download/3.7.1/SafeExamBrowser-3.7.1.dmg",
     "expectedTeamID": "6F38DNSC7X",
     "label": "safeexambrowser",
     "name": "Safe Exam Browser",

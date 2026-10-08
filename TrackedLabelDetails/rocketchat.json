@@ -5,7 +5,7 @@
     "blockingProcesses": [
       "Rocket.Chat"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/38767563/068b4f33-81f1-4c8d-a7da-2b4db6508175?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A57%3A19Z&rscd=attachment%3B+filename%3Drocketchat-4.15.2-mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A56%3A58Z&ske=2026-07-03T16%3A57%3A19Z&sks=b&skv=2018-11-09&sig=BBMtEIyBtp5pI6Nztdgi9f8C8dWKhu17fw9L3alpkfE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5ODE5MSwibmJmIjoxNzgzMDk0NTkxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.zI79zMIDlmVFoTV7B1eLtHrcWEqPXqXcDOwtVi6E28U&response-content-disposition=attachment%3B%20filename%3Drocketchat-4.15.2-mac.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.15.2/rocketchat-4.15.2-mac.dmg",
     "expectedTeamID": "S6UPZG7ZR3",
     "label": "rocketchat",
     "name": "Rocket.Chat",
@@ -18,7 +18,7 @@
     "blockingProcesses": [
       "Rocket.Chat"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/38767563/087ca52c-b908-4d38-bc1f-9be45f044ec5?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-10T08%3A09%3A54Z&rscd=attachment%3B+filename%3Drocketchat-4.15.3-mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-10T07%3A09%3A48Z&ske=2026-07-10T08%3A09%3A54Z&sks=b&skv=2018-11-09&sig=lC7%2B4u%2FVuoBnuz%2Bd82ZhrrMqUGXW8Yp6mgNK0XccFHI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzY3MjMzOCwibmJmIjoxNzgzNjY4NzM4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.4ffj8D333G4xnpoTg8MD29rAg04enpCdQVwtYMLkmyg&response-content-disposition=attachment%3B%20filename%3Drocketchat-4.15.3-mac.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.15.3/rocketchat-4.15.3-mac.dmg",
     "expectedTeamID": "S6UPZG7ZR3",
     "label": "rocketchat",
     "name": "Rocket.Chat",
@@ -31,7 +31,7 @@
     "blockingProcesses": [
       "Rocket.Chat"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/38767563/5c20b8e1-4b59-43e2-86b4-88af78923a7b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-14T07%3A41%3A42Z&rscd=attachment%3B+filename%3Drocketchat-4.15.4-mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-14T06%3A41%3A16Z&ske=2026-07-14T07%3A41%3A42Z&sks=b&skv=2018-11-09&sig=CaxD1ln1Y1ZhVIlEAQIkC0sl1wnUtLUjDZnbwHF3Yww%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDAxNjI4NCwibmJmIjoxNzg0MDEyNjg0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.OMJU3iDTuhHlCIhFdm9yy2LdxhlIQW6w-dEBrhbT9nw&response-content-disposition=attachment%3B%20filename%3Drocketchat-4.15.4-mac.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.15.4/rocketchat-4.15.4-mac.dmg",
     "expectedTeamID": "S6UPZG7ZR3",
     "label": "rocketchat",
     "name": "Rocket.Chat",
@@ -44,7 +44,7 @@
     "blockingProcesses": [
       "Rocket.Chat"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/38767563/f6ee1498-56f2-408a-8ded-71dd5e19ebd2?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-16T08%3A02%3A36Z&rscd=attachment%3B+filename%3Drocketchat-4.15.5-mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-16T07%3A01%3A57Z&ske=2026-07-16T08%3A02%3A36Z&sks=b&skv=2018-11-09&sig=id5B%2BXt%2BgfiFAvmWII8hKlMJL34trkCK5pVC7wHDIMk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDE4OTI3MiwibmJmIjoxNzg0MTg1NjcyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.qS4tDzux-EYdQlUrQN5ut-uGBf-NKUn589-xMgmMgYM&response-content-disposition=attachment%3B%20filename%3Drocketchat-4.15.5-mac.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.15.5/rocketchat-4.15.5-mac.dmg",
     "expectedTeamID": "S6UPZG7ZR3",
     "label": "rocketchat",
     "name": "Rocket.Chat",
@@ -57,7 +57,7 @@
     "blockingProcesses": [
       "Rocket.Chat"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/38767563/04e04e9a-253e-4540-91fa-0d3502213642?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-17T08%3A02%3A49Z&rscd=attachment%3B+filename%3Drocketchat-4.15.6-mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-17T07%3A02%3A09Z&ske=2026-07-17T08%3A02%3A49Z&sks=b&skv=2018-11-09&sig=U4FSFpe8RdYI7cOYiEKpthvBhrLYyZBbc8bWXhXwfVw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDI3NjAzOSwibmJmIjoxNzg0MjcyNDM5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.fbbw8d6f_9avM_4Xh6xrThVnXpeliHAvrDJrlXBmSPI&response-content-disposition=attachment%3B%20filename%3Drocketchat-4.15.6-mac.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.15.6/rocketchat-4.15.6-mac.dmg",
     "expectedTeamID": "S6UPZG7ZR3",
     "label": "rocketchat",
     "name": "Rocket.Chat",
@@ -70,7 +70,7 @@
     "blockingProcesses": [
       "Rocket.Chat"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/38767563/4457aeb4-9af6-441e-be61-2abc25aff380?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-11T07%3A15%3A43Z&rscd=attachment%3B+filename%3Drocketchat-4.16.0-mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-11T06%3A15%3A06Z&ske=2026-08-11T07%3A15%3A43Z&sks=b&skv=2018-11-09&sig=3q5ch1dhfzDMnfgzZAqXV6cE2ghWeVZNgkjN7Knf2js%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjQzNDAyOCwibmJmIjoxNzg2NDMwNDI4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ZQpPX2A7D6rAxlWLYFQYL2hNosKnnRndwJswEloEQKE&response-content-disposition=attachment%3B%20filename%3Drocketchat-4.16.0-mac.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.16.0/rocketchat-4.16.0-mac.dmg",
     "expectedTeamID": "S6UPZG7ZR3",
     "label": "rocketchat",
     "name": "Rocket.Chat",
@@ -83,7 +83,7 @@
     "blockingProcesses": [
       "Rocket.Chat"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/38767563/0ac13b6c-e902-438c-a0f9-6a57b429b074?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-01T07%3A26%3A52Z&rscd=attachment%3B+filename%3Drocketchat-4.17.0-mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-01T06%3A25%3A58Z&ske=2026-09-01T07%3A26%3A52Z&sks=b&skv=2018-11-09&sig=Wdd0JX%2Bcr3Up6nBKhxhZv2MUswlhTj9D56Z%2FeYyhjFw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODI0NzkwNiwibmJmIjoxNzg4MjQ0MzA2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.XgUX0kq4Y2yeXjeE7rBnwqezQNyl7inFewN471G65nw&response-content-disposition=attachment%3B%20filename%3Drocketchat-4.17.0-mac.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.17.0/rocketchat-4.17.0-mac.dmg",
     "expectedTeamID": "S6UPZG7ZR3",
     "label": "rocketchat",
     "name": "Rocket.Chat",
@@ -96,7 +96,7 @@
     "blockingProcesses": [
       "Rocket.Chat"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/38767563/968df21b-ed1c-4fc8-85a7-b8a71595b470?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-15T07%3A20%3A20Z&rscd=attachment%3B+filename%3Drocketchat-4.17.1-mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-15T06%3A19%3A30Z&ske=2026-09-15T07%3A20%3A20Z&sks=b&skv=2018-11-09&sig=FNJXiERfNzTJVWM1FoxLfA9J4R%2Fx%2B5EQwYqN4JqM%2BeA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTQ1ODAxNCwibmJmIjoxNzg5NDU0NDE0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.329s3z7swRgHQT6oVAfohqKFW37hxLzK9yTG6vuvtdg&response-content-disposition=attachment%3B%20filename%3Drocketchat-4.17.1-mac.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.17.1/rocketchat-4.17.1-mac.dmg",
     "expectedTeamID": "S6UPZG7ZR3",
     "label": "rocketchat",
     "name": "Rocket.Chat",
@@ -109,7 +109,7 @@
     "blockingProcesses": [
       "Rocket.Chat"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/38767563/a0c580b6-1450-4d64-91a2-ece5d812d259?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-23T07%3A14%3A17Z&rscd=attachment%3B+filename%3Drocketchat-4.17.2-mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-23T06%3A13%3A32Z&ske=2026-09-23T07%3A14%3A17Z&sks=b&skv=2018-11-09&sig=tK6mE0nyXQAIpzdKneziDZGY0kh5BJEKA3mJ4qbUPkE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDE0ODg4NSwibmJmIjoxNzkwMTQ1Mjg1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.uc7cwRrdx23lcc3YXN4gkDCB3ajBlFZq4smywru0kRM&response-content-disposition=attachment%3B%20filename%3Drocketchat-4.17.2-mac.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.17.2/rocketchat-4.17.2-mac.dmg",
     "expectedTeamID": "S6UPZG7ZR3",
     "label": "rocketchat",
     "name": "Rocket.Chat",
@@ -122,7 +122,7 @@
     "blockingProcesses": [
       "Rocket.Chat"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/38767563/f410e579-4226-4953-905d-537867b00d4c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-26T07%3A13%3A18Z&rscd=attachment%3B+filename%3Drocketchat-4.17.3-mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-26T06%3A12%3A52Z&ske=2026-09-26T07%3A13%3A18Z&sks=b&skv=2018-11-09&sig=Wd52K7zgMMcdbdnowAr1NqzheibTZgXfhvwKAcRE3Qg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDQwNzgyOCwibmJmIjoxNzkwNDA0MjI4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.BJidzAPqMsohAP0GeN8bPniqF2t40zfBxofy1u4ien4&response-content-disposition=attachment%3B%20filename%3Drocketchat-4.17.3-mac.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.17.3/rocketchat-4.17.3-mac.dmg",
     "expectedTeamID": "S6UPZG7ZR3",
     "label": "rocketchat",
     "name": "Rocket.Chat",
@@ -135,7 +135,7 @@
     "blockingProcesses": [
       "Rocket.Chat"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/38767563/a43551b1-c018-4954-a6f6-ef502d713950?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-01T19%3A21%3A41Z&rscd=attachment%3B+filename%3Drocketchat-4.17.4-mac.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-01T18%3A20%3A54Z&ske=2026-10-01T19%3A21%3A41Z&sks=b&skv=2018-11-09&sig=lydBtRI2ydSyttqbQIV9ksMZXUdpUNjU1lirbWwEJRo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDg4MzMzNywibmJmIjoxNzkwODc5NzM3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.9AleOmsnrlaOUmc2ZMCEm5VdSs77ejsaeLWfZLUskMc&response-content-disposition=attachment%3B%20filename%3Drocketchat-4.17.4-mac.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.17.4/rocketchat-4.17.4-mac.dmg",
     "expectedTeamID": "S6UPZG7ZR3",
     "label": "rocketchat",
     "name": "Rocket.Chat",

@@ -5,7 +5,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/fae5a7de-97c2-4087-a625-82449d987b2a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-03T16%3A29%3A52Z&rscd=attachment%3B+filename%3Ddraw.io-universal-30.2.6.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-03T15%3A29%3A17Z&ske=2026-07-03T16%3A29%3A52Z&sks=b&skv=2018-11-09&sig=fZDAqWsZjKMQmd6Vpx%2BAR4iwewE1epLruEuSJDpVJ5k%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzA5NzA3NywibmJmIjoxNzgzMDkzNDc3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.6j9fT2Cc0OeNlIJrTjsvYW3xXBkEy7Pty6ae8EztQPc&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-30.2.6.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v30.2.6/draw.io-universal-30.2.6.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -18,7 +18,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/0869b62b-524b-40ed-9da1-989fcfe6b970?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-10T08%3A10%3A42Z&rscd=attachment%3B+filename%3Ddraw.io-universal-30.3.6.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-10T07%3A10%3A28Z&ske=2026-07-10T08%3A10%3A42Z&sks=b&skv=2018-11-09&sig=89mUBq6t%2FIyEljUzWfYVxZ1mzt0oaq8dNb1JVqtLeSU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzY3MTQ3NSwibmJmIjoxNzgzNjY3ODc1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.o-1B-zgdiH4WbqaNar6T_p-4K7tutuLqCMI-xSuOYbo&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-30.3.6.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v30.3.6/draw.io-universal-30.3.6.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -31,7 +31,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/2e5dfc78-b324-43c6-b83a-71b34cc301fd?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-14T19%3A23%3A20Z&rscd=attachment%3B+filename%3Ddraw.io-universal-30.3.11.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-14T18%3A22%3A31Z&ske=2026-07-14T19%3A23%3A20Z&sks=b&skv=2018-11-09&sig=KPrGj6N6DcV6OhV2No%2FEMvNvhz4uUIIlZeS8CztX3dE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDA1NzQ3MSwibmJmIjoxNzg0MDUzODcxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.RnPCqNdgIz0UgTVVDhBGtC_w09rY35PPU3VtKTa7jdQ&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-30.3.11.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v30.3.11/draw.io-universal-30.3.11.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -44,7 +44,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/79626820-db8c-4924-9465-86c7df8b324c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-16T19%3A19%3A50Z&rscd=attachment%3B+filename%3Ddraw.io-universal-30.3.13.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-16T18%3A19%3A08Z&ske=2026-07-16T19%3A19%3A50Z&sks=b&skv=2018-11-09&sig=aLei9dGzqs4ItF%2BEnCLdDBITKOQoRqDaGzXuhADmFw4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDIzMDI2NSwibmJmIjoxNzg0MjI2NjY1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.g7hlZEk-eivpwV0yEygS--x6ZX4pCGt7bhulDDB5yZo&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-30.3.13.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v30.3.13/draw.io-universal-30.3.13.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -57,7 +57,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/3742609b-f2d0-4ae1-a79d-ce1c63ef45ca?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-18T07%3A43%3A17Z&rscd=attachment%3B+filename%3Ddraw.io-universal-30.3.14.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-18T06%3A43%3A17Z&ske=2026-07-18T07%3A43%3A17Z&sks=b&skv=2018-11-09&sig=FpyWFBAOaxtcSGoHziyRAhAfpMxadXNfaRDi1CXf3xU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDM2MDg2MCwibmJmIjoxNzg0MzU3MjYwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.u6Q5wQWR7FvjdF8fbEWLonY1xiRQScie4ztiCRGougk&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-30.3.14.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v30.3.14/draw.io-universal-30.3.14.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -70,7 +70,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/9915ac56-fbfe-4259-8073-47bed74f22b5?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-22T07%3A55%3A48Z&rscd=attachment%3B+filename%3Ddraw.io-universal-30.4.1.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-22T06%3A55%3A43Z&ske=2026-07-22T07%3A55%3A48Z&sks=b&skv=2018-11-09&sig=kqRJ07LoFlNKjK%2F1jevrg6aC0F9I2HRcOp22%2FL6Hes0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDcwNzE2MywibmJmIjoxNzg0NzAzNTYzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.IUyg8E0sCmDNbeN6RiODIzbJKYGtlzx2GkQCNnE57VU&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-30.4.1.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v30.4.1/draw.io-universal-30.4.1.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -83,7 +83,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/d44720dc-bee0-4dcd-81fe-7fabfa7e3035?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-24T19%3A29%3A33Z&rscd=attachment%3B+filename%3Ddraw.io-universal-31.0.2.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-24T18%3A29%3A21Z&ske=2026-07-24T19%3A29%3A33Z&sks=b&skv=2018-11-09&sig=9%2BEBXSSv2WPlHZ5EUY3p12Cxc6vZ7DJxqEvGHASzRrE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDkyMTgyNywibmJmIjoxNzg0OTE4MjI3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.K6_EaUy2lcllTSiH4HcDtM7IKZLa3NOYg-cJEW5839s&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-31.0.2.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v31.0.2/draw.io-universal-31.0.2.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -96,7 +96,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/cf57d154-89bd-4ffe-a74e-c084f555d582?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-30T19%3A14%3A34Z&rscd=attachment%3B+filename%3Ddraw.io-universal-31.1.5.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-30T18%3A13%3A37Z&ske=2026-07-30T19%3A14%3A34Z&sks=b&skv=2018-11-09&sig=dsnEjZUSBpxMokz9nUffGQM3cwfS%2ByhNzLmvTRQvdQg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ0MDI1OSwibmJmIjoxNzg1NDM2NjU5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.cUPbImEZMPY9zt7kOO-b3uDTUflv9wKXFqjQY5DvAbU&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-31.1.5.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v31.1.5/draw.io-universal-31.1.5.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -109,7 +109,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/25e6d843-e34d-4e6b-bf2e-2ab8b83b6d8b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-07T19%3A03%3A35Z&rscd=attachment%3B+filename%3Ddraw.io-universal-31.1.8.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-07T18%3A03%3A30Z&ske=2026-08-07T19%3A03%3A35Z&sks=b&skv=2018-11-09&sig=mOiku%2BjYkXU6uqKmansOWqRpllWl4gb4EPm6qffpCZs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjEzMDYxNiwibmJmIjoxNzg2MTI3MDE2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.6FN3TS5upqBhrmRtddTG74eST-lx9SsqJcx8nANQkVE&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-31.1.8.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-universal-31.1.8.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -122,7 +122,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/7c3468c8-0dcc-4597-bc74-42279b838321?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-21T19%3A00%3A05Z&rscd=attachment%3B+filename%3Ddraw.io-universal-31.3.1.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-21T17%3A59%3A36Z&ske=2026-08-21T19%3A00%3A05Z&sks=b&skv=2018-11-09&sig=lmZrfDsDo8xXJSsb7Zko2yxFJbRrEBrFvJdJbCzi0D0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzMzOTYwMiwibmJmIjoxNzg3MzM2MDAyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.9vfWqnF47bRQV1pwRS0SjYyC94Eh4lpANCq7riR7fUk&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-31.3.1.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-universal-31.3.1.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -135,7 +135,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/5d731bdc-f726-4758-a96d-b02b3a2abcb3?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-22T19%3A05%3A18Z&rscd=attachment%3B+filename%3Ddraw.io-universal-31.3.2.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-22T18%3A04%3A56Z&ske=2026-08-22T19%3A05%3A18Z&sks=b&skv=2018-11-09&sig=C9QOf5rCfecS5MxocaAXzDV%2FeO89nry3f6OZQoEpXLU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NzQyNTkzNiwibmJmIjoxNzg3NDIyMzM2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ElP5sfJT7ML1i7Qe5EFYCr3AF1h11qq6hzqBt2FpSWA&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-31.3.2.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v31.3.2/draw.io-universal-31.3.2.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -148,7 +148,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/3d3f927d-3091-4df2-9450-302450e34ec9?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-04T19%3A19%3A09Z&rscd=attachment%3B+filename%3Ddraw.io-universal-31.4.2.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-04T18%3A18%3A22Z&ske=2026-09-04T19%3A19%3A09Z&sks=b&skv=2018-11-09&sig=ngUSLjVafQ5TTsYAzTzMW7u7HHVaUauC9b28e1DVlSM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODU0OTYxNiwibmJmIjoxNzg4NTQ2MDE2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.XgpSa8Q9t1cQms8Kzz0QeFylcFujUlu_CSCoWD2AhIE&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-31.4.2.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-universal-31.4.2.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -161,7 +161,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/7f0d3b28-3be1-46ed-9b91-0611eecdc37e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-06T19%3A09%3A19Z&rscd=attachment%3B+filename%3Ddraw.io-universal-31.4.4.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-06T18%3A08%3A28Z&ske=2026-09-06T19%3A09%3A19Z&sks=b&skv=2018-11-09&sig=1rQpLFICwIhIwAVIMqldZWsR6mljUz1VZL651GbJRpY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODcyMjA4MSwibmJmIjoxNzg4NzE4NDgxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.YS0a-AE4emLNXw-SJ0zGsnPbeapYH1WYkxS8kT5YtMg&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-31.4.4.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v31.4.4/draw.io-universal-31.4.4.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -174,7 +174,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/641198b9-96fd-475b-9095-7c296028a5c5?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-09T06%3A57%3A53Z&rscd=attachment%3B+filename%3Ddraw.io-universal-31.4.5.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-09T05%3A57%3A11Z&ske=2026-09-09T06%3A57%3A53Z&sks=b&skv=2018-11-09&sig=HDMMQfeoEyn36YYr9vFyhKvCzPzsK4pivnzPm2qVfok%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODkzODM4MCwibmJmIjoxNzg4OTM0NzgwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.4uJ-pJrwknHTvbzlWyQpGlmSHXkySbjCjnXnuV3yoFc&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-31.4.5.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-universal-31.4.5.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -187,7 +187,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/be2ef479-5821-46c2-b45a-aa1ffd46e3fd?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-25T07%3A04%3A43Z&rscd=attachment%3B+filename%3Ddraw.io-universal-31.5.2.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-25T06%3A04%3A39Z&ske=2026-09-25T07%3A04%3A43Z&sks=b&skv=2018-11-09&sig=PAo0IfjwIsudSKguNSwRE9BmDGJLaP%2BWuYcAL%2FMi9aE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDMyMDg5NSwibmJmIjoxNzkwMzE3Mjk1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.WCyYQWvkyx2hSHgc5MBOkNaU23SelQQJrOkwpkCtHCI&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-31.5.2.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v31.5.2/draw.io-universal-31.5.2.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -200,7 +200,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/8b02bf88-ffd0-4827-bf52-3be1204856b2?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-26T19%3A13%3A36Z&rscd=attachment%3B+filename%3Ddraw.io-universal-31.5.3.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-26T18%3A13%3A27Z&ske=2026-09-26T19%3A13%3A36Z&sks=b&skv=2018-11-09&sig=WEP5bwhCDmuFjJF13E%2FHL1SJEQnj2ZS8i%2FnqUWRmC6w%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDQ1MDA0OSwibmJmIjoxNzkwNDQ2NDQ5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.6RCj_5OtUIWzxaKVZZjG0YmjHEtC4Gw-jFEXJZwskzw&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-31.5.3.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v31.5.3/draw.io-universal-31.5.3.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -213,7 +213,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/31ef1277-55f4-4f47-a364-5efb787defef?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-02T19%3A13%3A40Z&rscd=attachment%3B+filename%3Ddraw.io-universal-31.7.0.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-02T18%3A13%3A34Z&ske=2026-10-02T19%3A13%3A40Z&sks=b&skv=2018-11-09&sig=Anq5%2BPmOjfDisbk3IwOoanp%2BlMjgM%2FltYkFrM9CRdbM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDk2ODc4MiwibmJmIjoxNzkwOTY1MTgyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.wnYRhWclqdHVpkxw-tZen47F1w6ukz_24ut6ctYKmXY&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-31.7.0.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v31.7.0/draw.io-universal-31.7.0.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
@@ -226,7 +226,7 @@
     "blockingProcesses": [
       "draw.io"
     ],
-    "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/92443980/711d7c0c-e507-424a-a95f-f2ae6c69ef18?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-07T19%3A16%3A56Z&rscd=attachment%3B+filename%3Ddraw.io-universal-32.3.0.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-07T18%3A16%3A05Z&ske=2026-10-07T19%3A16%3A56Z&sks=b&skv=2018-11-09&sig=vMBbdc4LoCXnr59wRmsxwRuGqUyfA5g8EVlyhvQo2M4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTQwMDYyNCwibmJmIjoxNzkxMzk3MDI0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.875RhfiIx4qXw1cxZAeQFuYAiWzi1fBgqvi8zrwjNoY&response-content-disposition=attachment%3B%20filename%3Ddraw.io-universal-32.3.0.dmg&response-content-type=application%2Foctet-stream",
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v32.3.0/draw.io-universal-32.3.0.dmg",
     "expectedTeamID": "UZEUFB4N53",
     "label": "drawio",
     "name": "draw.io",
