@@ -9,5 +9,16 @@
     "name": "PyMOL",
     "timeStamp": "2026-07-03T16:00:31Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.1.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://storage.googleapis.com/pymol-storage/installers/PyMOL-3.1.9_0-MacOS-arm64-py310.dmg",
+    "expectedTeamID": "26SDDJ756N",
+    "label": "pymol",
+    "name": "PyMOL",
+    "timeStamp": "2026-10-08T18:27:51Z",
+    "type": "dmg"
   }
 ]

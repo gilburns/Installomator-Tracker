@@ -108,5 +108,16 @@
     "name": "Nexus Shell",
     "timeStamp": "2026-10-01T06:32:08Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.7.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/viewer12/Nexus-Shell-Releases/releases/download/v1.7.10/Nexus-Shell-v1.7.10.dmg",
+    "expectedTeamID": "5MBFAB57U2",
+    "label": "nexusshell",
+    "name": "Nexus Shell",
+    "timeStamp": "2026-10-08T18:25:59Z",
+    "type": "dmg"
   }
 ]

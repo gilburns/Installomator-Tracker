@@ -14,5 +14,21 @@
     "name": "Google Drive File Stream",
     "timeStamp": "2026-09-25T18:19:45Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "132.0.0",
+    "blockingProcesses": [
+      "Google Docs",
+      "Google Drive",
+      "Google Sheets",
+      "Google Slides"
+    ],
+    "downloadURL": "https://dl.google.com/drive-file-stream/GoogleDrive.dmg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "googledrive",
+    "name": "Google Drive",
+    "timeStamp": "2026-10-08T18:19:40Z",
+    "type": "pkgInDmg"
   }
 ]

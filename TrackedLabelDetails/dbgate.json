@@ -9,5 +9,16 @@
     "name": "DbGate",
     "timeStamp": "2026-10-03T06:23:44Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.3.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/dbgate/dbgate/releases/download/v7.3.2/dbgate-7.3.2-mac_universal.dmg",
+    "expectedTeamID": "79WVL87KXQ",
+    "label": "dbgate",
+    "name": "DbGate",
+    "timeStamp": "2026-10-08T18:15:35Z",
+    "type": "dmg"
   }
 ]
