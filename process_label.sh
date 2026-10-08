@@ -85,6 +85,33 @@ getJSONValue() {
 }
 
 
+# Returns success if the URL carries a signed/expiring query string (GitHub
+# release-assets, S3, CloudFront, GCS, Akamai tokens, etc.). Saving one of
+# these is pointless since it stops working shortly after it's generated.
+isSignedURL() { # $1 url
+    local query="${1#*\?}"
+    [[ "$query" == "$1" ]] && return 1
+    [[ "$query" =~ '(^|&|&amp;)(sig|se|skoid|jwt|token|__token__|__gda__|hdnea|Signature|Expires|Key-Pair-Id|GoogleAccessId|AuthParam|X-Amz-[A-Za-z]+|X-Goog-[A-Za-z]+)=' ]]
+}
+
+
+# Follow redirects one hop at a time and return the last URL before any
+# signed/expiring hop, so we still resolve "latest" style links to a
+# versioned URL without saving a link that will expire.
+resolveStableURL() { # $1 url
+    local url="$1"
+    local next
+    local hops=0
+    while (( hops++ < 10 )); do
+        next=$(curl -A "$userAgent" -s -o /dev/null -w '%{redirect_url}' -r 0-0 "$url")
+        [[ -z "$next" ]] && break
+        isSignedURL "$next" && break
+        url="$next"
+    done
+    echo "$url"
+}
+
+
 cleanupAndExit() { # $1 exit code, $2 message, $3 log level
     local code="${1:-1}"
     local message="${2:-}"
@@ -129,8 +156,14 @@ labelFile=$(/bin/cat "${fullPathToLabel}")
 # Load all values in label into respective variables
 eval 'case "$label" in '"$labelFile"'; esac' >/dev/null 2>&1
 
-# Try to resolve the final URL
-downloadURL=$(curl -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15" -sL -o /dev/null -w '%{url_effective}' -r 0-0 "$downloadURL")
+userAgent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15"
+
+# Try to resolve the final URL. Labels using downloadURLFromGit already have a
+# stable github.com release URL; resolving it only yields a short-lived signed
+# release-assets link, so keep it as-is.
+if [[ "$labelFile" != *downloadURLFromGit* ]]; then
+    downloadURL=$(resolveStableURL "$downloadURL")
+fi
 
 timeStamp=$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")
 
