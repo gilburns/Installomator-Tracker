@@ -317,5 +317,16 @@
     "name": "Ollama",
     "timeStamp": "2026-10-08T06:28:53Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.40.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/ollama/ollama/releases/download/v0.40.2/Ollama-darwin.zip",
+    "expectedTeamID": "3MU9H2V9Y9",
+    "label": "ollama",
+    "name": "Ollama",
+    "timeStamp": "2026-10-09T06:28:37Z",
+    "type": "zip"
   }
 ]

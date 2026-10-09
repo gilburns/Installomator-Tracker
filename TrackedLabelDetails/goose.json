@@ -180,5 +180,18 @@
     "name": "Goose",
     "timeStamp": "2026-10-03T06:28:37Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.54.0",
+    "blockingProcesses": [
+      "Goose"
+    ],
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.54.0/Goose-darwin-arm64.zip",
+    "expectedTeamID": "W2L75AE9HQ",
+    "label": "goose",
+    "name": "Goose",
+    "timeStamp": "2026-10-09T06:22:06Z",
+    "type": "zip"
   }
 ]

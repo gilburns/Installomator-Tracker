@@ -205,6 +205,11 @@
       "lastSeen": "2026-10-07T06:15:25Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "bitwarden": {
+      "firstSeen": "2026-10-09T06:15:00Z",
+      "lastSeen": "2026-10-09T06:15:00Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "blackhole16ch": {
       "firstSeen": "2026-10-07T06:15:40Z",
       "lastSeen": "2026-10-07T06:15:40Z",
@@ -1218,6 +1223,11 @@
     "tunnelbear": {
       "firstSeen": "2026-10-07T06:43:18Z",
       "lastSeen": "2026-10-07T06:43:18Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "tunnelblick": {
+      "firstSeen": "2026-10-09T06:34:16Z",
+      "lastSeen": "2026-10-09T06:34:16Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "tuple": {

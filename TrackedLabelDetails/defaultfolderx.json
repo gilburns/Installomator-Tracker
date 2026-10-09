@@ -31,5 +31,16 @@
     "name": "Default Folder X",
     "timeStamp": "2026-09-28T06:26:08Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.3.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.stclairsoft.com/download/DefaultFolderX-6.3.2.dmg",
+    "expectedTeamID": "7HK42V8R9D",
+    "label": "defaultfolderx",
+    "name": "Default Folder X",
+    "timeStamp": "2026-10-09T06:18:51Z",
+    "type": "dmg"
   }
 ]
