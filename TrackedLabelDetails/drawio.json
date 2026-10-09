@@ -232,5 +232,18 @@
     "name": "draw.io",
     "timeStamp": "2026-10-07T18:17:04Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "32.4.1",
+    "blockingProcesses": [
+      "draw.io"
+    ],
+    "downloadURL": "https://github.com/jgraph/drawio-desktop/releases/download/v32.4.1/draw.io-universal-32.4.1.dmg",
+    "expectedTeamID": "UZEUFB4N53",
+    "label": "drawio",
+    "name": "draw.io",
+    "timeStamp": "2026-10-09T18:17:19Z",
+    "type": "dmg"
   }
 ]

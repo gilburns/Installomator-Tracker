@@ -3,11 +3,21 @@
     "appName": "",
     "appNewVersion": "2.28.0",
     "blockingProcesses": [],
-    "downloadURL": "https://desktop-release.q.us-east-1.amazonaws.com/latest/Kiro%20CLI.dmg",
     "expectedTeamID": "94KV3E626L",
     "label": "kirocli",
     "name": "Kiro CLI",
     "timeStamp": "2026-10-06T18:23:21Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.29.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop-release.q.us-east-1.amazonaws.com/latest/Kiro%20CLI.dmg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "kirocli",
+    "name": "Kiro CLI",
+    "timeStamp": "2026-10-09T18:23:32Z",
     "type": "dmg"
   }
 ]

@@ -20,5 +20,16 @@
     "name": "IK Product Manager",
     "timeStamp": "2026-09-08T18:22:12Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.1.16",
+    "blockingProcesses": [],
+    "downloadURL": "https://g1.ikmultimedia.com/plugins/ProductManager/ik_product_manager_1.1.16.dmg",
+    "expectedTeamID": "S78FW55573",
+    "label": "ikproductmanager",
+    "name": "IK Product Manager",
+    "timeStamp": "2026-10-09T18:21:17Z",
+    "type": "pkgInDmg"
   }
 ]
