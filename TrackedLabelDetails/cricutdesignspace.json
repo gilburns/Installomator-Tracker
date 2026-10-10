@@ -86,5 +86,17 @@
     "name": "Cricut Design Space",
     "timeStamp": "2026-08-24T18:16:21Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "10.6.104",
+    "blockingProcesses": [],
+    "downloadURL": "https://software.cricut.com/prod/osx-arm64/CricutDesignSpace-Install-v10.6.104.dmg",
+    "downloadURLi386": "https://software.cricut.com/prod/osx-x64/CricutDesignSpace-Install-v10.6.104.dmg",
+    "expectedTeamID": "25627ZFVT7",
+    "label": "cricutdesignspace",
+    "name": "Cricut Design Space",
+    "timeStamp": "2026-10-10T06:19:01Z",
+    "type": "dmg"
   }
 ]
