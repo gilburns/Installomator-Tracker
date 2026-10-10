@@ -255,6 +255,11 @@
       "lastSeen": "2026-10-10T06:16:10Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-10-10T18:10:58Z",
+      "lastSeen": "2026-10-10T18:10:58Z",
+      "reason": "invalid JSON output"
+    },
     "cardpresso": {
       "firstSeen": "2026-10-10T06:16:31Z",
       "lastSeen": "2026-10-10T06:16:31Z",
@@ -738,6 +743,11 @@
     "mmhmm-studio": {
       "firstSeen": "2026-10-10T06:33:29Z",
       "lastSeen": "2026-10-10T06:33:29Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "mobikinassistantforandroid": {
+      "firstSeen": "2026-10-10T18:23:18Z",
+      "lastSeen": "2026-10-10T18:23:18Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mobirise": {
@@ -1304,6 +1314,11 @@
       "firstSeen": "2026-10-10T06:44:20Z",
       "lastSeen": "2026-10-10T06:44:20Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "xeroxworkcentre7800": {
+      "firstSeen": "2026-10-10T18:32:32Z",
+      "lastSeen": "2026-10-10T18:32:32Z",
+      "reason": "resolve failed (exit 142)"
     },
     "zappy": {
       "firstSeen": "2026-10-10T06:44:30Z",

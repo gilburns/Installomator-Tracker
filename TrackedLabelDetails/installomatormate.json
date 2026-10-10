@@ -3,11 +3,21 @@
     "appName": "",
     "appNewVersion": "1.4.1",
     "blockingProcesses": [],
-    "downloadURL": "https://hennig.nu/repo/installomatormate/InstallomatorMate.zip",
     "expectedTeamID": "AGXG97HK25",
     "label": "installomatormate",
     "name": "InstallomatorMate",
     "timeStamp": "2026-10-04T19:03:07Z",
+    "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.4.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://hennig.nu/repo/installomatormate/InstallomatorMate.zip",
+    "expectedTeamID": "AGXG97HK25",
+    "label": "installomatormate",
+    "name": "InstallomatorMate",
+    "timeStamp": "2026-10-10T18:19:15Z",
     "type": "zip"
   }
 ]
