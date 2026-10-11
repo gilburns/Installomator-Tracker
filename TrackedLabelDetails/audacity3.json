@@ -1,13 +1,26 @@
 [
   {
+    "type": "dmg",
     "appName": "",
-    "appNewVersion": "3.7.9.0",
-    "blockingProcesses": [],
-    "downloadURL": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.9/audacity-macOS-3.7.9-universal.dmg",
-    "expectedTeamID": "6EPAF2X3PR",
-    "label": "audacity3",
+    "timeStamp": "2026-07-03T15:38:49Z",
+    "appNewVersion": "3.7.8.0",
+    "downloadURL": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.8/audacity-macOS-3.7.8-universal.dmg",
+    "blockingProcesses": [
+    ],
+    "label": "audacity",
     "name": "Audacity",
-    "timeStamp": "2026-09-16T06:15:56Z",
-    "type": "dmg"
+    "expectedTeamID": "AWEYX923UX"
+  },
+  {
+    "type": "dmg",
+    "appName": "",
+    "timeStamp": "2026-09-01T18:10:40Z",
+    "appNewVersion": "3.7.9.0",
+    "downloadURL": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.9/audacity-macOS-3.7.9-universal.dmg",
+    "blockingProcesses": [
+    ],
+    "label": "audacity",
+    "name": "Audacity",
+    "expectedTeamID": "AWEYX923UX"
   }
 ]
