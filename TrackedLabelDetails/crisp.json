@@ -31,5 +31,16 @@
     "name": "Crisp",
     "timeStamp": "2026-10-06T06:19:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.7.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/didriksg/Crisp/releases/download/v1.7.1/Crisp.dmg",
+    "expectedTeamID": "HQHWD6JXX7",
+    "label": "crisp",
+    "name": "Crisp",
+    "timeStamp": "2026-10-11T06:17:50Z",
+    "type": "dmg"
   }
 ]

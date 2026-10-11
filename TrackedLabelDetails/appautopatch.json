@@ -53,5 +53,16 @@
     "name": "App Auto-Patch",
     "timeStamp": "2026-10-07T06:13:05Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.7.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/App-Auto-Patch/App-Auto-Patch/releases/download/Version_3.7.3/AppAutoPatch-3.7.3.pkg",
+    "expectedTeamID": "4XSYV3BTMX",
+    "label": "appautopatch",
+    "name": "App Auto-Patch",
+    "timeStamp": "2026-10-11T06:14:05Z",
+    "type": "pkg"
   }
 ]

@@ -1,5 +1,10 @@
 {
   "failed": {
+    "1passwordcli": {
+      "firstSeen": "2026-10-11T06:12:48Z",
+      "lastSeen": "2026-10-11T06:12:48Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "4kvideodownloader": {
       "firstSeen": "2026-10-10T06:12:07Z",
       "lastSeen": "2026-10-10T06:12:07Z",
