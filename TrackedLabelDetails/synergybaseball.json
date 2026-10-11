@@ -20,5 +20,16 @@
     "name": "Synergy Baseball",
     "timeStamp": "2026-09-24T18:34:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.0.9.555",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.synergysportstech.com/baseballclient/MacOS/Synergy_Baseball_2_0_9_555.dmg",
+    "expectedTeamID": "BATB6XS52B",
+    "label": "synergybaseball",
+    "name": "Synergy Baseball",
+    "timeStamp": "2026-10-08T18:30:39Z",
+    "type": "dmg"
   }
 ]

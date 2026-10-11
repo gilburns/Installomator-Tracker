@@ -262,5 +262,16 @@
     "name": "Homebrew",
     "timeStamp": "2026-10-05T18:23:17Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.0.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Homebrew/brew/releases/download/7.0.9/Homebrew.pkg",
+    "expectedTeamID": "927JGANW46",
+    "label": "homebrew",
+    "name": "Homebrew",
+    "timeStamp": "2026-10-08T18:20:09Z",
+    "type": "pkg"
   }
 ]

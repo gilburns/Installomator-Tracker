@@ -9,5 +9,16 @@
     "name": "Sonos",
     "timeStamp": "2026-10-02T06:42:18Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "90.0.82050",
+    "blockingProcesses": [],
+    "downloadURL": "https://update-software.sonos.com/software/vHbjDs9q4X/Sonos_90.0-82050.dmg",
+    "expectedTeamID": "2G4LW83Q3E",
+    "label": "sonoss2",
+    "name": "Sonos",
+    "timeStamp": "2026-10-09T06:32:06Z",
+    "type": "dmg"
   }
 ]

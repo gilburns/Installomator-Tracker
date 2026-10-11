@@ -20,5 +20,16 @@
     "name": "Nudge",
     "timeStamp": "2026-08-04T18:48:29Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.1.4.81863",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/macadmins/nudge/releases/download/v2.1.4.81863/Nudge-2.1.4.81863.pkg",
+    "expectedTeamID": "T4SK8ZXCXG",
+    "label": "nudge",
+    "name": "Nudge App",
+    "timeStamp": "2026-10-08T18:26:04Z",
+    "type": "pkg"
   }
 ]

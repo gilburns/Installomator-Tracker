@@ -94,5 +94,17 @@
     "name": "Burp Suite Professional",
     "timeStamp": "2026-10-07T18:12:31Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.9.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://portswigger.net/burp/releases/download?product=pro&version&=2026.9.2&type=macosarm64",
+    "downloadURLi386": "https://portswigger.net/burp/releases/download?product=pro&version&=2026.9.2&type=macosx",
+    "expectedTeamID": "N82YM748DZ",
+    "label": "burpsuiteprofessional",
+    "name": "Burp Suite Professional",
+    "timeStamp": "2026-10-09T18:12:40Z",
+    "type": "dmg"
   }
 ]

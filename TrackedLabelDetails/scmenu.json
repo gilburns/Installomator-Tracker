@@ -9,5 +9,16 @@
     "name": "SC Menu",
     "timeStamp": "2026-07-03T16:03:30Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.1.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/boberito/sc_menu/releases/download/2.1.1/SC_Menu.dmg",
+    "expectedTeamID": "2WUMX954UB",
+    "label": "scmenu",
+    "name": "SC Menu",
+    "timeStamp": "2026-10-10T06:38:54Z",
+    "type": "dmg"
   }
 ]

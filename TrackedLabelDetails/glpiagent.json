@@ -37,5 +37,18 @@
     "name": "GLPI-agent",
     "timeStamp": "2026-09-24T18:21:58Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.21",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://github.com/glpi-project/glpi-agent/releases/download/1.21/GLPI-Agent-1.21_arm64.pkg",
+    "expectedTeamID": "H7XJV96LX2",
+    "label": "glpiagent",
+    "name": "GLPI-agent",
+    "timeStamp": "2026-10-08T18:19:25Z",
+    "type": "pkg"
   }
 ]

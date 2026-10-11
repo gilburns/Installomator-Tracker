@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.5.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://qf-prod-desktop.s3.amazonaws.com/releases/Qualified-1.5.3-universal.dmg",
+    "expectedTeamID": "X4K33UUA44",
+    "label": "qualified",
+    "name": "Qualified",
+    "timeStamp": "2026-10-10T06:36:52Z",
+    "type": "dmg"
+  }
+]
