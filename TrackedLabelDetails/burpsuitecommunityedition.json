@@ -106,5 +106,17 @@
     "name": "Burp Suite Community Edition",
     "timeStamp": "2026-10-09T18:12:37Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://portswigger.net/burp/releases/download?product=community&version&=2026.10&type=macosarm64",
+    "downloadURLi386": "https://portswigger.net/burp/releases/download?product=community&version&=2026.10&type=macosx",
+    "expectedTeamID": "N82YM748DZ",
+    "label": "burpsuitecommunityedition",
+    "name": "Burp Suite Community Edition",
+    "timeStamp": "2026-10-12T18:11:22Z",
+    "type": "dmg"
   }
 ]

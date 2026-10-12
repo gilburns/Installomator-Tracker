@@ -75,5 +75,16 @@
     "name": "CotEditor",
     "timeStamp": "2026-10-03T06:23:09Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.1.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/coteditor/CotEditor/releases/download/7.1.2/CotEditor_7.1.2.dmg",
+    "expectedTeamID": "HT3Z3A72WZ",
+    "label": "coteditor",
+    "name": "CotEditor",
+    "timeStamp": "2026-10-12T18:14:44Z",
+    "type": "dmg"
   }
 ]

@@ -3,11 +3,21 @@
     "appName": "",
     "appNewVersion": "10.2",
     "blockingProcesses": [],
-    "downloadURL": "https://update.ergonis.com/downloads/products/typinator/Typinator.app.zip",
     "expectedTeamID": "TU7D9Y7GTQ",
     "label": "typinator",
     "name": "Typinator",
     "timeStamp": "2026-07-29T18:45:29Z",
+    "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "10.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://update.ergonis.com/downloads/products/typinator/Typinator.app.zip",
+    "expectedTeamID": "TU7D9Y7GTQ",
+    "label": "typinator",
+    "name": "Typinator",
+    "timeStamp": "2026-10-12T18:31:07Z",
     "type": "zip"
   }
 ]
