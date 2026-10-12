@@ -20,5 +20,16 @@
     "name": "Synology Active Backup for Business Agent",
     "timeStamp": "2026-08-17T06:30:25Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5554",
+    "blockingProcesses": [],
+    "downloadURL": "https://global.download.synology.com/download/Utility/ActiveBackupBusinessAgent/3.2.2-5554/Mac/x86_64/Synology%20Active%20Backup%20for%20Business%20Agent-3.2.2-5554.dmg",
+    "expectedTeamID": "X85BAK35Y4",
+    "label": "synologyactivebackupforbusinessagent",
+    "name": "Synology Active Backup for Business Agent",
+    "timeStamp": "2026-10-12T06:40:02Z",
+    "type": "pkgInDmg"
   }
 ]

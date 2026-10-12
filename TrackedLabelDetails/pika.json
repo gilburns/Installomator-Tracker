@@ -37,5 +37,18 @@
     "name": "Pika",
     "timeStamp": "2026-07-30T07:15:14Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.0.0",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://github.com/superhighfives/pika/releases/download/2.0.0/Pika-2.0.0.dmg",
+    "expectedTeamID": "TGHU37N6EX",
+    "label": "pika",
+    "name": "Pika",
+    "timeStamp": "2026-10-12T06:36:47Z",
+    "type": "dmg"
   }
 ]

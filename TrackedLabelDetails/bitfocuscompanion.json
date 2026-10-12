@@ -70,5 +70,17 @@
     "name": "Companion",
     "timeStamp": "2026-10-02T06:17:06Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://cf-pub.bitfocus.io/companion/companion/companion-mac-arm64-5.1.0-9981-stable-257b325d09.dmg",
+    "downloadURLi386": "https://cf-pub.bitfocus.io/companion/companion/companion-mac-x64-5.1.0-9981-stable-257b325d09.dmg",
+    "expectedTeamID": "FGQ2G3HYBT",
+    "label": "bitfocuscompanion",
+    "name": "Companion",
+    "timeStamp": "2026-10-12T06:21:37Z",
+    "type": "dmg"
   }
 ]
