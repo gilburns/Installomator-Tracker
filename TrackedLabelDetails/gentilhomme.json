@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://apps.perto.is/gentilhomme/downloads/Gentilhomme.dmg",
+    "expectedTeamID": "V9R6UZHP7R",
+    "label": "gentilhomme",
+    "name": "Gentilhomme",
+    "timeStamp": "2026-10-13T18:23:09Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.8.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/colinvkim/Radix/releases/download/v1.8.0/Radix.zip",
+    "expectedTeamID": "42MBX5D86L",
+    "label": "radix",
+    "name": "Radix",
+    "timeStamp": "2026-10-13T18:38:26Z",
+    "type": "zip"
+  }
+]

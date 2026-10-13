@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.4.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/codecarton/swiftpkg/releases/download/v0.4.1/swiftpkg-0.4.1-combined.pkg",
+    "expectedTeamID": "DPXY7JLK67",
+    "label": "swiftpkgcombined",
+    "name": "Swiftpkgr",
+    "timeStamp": "2026-10-13T18:43:01Z",
+    "type": "pkg"
+  }
+]

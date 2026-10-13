@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.4.1",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://github.com/codecarton/swiftpkg/releases/download/v0.4.1/swiftpkg-0.4.1-cli.pkg",
+    "expectedTeamID": "DPXY7JLK67",
+    "label": "swiftpkgcli",
+    "name": "swiftpkg",
+    "timeStamp": "2026-10-13T18:42:59Z",
+    "type": "pkg"
+  }
+]

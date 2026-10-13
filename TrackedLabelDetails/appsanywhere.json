@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "Applications/AppsAnywhere/AppsAnywhere.app",
+    "appNewVersion": "2.3.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://files.appsanywhere.com/clients/appsanywhere/mac/2.3.0/apps-anywhere-setup-InstitutionId-2.3.0.pkg",
+    "expectedTeamID": "9ZNX23CMVD",
+    "label": "appsanywhere",
+    "name": "AppsAnywhere",
+    "timeStamp": "2026-10-13T18:11:39Z",
+    "type": "pkg"
+  }
+]

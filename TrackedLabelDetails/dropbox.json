@@ -130,5 +130,17 @@
     "name": "Dropbox",
     "timeStamp": "2026-10-13T06:23:40Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "274.4.4905",
+    "blockingProcesses": [],
+    "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20274.4.4905.arm64.dmg",
+    "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20276.3.5209.dmg",
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-10-13T18:20:09Z",
+    "type": "dmg"
   }
 ]

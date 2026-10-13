@@ -20,5 +20,16 @@
     "name": "MacPorts",
     "timeStamp": "2026-08-26T06:28:38Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.12.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-26-Tahoe.pkg",
+    "expectedTeamID": "QTA3A3B7F3",
+    "label": "macports",
+    "name": "MacPorts",
+    "timeStamp": "2026-10-13T18:31:18Z",
+    "type": "pkg"
   }
 ]

@@ -31,5 +31,16 @@
     "name": "Wacom Center",
     "timeStamp": "2026-09-23T06:39:29Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.4.15-1",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.wacom.com/u/productsupport/drivers/mac/professional/WacomTablet_6.4.15-1.dmg",
+    "expectedTeamID": "EG27766DY7",
+    "label": "wacomdrivers",
+    "name": "Wacom Center",
+    "timeStamp": "2026-10-13T18:47:13Z",
+    "type": "pkgInDmg"
   }
 ]

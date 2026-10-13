@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/thaw-app/Thaw/releases/download/2.0.1/Thaw_2.0.1.zip",
+    "expectedTeamID": "456BPWQ6U5",
+    "label": "thaw",
+    "name": "Thaw",
+    "timeStamp": "2026-10-13T18:44:18Z",
+    "type": "zip"
+  }
+]

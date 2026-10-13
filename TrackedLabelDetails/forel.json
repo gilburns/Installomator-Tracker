@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/lab421/forel/releases/download/v1.0.9/Forel-v1.0.9-darwin-arm64.dmg",
+    "expectedTeamID": "W8P3Z5M86T",
+    "label": "forel",
+    "name": "Forel",
+    "timeStamp": "2026-10-13T18:22:48Z",
+    "type": "dmg"
+  }
+]

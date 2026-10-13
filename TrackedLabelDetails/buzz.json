@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/chidiwilliams/buzz/releases/download/v1.4.5/Buzz-1.4.5-mac-ARM64.dmg",
+    "downloadURLi386": "https://github.com/chidiwilliams/buzz/releases/download/v1.4.5/Buzz-1.4.5-mac-X64.dmg",
+    "expectedTeamID": "G2V69FA555",
+    "label": "buzz",
+    "name": "Buzz",
+    "timeStamp": "2026-10-13T18:14:41Z",
+    "type": "dmg"
+  }
+]

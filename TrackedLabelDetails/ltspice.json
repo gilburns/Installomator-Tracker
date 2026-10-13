@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.0.2.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://ltspice.analog.com/software/LTspice_26.pkg",
+    "expectedTeamID": "6ZM4J3A422",
+    "label": "ltspice",
+    "name": "LTspice",
+    "timeStamp": "2026-10-13T18:31:02Z",
+    "type": "pkg"
+  }
+]

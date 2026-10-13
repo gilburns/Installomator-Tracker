@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "Tessera Remote 3.5.2.app",
+    "appNewVersion": "3.5.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.bromptontech.com/tessera/management_app/Tessera_Remote_v3.5.2_installer.dmg",
+    "expectedTeamID": "7J5M6EPN5V",
+    "label": "tesseraremote",
+    "name": "Tessera Remote",
+    "timeStamp": "2026-10-13T18:43:55Z",
+    "type": "dmg"
+  }
+]

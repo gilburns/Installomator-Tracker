@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.dbeaver.net/team/26.2.0/dbeaver-te-26.2.0-macos-aarch64.dmg",
+    "downloadURLi386": "https://downloads.dbeaver.net/team/26.2.0/dbeaver-te-26.2.0-macos-x86_64.dmg",
+    "expectedTeamID": "42B6MDKMW8",
+    "label": "dbeaverteam",
+    "name": "DBeaverTeam",
+    "timeStamp": "2026-10-13T18:18:05Z",
+    "type": "dmg"
+  }
+]

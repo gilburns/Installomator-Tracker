@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "UCP 3.0.6 ARM.app",
+    "appNewVersion": "3.0.6",
+    "blockingProcesses": [
+      "ucp"
+    ],
+    "downloadURL": "https://decimator.com/specs/UCP%203.0.6%20ARM.dmg",
+    "downloadURLi386": "https://decimator.com/specs/UCP%203.0.6%20Intel.dmg",
+    "expectedTeamID": "XQ28RQTB52",
+    "label": "decimatorucp",
+    "name": "Decimator UCP",
+    "timeStamp": "2026-10-13T18:18:22Z",
+    "type": "dmg"
+  }
+]

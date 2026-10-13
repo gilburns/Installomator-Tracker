@@ -1,0 +1,17 @@
+[
+  {
+    "appName": "Resolume Arena/Arena.app",
+    "appNewVersion": "7.28.1",
+    "blockingProcesses": [
+      "Arena",
+      "Alley",
+      "Wire"
+    ],
+    "downloadURL": "https://dd5sgwxv3xok.cloudfront.net/Resolume_Arena_7_28_1_rev_26535_Installer.dmg",
+    "expectedTeamID": "Z9Y8N6Q4L8",
+    "label": "resolumearena",
+    "name": "Resolume Arena",
+    "timeStamp": "2026-10-13T18:39:52Z",
+    "type": "pkgInDmg"
+  }
+]

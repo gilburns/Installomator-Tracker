@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://installers.ilok.com/iloklicensemanager/LicenseSupportInstallerMac.zip",
+    "expectedTeamID": "TFZ8226T6X",
+    "label": "ilok",
+    "name": "iLok License Manager",
+    "timeStamp": "2026-10-13T18:24:39Z",
+    "type": "pkgInDmgInZip"
+  }
+]

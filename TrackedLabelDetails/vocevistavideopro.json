@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.sygyt.com/6.0.0/VoceVistaVideoPro_macOS_6.0.1.10106.dmg",
+    "expectedTeamID": "MZ25LZ65AM",
+    "label": "vocevistavideopro",
+    "name": "VoceVista Video Pro",
+    "timeStamp": "2026-10-13T18:46:53Z",
+    "type": "dmg"
+  }
+]

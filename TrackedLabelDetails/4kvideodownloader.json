@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.33.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.4kdownload.com/app/4kvideodownloader_4.33.5_x64.dmg?source=website",
+    "expectedTeamID": "GHQ37VJF83",
+    "label": "4kvideodownloader",
+    "name": "4K Video Downloader",
+    "timeStamp": "2026-10-13T18:10:16Z",
+    "type": "dmg"
+  }
+]

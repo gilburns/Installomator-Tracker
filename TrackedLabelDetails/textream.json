@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.7.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/f/textream/releases/download/v1.7.1/Textream.dmg",
+    "expectedTeamID": "RJA7656U34",
+    "label": "textream",
+    "name": "Textream",
+    "timeStamp": "2026-10-13T18:44:14Z",
+    "type": "dmg"
+  }
+]

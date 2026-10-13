@@ -9,5 +9,16 @@
     "name": "WhatCable",
     "timeStamp": "2026-08-26T06:41:57Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.5.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/darrylmorley/whatcable/releases/download/v1.5.0/WhatCable.zip",
+    "expectedTeamID": "M4RUJ7W6MP",
+    "label": "whatcable",
+    "name": "WhatCable",
+    "timeStamp": "2026-10-13T18:47:47Z",
+    "type": "zip"
   }
 ]

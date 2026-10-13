@@ -64,5 +64,17 @@
     "name": "Anki",
     "timeStamp": "2026-09-23T18:10:52Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.9.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/ankitects/anki/releases/download/26.09.3/anki-26.09.3-mac-apple.dmg",
+    "downloadURLi386": "https://github.com/ankitects/anki/releases/download/26.09.3/anki-26.09.3-mac-intel.dmg",
+    "expectedTeamID": "ZL66D3NMZM",
+    "label": "anki",
+    "name": "Anki",
+    "timeStamp": "2026-10-13T18:11:21Z",
+    "type": "dmg"
   }
 ]

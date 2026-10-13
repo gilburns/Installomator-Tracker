@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.6.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.rokoko.com/software/studio2-autoupdater/Rokoko_Studio_v2.6.2.0.pkg",
+    "expectedTeamID": "5K4RZM8SUS",
+    "label": "rokokostudio",
+    "name": "Rokoko Studio",
+    "timeStamp": "2026-10-13T18:40:12Z",
+    "type": "pkg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.15.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.testnav.com/_testnavinstallers/testnav-1.15.7-arm64.dmg",
+    "downloadURLi386": "https://download.testnav.com/_testnavinstallers/testnav-1.15.7-x64.dmg",
+    "expectedTeamID": "9EGT93JZWD",
+    "label": "testnav",
+    "name": "TestNav",
+    "timeStamp": "2026-10-13T18:43:55Z",
+    "type": "dmg"
+  }
+]

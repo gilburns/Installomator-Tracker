@@ -9,5 +9,16 @@
     "name": "ZBrush",
     "timeStamp": "2026-07-03T16:09:15Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2025.2.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/zbrush/releases/2025.2.2/ZBrush_2025.2.2_Installer.dmg",
+    "expectedTeamID": "4ZY22YGXQG",
+    "label": "zbrush2025",
+    "name": "ZBrush",
+    "timeStamp": "2026-10-13T18:49:19Z",
+    "type": "dmg"
   }
 ]

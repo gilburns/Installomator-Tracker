@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.41.0",
+    "blockingProcesses": [
+      "eclipse"
+    ],
+    "downloadURL": "https://download.eclipse.org/technology/epp/downloads/release/2026-09/R/eclipse-jee-2026-09-R-macosx-cocoa-aarch64.dmg",
+    "downloadURLi386": "https://download.eclipse.org/technology/epp/downloads/release/2026-09/R/eclipse-jee-2026-09-R-macosx-cocoa-x86_64.dmg",
+    "expectedTeamID": "JCDTMS22B4",
+    "label": "eclipseideforenterprisejavaandwebdevelopers",
+    "name": "Eclipse",
+    "timeStamp": "2026-10-13T18:20:38Z",
+    "type": "dmg"
+  }
+]

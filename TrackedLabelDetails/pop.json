@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.0.21",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.pop.com/desktop-app/darwin/8.0.21/Pop.dmg",
+    "expectedTeamID": "2MUHEYXYSF",
+    "label": "pop",
+    "name": "Pop",
+    "timeStamp": "2026-10-13T18:37:22Z",
+    "type": "dmg"
+  }
+]

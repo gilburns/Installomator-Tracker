@@ -94,5 +94,17 @@
     "name": "MongoDB Compass",
     "timeStamp": "2026-10-03T06:39:35Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.53.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/mongodb-js/compass/releases/download/v1.53.0/mongodb-compass-1.53.0-darwin-arm64.dmg",
+    "downloadURLi386": "https://github.com/mongodb-js/compass/releases/download/v1.53.0/mongodb-compass-1.53.0-darwin-x64.dmg",
+    "expectedTeamID": "4XWMY46275",
+    "label": "mongodbcompass",
+    "name": "MongoDB Compass",
+    "timeStamp": "2026-10-13T18:34:20Z",
+    "type": "dmg"
   }
 ]

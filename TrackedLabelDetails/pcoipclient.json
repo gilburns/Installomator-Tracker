@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.05.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.anyware.hp.com/pcoip-client/raw/names/pcoip-client-dmg/versions/26.05.5/pcoip-client_26.05.5.dmg",
+    "expectedTeamID": "RU4LW7W32C",
+    "label": "pcoipclient",
+    "name": "PCoIPClient",
+    "timeStamp": "2026-10-13T18:36:54Z",
+    "type": "dmg"
+  }
+]

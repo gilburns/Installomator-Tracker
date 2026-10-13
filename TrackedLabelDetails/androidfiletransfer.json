@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.507.1136",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.google.com/dl/androidjumper/mtp/5071136/AndroidFileTransfer.dmg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "androidfiletransfer",
+    "name": "Android File Transfer",
+    "timeStamp": "2026-10-13T18:11:15Z",
+    "type": "dmg"
+  }
+]

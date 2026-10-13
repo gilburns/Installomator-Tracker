@@ -9,5 +9,16 @@
     "name": "ProtonVPN",
     "timeStamp": "2026-07-03T16:00:19Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.5.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://vpn.protondownload.com/download/macos/6.5.2/ProtonVPN_mac_v6.5.2.dmg",
+    "expectedTeamID": "J6S6Q257EK",
+    "label": "protonvpn",
+    "name": "ProtonVPN",
+    "timeStamp": "2026-10-13T18:38:00Z",
+    "type": "dmg"
   }
 ]

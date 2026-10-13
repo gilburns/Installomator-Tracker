@@ -26,6 +26,7 @@
     "appNewVersion": "4.5.7",
     "blockingProcesses": [],
     "downloadURL": "https://github.com/processing/processing4/releases/download/processing-1435-4.5.7/processing-4.5.7-macos-aarch64.dmg",
+    "downloadURLi386": "https://github.com/processing/processing4/releases/download/processing-1435-4.5.7/processing-4.5.7-macos-x64.dmg",
     "expectedTeamID": "6297K33652",
     "label": "processing4",
     "name": "Processing",

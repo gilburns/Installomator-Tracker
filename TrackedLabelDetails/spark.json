@@ -240,5 +240,16 @@
     "name": "Spark",
     "timeStamp": "2026-10-05T18:39:03Z",
     "type": "dmg"
+  },
+  {
+    "appName": "Spark Desktop.app",
+    "appNewVersion": "3.31.6.141245",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.sparkmailapp.com/s/Spark3/mac/dist/3.31.6.141245/Spark.dmg",
+    "expectedTeamID": "3L68KQB4HG",
+    "label": "spark",
+    "name": "Spark",
+    "timeStamp": "2026-10-13T18:42:05Z",
+    "type": "dmg"
   }
 ]

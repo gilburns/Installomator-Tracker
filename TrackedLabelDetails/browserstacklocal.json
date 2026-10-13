@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.7.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://local-downloads.browserstack.com/native-app/release/BrowserStackLocal.pkg",
+    "expectedTeamID": "YQ5FZQ855D",
+    "label": "browserstacklocal",
+    "name": "BrowserStackLocal",
+    "timeStamp": "2026-10-13T18:14:24Z",
+    "type": "pkg"
+  }
+]

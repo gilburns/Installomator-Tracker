@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Kruszoneq/macUSB/releases/download/v2.5/macUSB.2.5.dmg",
+    "expectedTeamID": "27NC66L8P2",
+    "label": "macusb",
+    "name": "macUSB",
+    "timeStamp": "2026-10-13T18:31:23Z",
+    "type": "dmg"
+  }
+]
