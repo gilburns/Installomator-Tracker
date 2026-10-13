@@ -22,5 +22,17 @@
     "name": "JASP",
     "timeStamp": "2026-07-07T18:53:16Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.98.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/jasp-stats/jasp-desktop/releases/download/v0.98.8/JASP-0.98.8.0-MacOS-arm64.dmg",
+    "downloadURLi386": "https://github.com/jasp-stats/jasp-desktop/releases/download/v0.98.8/JASP-0.98.8.0-MacOS-x86_64.dmg",
+    "expectedTeamID": "AWJJ3YVK9B",
+    "label": "jasp",
+    "name": "JASP",
+    "timeStamp": "2026-10-13T06:29:45Z",
+    "type": "dmg"
   }
 ]

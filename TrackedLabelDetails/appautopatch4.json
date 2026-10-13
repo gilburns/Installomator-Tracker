@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "88",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://downloads.appautopatch.app/AppAutoPatch-4.0.0-88.pkg",
+    "expectedTeamID": "6GBSVT64FS",
+    "label": "appautopatch4",
+    "name": "App Auto-Patch",
+    "timeStamp": "2026-10-13T06:15:59Z",
+    "type": "pkg"
+  }
+]

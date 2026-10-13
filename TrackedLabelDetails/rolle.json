@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.17.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/nateships/rolle/releases/download/v0.17.0/rolle.pkg",
+    "expectedTeamID": "AMR56F4NQB",
+    "label": "rolle",
+    "name": "rolle",
+    "timeStamp": "2026-10-13T06:42:23Z",
+    "type": "pkg"
+  }
+]

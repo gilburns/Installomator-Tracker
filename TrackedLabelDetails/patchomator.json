@@ -3,11 +3,23 @@
     "appName": "",
     "appNewVersion": "1.2.0",
     "blockingProcesses": [],
-    "downloadURL": "https://github.com/Mac-Nerd/patchomator/releases/download/1.2.0/patchomator-1.2.pkg",
     "expectedTeamID": "4VAAB6AM7X",
     "label": "patchomator",
     "name": "patchomator",
     "timeStamp": "2026-07-03T15:59:20Z",
+    "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.2",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://github.com/Mac-Nerd/patchomator/releases/download/1.2.0/patchomator-1.2.pkg",
+    "expectedTeamID": "4VAAB6AM7X",
+    "label": "patchomator",
+    "name": "patchomator",
+    "timeStamp": "2026-10-13T06:39:42Z",
     "type": "pkg"
   }
 ]

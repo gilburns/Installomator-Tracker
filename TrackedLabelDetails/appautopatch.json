@@ -75,5 +75,16 @@
     "name": "App Auto-Patch",
     "timeStamp": "2026-10-12T06:20:54Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.7.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/App-Auto-Patch/App-Auto-Patch/releases/download/Version_3.7.5/AppAutoPatch-3.7.5.pkg",
+    "expectedTeamID": "4XSYV3BTMX",
+    "label": "appautopatch",
+    "name": "App Auto-Patch",
+    "timeStamp": "2026-10-13T06:15:58Z",
+    "type": "pkg"
   }
 ]
