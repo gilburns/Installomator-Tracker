@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "11.37.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.missiveapp.com/11.37.0/Missive-11.37.0.dmg",
+    "expectedTeamID": "PXGQRRXCJN",
+    "label": "missiveapp",
+    "name": "Missive",
+    "timeStamp": "2026-10-14T06:34:01Z",
+    "type": "dmg"
+  }
+]

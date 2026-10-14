@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "9.0.2",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://ffmpeg.martin-riedl.de/download/macos/arm64/1789931890_9.0.2/ffprobe.pkg",
+    "downloadURLi386": "https://ffmpeg.martin-riedl.de/download/macos/amd64/1789931006_9.0.2/ffprobe.pkg",
+    "expectedTeamID": "KU3N25YGLU",
+    "label": "ffprobemartinriedl",
+    "name": "FFprobe",
+    "timeStamp": "2026-10-14T06:22:28Z",
+    "type": "pkg"
+  }
+]
