@@ -5,11 +5,23 @@
     "blockingProcesses": [
       "Acrobat Pro DC"
     ],
-    "downloadURL": "https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/osx10/Acrobat_DC_Web_WWMUI.dmg",
     "expectedTeamID": "JQ525L2MZD",
     "label": "adobeacrobatprodc",
     "name": "Adobe Acrobat Pro DC",
     "timeStamp": "2026-10-06T18:09:35Z",
+    "type": "pkgInDmg"
+  },
+  {
+    "appName": "Acrobat Distiller.app",
+    "appNewVersion": "26.002.22031",
+    "blockingProcesses": [
+      "Acrobat Pro DC"
+    ],
+    "downloadURL": "https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/osx10/Acrobat_DC_Web_WWMUI.dmg",
+    "expectedTeamID": "JQ525L2MZD",
+    "label": "adobeacrobatprodc",
+    "name": "Adobe Acrobat Pro DC",
+    "timeStamp": "2026-10-14T18:09:14Z",
     "type": "pkgInDmg"
   }
 ]

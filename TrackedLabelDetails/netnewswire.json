@@ -53,5 +53,16 @@
     "name": "NetNewsWire",
     "timeStamp": "2026-09-30T06:29:45Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-7.2/NetNewsWire7.2.zip",
+    "expectedTeamID": "M8L2WTLA8W",
+    "label": "netnewswire",
+    "name": "NetNewsWire",
+    "timeStamp": "2026-10-14T18:32:34Z",
+    "type": "zip"
   }
 ]

@@ -31,5 +31,16 @@
     "name": "Maxon",
     "timeStamp": "2026-09-09T18:28:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2027.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/website/macos/maxon/maxonapp/releases/2027.0.0/Maxon_App_2027.0.0_Mac.dmg",
+    "expectedTeamID": "4ZY22YGXQG",
+    "label": "maxonapp",
+    "name": "Maxon",
+    "timeStamp": "2026-10-14T18:30:27Z",
+    "type": "dmg"
   }
 ]

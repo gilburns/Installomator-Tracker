@@ -86,5 +86,16 @@
     "name": "MACE",
     "timeStamp": "2026-10-13T18:31:10Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.2.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/MACE-App/MACE/releases/download/v1.2.3/M.A.C.E.V1.2.3.dmg",
+    "expectedTeamID": "7U624389H9",
+    "label": "mace",
+    "name": "MACE",
+    "timeStamp": "2026-10-14T18:28:48Z",
+    "type": "dmg"
   }
 ]

@@ -108,5 +108,16 @@
     "name": "GDevelop 5",
     "timeStamp": "2026-09-29T18:19:30Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.6.284",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/4ian/GDevelop/releases/download/v5.6.284/GDevelop-5-5.6.284-universal.dmg",
+    "expectedTeamID": "5CG65LEVUK",
+    "label": "gdevelop",
+    "name": "GDevelop 5",
+    "timeStamp": "2026-10-14T18:21:06Z",
+    "type": "dmg"
   }
 ]

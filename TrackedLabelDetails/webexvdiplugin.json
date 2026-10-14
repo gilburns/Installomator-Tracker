@@ -46,5 +46,17 @@
     "name": "Cisco Webex VDI Plugin",
     "timeStamp": "2026-09-07T18:30:58Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "46.10.0.36042",
+    "blockingProcesses": [],
+    "downloadURL": "https://binaries.webex.com/vdi-mac-aws-gold/20261013063132/WebexVDIPlugin_arm64.pkg",
+    "downloadURLi386": "https://binaries.webex.com/vdi-mac-aws-gold/20261013063132/WebexVDIPlugin_x64.pkg",
+    "expectedTeamID": "DE8Y96K9QP",
+    "label": "webexvdiplugin",
+    "name": "Cisco Webex VDI Plugin",
+    "timeStamp": "2026-10-14T18:43:44Z",
+    "type": "pkg"
   }
 ]

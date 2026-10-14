@@ -42,5 +42,16 @@
     "name": "Mendeley Reference Manager",
     "timeStamp": "2026-08-25T18:29:29Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.150.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.150.0-universal.dmg",
+    "expectedTeamID": "45K89Y5X9B",
+    "label": "mendeleyreferencemanager",
+    "name": "Mendeley Reference Manager",
+    "timeStamp": "2026-10-14T18:30:34Z",
+    "type": "dmg"
   }
 ]

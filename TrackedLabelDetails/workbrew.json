@@ -185,5 +185,16 @@
     "name": "Workbrew",
     "timeStamp": "2026-10-01T06:39:45Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://console.workbrew.com/downloads/macos",
+    "expectedTeamID": "676JW3JDLF",
+    "label": "workbrew",
+    "name": "Workbrew",
+    "timeStamp": "2026-10-14T18:44:04Z",
+    "type": "pkg"
   }
 ]

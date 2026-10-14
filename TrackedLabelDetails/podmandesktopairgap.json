@@ -58,5 +58,17 @@
     "name": "Podman Desktop",
     "timeStamp": "2026-09-02T18:27:31Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.30.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-arm64.dmg",
+    "downloadURLi386": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-x64.dmg",
+    "expectedTeamID": "HYSCB8KRL2",
+    "label": "podmandesktopairgap",
+    "name": "Podman Desktop",
+    "timeStamp": "2026-10-14T18:34:46Z",
+    "type": "dmg"
   }
 ]
