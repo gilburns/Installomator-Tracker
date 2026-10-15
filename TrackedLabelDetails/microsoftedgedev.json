@@ -163,5 +163,16 @@
     "name": "Microsoft Edge Dev",
     "timeStamp": "2026-10-08T06:27:32Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "157.0.4334.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f1f945c1-a4c7-4b1a-96e5-67c626e209ec/MicrosoftEdgeDev-157.0.4334.0.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftedgedev",
+    "name": "Microsoft Edge Dev",
+    "timeStamp": "2026-10-15T06:33:47Z",
+    "type": "pkg"
   }
 ]

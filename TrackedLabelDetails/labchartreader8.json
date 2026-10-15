@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "LabChart 8 Reader/LabChart Reader.app",
+    "appNewVersion": "8.1.30",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.adinstruments.com/Installers/mac/LabChartReader_8.1.30.pkg",
+    "expectedTeamID": "M74NZ7VL2C",
+    "label": "labchartreader8",
+    "name": "LabChart Reader",
+    "timeStamp": "2026-10-15T06:27:58Z",
+    "type": "pkg"
+  }
+]

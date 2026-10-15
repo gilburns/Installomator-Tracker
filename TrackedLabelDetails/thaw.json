@@ -9,5 +9,16 @@
     "name": "Thaw",
     "timeStamp": "2026-10-13T18:44:18Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/thaw-app/Thaw/releases/download/2.1.0/Thaw_2.1.0.zip",
+    "expectedTeamID": "456BPWQ6U5",
+    "label": "thaw",
+    "name": "Thaw",
+    "timeStamp": "2026-10-15T06:42:25Z",
+    "type": "zip"
   }
 ]

@@ -106,5 +106,17 @@
     "name": "Dropbox Enterprise",
     "timeStamp": "2026-10-01T06:21:35Z",
     "type": "pkg"
+  },
+  {
+    "appName": "Dropbox.app",
+    "appNewVersion": "274.4.4905",
+    "blockingProcesses": [],
+    "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20274.4.4905.arm64.pkg",
+    "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20274.4.4905.x86_64.pkg",
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropboxenterprise",
+    "name": "Dropbox Enterprise",
+    "timeStamp": "2026-10-15T06:20:38Z",
+    "type": "pkg"
   }
 ]

@@ -20,5 +20,16 @@
     "name": "OmniGraffle",
     "timeStamp": "2026-09-11T18:24:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.26.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.omnigroup.com/software/macOS/14/OmniGraffle-7.26.1.dmg",
+    "expectedTeamID": "34YW5XSRB7",
+    "label": "omnigraffle7",
+    "name": "OmniGraffle",
+    "timeStamp": "2026-10-15T06:35:57Z",
+    "type": "dmg"
   }
 ]

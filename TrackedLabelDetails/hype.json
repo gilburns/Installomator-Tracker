@@ -5,11 +5,23 @@
     "blockingProcesses": [
       "NONE"
     ],
-    "downloadURL": "https://static.tumult.com/hype/download/Hype.dmg",
     "expectedTeamID": "8J356DM772",
     "label": "hype",
     "name": "Hype4",
     "timeStamp": "2026-07-03T15:47:57Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.1.22",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://static.tumult.com/hype/download/Hype.dmg",
+    "expectedTeamID": "8J356DM772",
+    "label": "hype",
+    "name": "Hype4",
+    "timeStamp": "2026-10-15T06:25:32Z",
     "type": "dmg"
   }
 ]

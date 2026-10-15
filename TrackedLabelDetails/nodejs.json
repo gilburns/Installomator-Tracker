@@ -130,5 +130,16 @@
     "name": "nodejs",
     "timeStamp": "2026-10-08T06:28:39Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "v26.12.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://nodejs.org/dist/latest/node-v26.12.0.pkg",
+    "expectedTeamID": "HX7739G8FX",
+    "label": "nodejs",
+    "name": "nodejs",
+    "timeStamp": "2026-10-15T06:35:29Z",
+    "type": "pkg"
   }
 ]
