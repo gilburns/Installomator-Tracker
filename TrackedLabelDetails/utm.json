@@ -9,5 +9,16 @@
     "name": "UTM",
     "timeStamp": "2026-07-03T16:07:28Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.0.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com",
+    "expectedTeamID": "WDNLXAD4W8",
+    "label": "utm",
+    "name": "UTM",
+    "timeStamp": "2026-10-16T06:37:50Z",
+    "type": "dmg"
   }
 ]

@@ -10,5 +10,17 @@
     "name": "Headlamp",
     "timeStamp": "2026-08-27T09:16:37Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.46.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-mac-arm64.dmg",
+    "downloadURLi386": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-mac-x64.dmg",
+    "expectedTeamID": "5N2JF58U87",
+    "label": "headlamp",
+    "name": "Headlamp",
+    "timeStamp": "2026-10-16T06:22:23Z",
+    "type": "dmg"
   }
 ]
