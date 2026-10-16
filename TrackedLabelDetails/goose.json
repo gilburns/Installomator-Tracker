@@ -194,5 +194,17 @@
     "name": "Goose",
     "timeStamp": "2026-10-09T06:22:06Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.55.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/aaif-goose/goose/releases/download/v1.55.0/Goose.zip",
+    "downloadURLi386": "https://github.com/aaif-goose/goose/releases/download/v1.55.0/Goose_intel_mac.zip",
+    "expectedTeamID": "5N2JF58U87",
+    "label": "goose",
+    "name": "Goose",
+    "timeStamp": "2026-10-16T18:24:01Z",
+    "type": "zip"
   }
 ]

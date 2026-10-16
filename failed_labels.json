@@ -1,5 +1,10 @@
 {
   "failed": {
+    "1password7": {
+      "firstSeen": "2026-10-16T18:09:37Z",
+      "lastSeen": "2026-10-16T18:09:37Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "abstract": {
       "firstSeen": "2026-10-15T18:09:23Z",
       "lastSeen": "2026-10-15T18:09:23Z",
@@ -265,6 +270,11 @@
       "lastSeen": "2026-10-15T18:14:29Z",
       "reason": "invalid JSON output"
     },
+    "calibre": {
+      "firstSeen": "2026-10-16T18:12:59Z",
+      "lastSeen": "2026-10-16T18:12:59Z",
+      "reason": "invalid JSON output"
+    },
     "cardpresso": {
       "firstSeen": "2026-10-15T18:14:55Z",
       "lastSeen": "2026-10-15T18:14:55Z",
@@ -349,6 +359,11 @@
       "firstSeen": "2026-10-15T18:19:43Z",
       "lastSeen": "2026-10-15T18:19:43Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "droplr": {
+      "firstSeen": "2026-10-16T18:20:52Z",
+      "lastSeen": "2026-10-16T18:20:52Z",
+      "reason": "resolve failed (exit 142)"
     },
     "druvainsyncgov": {
       "firstSeen": "2026-10-15T18:19:57Z",
@@ -559,6 +574,11 @@
       "firstSeen": "2026-10-15T18:24:33Z",
       "lastSeen": "2026-10-15T18:24:33Z",
       "reason": "missing appNewVersion or downloadURL"
+    },
+    "inkscape": {
+      "firstSeen": "2026-10-16T18:26:02Z",
+      "lastSeen": "2026-10-16T18:26:02Z",
+      "reason": "resolve failed (exit 142)"
     },
     "island": {
       "firstSeen": "2026-10-15T18:24:58Z",
