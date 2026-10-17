@@ -340,6 +340,11 @@
       "lastSeen": "2026-10-15T18:18:04Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "decimatorucp": {
+      "firstSeen": "2026-10-17T06:16:40Z",
+      "lastSeen": "2026-10-17T06:16:40Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "depnotify": {
       "firstSeen": "2026-10-15T18:18:55Z",
       "lastSeen": "2026-10-15T18:18:55Z",
@@ -778,6 +783,11 @@
     "mmhmm-studio": {
       "firstSeen": "2026-10-15T18:35:35Z",
       "lastSeen": "2026-10-15T18:35:35Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "mobikinassistantforandroid": {
+      "firstSeen": "2026-10-17T06:27:26Z",
+      "lastSeen": "2026-10-17T06:27:26Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mobirise": {

@@ -20,5 +20,16 @@
     "name": "UTM",
     "timeStamp": "2026-10-16T06:37:50Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.0.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/utmapp/UTM/releases/download/v5.0.8/UTM.dmg",
+    "expectedTeamID": "WDNLXAD4W8",
+    "label": "utm",
+    "name": "UTM",
+    "timeStamp": "2026-10-17T06:34:54Z",
+    "type": "dmg"
   }
 ]

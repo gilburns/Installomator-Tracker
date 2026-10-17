@@ -141,5 +141,16 @@
     "name": "Thunderbird",
     "timeStamp": "2026-10-09T06:33:32Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "158.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.mozilla.org/?product=thunderbird-158.0.1-SSL&os=osx&lang=en-US",
+    "expectedTeamID": "43AQ936H96",
+    "label": "thunderbird",
+    "name": "Thunderbird",
+    "timeStamp": "2026-10-17T06:33:47Z",
+    "type": "dmg"
   }
 ]
