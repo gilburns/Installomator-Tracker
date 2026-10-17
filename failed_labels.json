@@ -45,6 +45,11 @@
       "lastSeen": "2026-10-17T18:12:30Z",
       "reason": "resolve failed (exit 95)"
     },
+    "amadeuspro3": {
+      "firstSeen": "2026-10-17T18:46:07Z",
+      "lastSeen": "2026-10-17T18:46:07Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "amazonredshiftodbc": {
       "firstSeen": "2026-10-15T18:10:31Z",
       "lastSeen": "2026-10-17T18:12:31Z",
@@ -305,6 +310,11 @@
       "lastSeen": "2026-10-17T18:14:29Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "dcpomatic": {
+      "firstSeen": "2026-10-17T18:51:59Z",
+      "lastSeen": "2026-10-17T18:51:59Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "debookee": {
       "firstSeen": "2026-10-15T18:18:04Z",
       "lastSeen": "2026-10-17T18:14:33Z",
@@ -495,6 +505,11 @@
       "lastSeen": "2026-10-17T18:15:21Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "harper": {
+      "firstSeen": "2026-10-17T18:56:28Z",
+      "lastSeen": "2026-10-17T18:56:28Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "hmavpn": {
       "firstSeen": "2026-10-15T18:23:51Z",
       "lastSeen": "2026-10-17T18:15:23Z",
@@ -575,6 +590,11 @@
       "lastSeen": "2026-10-17T18:15:39Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "labchartreader8": {
+      "firstSeen": "2026-10-17T18:59:01Z",
+      "lastSeen": "2026-10-17T18:59:01Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "levelscreenrecorder": {
       "firstSeen": "2026-10-15T18:28:53Z",
       "lastSeen": "2026-10-17T18:16:41Z",
@@ -598,6 +618,11 @@
     "lucifer": {
       "firstSeen": "2026-10-15T18:30:42Z",
       "lastSeen": "2026-10-17T18:17:46Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "macadminspython": {
+      "firstSeen": "2026-10-17T18:59:55Z",
+      "lastSeen": "2026-10-17T18:59:55Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mackiemasterfader": {
@@ -708,6 +733,11 @@
     "miro": {
       "firstSeen": "2026-10-15T18:35:22Z",
       "lastSeen": "2026-10-17T18:18:09Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "mkuser": {
+      "firstSeen": "2026-10-17T19:02:13Z",
+      "lastSeen": "2026-10-17T19:02:13Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "mmhmm": {
@@ -995,6 +1025,11 @@
       "lastSeen": "2026-10-17T18:20:38Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "sequelace": {
+      "firstSeen": "2026-10-17T19:05:49Z",
+      "lastSeen": "2026-10-17T19:05:49Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "sidekick": {
       "firstSeen": "2026-10-15T18:40:43Z",
       "lastSeen": "2026-10-17T18:20:39Z",
@@ -1014,6 +1049,11 @@
       "firstSeen": "2026-10-15T18:41:14Z",
       "lastSeen": "2026-10-17T18:20:47Z",
       "reason": "invalid JSON output"
+    },
+    "soapuiopensource": {
+      "firstSeen": "2026-10-17T19:06:19Z",
+      "lastSeen": "2026-10-17T19:06:19Z",
+      "reason": "missing appNewVersion or downloadURL"
     },
     "sococo": {
       "firstSeen": "2026-10-15T18:41:16Z",
@@ -1115,6 +1155,11 @@
       "lastSeen": "2026-10-17T18:21:18Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "textexpander": {
+      "firstSeen": "2026-10-17T19:08:07Z",
+      "lastSeen": "2026-10-17T19:08:07Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "things": {
       "firstSeen": "2026-10-15T18:43:26Z",
       "lastSeen": "2026-10-17T18:21:20Z",
@@ -1128,6 +1173,11 @@
     "tidal": {
       "firstSeen": "2026-10-15T18:43:38Z",
       "lastSeen": "2026-10-17T18:21:24Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "tigervnc": {
+      "firstSeen": "2026-10-17T19:08:17Z",
+      "lastSeen": "2026-10-17T19:08:17Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "timelymemory": {
@@ -1193,6 +1243,11 @@
     "vanilla": {
       "firstSeen": "2026-10-15T18:46:19Z",
       "lastSeen": "2026-10-17T18:22:00Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "veracrypt-fuse-t": {
+      "firstSeen": "2026-10-17T19:09:28Z",
+      "lastSeen": "2026-10-17T19:09:28Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "vernierspectralanalysis": {
