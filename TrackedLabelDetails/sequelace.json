@@ -64,5 +64,16 @@
     "name": "Sequel Ace",
     "timeStamp": "2026-10-02T06:41:28Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.0.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Sequel-Ace/Sequel-Ace/releases/download/production/6.0.3-20116/Sequel-Ace-6.0.3.zip",
+    "expectedTeamID": "NKQ4HJ66PX",
+    "label": "sequelace",
+    "name": "Sequel Ace",
+    "timeStamp": "2026-10-17T18:20:39Z",
+    "type": "zip"
   }
 ]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.0.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/HairerSoftPublic/AmadeusPro3/AmadeusPro.zip",
+    "expectedTeamID": "FWDH9W45C2",
+    "label": "amadeuspro3",
+    "name": "Amadeus Pro 3",
+    "timeStamp": "2026-10-17T18:12:31Z",
+    "type": "zip"
+  }
+]
