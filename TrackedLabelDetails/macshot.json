@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.3.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/sw33tLie/macshot/releases/download/v4.3.0/MacShot.dmg",
+    "expectedTeamID": "BR52ZWX528",
+    "label": "macshot",
+    "name": "macshot",
+    "timeStamp": "2026-10-18T06:30:03Z",
+    "type": "dmg"
+  }
+]
