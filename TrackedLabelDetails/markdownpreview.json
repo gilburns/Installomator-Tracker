@@ -262,5 +262,16 @@
     "name": "Markdown Preview",
     "timeStamp": "2026-10-15T18:33:05Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.0.68",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/pluk-inc/markdown-preview/releases/download/v0.0.68/Markdown-Preview.dmg",
+    "expectedTeamID": "5P3TSMNV42",
+    "label": "markdownpreview",
+    "name": "Markdown Preview",
+    "timeStamp": "2026-10-18T18:23:02Z",
+    "type": "dmg"
   }
 ]

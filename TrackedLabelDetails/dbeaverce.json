@@ -102,5 +102,18 @@
     "name": "DBeaver",
     "timeStamp": "2026-10-05T06:27:30Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.2.3",
+    "blockingProcesses": [
+      "dbeaver"
+    ],
+    "downloadURL": "https://github.com/dbeaver/dbeaver/releases/download/26.2.3/dbeaver-ce-26.2.3-macos-aarch64.dmg",
+    "expectedTeamID": "42B6MDKMW8",
+    "label": "dbeaverce",
+    "name": "DBeaver",
+    "timeStamp": "2026-10-18T18:12:17Z",
+    "type": "dmg"
   }
 ]

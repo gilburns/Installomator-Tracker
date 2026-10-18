@@ -60,6 +60,11 @@
       "lastSeen": "2026-10-18T06:11:30Z",
       "reason": "missing appNewVersion or downloadURL"
     },
+    "ankerwork": {
+      "firstSeen": "2026-10-18T18:08:08Z",
+      "lastSeen": "2026-10-18T18:08:08Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
     "antcon": {
       "firstSeen": "2026-10-18T06:11:38Z",
       "lastSeen": "2026-10-18T06:11:38Z",
@@ -323,6 +328,11 @@
     "debookee": {
       "firstSeen": "2026-10-18T06:19:30Z",
       "lastSeen": "2026-10-18T06:19:30Z",
+      "reason": "missing appNewVersion or downloadURL"
+    },
+    "decimatorucp": {
+      "firstSeen": "2026-10-18T18:12:29Z",
+      "lastSeen": "2026-10-18T18:12:29Z",
       "reason": "missing appNewVersion or downloadURL"
     },
     "depnotify": {

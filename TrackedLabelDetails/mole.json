@@ -9,5 +9,16 @@
     "name": "Mole",
     "timeStamp": "2026-10-13T18:34:19Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.17.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.tw93.fun/mole/Mole-1.17.0.dmg",
+    "expectedTeamID": "5EH69Y5X38",
+    "label": "mole",
+    "name": "Mole",
+    "timeStamp": "2026-10-18T18:24:04Z",
+    "type": "dmg"
   }
 ]

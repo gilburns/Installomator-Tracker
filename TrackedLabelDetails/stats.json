@@ -185,5 +185,16 @@
     "name": "Stats",
     "timeStamp": "2026-10-12T06:39:35Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.0.22",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/exelban/stats/releases/download/v3.0.22/Stats.dmg",
+    "expectedTeamID": "RP2S87B72W",
+    "label": "stats",
+    "name": "Stats",
+    "timeStamp": "2026-10-18T18:29:24Z",
+    "type": "dmg"
   }
 ]
