@@ -224,8 +224,15 @@ for labelFile in "${labelFiles[@]}"; do
     downloadURL=$(echo "$jsonOutput" | jq -r '.downloadURL // empty')
 
     if [[ -z "$appNewVersion" || -z "$downloadURL" ]]; then
-        echo "[$label] FAILED: missing appNewVersion or downloadURL" >&2
-        newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "missing appNewVersion or downloadURL" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
+        if [[ -z "$appNewVersion" && -z "$downloadURL" ]]; then
+            missingReason="missing appNewVersion and downloadURL"
+        elif [[ -z "$appNewVersion" ]]; then
+            missingReason="missing appNewVersion"
+        else
+            missingReason="missing downloadURL"
+        fi
+        echo "[$label] FAILED: $missingReason" >&2
+        newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "$missingReason" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
             .[$l] = {reason: $reason, firstSeen: (.[$l].firstSeen // $now), lastSeen: $now}
         ')
         failCount=$((failCount + 1))
