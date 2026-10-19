@@ -77,11 +77,29 @@ getJSONValue() {
         path=".$path"
     fi
     local value
-    value=$(printf '%s' "$json" | /usr/bin/jq -r "$path" 2>/dev/null)
-    if [[ "$value" == "null" ]]; then
+    if ! value=$(printf '%s' "$json" | /usr/bin/jq -r "$path" 2>/dev/null); then
+        # Some labels pass real JavaScript that jq can't parse, e.g.
+        # .downloads.find(item => item.name.includes('X')).urls['Mac OS X'][0]
+        # Fall back to evaluating it with JXA the way Installomator does.
+        value=$(getJSONValueJXA "$json" "$2")
+    fi
+    if [[ "$value" == "null" || "$value" == "undefined" ]]; then
         value=""
     fi
     printf '%s' "$value"
+}
+
+
+getJSONValueJXA() { # $1 json, $2 JS-style path
+    local path="$2"
+    if [[ "$path" != .* && "$path" != \[* ]]; then
+        path=".$path"
+    fi
+    printf '%s' "$1" | /usr/bin/osascript -l JavaScript \
+        -e 'const data = $.NSFileHandle.fileHandleWithStandardInput.readDataToEndOfFile' \
+        -e 'const json = $.NSString.alloc.initWithDataEncoding(data, $.NSUTF8StringEncoding).js' \
+        -e "const value = JSON.parse(json)$path" \
+        -e 'typeof value === "object" ? JSON.stringify(value) : String(value)' 2>/dev/null
 }
 
 
@@ -103,7 +121,10 @@ resolveStableURL() { # $1 url
     local next
     local hops=0
     while (( hops++ < 10 )); do
-        next=$(curl -A "$userAgent" -s -o /dev/null -w '%{redirect_url}' -r 0-0 "$url")
+        # Some servers ignore the range request and send the whole file (e.g.
+        # a 400+ MB dmg), so cap the size and time spent. -w still prints the
+        # redirect URL when curl bails out on either limit.
+        next=$(curl -A "$userAgent" -s -o /dev/null -w '%{redirect_url}' -r 0-0 --max-filesize 1048576 --max-time 15 "$url")
         [[ -z "$next" ]] && break
         isSignedURL "$next" && break
         url="$next"
@@ -167,6 +188,20 @@ fi
 
 timeStamp=$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")
 
+# Labels that scrape HTTP headers (curl -I | grep location | cut ...) keep the
+# header's trailing CR, e.g. appNewVersion="4.5\r". Strip it so it doesn't
+# end up in the JSON values.
+appNewVersion="${appNewVersion//$'\r'/}"
+downloadURL="${downloadURL//$'\r'/}"
+
+# A label whose version scrape is broken can leave multiple lines or leftover
+# URL/query-string text in appNewVersion (e.g. "9.16.0" followed by a signed
+# redirect URL). Blank it rather than record garbage as a real version.
+if [[ "$appNewVersion" =~ $'\n|://|[?&=]' ]]; then
+    printlog "appNewVersion doesn't look like a version, discarding: $appNewVersion" WARN
+    appNewVersion=""
+fi
+
 # Serialize blockingProcesses array as newline-separated string so each element
 # is preserved as a distinct entry (zsh "$arrayVar" collapses all elements into one scalar)
 blockingProcessesSerialized="${(j:
@@ -201,5 +236,7 @@ if [[ -z "$json_output" ]]; then
     exit 1
 fi
 
-# Output JSON
-echo "$json_output"
+# Output JSON. Use printf, not echo: zsh's echo interprets backslash escapes,
+# which would turn jq's escaped "\r", "\n", "\\" etc. back into raw characters
+# and produce invalid JSON.
+printf '%s\n' "$json_output"

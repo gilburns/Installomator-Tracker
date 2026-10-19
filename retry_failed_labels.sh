@@ -64,8 +64,21 @@ typeset -a extraArgs
 
 fixedCount=0
 stillFailedCount=0
+noVersionCount=0
+typeset -a noVersionLabels
 
 for label in "${failedLabels[@]}"; do
+    # Same pre-check as update_tracked_labels.sh: a label that never sets
+    # appNewVersion can't start resolving on a retry, so don't spend a run
+    # on it. Its failed_labels.json reason is corrected after the loop.
+    labelFile="$SCRIPT_DIR/Labels/$label.sh"
+    if [[ -f "$labelFile" ]] && ! grep -vE '^[[:space:]]*#' "$labelFile" | grep -Eq 'appNewVersion|versionFromGit'; then
+        echo "--- skipping $label (label does not set appNewVersion) ---"
+        noVersionLabels+=("$label")
+        noVersionCount=$((noVersionCount + 1))
+        continue
+    fi
+
     echo "--- retrying $label ---"
     tmpOut=$(mktemp)
     "$UPDATE_SCRIPT" --label "$label" "${extraArgs[@]}" 2>&1 | tee "$tmpOut"
@@ -84,5 +97,26 @@ for label in "${failedLabels[@]}"; do
     fi
 done
 
+# Record the specific reason for the skipped labels in one write, keeping
+# firstSeen. Done after the loop since each retry above rewrites the file.
+if [[ $dry_run -eq 0 && ${#noVersionLabels[@]} -gt 0 ]]; then
+    tmpStateFile=$(mktemp)
+    if jq -S --arg reason "label does not set appNewVersion" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" \
+        '($ARGS.positional) as $labels
+        | reduce $labels[] as $l (.;
+            if .failed[$l].reason == $reason then .
+            else .failed[$l] = {reason: $reason, firstSeen: (.failed[$l].firstSeen // $now), lastSeen: $now} end)' \
+        "$FAILED_LABELS_FILE" --args "${noVersionLabels[@]}" > "$tmpStateFile"; then
+        if cmp -s "$tmpStateFile" "$FAILED_LABELS_FILE"; then
+            rm -f "$tmpStateFile"
+        else
+            mv "$tmpStateFile" "$FAILED_LABELS_FILE"
+        fi
+    else
+        echo "Failed to update reasons in $FAILED_LABELS_FILE" >&2
+        rm -f "$tmpStateFile"
+    fi
+fi
+
 echo ""
-echo "Done. ${#failedLabels[@]} labels retried: $fixedCount now resolving, $stillFailedCount still failing."
+echo "Done. ${#failedLabels[@]} failed labels: $fixedCount now resolving, $stillFailedCount still failing, $noVersionCount skipped (label does not set appNewVersion)."
