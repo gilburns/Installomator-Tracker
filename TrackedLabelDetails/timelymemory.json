@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.10.185",
+    "blockingProcesses": [],
+    "downloadURL": "https://memory.timelyapp.com/download/mac/26.10.185",
+    "expectedTeamID": "NGR7G7F269",
+    "label": "timelymemory",
+    "name": "Memory",
+    "timeStamp": "2026-10-19T01:18:00Z",
+    "type": "zip"
+  }
+]

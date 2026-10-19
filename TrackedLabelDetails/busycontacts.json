@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "BusyContacts.app",
+    "appNewVersion": "2026.4.1",
+    "blockingProcesses": [
+      "BusyContacts"
+    ],
+    "downloadURL": "https://downloads.busymac.com/bct-2026.4.1-2026-10-09-07-22-29.dmg",
+    "expectedTeamID": "N4RA379GBW",
+    "label": "busycontacts",
+    "name": "BusyContacts",
+    "timeStamp": "2026-10-19T01:06:49Z",
+    "type": "dmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "8.2.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.snapgene.com/downloads/SnapGene/8.x/8.2/8.2.3/snapgene_8.2.3_mac.dmg",
+    "expectedTeamID": "WVCV9Q8Y78",
+    "label": "snapgene",
+    "name": "SnapGene",
+    "timeStamp": "2026-10-19T01:16:35Z",
+    "type": "dmg"
+  }
+]

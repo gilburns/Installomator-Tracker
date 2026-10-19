@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://coderunner.nyc3.cdn.digitaloceanspaces.com/CodeRunner-4.5.zip",
+    "expectedTeamID": "R4GD98AJF9",
+    "label": "coderunner",
+    "name": "CodeRunner",
+    "timeStamp": "2026-10-19T01:09:00Z",
+    "type": "zip"
+  }
+]

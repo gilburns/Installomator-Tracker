@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.32.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.scratch.mit.edu/desktop/Scratch%203.32.1.dmg",
+    "expectedTeamID": "W7AR3WMP87",
+    "label": "scratch",
+    "name": "Scratch 3",
+    "timeStamp": "2026-10-19T01:16:28Z",
+    "type": "dmg"
+  }
+]

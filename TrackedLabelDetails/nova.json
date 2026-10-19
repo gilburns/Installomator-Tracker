@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "location: /nova/Nova%2014.1.zip",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.panic.com/nova/Nova%2014.1.zip",
+    "expectedTeamID": "VE8FC488U5",
+    "label": "nova",
+    "name": "Nova",
+    "timeStamp": "2026-10-19T01:15:13Z",
+    "type": "zip"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.8.122",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.equinux.com/files/other/VPN Tracker 365 - 26.8.122.zip",
+    "expectedTeamID": "MJMRT6WJ8S",
+    "label": "vpntracker365",
+    "name": "VPN Tracker 365",
+    "timeStamp": "2026-10-19T01:18:28Z",
+    "type": "zip"
+  }
+]

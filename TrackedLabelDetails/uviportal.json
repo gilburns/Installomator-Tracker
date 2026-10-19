@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "portal/mac",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.uvi.net/PORTAL_Uvi_portal/files/3.0.15/20250116_111109/UVI_Portal.dmg",
+    "expectedTeamID": "BB6L4C84AT",
+    "label": "uviportal",
+    "name": "UVI Portal",
+    "timeStamp": "2026-10-19T01:18:19Z",
+    "type": "pkgInDmg"
+  }
+]

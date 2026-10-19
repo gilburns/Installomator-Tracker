@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "v3.23.3",
+    "blockingProcesses": [],
+    "downloadURL": "/determinate-pkg/tag/v3.23.3/Universal",
+    "expectedTeamID": "X3JQ4VPJZ6",
+    "label": "determinate",
+    "name": "Determinate",
+    "timeStamp": "2026-10-19T01:10:21Z",
+    "type": "pkg"
+  }
+]
