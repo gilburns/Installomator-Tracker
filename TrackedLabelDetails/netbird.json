@@ -46,5 +46,17 @@
     "name": "NetBird",
     "timeStamp": "2026-10-16T18:33:04Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.81.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/netbirdio/netbird/releases/download/v0.81.3/netbird_0.81.3_darwin_arm64.pkg",
+    "downloadURLi386": "https://github.com/netbirdio/netbird/releases/download/v0.81.3/netbird_0.81.3_darwin_amd64.pkg",
+    "expectedTeamID": "TA739QLA7A",
+    "label": "netbird",
+    "name": "NetBird",
+    "timeStamp": "2026-10-19T18:33:04Z",
+    "type": "pkg"
   }
 ]

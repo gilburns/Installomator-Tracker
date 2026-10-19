@@ -31,5 +31,16 @@
     "name": "Ente Auth",
     "timeStamp": "2026-08-04T07:02:28Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.4.26",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/ente/ente/releases/download/auth-v4.4.26/ente-auth-v4.4.26.dmg",
+    "expectedTeamID": "6Z68YJY9Q2",
+    "label": "enteauth",
+    "name": "Ente Auth",
+    "timeStamp": "2026-10-19T18:19:37Z",
+    "type": "dmg"
   }
 ]

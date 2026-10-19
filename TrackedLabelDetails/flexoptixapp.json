@@ -43,5 +43,17 @@
     "name": "FLEXOPTIX App",
     "timeStamp": "2026-09-16T18:17:47Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.69.0-latest",
+    "blockingProcesses": [],
+    "downloadURL": "https://flexbox.reconfigure.me/download/electron/mac/arm64/FLEXOPTIX%20App-5.69.0-latest-arm64.dmg",
+    "downloadURLi386": "https://flexbox.reconfigure.me/download/electron/mac/x64/FLEXOPTIX%20App-5.69.0-latest.dmg",
+    "expectedTeamID": "C5JETSFPHL",
+    "label": "flexoptixapp",
+    "name": "FLEXOPTIX App",
+    "timeStamp": "2026-10-19T18:20:44Z",
+    "type": "dmg"
   }
 ]

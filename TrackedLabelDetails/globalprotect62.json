@@ -11,5 +11,18 @@
     "name": "GlobalProtect",
     "timeStamp": "2026-09-24T06:25:04Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.2.8-1084",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://pan-gp-client.s3.amazonaws.com/6.2.8-1084/GlobalProtect.pkg",
+    "expectedTeamID": "PXPZ95SK77",
+    "label": "globalprotect62",
+    "name": "GlobalProtect",
+    "timeStamp": "2026-10-19T18:21:41Z",
+    "type": "pkg"
   }
 ]

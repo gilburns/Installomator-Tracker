@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.3.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://mersive.com/downloads/SolsticeClient-6.3.4.dmg",
+    "downloadURLi386": "https://mersive.com/downloads/SolsticeClient-6.3.dmg",
+    "expectedTeamID": "63B5A5WDNG",
+    "label": "solstice",
+    "name": "Mersive Solstice",
+    "timeStamp": "2026-10-19T18:38:05Z",
+    "type": "dmg"
+  }
+]

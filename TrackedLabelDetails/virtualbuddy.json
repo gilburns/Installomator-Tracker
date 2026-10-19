@@ -20,5 +20,16 @@
     "name": "VirtualBuddy",
     "timeStamp": "2026-10-13T18:46:39Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.2.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/insidegui/VirtualBuddy/releases/download/2.2.1/VirtualBuddy_v2.2.1-430.dmg",
+    "expectedTeamID": "8C7439RJLG",
+    "label": "virtualbuddy",
+    "name": "VirtualBuddy",
+    "timeStamp": "2026-10-19T18:41:58Z",
+    "type": "dmg"
   }
 ]

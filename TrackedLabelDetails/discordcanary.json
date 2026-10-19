@@ -1043,5 +1043,16 @@
     "name": "Discord Canary",
     "timeStamp": "2026-10-17T06:18:05Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.0.1402",
+    "blockingProcesses": [],
+    "downloadURL": "https://canary.dl2.discordapp.net/apps/osx/0.0.1402/DiscordCanary.dmg",
+    "expectedTeamID": "53Q6R32WPB",
+    "label": "discordcanary",
+    "name": "Discord Canary",
+    "timeStamp": "2026-10-19T18:18:27Z",
+    "type": "dmg"
   }
 ]
