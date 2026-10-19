@@ -110,6 +110,7 @@
       "dbeaver"
     ],
     "downloadURL": "https://github.com/dbeaver/dbeaver/releases/download/26.2.3/dbeaver-ce-26.2.3-macos-aarch64.dmg",
+    "downloadURLi386": "https://github.com/dbeaver/dbeaver/releases/download/26.2.3/dbeaver-ce-26.2.3-macos-x86_64.dmg",
     "expectedTeamID": "42B6MDKMW8",
     "label": "dbeaverce",
     "name": "DBeaver",
