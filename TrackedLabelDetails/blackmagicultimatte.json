@@ -1,0 +1,17 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.4.1",
+    "blockingProcesses": [
+      "UltimatteControl",
+      "UltimatteHardwarePanelSetup",
+      "Ultimatte Setup"
+    ],
+    "downloadURL": "https://sw.blackmagicdesign.com/Ultimatte/v2.4.1/Blackmagic_Ultimatte_Macintosh_2.4.1.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=PwMVblUiIJk49MPcbSYLp4hYs4ZRTiXRudWJGYRmHJW7vB9VB+pKxxvStHz5PV7pSVE66lS4HWgSeTnlhih1LpF1wY2+VZsgRzCd+VGxjUsiBf0yEhFd1iVD0/hrIOC5nodcUqKa8Zb5IDUh51bzYaOuMdivPm308rMXY49azX0kry119wCoFwFPmP7jf2zH7Gv7DvIO3do/xbGOjLtQSgomYSSjGCT6UKIbioyQWCZouSuuVEVflzENXVJZyh6GTQ05Fqp2wCMil+1GlDFtScida6dyx66Tb6jvEGeQOSDgf8MzFQM97lm8x9g2ON59oR67KyKpzBIEH+q9zpY45g==&Expires=1792385883",
+    "expectedTeamID": "9ZGFBWLSYP",
+    "label": "blackmagicultimatte",
+    "name": "Blackmagic Ultimatte",
+    "timeStamp": "2026-10-19T01:58:03Z",
+    "type": "pkgInDmgInZip"
+  }
+]

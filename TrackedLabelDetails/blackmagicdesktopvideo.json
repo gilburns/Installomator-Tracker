@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "Blackmagic Desktop Video/Desktop Video Setup.app",
+    "appNewVersion": "16.4",
+    "blockingProcesses": [
+      "BlackmagicDesktopVideoSetup",
+      "LiveKey"
+    ],
+    "downloadURL": "https://sw.blackmagicdesign.com/DesktopVideo/v16.4/Blackmagic_Desktop_Video_Macintosh_16.4.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=Vz3MZk2kzAzZYrRot21yZBlsgWLtZyTC9yCezZq7XsevOHGh3fUYKhoPNX0lcW7c6MdqUjoKPuKoBR90GMB2FsTWC6lilYJFheFNrxLQVUcI/iWEs9QZwb8b7pxExPsQDnHpQxkJE0ypioG9ahYGslnknzsomOujc4dYhjZFmj/S/3M5+fQaa18/b8FW6WWyhDEogYjZTrct68HKXInVjlB601aFCH2LiIpMF1kQFP+oG9r+20IeyVt8LP5h4rbmt7iBGhcwgTpFEC9HuwiL53AkyjW3jFXD85442yIQilLiV6G/pV5klerkeNNoHDNl1mjbr8I88lSVpUdQkpAcqA==&Expires=1792385881",
+    "expectedTeamID": "9ZGFBWLSYP",
+    "label": "blackmagicdesktopvideo",
+    "name": "Blackmagic Desktop Video",
+    "timeStamp": "2026-10-19T01:58:01Z",
+    "type": "pkgInDmgInZip"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "Blackmagic Converters/Converters Setup.app",
+    "appNewVersion": "12.4",
+    "blockingProcesses": [
+      "Converters Setup"
+    ],
+    "downloadURL": "https://sw.blackmagicdesign.com/Converters/v12.4/Blackmagic_Converters_Macintosh_12.4.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=PZtwDy3DOj+yNxASnZEyfkYh4PRChbDXCYG7rAiyHe/gFIZM8aqsudhLoeJ310botXn1gKbIqLMvPZDlz3qUDiu7FEx3CdyJQkaKMCmyEmNuSfdKQIUD/Z3cbYskynSPmq663gepmvp4Pm8t0MJGFTj86K7xQaRRkYPhyE+ztl9bHOg/ihL0d7ovq5UaeJUwvKk6V/QCGAZ/X1Hp6vPArGlCnaIrdiirs3gQf0D6UFS57F7rfFb4mh7KTrmvHW3GPC/M0twCyyAlxP1FXBbZZYiD3AtzEwcvtyV4E6fTGj6pqto9+BuFTWX5jk+8Y7kiIh14+U+ItdbR5eI6drszWA==&Expires=1792385879",
+    "expectedTeamID": "9ZGFBWLSYP",
+    "label": "blackmagicconverters",
+    "name": "Blackmagic Converters",
+    "timeStamp": "2026-10-19T01:57:59Z",
+    "type": "pkgInDmgInZip"
+  }
+]

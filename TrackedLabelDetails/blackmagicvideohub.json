@@ -1,0 +1,17 @@
+[
+  {
+    "appName": "Blackmagic Videohub/Videohub Setup.app",
+    "appNewVersion": "11.0.1",
+    "blockingProcesses": [
+      "VideohubControl",
+      "VideohubHardwarePanelSetup",
+      "Videohub Setup"
+    ],
+    "downloadURL": "https://sw.blackmagicdesign.com/Videohub/v11.0.1/Blackmagic_Videohub_Macintosh_11.0.1.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=iBrxUWj0S0btGPh1PbI+SioPgHcpdPVbkssEvjFKTNo03BxyJ7mQ4MmaDr8CRkbdOle40yYzOX2J9YQULkRFle4WYHB2lDXznc4cCiwXFGT00R64p3QFfs7uW3IJ/iuYdWU2sj7Zo3hI3NXq65uIZd74/VAS3WRoLRP3X9yVJbWt8A5S0gD1eiOJKzKdhMm6X3zAMlqAcajbboH4iK5vtVWrg7CHzfPtoZcGTzxneH6IcVnY+De2GjHKQrmJEprZ/xLJXBL/hRXjUxv0+m/a/IgNF75Ozfg8dF0mDXSXWP797kCQXyyKBNxEZH7bOgrgV2Wk3Qk9QEOTcX4YbLCrcw==&Expires=1792385885",
+    "expectedTeamID": "9ZGFBWLSYP",
+    "label": "blackmagicvideohub",
+    "name": "Blackmagic Videohub",
+    "timeStamp": "2026-10-19T01:58:05Z",
+    "type": "pkgInDmgInZip"
+  }
+]

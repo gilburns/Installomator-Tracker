@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "v24.22.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://nodejs.org/dist/v24.22.0/node-v24.22.0.pkg",
+    "expectedTeamID": "HX7739G8FX",
+    "label": "nodejslts",
+    "name": "nodejs",
+    "timeStamp": "2026-10-19T02:02:03Z",
+    "type": "pkg"
+  }
+]

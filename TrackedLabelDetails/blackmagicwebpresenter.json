@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "/Blackmagic Web Presenter/Blackmagic Web Presenter Setup.app",
+    "appNewVersion": "3.5",
+    "blockingProcesses": [
+      "Blackmagic Web Presenter Setup"
+    ],
+    "downloadURL": "https://sw.blackmagicdesign.com/WebPresenter/v3.5/Blackmagic_Web_Presenter_Macintosh_3.5.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=nOCHZLReOc2bNfTON7r29H/pgLjOh2Lh5rxzUZutaPf8INrtGMLmyyBUNmb7D48xxr3nAO505D6gysblDWqCukZWfjSiRzve6nxVGkprjsbWbQ4Do1zRQvk1EbwVDriYzy14TPqNgYJnOZTJgHby0ulGNzywwM9baaQ+n85tqtejk3vOddJZ8yufCWhaxXFwcck8nMZMKDwlshgO5RsTocICfkbTaBefw5+roM5uxMWhio7g8rmhWxWen2KmlWlFI9XrZVD+X+CFzV09Gtodzs21ddH2QL0sN1NjO0ojdBPvvuMWezbhm5NQIwo6IFQKlGVmJD4qIicLPLVE1E92zw==&Expires=1792385887",
+    "expectedTeamID": "9ZGFBWLSYP",
+    "label": "blackmagicwebpresenter",
+    "name": "Blackmagic Web Presenter",
+    "timeStamp": "2026-10-19T01:58:07Z",
+    "type": "pkgInDmgInZip"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "appName": "DaVinci Resolve/DaVinci Resolve.app",
+    "appNewVersion": "21.1.1",
+    "blockingProcesses": [
+      "Resolve",
+      "DaVinci Control Panels Setup",
+      "DaVinci Remote Monitor",
+      "Fairlight Studio Utility"
+    ],
+    "downloadURL": "https://sw.blackmagicdesign.com/DaVinciResolve/v21.1.1/DaVinci_Resolve_Studio_21.1.1_Mac.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=hMtLbqtsUCUBSY2OtpxGw3G+KaHvSrd1j4hqC6CaAHh+EjxiyO5xDTwmJ7nnXHcfQ3nWWS5zpsKX1fYZmMf9mvwzMl+fXmzJhHbHtd7fvrZ6egllwYOBlFbO/R3b/OhHtP+pDEL2okD5h4OpmBF9oI781OPpb2eG1p7fxTxS56ARpKMssElSksgxJ4oKtiR9CgJ73lOTLPM8mk/ZNvucue/Whmo3pLUBYyrwSvdQQ3UskwzxgqjErWITP8mxMvi7Noqmpo9+0sErtp6Bd2sqAU4LJWUglMWMYuJFae6DeMkmLLSzj1D8J4KlfFaFg5cqrs9WDKBDjK8k22f+WUeLaA==&Expires=1792385899",
+    "expectedTeamID": "9ZGFBWLSYP",
+    "label": "davinciresolvestudio",
+    "name": "DaVinci Resolve Studio",
+    "timeStamp": "2026-10-19T01:58:19Z",
+    "type": "pkgInDmgInZip"
+  }
+]
