@@ -32,6 +32,7 @@ LABELS_DIR="$SCRIPT_DIR/Labels"
 TRACKED_DIR="$SCRIPT_DIR/TrackedLabelDetails"
 PROCESS_LABEL="$SCRIPT_DIR/process_label.sh"
 FAILED_LABELS_FILE="$SCRIPT_DIR/failed_labels.json"
+STATUS_CSV_FILE="$SCRIPT_DIR/label_status.csv"
 TIMEOUT_SECS=60
 FORCE_RETRY_INTERVAL_SECS=$((7 * 24 * 60 * 60))
 
@@ -140,6 +141,73 @@ computeLabelsHash() {
         | xargs -0 shasum -a 256 \
         | shasum -a 256 \
         | awk '{print $1}'
+}
+
+# Writes label_status.csv: one row per label in Labels/ with its most recent
+# tracked name/appName/appNewVersion/timeStamp, and a status column holding
+# either "success" or the failed_labels.json reason. Built from what's on
+# disk rather than from this run's loop, since skipped (known-broken) labels
+# are never resolved in a run but still belong in the snapshot - and so a
+# --label run leaves it consistent with failed_labels.json too. Labels that
+# have never resolved fall back to the literal name=/appName= assignments in
+# the label file, when there is one.
+generateStatusCSV() {
+    local metaFile tmpCSV
+    metaFile=$(mktemp)
+    tmpCSV=$(mktemp)
+
+    # label<TAB>name<TAB>appName for every label file, skipping comment lines
+    # and anything computed (containing $).
+    awk '
+        function emit() { if (label != "") print label "\t" name "\t" appName }
+        FNR == 1 {
+            emit()
+            label = FILENAME; sub(/.*\//, "", label); sub(/\.sh$/, "", label)
+            name = ""; appName = ""
+        }
+        /^[[:space:]]*#/ { next }
+        name == "" && /^[[:space:]]*name="[^"$]*"/ {
+            name = $0; sub(/^[[:space:]]*name="/, "", name); sub(/".*/, "", name)
+        }
+        appName == "" && /^[[:space:]]*appName="[^"$]*"/ {
+            appName = $0; sub(/^[[:space:]]*appName="/, "", appName); sub(/".*/, "", appName)
+        }
+        END { emit() }
+    ' "$LABELS_DIR"/*.sh(N) > "$metaFile"
+
+    local failedJSON='{}'
+    [[ -f "$FAILED_LABELS_FILE" ]] && failedJSON=$(jq -c '.failed // {}' "$FAILED_LABELS_FILE")
+
+    local jqStatus=0
+    jq -n -r --rawfile meta "$metaFile" --argjson failed "$failedJSON" '
+        (reduce inputs as $t ({};
+            . + {(input_filename | sub(".*/"; "") | sub("\\.json$"; "")): ($t | sort_by(.timeStamp) | last)}
+        )) as $tracked
+        | ["label", "name", "appName", "appNewVersion", "timeStamp", "status"],
+          ($meta | split("\n")[] | select(. != "") | split("\t") as [$label, $name, $appName]
+            | ($tracked[$label] // {}) as $t
+            | [
+                $label,
+                (if ($t.name // "") != "" then $t.name else $name end),
+                (if ($t.appName // "") != "" then $t.appName else $appName end),
+                ($t.appNewVersion // ""),
+                ($t.timeStamp // ""),
+                (if $failed[$label] then $failed[$label].reason
+                 elif $t.appNewVersion then "success"
+                 else "not yet tracked" end)
+              ])
+        | @csv
+    ' "$TRACKED_DIR"/*.json(N) > "$tmpCSV" || jqStatus=$?
+    rm -f "$metaFile"
+
+    if [[ $jqStatus -ne 0 ]]; then
+        echo "FAILED to generate $STATUS_CSV_FILE" >&2
+        rm -f "$tmpCSV"
+    elif [[ -f "$STATUS_CSV_FILE" ]] && cmp -s "$tmpCSV" "$STATUS_CSV_FILE"; then
+        rm -f "$tmpCSV"
+    else
+        mv "$tmpCSV" "$STATUS_CSV_FILE"
+    fi
 }
 
 # --label targets one label for ad hoc testing/debugging - always run it
@@ -396,6 +464,8 @@ if [[ $dry_run -eq 0 ]]; then
     else
         mv "$tmpStateFile" "$FAILED_LABELS_FILE"
     fi
+
+    generateStatusCSV
 fi
 
 if [[ $failCount -eq $totalCount && $totalCount -gt 0 ]]; then
