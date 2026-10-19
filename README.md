@@ -11,8 +11,12 @@ This repo runs that resolution logic for every label, twice a day, and keeps a r
 A scheduled GitHub Actions workflow ([.github/workflows/track-labels.yml](.github/workflows/track-labels.yml)) runs on a `macos-latest` runner twice daily (06:00 and 18:00 UTC, plus on-demand via `workflow_dispatch`) and does three things in order, committing after each:
 
 1. **Sync labels from upstream** ([sync_labels.sh](sync_labels.sh)) - pulls the current [`fragments/labels`](https://github.com/Installomator/Installomator/tree/main/fragments/labels) directory from Installomator's `main` branch via a shallow sparse-checkout clone, and mirrors it into [`Labels/`](Labels/): new labels are added, changed labels are updated, and labels removed upstream are deleted locally.
-2. **Run the label tracker** ([update_tracked_labels.sh](update_tracked_labels.sh)) - resolves every label in `Labels/` (via [process_label.sh](process_label.sh), a trimmed-down harness that evaluates a single label fragment the same way Installomator itself does) and records any newly-discovered version into [`TrackedLabelDetails/<label>.json`](TrackedLabelDetails/).
-3. Commits whatever changed in `Labels/` and `TrackedLabelDetails/` back to this repo.
+2. **Run the label tracker** ([update_tracked_labels.sh](update_tracked_labels.sh)) - resolves every label in `Labels/` (via [process_label.sh](process_label.sh), a trimmed-down harness that evaluates a single label fragment the same way Installomator itself does) and records any newly-discovered version into [`TrackedLabelDetails/<label>.json`](TrackedLabelDetails/), then rewrites the [`label_status.csv`](label_status.csv) snapshot.
+3. Commits whatever changed in `Labels/`, `TrackedLabelDetails/`, `failed_labels.json` and `label_status.csv` back to this repo.
+
+### Status snapshot
+
+[`label_status.csv`](label_status.csv) has one row per label with its `label`, `name`, `appName`, and the `appNewVersion` and `timeStamp` of its most recent tracked entry. The `status` column says `success` for labels that resolve, or gives the [`failed_labels.json`](failed_labels.json) reason for those that don't. A failing label still shows its last tracked version if it ever resolved; if it never did, `name`/`appName` come from the label file when they're set there as plain strings. It's a current snapshot, rewritten in place on every run, with no history kept (git history aside).
 
 ### Why a version only gets recorded once
 
@@ -37,6 +41,7 @@ Some labels can't be resolved through this lightweight method at all - about ~25
 | `Labels/` | Mirror of Installomator's `fragments/labels`, kept in sync automatically. Not hand-edited. |
 | `TrackedLabelDetails/<label>.json` | Version history for one label - a JSON array of entries, oldest to newest. |
 | `failed_labels.json` | Labels that currently can't be resolved, and why, so they're skipped instead of retried every run. |
+| `label_status.csv` | Current-state snapshot of every label: latest version, timestamp, and `success` or failure reason. |
 | `process_label.sh` | Resolves a single label file to one JSON result (version, download URL, metadata). |
 | `sync_labels.sh` | Mirrors `Labels/` from upstream Installomator. |
 | `update_tracked_labels.sh` | Runs `process_label.sh` over every label and updates `TrackedLabelDetails/`. |
