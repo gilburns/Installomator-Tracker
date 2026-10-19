@@ -121,6 +121,14 @@ isDualArchLabel() {
     grep -Eq '\$\((/usr/bin/)?arch\)' "$1"
 }
 
+# Many labels never set appNewVersion at all, so resolving them (network
+# calls, possible timeouts) can only end in "missing appNewVersion". Check
+# the label text up front, ignoring comment lines. versionFromGit sets
+# appNewVersion itself, so count a call to it too.
+labelSetsAppNewVersion() {
+    grep -vE '^[[:space:]]*#' "$1" | grep -Eq 'appNewVersion|versionFromGit'
+}
+
 # Content fingerprint of the current Labels/ set: every filename+content pair,
 # sorted by filename, hashed together into one digest. Changes if and only if
 # a label was added, removed, or its content changed - deliberately not the
@@ -190,7 +198,23 @@ for labelFile in "${labelFiles[@]}"; do
 
     if [[ $bypassBlacklist -eq 0 ]] && echo "$skipSet" | jq -e --arg l "$label" 'has($l)' >/dev/null 2>&1; then
         log "[$label] skipping (previously failed, no upstream changes)"
+        # Entries recorded before the appNewVersion pre-check existed carry a
+        # generic "missing appNewVersion" reason - correct it while skipping.
+        if ! labelSetsAppNewVersion "$labelFile"; then
+            newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "label does not set appNewVersion" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
+                if .[$l].reason == $reason then . else .[$l] = {reason: $reason, firstSeen: (.[$l].firstSeen // $now), lastSeen: $now} end
+            ')
+        fi
         skippedCount=$((skippedCount + 1))
+        continue
+    fi
+
+    if ! labelSetsAppNewVersion "$labelFile"; then
+        echo "[$label] FAILED: label does not set appNewVersion" >&2
+        newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "label does not set appNewVersion" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
+            .[$l] = {reason: $reason, firstSeen: (.[$l].firstSeen // $now), lastSeen: $now}
+        ')
+        failCount=$((failCount + 1))
         continue
     fi
 
