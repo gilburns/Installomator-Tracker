@@ -20,5 +20,16 @@
     "name": "Dialog",
     "timeStamp": "2026-07-14T18:30:55Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.1.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/swiftDialog/swiftDialog/releases/download/v3.1.1/dialog-3.1.1-5000.pkg",
+    "expectedTeamID": "PWA5E9TQ59",
+    "label": "dialog",
+    "name": "Dialog",
+    "timeStamp": "2026-10-20T06:17:18Z",
+    "type": "pkg"
   }
 ]

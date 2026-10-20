@@ -230,6 +230,11 @@
       "lastSeen": "2026-10-19T18:14:36Z",
       "reason": "missing appNewVersion"
     },
+    "capcut": {
+      "firstSeen": "2026-10-20T06:14:42Z",
+      "lastSeen": "2026-10-20T06:14:42Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-10-19T18:15:23Z",
       "lastSeen": "2026-10-19T18:15:23Z",
@@ -514,6 +519,11 @@
       "firstSeen": "2026-10-19T18:23:24Z",
       "lastSeen": "2026-10-19T18:23:24Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "inkscape": {
+      "firstSeen": "2026-10-20T06:22:30Z",
+      "lastSeen": "2026-10-20T06:22:30Z",
+      "reason": "resolve failed (exit 142)"
     },
     "ipvisionconnect": {
       "firstSeen": "2026-10-19T18:25:29Z",
@@ -1104,6 +1114,11 @@
       "firstSeen": "2026-10-19T18:39:31Z",
       "lastSeen": "2026-10-19T18:39:31Z",
       "reason": "label does not set appNewVersion"
+    },
+    "tesseraremote": {
+      "firstSeen": "2026-10-20T06:32:30Z",
+      "lastSeen": "2026-10-20T06:32:30Z",
+      "reason": "resolve failed (exit 142)"
     },
     "things": {
       "firstSeen": "2026-10-19T18:39:54Z",

@@ -31,5 +31,16 @@
     "name": "WhatRoute",
     "timeStamp": "2026-08-19T06:32:33Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.8.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.whatroute.net/software/whatroute-2.8.2.zip",
+    "expectedTeamID": "H5879E8LML",
+    "label": "whatroute",
+    "name": "WhatRoute",
+    "timeStamp": "2026-10-20T06:35:00Z",
+    "type": "zip"
   }
 ]

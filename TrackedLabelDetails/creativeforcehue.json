@@ -94,5 +94,17 @@
     "name": "Hue",
     "timeStamp": "2026-10-06T18:15:02Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.13.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.creativeforce.io/released-files.042024/prod/hue-uxp/mac/Hue-6.13.0-mac-arm64.pkg",
+    "downloadURLi386": "https://download.creativeforce.io/released-files.042024/prod/hue-uxp/mac/Hue-6.13.0-mac.pkg",
+    "expectedTeamID": "Y5K3N5Y6PY",
+    "label": "creativeforcehue",
+    "name": "Hue",
+    "timeStamp": "2026-10-20T06:16:23Z",
+    "type": "pkg"
   }
 ]

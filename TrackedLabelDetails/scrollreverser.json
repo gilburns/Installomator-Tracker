@@ -31,5 +31,16 @@
     "name": "Scroll Reverser",
     "timeStamp": "2026-10-17T19:05:43Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/pilotmoon/Scroll-Reverser/releases/download/v2.0/ScrollReverser-2.0.zip",
+    "expectedTeamID": "6W6K75YWQ9",
+    "label": "scrollreverser",
+    "name": "Scroll Reverser",
+    "timeStamp": "2026-10-20T06:29:37Z",
+    "type": "zip"
   }
 ]

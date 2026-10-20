@@ -82,5 +82,19 @@
     "name": "GoLang",
     "timeStamp": "2026-10-08T18:19:36Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.27.3",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://dl.google.com/go/go1.27.3.darwin-arm64.pkg",
+    "downloadURLi386": "https://dl.google.com/go/go1.27.3.darwin-amd64.pkg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "golang",
+    "name": "GoLang",
+    "timeStamp": "2026-10-20T06:20:38Z",
+    "type": "pkg"
   }
 ]

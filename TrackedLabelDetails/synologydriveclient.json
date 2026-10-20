@@ -20,5 +20,16 @@
     "name": "Synology Drive Client",
     "timeStamp": "2026-08-13T07:00:41Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "20062",
+    "blockingProcesses": [],
+    "downloadURL": "https://global.download.synology.com/download/Utility/SynologyDriveClient/4.2.1-20062/Mac/Installer/synology-drive-client-20062.dmg",
+    "expectedTeamID": "X85BAK35Y4",
+    "label": "synologydriveclient",
+    "name": "Synology Drive Client",
+    "timeStamp": "2026-10-20T06:31:07Z",
+    "type": "pkgInDmg"
   }
 ]
