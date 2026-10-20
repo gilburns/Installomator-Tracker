@@ -44,5 +44,18 @@
     "name": "Java Runtime Environment 8",
     "timeStamp": "2026-08-25T18:24:18Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.8.511.09",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_511-b09/d564311dd56c4871a465018788e32a1f/unix-i586/jre-8u511-fcs-bin-b09-macosx-x64-15_sep_2026_au.dmg",
+    "expectedTeamID": "VB5E2TV963",
+    "label": "jre8",
+    "name": "Java Runtime Environment 8",
+    "timeStamp": "2026-10-20T18:21:39Z",
+    "type": "pkgInDmg"
   }
 ]

@@ -69,11 +69,21 @@
     "appName": "",
     "appNewVersion": "153.5.0",
     "blockingProcesses": [],
-    "downloadURL": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.5.0esr/mac/en-US/Firefox%20153.5.0esr.pkg",
     "expectedTeamID": "43AQ936H96",
     "label": "firefoxesrintl",
     "name": "Firefox",
     "timeStamp": "2026-10-13T18:22:32Z",
+    "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "153.5.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.5.0esr/mac/en-US/Firefox%20153.5.0esr.pkg",
+    "expectedTeamID": "43AQ936H96",
+    "label": "firefoxesrintl",
+    "name": "Firefox",
+    "timeStamp": "2026-10-20T18:18:07Z",
     "type": "pkg"
   }
 ]

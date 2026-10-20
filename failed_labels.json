@@ -230,6 +230,11 @@
       "lastSeen": "2026-10-19T18:14:36Z",
       "reason": "missing appNewVersion"
     },
+    "calibre": {
+      "firstSeen": "2026-10-20T18:11:49Z",
+      "lastSeen": "2026-10-20T18:11:49Z",
+      "reason": "missing appNewVersion"
+    },
     "capcut": {
       "firstSeen": "2026-10-20T06:14:42Z",
       "lastSeen": "2026-10-20T06:14:42Z",
@@ -609,6 +614,11 @@
       "firstSeen": "2026-10-19T18:30:19Z",
       "lastSeen": "2026-10-19T18:30:19Z",
       "reason": "missing appNewVersion"
+    },
+    "macadminspython": {
+      "firstSeen": "2026-10-20T18:23:12Z",
+      "lastSeen": "2026-10-20T18:23:12Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "mackiemasterfader": {
       "firstSeen": "2026-10-19T18:30:26Z",

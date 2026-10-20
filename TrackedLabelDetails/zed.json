@@ -334,5 +334,17 @@
     "name": "Zed",
     "timeStamp": "2026-10-19T18:43:11Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.24.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/zed-industries/zed/releases/download/v1.24.4/Zed-aarch64.dmg",
+    "downloadURLi386": "https://github.com/zed-industries/zed/releases/download/v1.24.4/Zed-x86_64.dmg",
+    "expectedTeamID": "MQ55VZLNZQ",
+    "label": "zed",
+    "name": "Zed",
+    "timeStamp": "2026-10-20T18:34:06Z",
+    "type": "dmg"
   }
 ]

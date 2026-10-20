@@ -20,5 +20,16 @@
     "name": "Focusrite Control 2",
     "timeStamp": "2026-09-15T18:17:10Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.1210.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://releases.focusrite.com/com.focusrite.focusrite-control/release/Focusrite-Control-2-1.1210.0.0.dmg",
+    "expectedTeamID": "7VYBQV3T2Q",
+    "label": "focusritecontrol2",
+    "name": "Focusrite Control 2",
+    "timeStamp": "2026-10-20T18:18:19Z",
+    "type": "dmg"
   }
 ]

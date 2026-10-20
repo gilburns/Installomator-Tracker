@@ -58,5 +58,17 @@
     "name": "GitKraken",
     "timeStamp": "2026-10-13T18:23:22Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "12.6.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://release.gitkraken.dev/gkd/production/normal/darwin/arm64/12.6.1/3KuKRzOPzABvKgHOEPiyppXpz3b/installGitKraken.dmg",
+    "downloadURLi386": "https://release.gitkraken.dev/gkd/production/normal/darwin/x64/12.6.1/3KuSqkkGPeja1Zq3gFhF5yPPzEI/installGitKraken.dmg",
+    "expectedTeamID": "T7QVVUTZQ8",
+    "label": "gitkraken",
+    "name": "GitKraken",
+    "timeStamp": "2026-10-20T18:18:55Z",
+    "type": "dmg"
   }
 ]
