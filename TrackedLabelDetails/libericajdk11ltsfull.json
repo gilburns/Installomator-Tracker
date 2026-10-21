@@ -22,5 +22,17 @@
     "name": "Liberica JDK 11 LTS Full",
     "timeStamp": "2026-07-22T18:43:23Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "11.0.32.1+1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/bell-sw/Liberica/releases/download/11.0.32.1+1/bellsoft-jdk11.0.32.1+1-macos-aarch64-full.pkg",
+    "downloadURLi386": "https://github.com/bell-sw/Liberica/releases/download/11.0.32.1+1/bellsoft-jdk11.0.32.1+1-macos-amd64-full.pkg",
+    "expectedTeamID": "8LBATW8FZA",
+    "label": "libericajdk11ltsfull",
+    "name": "Liberica JDK 11 LTS Full",
+    "timeStamp": "2026-10-21T18:21:24Z",
+    "type": "pkg"
   }
 ]

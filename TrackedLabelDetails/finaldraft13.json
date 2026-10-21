@@ -42,5 +42,16 @@
     "name": "Final Draft 13",
     "timeStamp": "2026-08-25T06:19:47Z",
     "type": "appInDmgInZip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1350",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.finaldraft.com/downloads/finaldraft1350Mac.zip",
+    "expectedTeamID": "7XUZ8R5736",
+    "label": "finaldraft13",
+    "name": "Final Draft 13",
+    "timeStamp": "2026-10-21T18:16:20Z",
+    "type": "appInDmgInZip"
   }
 ]

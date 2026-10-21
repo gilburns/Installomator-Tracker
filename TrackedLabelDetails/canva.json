@@ -13,11 +13,21 @@
     "appName": "",
     "appNewVersion": "1.126.1",
     "blockingProcesses": [],
-    "downloadURL": "https://desktop-release.canva.com/Canva-latest.dmg",
     "expectedTeamID": "5HD2ARTBFS",
     "label": "canva",
     "name": "Canva",
     "timeStamp": "2026-10-14T18:14:16Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.126.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop-release.canva.com/Canva-latest.dmg",
+    "expectedTeamID": "5HD2ARTBFS",
+    "label": "canva",
+    "name": "Canva",
+    "timeStamp": "2026-10-21T18:11:59Z",
     "type": "dmg"
   }
 ]

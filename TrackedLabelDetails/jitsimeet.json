@@ -31,5 +31,16 @@
     "name": "Jitsi Meet",
     "timeStamp": "2026-08-05T07:09:31Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.10.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.10.0/jitsi-meet.dmg",
+    "expectedTeamID": "FC967L3QRG",
+    "label": "jitsimeet",
+    "name": "Jitsi Meet",
+    "timeStamp": "2026-10-21T18:19:27Z",
+    "type": "dmg"
   }
 ]

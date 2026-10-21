@@ -9,5 +9,16 @@
     "name": "nodejs",
     "timeStamp": "2026-10-19T02:02:03Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "v24.22.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://nodejs.org/dist/v24.22.1/node-v24.22.1.pkg",
+    "expectedTeamID": "HX7739G8FX",
+    "label": "nodejslts",
+    "name": "nodejs",
+    "timeStamp": "2026-10-21T18:24:21Z",
+    "type": "pkg"
   }
 ]
