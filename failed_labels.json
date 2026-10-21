@@ -45,6 +45,11 @@
       "lastSeen": "2026-10-21T01:41:21Z",
       "reason": "resolve failed (exit 95)"
     },
+    "amadeuspro3": {
+      "firstSeen": "2026-10-21T06:12:14Z",
+      "lastSeen": "2026-10-21T06:12:14Z",
+      "reason": "missing appNewVersion"
+    },
     "amazonredshiftodbc": {
       "firstSeen": "2026-10-19T18:11:21Z",
       "lastSeen": "2026-10-21T01:41:23Z",
@@ -54,6 +59,11 @@
       "firstSeen": "2026-10-19T18:11:23Z",
       "lastSeen": "2026-10-19T18:11:23Z",
       "reason": "label does not set appNewVersion"
+    },
+    "ankerwork": {
+      "firstSeen": "2026-10-21T06:12:32Z",
+      "lastSeen": "2026-10-21T06:12:32Z",
+      "reason": "missing appNewVersion"
     },
     "antcon": {
       "firstSeen": "2026-10-19T18:11:37Z",
@@ -134,6 +144,16 @@
       "firstSeen": "2026-10-19T18:13:08Z",
       "lastSeen": "2026-10-19T18:13:08Z",
       "reason": "label does not set appNewVersion"
+    },
+    "audacity3": {
+      "firstSeen": "2026-10-21T06:12:55Z",
+      "lastSeen": "2026-10-21T06:12:55Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "audacity4": {
+      "firstSeen": "2026-10-21T06:12:55Z",
+      "lastSeen": "2026-10-21T06:12:55Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "avertouch": {
       "firstSeen": "2026-10-19T18:13:20Z",
@@ -270,6 +290,11 @@
       "lastSeen": "2026-10-21T01:43:12Z",
       "reason": "missing appNewVersion"
     },
+    "dcpomatic": {
+      "firstSeen": "2026-10-21T06:16:28Z",
+      "lastSeen": "2026-10-21T06:16:28Z",
+      "reason": "missing appNewVersion"
+    },
     "debookee": {
       "firstSeen": "2026-10-19T18:17:30Z",
       "lastSeen": "2026-10-19T18:17:30Z",
@@ -383,6 +408,11 @@
     "foxitpdfeditor": {
       "firstSeen": "2026-10-19T18:21:00Z",
       "lastSeen": "2026-10-21T01:43:31Z",
+      "reason": "missing appNewVersion"
+    },
+    "gitkraken": {
+      "firstSeen": "2026-10-21T06:19:56Z",
+      "lastSeen": "2026-10-21T06:19:56Z",
       "reason": "missing appNewVersion"
     },
     "googledrivebackupandsync": {
@@ -550,6 +580,11 @@
       "lastSeen": "2026-10-19T18:27:19Z",
       "reason": "label does not set appNewVersion"
     },
+    "labchartreader8": {
+      "firstSeen": "2026-10-21T06:22:27Z",
+      "lastSeen": "2026-10-21T06:22:27Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "levelscreenrecorder": {
       "firstSeen": "2026-10-19T18:28:38Z",
       "lastSeen": "2026-10-21T01:45:01Z",
@@ -684,6 +719,11 @@
       "firstSeen": "2026-10-19T18:32:08Z",
       "lastSeen": "2026-10-19T18:32:08Z",
       "reason": "label does not set appNewVersion"
+    },
+    "mkuser": {
+      "firstSeen": "2026-10-21T06:24:42Z",
+      "lastSeen": "2026-10-21T06:24:42Z",
+      "reason": "missing appNewVersion"
     },
     "mmhmm": {
       "firstSeen": "2026-10-19T18:32:19Z",
@@ -1090,6 +1130,11 @@
       "lastSeen": "2026-10-21T01:47:36Z",
       "reason": "missing appNewVersion"
     },
+    "tigervnc": {
+      "firstSeen": "2026-10-21T06:30:02Z",
+      "lastSeen": "2026-10-21T06:30:02Z",
+      "reason": "missing appNewVersion"
+    },
     "toonboomharmony2024": {
       "firstSeen": "2026-10-19T18:40:14Z",
       "lastSeen": "2026-10-21T01:47:37Z",
@@ -1144,6 +1189,11 @@
       "firstSeen": "2026-10-19T18:41:41Z",
       "lastSeen": "2026-10-19T18:41:41Z",
       "reason": "label does not set appNewVersion"
+    },
+    "veracrypt-fuse-t": {
+      "firstSeen": "2026-10-21T06:31:22Z",
+      "lastSeen": "2026-10-21T06:31:22Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "vernierspectralanalysis": {
       "firstSeen": "2026-10-19T18:41:47Z",

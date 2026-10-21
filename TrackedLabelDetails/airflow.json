@@ -130,5 +130,17 @@
     "name": "Air",
     "timeStamp": "2026-10-15T06:12:35Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.1.64",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/AirLabsTeam/airflow-releases/releases/download/v4.1.64/Air-arm64.dmg",
+    "downloadURLi386": "https://github.com/AirLabsTeam/airflow-releases/releases/download/v4.1.64/Air-x64.dmg",
+    "expectedTeamID": "8RBYE8TY7T",
+    "label": "airflow",
+    "name": "Air",
+    "timeStamp": "2026-10-21T06:12:04Z",
+    "type": "dmg"
   }
 ]

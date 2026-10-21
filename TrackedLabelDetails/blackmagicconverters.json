@@ -11,5 +11,18 @@
     "name": "Blackmagic Converters",
     "timeStamp": "2026-10-19T01:57:59Z",
     "type": "pkgInDmgInZip"
+  },
+  {
+    "appName": "Blackmagic Converters/Converters Setup.app",
+    "appNewVersion": "12.4.1",
+    "blockingProcesses": [
+      "Converters Setup"
+    ],
+    "downloadURL": "https://sw.blackmagicdesign.com/Converters/v12.4.1/Blackmagic_Converters_Macintosh_12.4.1.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=CyhxAfhPLCUGK25jBckUK1T8HSjmc3iTFkFe+p613tGipPonc9xC+LdA5spCPRXt5k9Jg2+mNFqKRx9F/DzkI5Gg/2sbFYXQsDkzn4T+O+Wj4KttJu0enALWyT5IHhsnOhBpWhCm0T0L5X4MBrWGFpYJgkzECAORxVVTDbJoRgp6AJAmzqpj/4mk8uDDSJ6WW49G5Khl+BRrqm6ZPEKbpojmwR1CCx2MKfK/yjVYL0y4fYU5jpvGyWyDBJLrMbFeDiPvFODfX7jPk68WCSx9MvOpwlCa8UabFnGtEWl7KRPIUyuRrWsrVyG3hQ0ByP1pLbYhgXz8jlSm+Y37Bq6sbQ==&Expires=1792574017",
+    "expectedTeamID": "9ZGFBWLSYP",
+    "label": "blackmagicconverters",
+    "name": "Blackmagic Converters",
+    "timeStamp": "2026-10-21T06:13:36Z",
+    "type": "pkgInDmgInZip"
   }
 ]

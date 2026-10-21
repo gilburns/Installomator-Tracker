@@ -11,5 +11,18 @@
     "name": "Blackmagic Cameras",
     "timeStamp": "2026-10-19T01:57:57Z",
     "type": "pkgInDmgInZip"
+  },
+  {
+    "appName": "Blackmagic Cameras/Blackmagic Camera Setup.app",
+    "appNewVersion": "10.3.2",
+    "blockingProcesses": [
+      "Blackmagic Camera Setup"
+    ],
+    "downloadURL": "https://sw.blackmagicdesign.com/CinemaCamera/v10.3.2/Blackmagic_Camera_Setup_Macintosh_10.3.2.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=XWn3vRzINmX+tKSLZbY+8ZJrh+OXSXMVRBKWeezusjA46bWYs+7I6a/XzrrvJl6Wyh9UUAzEjBn3beQ10t3KNLTg54P3q9b/XDsc5IDqIdNxIKZe2qYj2lGKBMR61nU3jfLF8eMhYg/1ul+c3+p/TPL7E2i7AwPZVvMVhmNsw3h3Y39b2Ew4iGs0ncgYtlxFGT1ZyGy+pcI12sjoe6+TGjp0HTtTjULalWUjqFeclsMTz7L9Ivr+0atemVZYv5XSP89yZfogdSny0uukMfzYX3Ueb7GzkT1iKeZ7KGdVgD3IkArIe1dDNE2x3r+ZVRuBPtfTgDG2dE90F8zsKB8Pgw==&Expires=1792574016",
+    "expectedTeamID": "9ZGFBWLSYP",
+    "label": "blackmagiccameras",
+    "name": "Blackmagic Cameras",
+    "timeStamp": "2026-10-21T06:13:35Z",
+    "type": "pkgInDmgInZip"
   }
 ]

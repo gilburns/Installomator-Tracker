@@ -97,5 +97,16 @@
     "name": "Rectangle",
     "timeStamp": "2026-10-06T06:37:07Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.0.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/rxhanson/Rectangle/releases/download/v2.0.4/Rectangle2.0.4.dmg",
+    "expectedTeamID": "XSYZ3E4B7D",
+    "label": "rectangle",
+    "name": "Rectangle",
+    "timeStamp": "2026-10-21T06:27:24Z",
+    "type": "dmg"
   }
 ]
