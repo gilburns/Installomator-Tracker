@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.12.26",
+    "blockingProcesses": [],
+    "downloadURL": "https://ftp.hp.com/pub/softlib/software13/printers/hpdesignjetclick/HPClick-4.12.26.dmg",
+    "expectedTeamID": "6HB5Y2QTA3",
+    "label": "hpclick",
+    "name": "HP Click",
+    "timeStamp": "2026-10-22T06:24:44Z",
+    "type": "dmg"
+  }
+]

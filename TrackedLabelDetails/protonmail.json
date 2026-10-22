@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.15.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://proton.me/download/mail/macos/ProtonMail-desktop.dmg",
+    "expectedTeamID": "2SB5Z68H26",
+    "label": "protonmail",
+    "name": "Proton Mail",
+    "timeStamp": "2026-10-22T06:35:20Z",
+    "type": "dmg"
+  }
+]
