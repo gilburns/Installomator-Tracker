@@ -11,5 +11,18 @@
     "name": "CrashPlan",
     "timeStamp": "2026-07-03T15:43:02Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "12.1.0",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://download.crashplan.com/installs/agent/cloud/12.1.0/720/install/CrashPlan_12.1.0_720_Mac.dmg",
+    "expectedTeamID": "UGHXR79U6M",
+    "label": "crashplansmb",
+    "name": "CrashPlan",
+    "timeStamp": "2026-10-22T18:13:16Z",
+    "type": "pkgInDmg"
   }
 ]

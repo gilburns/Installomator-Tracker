@@ -34,5 +34,17 @@
     "name": "Temurin 21",
     "timeStamp": "2026-08-19T18:22:12Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "21.0.13+9",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B9/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.13_9.pkg",
+    "downloadURLi386": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jdk_x64_mac_hotspot_21.0.12.1_1.pkg",
+    "expectedTeamID": "JCDTMS22B4",
+    "label": "eclipsetemurin21",
+    "name": "Temurin 21",
+    "timeStamp": "2026-10-22T18:15:06Z",
+    "type": "pkg"
   }
 ]

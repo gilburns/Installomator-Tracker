@@ -58,5 +58,17 @@
     "name": "PowerShell",
     "timeStamp": "2026-10-14T06:33:46Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.6.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.8/powershell-7.6.8-osx-arm64.pkg",
+    "downloadURLi386": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.8/powershell-7.6.8-osx-x64.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftpowershell",
+    "name": "PowerShell",
+    "timeStamp": "2026-10-22T18:23:02Z",
+    "type": "pkg"
   }
 ]

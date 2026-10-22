@@ -22,5 +22,17 @@
     "name": "Temurin 25",
     "timeStamp": "2026-08-21T18:14:44Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "25.0.5+8",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jdk_aarch64_mac_hotspot_25.0.5_8.pkg",
+    "downloadURLi386": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jdk_x64_mac_hotspot_25.0.4.1_1.pkg",
+    "expectedTeamID": "JCDTMS22B4",
+    "label": "eclipsetemurin25",
+    "name": "Temurin 25",
+    "timeStamp": "2026-10-22T18:15:08Z",
+    "type": "pkg"
   }
 ]

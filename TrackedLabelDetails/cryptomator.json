@@ -10,5 +10,17 @@
     "name": "Cryptomator",
     "timeStamp": "2026-07-03T15:43:11Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.19.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/cryptomator/cryptomator/releases/download/1.19.4/Cryptomator-1.19.4-arm64.dmg",
+    "downloadURLi386": "https://github.com/cryptomator/cryptomator/releases/download/1.19.4/Cryptomator-1.19.4-x64.dmg",
+    "expectedTeamID": "YZQJQUHA3L",
+    "label": "cryptomator",
+    "name": "Cryptomator",
+    "timeStamp": "2026-10-22T18:13:31Z",
+    "type": "dmg"
   }
 ]

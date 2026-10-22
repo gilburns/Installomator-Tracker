@@ -145,6 +145,16 @@
       "lastSeen": "2026-10-22T06:14:01Z",
       "reason": "label does not set appNewVersion"
     },
+    "audacity3": {
+      "firstSeen": "2026-10-22T18:09:56Z",
+      "lastSeen": "2026-10-22T18:09:56Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "audacity4": {
+      "firstSeen": "2026-10-22T18:09:57Z",
+      "lastSeen": "2026-10-22T18:09:57Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "avertouch": {
       "firstSeen": "2026-10-22T06:14:08Z",
       "lastSeen": "2026-10-22T06:14:08Z",
@@ -315,6 +325,11 @@
       "lastSeen": "2026-10-22T06:19:18Z",
       "reason": "label does not set appNewVersion"
     },
+    "eclipsetemurin17": {
+      "firstSeen": "2026-10-22T18:15:06Z",
+      "lastSeen": "2026-10-22T18:15:06Z",
+      "reason": "missing appNewVersion"
+    },
     "editshare-connect": {
       "firstSeen": "2026-10-22T06:19:36Z",
       "lastSeen": "2026-10-22T06:19:36Z",
@@ -395,6 +410,11 @@
       "lastSeen": "2026-10-22T06:22:22Z",
       "reason": "missing appNewVersion"
     },
+    "googleadseditor": {
+      "firstSeen": "2026-10-22T18:17:23Z",
+      "lastSeen": "2026-10-22T18:17:23Z",
+      "reason": "missing appNewVersion"
+    },
     "googledrivebackupandsync": {
       "firstSeen": "2026-10-22T06:23:09Z",
       "lastSeen": "2026-10-22T06:23:09Z",
@@ -409,6 +429,11 @@
       "firstSeen": "2026-10-22T06:23:10Z",
       "lastSeen": "2026-10-22T06:23:10Z",
       "reason": "label does not set appNewVersion"
+    },
+    "googlewebdesigner": {
+      "firstSeen": "2026-10-22T18:17:27Z",
+      "lastSeen": "2026-10-22T18:17:27Z",
+      "reason": "missing appNewVersion"
     },
     "gosign": {
       "firstSeen": "2026-10-22T06:23:14Z",
@@ -709,6 +734,11 @@
       "firstSeen": "2026-10-22T06:32:31Z",
       "lastSeen": "2026-10-22T06:32:31Z",
       "reason": "label does not set appNewVersion"
+    },
+    "mkuser": {
+      "firstSeen": "2026-10-22T18:23:25Z",
+      "lastSeen": "2026-10-22T18:23:25Z",
+      "reason": "missing appNewVersion"
     },
     "mmhmm": {
       "firstSeen": "2026-10-22T06:32:38Z",

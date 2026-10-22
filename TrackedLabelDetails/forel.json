@@ -9,5 +9,16 @@
     "name": "Forel",
     "timeStamp": "2026-10-13T18:22:48Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/lab421/forel/releases/download/v1.1.0/Forel-v1.1.0-darwin-arm64.dmg",
+    "expectedTeamID": "W8P3Z5M86T",
+    "label": "forel",
+    "name": "Forel",
+    "timeStamp": "2026-10-22T18:16:32Z",
+    "type": "dmg"
   }
 ]

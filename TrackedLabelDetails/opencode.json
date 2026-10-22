@@ -178,5 +178,17 @@
     "name": "OpenCode",
     "timeStamp": "2026-10-16T18:33:43Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.19.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/anomalyco/opencode/releases/download/v1.19.4/opencode-desktop-mac-arm64.dmg",
+    "downloadURLi386": "https://github.com/anomalyco/opencode/releases/download/v1.19.4/opencode-desktop-mac-x64.dmg",
+    "expectedTeamID": "5NZ4Q7NXJ4",
+    "label": "opencode",
+    "name": "OpenCode",
+    "timeStamp": "2026-10-22T18:24:55Z",
+    "type": "dmg"
   }
 ]
