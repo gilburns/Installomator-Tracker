@@ -55,5 +55,17 @@
     "name": "Magnolia",
     "timeStamp": "2026-10-19T18:30:46Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.9.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/caledavis/Magnolia/releases/download/v1.9.0/Magnolia-mac-arm64.dmg",
+    "downloadURLi386": "https://github.com/caledavis/Magnolia/releases/download/v1.9.0/Magnolia-mac-x64.dmg",
+    "expectedTeamID": "DTRLLXT8T7",
+    "label": "magnolia",
+    "name": "Magnolia",
+    "timeStamp": "2026-10-23T18:21:12Z",
+    "type": "dmg"
   }
 ]

@@ -34,5 +34,17 @@
     "name": "Liberica JDK 17 Full LTS",
     "timeStamp": "2026-10-21T18:21:28Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "17.0.21.0.2+5",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/bell-sw/Liberica/releases/download/17.0.21.0.2+5/bellsoft-jdk17.0.21.0.2+5-macos-aarch64-full.pkg",
+    "downloadURLi386": "https://github.com/bell-sw/Liberica/releases/download/17.0.21.0.2+5/bellsoft-jdk17.0.21.0.2+5-macos-amd64-full.pkg",
+    "expectedTeamID": "8LBATW8FZA",
+    "label": "libericajdk17ltsfull",
+    "name": "Liberica JDK 17 Full LTS",
+    "timeStamp": "2026-10-23T18:20:25Z",
+    "type": "pkg"
   }
 ]

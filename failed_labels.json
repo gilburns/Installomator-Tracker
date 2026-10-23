@@ -390,6 +390,11 @@
       "lastSeen": "2026-10-23T06:21:21Z",
       "reason": "missing appNewVersion"
     },
+    "gitkraken": {
+      "firstSeen": "2026-10-23T18:17:20Z",
+      "lastSeen": "2026-10-23T18:17:20Z",
+      "reason": "missing appNewVersion"
+    },
     "googledrivebackupandsync": {
       "firstSeen": "2026-10-23T06:22:07Z",
       "lastSeen": "2026-10-23T06:22:07Z",
@@ -453,6 +458,11 @@
     "gyazogif": {
       "firstSeen": "2026-10-23T06:22:23Z",
       "lastSeen": "2026-10-23T06:22:23Z",
+      "reason": "missing appNewVersion"
+    },
+    "harper": {
+      "firstSeen": "2026-10-23T18:17:59Z",
+      "lastSeen": "2026-10-23T18:17:59Z",
       "reason": "missing appNewVersion"
     },
     "hmavpn": {

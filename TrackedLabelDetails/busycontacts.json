@@ -11,5 +11,18 @@
     "name": "BusyContacts",
     "timeStamp": "2026-10-19T01:06:49Z",
     "type": "dmg"
+  },
+  {
+    "appName": "BusyContacts.app",
+    "appNewVersion": "2026.4.2",
+    "blockingProcesses": [
+      "BusyContacts"
+    ],
+    "downloadURL": "https://downloads.busymac.com/bct-2026.4.2-2026-10-23-12-31-38.dmg",
+    "expectedTeamID": "N4RA379GBW",
+    "label": "busycontacts",
+    "name": "BusyContacts",
+    "timeStamp": "2026-10-23T18:11:02Z",
+    "type": "dmg"
   }
 ]

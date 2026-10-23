@@ -34,5 +34,17 @@
     "name": "Liberica JDK 8 Full LTS",
     "timeStamp": "2026-10-21T18:21:32Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "504",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-macos-aarch64-full.pkg",
+    "downloadURLi386": "https://github.com/bell-sw/Liberica/releases/download/8u504+1/bellsoft-jdk8u504+1-macos-amd64-full.pkg",
+    "expectedTeamID": "8LBATW8FZA",
+    "label": "libericajdk8ltsfull",
+    "name": "Liberica JDK 8 Full LTS",
+    "timeStamp": "2026-10-23T18:20:28Z",
+    "type": "pkg"
   }
 ]
