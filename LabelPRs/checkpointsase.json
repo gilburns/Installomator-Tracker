@@ -1,0 +1,43 @@
+{
+  "label": "checkpointsase",
+  "labelFile": "fragments/labels/checkpointsase.sh",
+  "pullRequests": [
+    {
+      "number": 3347,
+      "title": "New Label: CheckpointSASE",
+      "url": "https://github.com/Installomator/Installomator/pull/3347",
+      "author": {
+        "login": "jnichols35",
+        "url": "https://github.com/jnichols35"
+      },
+      "isDraft": false,
+      "createdAt": "2026-09-29T15:49:24Z",
+      "updatedAt": "2026-10-23T02:01:28Z",
+      "baseBranch": "main",
+      "headBranch": "checkpointsase-label",
+      "headRepository": "jnichols35/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "uurazzle"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "68278723f28c60d75d2770fb135c57e657bd9e89",
+      "commitCount": 10,
+      "commentCount": 4,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 11,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "checkpointsase"
+      ]
+    }
+  ]
+}

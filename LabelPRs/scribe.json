@@ -1,0 +1,49 @@
+{
+  "label": "scribe",
+  "labelFile": "fragments/labels/scribe.sh",
+  "pullRequests": [
+    {
+      "number": 3474,
+      "title": "Add scribe label",
+      "url": "https://github.com/Installomator/Installomator/pull/3474",
+      "author": {
+        "login": "jonpage-upstart",
+        "url": "https://github.com/jonpage-upstart"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-20T20:12:51Z",
+      "updatedAt": "2026-10-20T21:03:14Z",
+      "baseBranch": "main",
+      "headBranch": "label/scribe",
+      "headRepository": "jonpage-upstart/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-20T21:03:14Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "c8571bd55839ec9cb2aa040979033cb47209135e",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 8,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "scribe"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "label": "anytype",
+  "labelFile": "fragments/labels/anytype.sh",
+  "pullRequests": [
+    {
+      "number": 3321,
+      "title": "Add Anytype label",
+      "url": "https://github.com/Installomator/Installomator/pull/3321",
+      "author": {
+        "login": "kylebcooke",
+        "url": "https://github.com/kylebcooke"
+      },
+      "isDraft": false,
+      "createdAt": "2026-09-22T00:41:18Z",
+      "updatedAt": "2026-10-15T21:38:48Z",
+      "baseBranch": "main",
+      "headBranch": "add-anytype-label",
+      "headRepository": "kylebcooke/Installomator",
+      "prLabels": [
+        "application",
+        "waiting for response"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-09-22T16:01:14Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "337f05a9c5990b419704e758d58799f268dc722d",
+      "commitCount": 3,
+      "commentCount": 2,
+      "changedFileCount": 2,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 36,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "anytype"
+      ]
+    }
+  ]
+}

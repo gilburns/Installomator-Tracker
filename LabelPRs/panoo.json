@@ -1,0 +1,52 @@
+{
+  "label": "panoo",
+  "labelFile": "fragments/labels/panoo.sh",
+  "pullRequests": [
+    {
+      "number": 2597,
+      "title": "Create PanooRemote (new label panoo)",
+      "url": "https://github.com/Installomator/Installomator/pull/2597",
+      "author": {
+        "login": "aduffner",
+        "url": "https://github.com/aduffner"
+      },
+      "isDraft": false,
+      "createdAt": "2025-10-08T14:13:41Z",
+      "updatedAt": "2026-09-02T02:14:17Z",
+      "baseBranch": "main",
+      "headBranch": "panoo",
+      "headRepository": "aduffner/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-09-02T02:14:16Z"
+        },
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-05-04T17:15:14Z"
+        }
+      ],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "a06bdd85f8b99000ece7075e2d861d9b4a230038",
+      "commitCount": 1,
+      "commentCount": 1,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 11,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "panoo"
+      ]
+    }
+  ]
+}

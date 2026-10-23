@@ -1,0 +1,49 @@
+{
+  "label": "vuescanuni",
+  "labelFile": "fragments/labels/vuescanuni.sh",
+  "pullRequests": [
+    {
+      "number": 3456,
+      "title": "Combine Dup VueScan labels",
+      "url": "https://github.com/Installomator/Installomator/pull/3456",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-18T15:36:41Z",
+      "updatedAt": "2026-10-19T20:44:16Z",
+      "baseBranch": "main",
+      "headBranch": "DeDupVueScanLabel",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-19T20:44:16Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "7657e859e8ddcf40cfc325c3f4ff8ece12e4e74d",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 3,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "vuescanuni"
+      ]
+    }
+  ]
+}

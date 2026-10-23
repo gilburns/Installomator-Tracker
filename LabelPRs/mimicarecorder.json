@@ -1,0 +1,54 @@
+{
+  "label": "mimicarecorder",
+  "labelFile": "fragments/labels/mimicarecorder.sh",
+  "pullRequests": [
+    {
+      "number": 3465,
+      "title": "Add mimicarecorder label",
+      "url": "https://github.com/Installomator/Installomator/pull/3465",
+      "author": {
+        "login": "Bashbro92",
+        "url": "https://github.com/Bashbro92"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-19T19:54:04Z",
+      "updatedAt": "2026-10-23T01:22:08Z",
+      "baseBranch": "main",
+      "headBranch": "mimicarecorder",
+      "headRepository": "Bashbro92/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-23T01:18:53Z"
+        },
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-19T20:17:55Z"
+        }
+      ],
+      "requestedReviewers": [
+        "uurazzle"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "6b7e42aa3a089d23e706b4385a1f7510d1a43fb0",
+      "commitCount": 2,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 14,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "mimicarecorder"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "label": "qgisltr",
+  "labelFile": "fragments/labels/qgisltr.sh",
+  "pullRequests": [
+    {
+      "number": 3210,
+      "title": "Qgis bugfix",
+      "url": "https://github.com/Installomator/Installomator/pull/3210",
+      "author": {
+        "login": "tgrymatt",
+        "url": "https://github.com/tgrymatt"
+      },
+      "isDraft": false,
+      "createdAt": "2026-08-31T14:36:06Z",
+      "updatedAt": "2026-09-02T01:56:29Z",
+      "baseBranch": "main",
+      "headBranch": "QGIS-Bugfix",
+      "headRepository": "tgrymatt/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "uurazzle",
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": null,
+      "headCommit": "b55b0784c333a4ad06d43913bbe142746ecbabd8",
+      "commitCount": 2,
+      "commentCount": 1,
+      "changedFileCount": 2,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "qgis-pr",
+        "qgisltr"
+      ]
+    }
+  ]
+}

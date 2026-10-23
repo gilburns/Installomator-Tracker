@@ -1,0 +1,43 @@
+{
+  "label": "genesyscloud",
+  "labelFile": "fragments/labels/genesyscloud.sh",
+  "pullRequests": [
+    {
+      "number": 3472,
+      "title": "Add genesyscloud label",
+      "url": "https://github.com/Installomator/Installomator/pull/3472",
+      "author": {
+        "login": "jonpage-upstart",
+        "url": "https://github.com/jonpage-upstart"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-20T20:12:42Z",
+      "updatedAt": "2026-10-20T20:48:31Z",
+      "baseBranch": "main",
+      "headBranch": "label/genesyscloud",
+      "headRepository": "jonpage-upstart/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "695a64a36d44d1737bb1a37475415ae715861993",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "genesyscloud"
+      ]
+    }
+  ]
+}

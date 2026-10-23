@@ -1,0 +1,43 @@
+{
+  "label": "codexbar",
+  "labelFile": "fragments/labels/codexbar.sh",
+  "pullRequests": [
+    {
+      "number": 3470,
+      "title": "Add codexbar label",
+      "url": "https://github.com/Installomator/Installomator/pull/3470",
+      "author": {
+        "login": "jonpage-upstart",
+        "url": "https://github.com/jonpage-upstart"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-20T20:12:32Z",
+      "updatedAt": "2026-10-20T20:25:03Z",
+      "baseBranch": "main",
+      "headBranch": "label/codexbar",
+      "headRepository": "jonpage-upstart/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "bee50b5abc9d02331fa9493ea64802f65d40654b",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "codexbar"
+      ]
+    }
+  ]
+}

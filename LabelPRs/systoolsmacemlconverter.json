@@ -1,0 +1,49 @@
+{
+  "label": "systoolsmacemlconverter",
+  "labelFile": "fragments/labels/systoolsmacemlconverter.sh",
+  "pullRequests": [
+    {
+      "number": 3476,
+      "title": "Add systoolsmacemlconverter label",
+      "url": "https://github.com/Installomator/Installomator/pull/3476",
+      "author": {
+        "login": "jonpage-upstart",
+        "url": "https://github.com/jonpage-upstart"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-20T20:13:02Z",
+      "updatedAt": "2026-10-20T21:28:29Z",
+      "baseBranch": "main",
+      "headBranch": "label/systoolsmacemlconverter",
+      "headRepository": "jonpage-upstart/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-20T21:28:29Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "868b2f4bc4d36229d94bcaa6c1a8eb943fdc43ce",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "systoolsmacemlconverter"
+      ]
+    }
+  ]
+}

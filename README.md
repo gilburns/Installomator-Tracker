@@ -8,11 +8,20 @@ This repo runs that resolution logic for every label, twice a day, and keeps a r
 
 ## How it works
 
-A scheduled GitHub Actions workflow ([.github/workflows/track-labels.yml](.github/workflows/track-labels.yml)) runs on a `macos-latest` runner twice daily (06:00 and 18:00 UTC, plus on-demand via `workflow_dispatch`) and does three things in order, committing after each:
+A scheduled GitHub Actions workflow ([.github/workflows/track-labels.yml](.github/workflows/track-labels.yml)) runs on a `macos-latest` runner twice daily (06:00 and 18:00 UTC, plus on-demand via `workflow_dispatch`) and does four things in order, committing after each step that writes files:
 
 1. **Sync labels from upstream** ([sync_labels.sh](sync_labels.sh)) - pulls the current [`fragments/labels`](https://github.com/Installomator/Installomator/tree/main/fragments/labels) directory from Installomator's `main` branch via a shallow sparse-checkout clone, and mirrors it into [`Labels/`](Labels/): new labels are added, changed labels are updated, and labels removed upstream are deleted locally.
-2. **Run the label tracker** ([update_tracked_labels.sh](update_tracked_labels.sh)) - resolves every label in `Labels/` (via [process_label.sh](process_label.sh), a trimmed-down harness that evaluates a single label fragment the same way Installomator itself does) and records any newly-discovered version into [`TrackedLabelDetails/<label>.json`](TrackedLabelDetails/), then rewrites the [`label_status.csv`](label_status.csv) snapshot.
-3. Commits whatever changed in `Labels/`, `TrackedLabelDetails/`, `failed_labels.json` and `label_status.csv` back to this repo.
+2. **Track open label PRs** ([track_label_prs.sh](track_label_prs.sh)) - looks at every [open pull request](https://github.com/Installomator/Installomator/pulls) on Installomator, finds the ones that change a file in `fragments/labels/`, and writes [`LabelPRs/<label>.json`](LabelPRs/) for each label they touch, plus a [`label_prs.csv`](label_prs.csv) summary (see [Open label PRs](#open-label-prs)).
+3. **Run the label tracker** ([update_tracked_labels.sh](update_tracked_labels.sh)) - resolves every label in `Labels/` (via [process_label.sh](process_label.sh), a trimmed-down harness that evaluates a single label fragment the same way Installomator itself does) and records any newly-discovered version into [`TrackedLabelDetails/<label>.json`](TrackedLabelDetails/), then rewrites the [`label_status.csv`](label_status.csv) snapshot.
+4. Commits whatever changed in `Labels/`, `LabelPRs/`, `label_prs.csv`, `TrackedLabelDetails/`, `failed_labels.json` and `label_status.csv` back to this repo.
+
+### Open label PRs
+
+[`LabelPRs/<label>.json`](LabelPRs/) has one file per label that at least one open upstream PR adds, modifies, or deletes. It lists every open PR touching that label, with the PR's title, URL and author, its draft state, `reviewDecision` (`APPROVED`, `CHANGES_REQUESTED`, `REVIEW_REQUIRED`), each reviewer's latest review, requested reviewers, mergeability, the CI checks state, and what the PR does to that label file (`labelChange`). `labelsInPR` lists every label the same PR touches. Like `label_status.csv`, it's a current snapshot: a file is rewritten when its PRs change and deleted once no open PR touches that label (merged, closed, or the file was dropped from the PR). Nothing in it is a fetch timestamp, so a file only changes when its PR data actually changes.
+
+A PR that touches several labels appears in each of those labels' files, so `LabelPRs/magicbullet.json` and `LabelPRs/vfx.json` both list a PR that changes both labels.
+
+[`label_prs.csv`](label_prs.csv) is the same data flattened to one row per label/PR pair (so a PR touching two labels gets two rows): `label`, `prNumber`, `title`, `author`, `isDraft`, `reviewDecision`, `reviewers` (each reviewer's latest review, as `login:STATE`), `requestedReviewers`, `mergeable`, `checksState`, `changeType`, `labelsInPR`, `createdAt`, `updatedAt` and `url`. Multi-value columns are space-separated.
 
 ### Status snapshot
 
@@ -40,10 +49,13 @@ Some labels can't be resolved through this lightweight method at all - about ~25
 |---|---|
 | `Labels/` | Mirror of Installomator's `fragments/labels`, kept in sync automatically. Not hand-edited. |
 | `TrackedLabelDetails/<label>.json` | Version history for one label - a JSON array of entries, oldest to newest. |
+| `LabelPRs/<label>.json` | Open upstream PRs that touch one label, with author and review status. Current snapshot. |
+| `label_prs.csv` | Every open label PR, one row per label/PR pair. Current snapshot. |
 | `failed_labels.json` | Labels that currently can't be resolved, and why, so they're skipped instead of retried every run. |
 | `label_status.csv` | Current-state snapshot of every label: latest version, timestamp, and `success` or failure reason. |
 | `process_label.sh` | Resolves a single label file to one JSON result (version, download URL, metadata). |
 | `sync_labels.sh` | Mirrors `Labels/` from upstream Installomator. |
+| `track_label_prs.sh` | Updates `LabelPRs/` from Installomator's open pull requests. |
 | `update_tracked_labels.sh` | Runs `process_label.sh` over every label and updates `TrackedLabelDetails/`. |
 | `retry_failed_labels.sh` | Retries every label currently in `failed_labels.json`, one at a time. |
 | `.github/workflows/track-labels.yml` | The scheduled automation tying it all together. |
@@ -76,6 +88,7 @@ Each element of `TrackedLabelDetails/<label>.json` looks like this (from `gimp.j
 ./update_tracked_labels.sh --verbose          # resolve every label, update TrackedLabelDetails/
 ./update_tracked_labels.sh --label firefoxpkg --verbose   # just one label, bypasses failed_labels.json
 ./update_tracked_labels.sh --dry-run --verbose            # preview changes, write nothing
+./track_label_prs.sh --verbose                # update LabelPRs/ from open upstream PRs (needs gh auth)
 ```
 
 Both scripts require `jq` and `perl` (both ship with macOS). A full run across all labels takes roughly 30-40 minutes on first run; subsequent runs are faster once `failed_labels.json` has something to skip.

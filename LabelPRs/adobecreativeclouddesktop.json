@@ -1,0 +1,50 @@
+{
+  "label": "adobecreativeclouddesktop",
+  "labelFile": "fragments/labels/adobecreativeclouddesktop.sh",
+  "pullRequests": [
+    {
+      "number": 3431,
+      "title": "Fix adobecreativeclouddesktop",
+      "url": "https://github.com/Installomator/Installomator/pull/3431",
+      "author": {
+        "login": "burninrubber0",
+        "url": "https://github.com/burninrubber0"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-16T01:29:50Z",
+      "updatedAt": "2026-10-22T02:00:16Z",
+      "baseBranch": "main",
+      "headBranch": "adobeccd",
+      "headRepository": "burninrubber0/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-16T18:18:37Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "cf8163b12735e3a67243777b1e7c46f1166f597d",
+      "commitCount": 2,
+      "commentCount": 2,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 10,
+        "deletions": 8
+      },
+      "labelsInPR": [
+        "adobecreativeclouddesktop"
+      ]
+    }
+  ]
+}

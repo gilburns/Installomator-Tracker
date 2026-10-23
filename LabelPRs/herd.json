@@ -1,0 +1,50 @@
+{
+  "label": "herd",
+  "labelFile": "fragments/labels/herd.sh",
+  "pullRequests": [
+    {
+      "number": 3400,
+      "title": "Add label for Herd (herd.laravel.com)",
+      "url": "https://github.com/Installomator/Installomator/pull/3400",
+      "author": {
+        "login": "jhawkinsgg",
+        "url": "https://github.com/jhawkinsgg"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-07T11:28:25Z",
+      "updatedAt": "2026-10-15T17:10:26Z",
+      "baseBranch": "main",
+      "headBranch": "add-label-herd",
+      "headRepository": "jhawkinsgg/Installomator",
+      "prLabels": [
+        "application",
+        "waiting for response"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-07T19:57:39Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "c18e60004ae2993a022d3299cd197957c96ff518",
+      "commitCount": 1,
+      "commentCount": 1,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "herd"
+      ]
+    }
+  ]
+}

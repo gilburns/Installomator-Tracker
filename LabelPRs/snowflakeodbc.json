@@ -1,0 +1,56 @@
+{
+  "label": "snowflakeodbc",
+  "labelFile": "fragments/labels/snowflakeodbc.sh",
+  "pullRequests": [
+    {
+      "number": 3328,
+      "title": "Create omnigent.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3328",
+      "author": {
+        "login": "a-martin253",
+        "url": "https://github.com/a-martin253"
+      },
+      "isDraft": false,
+      "createdAt": "2026-09-22T20:09:09Z",
+      "updatedAt": "2026-10-17T18:56:59Z",
+      "baseBranch": "main",
+      "headBranch": "create-new-label-omnigent",
+      "headRepository": "a-martin253/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-15T21:34:47Z"
+        },
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-10T01:10:39Z"
+        }
+      ],
+      "requestedReviewers": [
+        "uurazzle",
+        "gilburns"
+      ],
+      "mergeable": "CONFLICTING",
+      "checksState": "SUCCESS",
+      "headCommit": "dafe3172ca5eb7738146d85f10b37b4d70896db9",
+      "commitCount": 5,
+      "commentCount": 2,
+      "changedFileCount": 2,
+      "labelChange": {
+        "changeType": "DELETED",
+        "additions": 0,
+        "deletions": 14
+      },
+      "labelsInPR": [
+        "omnigent",
+        "snowflakeodbc"
+      ]
+    }
+  ]
+}

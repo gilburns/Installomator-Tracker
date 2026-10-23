@@ -1,0 +1,44 @@
+{
+  "label": "microsoftwindowsapp",
+  "labelFile": "fragments/labels/microsoftwindowsapp.sh",
+  "pullRequests": [
+    {
+      "number": 3403,
+      "title": "microsoftwindowsapp: don't use msupdate on MAU's Preview or Beta channel",
+      "url": "https://github.com/Installomator/Installomator/pull/3403",
+      "author": {
+        "login": "turquoise-turtle",
+        "url": "https://github.com/turquoise-turtle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-08T00:48:09Z",
+      "updatedAt": "2026-10-08T23:27:57Z",
+      "baseBranch": "main",
+      "headBranch": "microsoftwindowsapp-mau-channel",
+      "headRepository": "turquoise-turtle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "99061d882e6bf9b81c631aee93d7592e1217060d",
+      "commitCount": 2,
+      "commentCount": 1,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 26,
+        "deletions": 5
+      },
+      "labelsInPR": [
+        "microsoftwindowsapp"
+      ]
+    }
+  ]
+}

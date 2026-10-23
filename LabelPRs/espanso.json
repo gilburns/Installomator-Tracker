@@ -1,0 +1,49 @@
+{
+  "label": "espanso",
+  "labelFile": "fragments/labels/espanso.sh",
+  "pullRequests": [
+    {
+      "number": 3462,
+      "title": "Update espanso.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3462",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-19T16:57:10Z",
+      "updatedAt": "2026-10-22T02:14:49Z",
+      "baseBranch": "main",
+      "headBranch": "espanso-label-update",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-22T02:14:48Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "95f58f9d507139df55caf8666c493a97e4e23ece",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 4,
+        "deletions": 6
+      },
+      "labelsInPR": [
+        "espanso"
+      ]
+    }
+  ]
+}

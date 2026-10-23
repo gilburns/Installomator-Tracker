@@ -1,0 +1,45 @@
+{
+  "label": "magicbullet",
+  "labelFile": "fragments/labels/magicbullet.sh",
+  "pullRequests": [
+    {
+      "number": 1396,
+      "title": "Add ignoreInstallScriptExitCode label variable",
+      "url": "https://github.com/Installomator/Installomator/pull/1396",
+      "author": {
+        "login": "bmacphail",
+        "url": "https://github.com/bmacphail"
+      },
+      "isDraft": false,
+      "createdAt": "2023-12-22T21:14:03Z",
+      "updatedAt": "2025-11-05T03:46:43Z",
+      "baseBranch": "main",
+      "headBranch": "addignoreexitcode",
+      "headRepository": "bmacphail/Installomator",
+      "prLabels": [
+        "feature",
+        "not-label"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "scriptingosx"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": null,
+      "headCommit": "64de2306a4a69c6f9fba21a096257438b7c2168e",
+      "commitCount": 3,
+      "commentCount": 4,
+      "changedFileCount": 4,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "magicbullet",
+        "vfx"
+      ]
+    }
+  ]
+}

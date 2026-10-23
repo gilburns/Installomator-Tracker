@@ -1,0 +1,51 @@
+{
+  "label": "asperaconnect",
+  "labelFile": "fragments/labels/asperaconnect.sh",
+  "pullRequests": [
+    {
+      "number": 3153,
+      "title": "Update asperaconnect.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3153",
+      "author": {
+        "login": "kryptonit1",
+        "url": "https://github.com/kryptonit1"
+      },
+      "isDraft": false,
+      "createdAt": "2026-08-05T07:55:46Z",
+      "updatedAt": "2026-08-28T22:49:32Z",
+      "baseBranch": "main",
+      "headBranch": "aspera-connect-fix3",
+      "headRepository": "kryptonit1/Installomator",
+      "prLabels": [
+        "application",
+        "waiting for response"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-08-05T15:49:20Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
+      "mergeable": "CONFLICTING",
+      "checksState": "SUCCESS",
+      "headCommit": "7c8d0a50a472d664072216ad9ffe083b4e55548f",
+      "commitCount": 1,
+      "commentCount": 1,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 3,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "asperaconnect"
+      ]
+    }
+  ]
+}

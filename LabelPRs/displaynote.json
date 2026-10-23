@@ -1,0 +1,50 @@
+{
+  "label": "displaynote",
+  "labelFile": "fragments/labels/displaynote.sh",
+  "pullRequests": [
+    {
+      "number": 3352,
+      "title": "Update displaynote.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3352",
+      "author": {
+        "login": "naschenbrenner",
+        "url": "https://github.com/naschenbrenner"
+      },
+      "isDraft": false,
+      "createdAt": "2026-09-30T17:48:18Z",
+      "updatedAt": "2026-10-15T18:46:40Z",
+      "baseBranch": "main",
+      "headBranch": "displaynote",
+      "headRepository": "naschenbrenner/Installomator",
+      "prLabels": [
+        "application",
+        "waiting for response"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-01T15:17:10Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "4ef7ee55546dd7e297895108e77c4e1f359e12f6",
+      "commitCount": 2,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 7,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "displaynote"
+      ]
+    }
+  ]
+}

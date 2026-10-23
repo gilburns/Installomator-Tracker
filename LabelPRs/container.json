@@ -1,0 +1,44 @@
+{
+  "label": "container",
+  "labelFile": "fragments/labels/container.sh",
+  "pullRequests": [
+    {
+      "number": 2846,
+      "title": "Fix container 'archiveName'",
+      "url": "https://github.com/Installomator/Installomator/pull/2846",
+      "author": {
+        "login": "adibue",
+        "url": "https://github.com/adibue"
+      },
+      "isDraft": false,
+      "createdAt": "2026-04-14T14:54:45Z",
+      "updatedAt": "2026-09-02T18:47:27Z",
+      "baseBranch": "main",
+      "headBranch": "container-fix",
+      "headRepository": "adibue/Installomator",
+      "prLabels": [
+        "application",
+        "improvement"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "Core Maintainers"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "fd5679cab32277aba4c98c663d2206d4128e5dd1",
+      "commitCount": 1,
+      "commentCount": 1,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "container"
+      ]
+    }
+  ]
+}

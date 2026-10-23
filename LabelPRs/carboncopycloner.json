@@ -1,0 +1,49 @@
+{
+  "label": "carboncopycloner",
+  "labelFile": "fragments/labels/carboncopycloner.sh",
+  "pullRequests": [
+    {
+      "number": 3463,
+      "title": "carboncopycloner-update-label",
+      "url": "https://github.com/Installomator/Installomator/pull/3463",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-19T17:13:21Z",
+      "updatedAt": "2026-10-22T02:19:10Z",
+      "baseBranch": "main",
+      "headBranch": "carboncopycloner-update-label",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-22T02:19:09Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "01b2cf586429ba1573994e7a229318b5991f57b2",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 2,
+        "deletions": 2
+      },
+      "labelsInPR": [
+        "carboncopycloner"
+      ]
+    }
+  ]
+}

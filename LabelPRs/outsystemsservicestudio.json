@@ -1,0 +1,50 @@
+{
+  "label": "outsystemsservicestudio",
+  "labelFile": "fragments/labels/outsystemsservicestudio.sh",
+  "pullRequests": [
+    {
+      "number": 3408,
+      "title": "Create outsystemsservicestudio.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3408",
+      "author": {
+        "login": "dan-snelson",
+        "url": "https://github.com/dan-snelson"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-09T11:44:26Z",
+      "updatedAt": "2026-10-15T20:38:15Z",
+      "baseBranch": "main",
+      "headBranch": "new/outsystemsservicestudio",
+      "headRepository": "dan-snelson/Installomator",
+      "prLabels": [
+        "application",
+        "waiting for response"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-12T15:04:46Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "10380339f73119f5848794e6d8d4a59304043302",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 14,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "outsystemsservicestudio"
+      ]
+    }
+  ]
+}

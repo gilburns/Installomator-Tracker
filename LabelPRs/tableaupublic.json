@@ -1,0 +1,43 @@
+{
+  "label": "tableaupublic",
+  "labelFile": "fragments/labels/tableaupublic.sh",
+  "pullRequests": [
+    {
+      "number": 3231,
+      "title": "tableaupublic: Apple silicon build (download URL, app name, version)",
+      "url": "https://github.com/Installomator/Installomator/pull/3231",
+      "author": {
+        "login": "lennart-duncker",
+        "url": "https://github.com/lennart-duncker"
+      },
+      "isDraft": false,
+      "createdAt": "2026-09-01T05:19:28Z",
+      "updatedAt": "2026-09-19T23:13:46Z",
+      "baseBranch": "main",
+      "headBranch": "tableaupublic-arm64",
+      "headRepository": "lennart-duncker/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "uurazzle"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "3f245592b6e4a13f5d81052d31b9bf57293be510",
+      "commitCount": 3,
+      "commentCount": 3,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 9,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "tableaupublic"
+      ]
+    }
+  ]
+}

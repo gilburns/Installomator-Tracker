@@ -1,0 +1,51 @@
+{
+  "label": "logitechoptionsplus",
+  "labelFile": "fragments/labels/logitechoptionsplus.sh",
+  "pullRequests": [
+    {
+      "number": 3348,
+      "title": "Update logitechoptionsplus.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3348",
+      "author": {
+        "login": "ajamaya1",
+        "url": "https://github.com/ajamaya1"
+      },
+      "isDraft": false,
+      "createdAt": "2026-09-29T17:01:47Z",
+      "updatedAt": "2026-10-15T18:47:16Z",
+      "baseBranch": "main",
+      "headBranch": "logitechoptionsplus-label-update",
+      "headRepository": "ajamaya1/Installomator",
+      "prLabels": [
+        "application",
+        "waiting for response"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-09-30T15:28:56Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
+      "mergeable": "CONFLICTING",
+      "checksState": "SUCCESS",
+      "headCommit": "564463a8c687a33b276395a75c18895299fab0a2",
+      "commitCount": 1,
+      "commentCount": 2,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 10,
+        "deletions": 2
+      },
+      "labelsInPR": [
+        "logitechoptionsplus"
+      ]
+    }
+  ]
+}

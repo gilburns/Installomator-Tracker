@@ -1,0 +1,51 @@
+{
+  "label": "inkscape",
+  "labelFile": "fragments/labels/inkscape.sh",
+  "pullRequests": [
+    {
+      "number": 3144,
+      "title": "Update inkscape label",
+      "url": "https://github.com/Installomator/Installomator/pull/3144",
+      "author": {
+        "login": "cwmcbrewster",
+        "url": "https://github.com/cwmcbrewster"
+      },
+      "isDraft": false,
+      "createdAt": "2026-07-31T21:01:55Z",
+      "updatedAt": "2026-08-28T22:48:52Z",
+      "baseBranch": "main",
+      "headBranch": "main",
+      "headRepository": "cwmcbrewster/Installomator",
+      "prLabels": [
+        "application",
+        "waiting for response"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-07-31T22:40:46Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": null,
+      "headCommit": "1617df0029fb59f0e5315c6a565b36431afc20de",
+      "commitCount": 2,
+      "commentCount": 10,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 16,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "inkscape"
+      ]
+    }
+  ]
+}
