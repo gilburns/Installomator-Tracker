@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.25.53799.37131",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.poly.com/headsets/PlantronicsHubInstaller.dmg",
+    "expectedTeamID": "SKWK2Q7JJV",
+    "label": "plantronicshub",
+    "name": "Plantronics Hub",
+    "timeStamp": "2026-10-23T06:32:20Z",
+    "type": "pkgInDmg"
+  }
+]

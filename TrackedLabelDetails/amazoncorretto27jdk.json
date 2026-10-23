@@ -10,5 +10,17 @@
     "name": "Amazon Corretto 27 JDK",
     "timeStamp": "2026-10-13T06:15:41Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "27.0.1.0.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://corretto.aws/downloads/resources/27.0.1.0.10/amazon-corretto-27.0.1.0.10-macosx-aarch64.pkg",
+    "downloadURLi386": "https://corretto.aws/downloads/resources/27.0.1.0.10/amazon-corretto-27.0.1.0.10-macosx-x64.pkg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "amazoncorretto27jdk",
+    "name": "Amazon Corretto 27 JDK",
+    "timeStamp": "2026-10-23T06:12:36Z",
+    "type": "pkg"
   }
 ]

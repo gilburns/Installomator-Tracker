@@ -34,5 +34,17 @@
     "name": "balenaEtcher",
     "timeStamp": "2026-10-21T18:10:39Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.1.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-2.1.9-arm64.dmg",
+    "downloadURLi386": "https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-2.1.9-x64.dmg",
+    "expectedTeamID": "66H43P8FRG",
+    "label": "balenaetcher",
+    "name": "balenaEtcher",
+    "timeStamp": "2026-10-23T06:14:37Z",
+    "type": "dmg"
   }
 ]

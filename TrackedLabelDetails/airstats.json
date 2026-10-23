@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/byrencheema/airstats/releases/download/v1.6/AirStats.dmg",
+    "expectedTeamID": "L77LA4GLFN",
+    "label": "airstats",
+    "name": "AirStats",
+    "timeStamp": "2026-10-23T06:12:17Z",
+    "type": "dmg"
+  }
+]

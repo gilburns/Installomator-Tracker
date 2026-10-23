@@ -34,5 +34,17 @@
     "name": "Temurin 17",
     "timeStamp": "2026-08-21T18:14:41Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "17.0.21+9",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B9/OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.21_9.pkg",
+    "downloadURLi386": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jdk_x64_mac_hotspot_17.0.20.1_1.pkg",
+    "expectedTeamID": "JCDTMS22B4",
+    "label": "eclipsetemurin17",
+    "name": "Temurin 17",
+    "timeStamp": "2026-10-23T06:19:42Z",
+    "type": "pkg"
   }
 ]

@@ -9,5 +9,16 @@
     "name": "Determinate",
     "timeStamp": "2026-10-19T01:10:21Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "v3.24.0",
+    "blockingProcesses": [],
+    "downloadURL": "/determinate-pkg/tag/v3.24.0/Universal",
+    "expectedTeamID": "X3JQ4VPJZ6",
+    "label": "determinate",
+    "name": "Determinate",
+    "timeStamp": "2026-10-23T06:18:42Z",
+    "type": "pkg"
   }
 ]

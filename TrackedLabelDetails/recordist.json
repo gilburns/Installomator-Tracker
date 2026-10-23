@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.1",
+    "blockingProcesses": [
+      "recordist"
+    ],
+    "downloadURL": "https://recordist.app/get/mac/latest?from=mdm",
+    "expectedTeamID": "JNC57WQK69",
+    "label": "recordist",
+    "name": "Recordist",
+    "timeStamp": "2026-10-23T06:33:20Z",
+    "type": "dmg"
+  }
+]

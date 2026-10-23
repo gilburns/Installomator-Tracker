@@ -130,5 +130,16 @@
     "name": "AltTab",
     "timeStamp": "2026-10-14T06:12:28Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "11.10.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/lwouis/alt-tab-macos/releases/download/v11.10.0/AltTab-11.10.0.zip",
+    "expectedTeamID": "QXD7GW8FHY",
+    "label": "alttab",
+    "name": "AltTab",
+    "timeStamp": "2026-10-23T06:12:24Z",
+    "type": "zip"
   }
 ]

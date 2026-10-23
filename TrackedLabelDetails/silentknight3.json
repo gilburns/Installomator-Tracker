@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "sk302/SilentKnight3.app",
+    "appNewVersion": "3.02",
+    "blockingProcesses": [
+      "SilentKnight3"
+    ],
+    "downloadURL": "https://eclecticlight.co/wp-content/uploads/2026/07/sk302.zip",
+    "expectedTeamID": "QWY4LRW926",
+    "label": "silentknight3",
+    "name": "SilentKnight 3",
+    "timeStamp": "2026-10-23T06:34:32Z",
+    "type": "zip"
+  }
+]

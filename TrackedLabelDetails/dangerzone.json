@@ -9,5 +9,16 @@
     "name": "Dangerzone",
     "timeStamp": "2026-07-03T15:43:25Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.11.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/freedomofpress/dangerzone/releases/download/v0.11.1/Dangerzone-0.11.1-arm64.dmg",
+    "expectedTeamID": "94ZZGGGJ3W",
+    "label": "dangerzone",
+    "name": "Dangerzone",
+    "timeStamp": "2026-10-23T06:18:12Z",
+    "type": "dmg"
   }
 ]

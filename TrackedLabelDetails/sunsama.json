@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.4.15",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop.sunsama.com/mac/dmg/arm64",
+    "downloadURLi386": "https://desktop.sunsama.com/mac/dmg/x64",
+    "expectedTeamID": "SDWNXU94HZ",
+    "label": "sunsama",
+    "name": "Sunsama",
+    "timeStamp": "2026-10-23T06:35:43Z",
+    "type": "dmg"
+  }
+]
