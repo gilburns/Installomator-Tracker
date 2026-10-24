@@ -1,0 +1,49 @@
+{
+  "label": "littlekeebo",
+  "labelFile": "fragments/labels/littlekeebo.sh",
+  "pullRequests": [
+    {
+      "number": 3484,
+      "title": "littlekeebo: new label for Little Keebo",
+      "url": "https://github.com/Installomator/Installomator/pull/3484",
+      "author": {
+        "login": "isa",
+        "url": "https://github.com/isa"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-24T15:31:42Z",
+      "updatedAt": "2026-10-24T15:50:20Z",
+      "baseBranch": "main",
+      "headBranch": "littlekeebo",
+      "headRepository": "isa/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-24T15:49:22Z"
+        }
+      ],
+      "requestedReviewers": [
+        "uurazzle"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "db53c9b25e42583a195b8eaac02bc151d8168f39",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "littlekeebo"
+      ]
+    }
+  ]
+}

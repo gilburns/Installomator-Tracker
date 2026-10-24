@@ -12,16 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-23T16:26:43Z",
-      "updatedAt": "2026-10-23T16:26:43Z",
+      "updatedAt": "2026-10-24T15:06:11Z",
       "baseBranch": "main",
       "headBranch": "add-filemakerpro26-label",
       "headRepository": "lewismesc/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "acodega",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-24T13:50:14Z"
+        }
+      ],
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
-      "checksState": "SUCCESS",
+      "checksState": "FAILURE",
       "headCommit": "562fd269d05971e88487f6bcbed717df508bdf4e",
       "commitCount": 1,
       "commentCount": 0,

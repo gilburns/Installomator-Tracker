@@ -1,0 +1,41 @@
+{
+  "label": "redgiant",
+  "labelFile": "fragments/labels/redgiant.sh",
+  "pullRequests": [
+    {
+      "number": 3486,
+      "title": "Merge Red Giant and Magic Bullet",
+      "url": "https://github.com/Installomator/Installomator/pull/3486",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-24T17:58:35Z",
+      "updatedAt": "2026-10-24T17:58:35Z",
+      "baseBranch": "main",
+      "headBranch": "MergeMagicBulletAndRedGiant",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "a0df5c5a1adf68fc49d53277fb7fe9cbd3936360",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 4,
+        "deletions": 8
+      },
+      "labelsInPR": [
+        "redgiant"
+      ]
+    }
+  ]
+}

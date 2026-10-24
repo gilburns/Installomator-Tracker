@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-03-05T22:00:20Z",
-      "updatedAt": "2026-10-17T15:18:28Z",
+      "updatedAt": "2026-10-24T14:23:17Z",
       "baseBranch": "main",
       "headBranch": "feature/setupchecklist-label",
       "headRepository": "AttunedIT/Installomator",
@@ -36,7 +36,7 @@
       "checksState": null,
       "headCommit": "1739d1621894ab1747b40dce584805b07c93ccc9",
       "commitCount": 1,
-      "commentCount": 1,
+      "commentCount": 2,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
