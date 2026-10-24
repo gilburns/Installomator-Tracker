@@ -3,6 +3,7 @@
     "appName": "",
     "appNewVersion": "3.5.343",
     "blockingProcesses": [],
+    "downloadURLi386": "https://desktop.clickup.com/mac",
     "expectedTeamID": "5RJWFAUGXQ",
     "label": "clickup",
     "name": "ClickUp",
