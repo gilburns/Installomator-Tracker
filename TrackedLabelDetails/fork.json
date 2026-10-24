@@ -20,5 +20,16 @@
     "name": "Fork",
     "timeStamp": "2026-10-23T18:16:47Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.71.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.fork.dev/mac/Fork-2.71.1.dmg",
+    "expectedTeamID": "Q6M7LEEA66",
+    "label": "fork",
+    "name": "Fork",
+    "timeStamp": "2026-10-24T18:17:04Z",
+    "type": "dmg"
   }
 ]

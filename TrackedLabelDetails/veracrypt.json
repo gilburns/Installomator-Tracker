@@ -9,5 +9,16 @@
     "name": "VeraCrypt",
     "timeStamp": "2026-07-03T16:07:42Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.26.30",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.30/VeraCrypt_1.26.30.dmg",
+    "expectedTeamID": "Z933746L2S",
+    "label": "veracrypt",
+    "name": "VeraCrypt",
+    "timeStamp": "2026-10-24T18:30:30Z",
+    "type": "pkgInDmg"
   }
 ]

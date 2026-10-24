@@ -265,6 +265,11 @@
       "lastSeen": "2026-10-23T06:17:31Z",
       "reason": "label does not set appNewVersion"
     },
+    "codemeter": {
+      "firstSeen": "2026-10-24T18:13:16Z",
+      "lastSeen": "2026-10-24T18:13:16Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "craftmanagerforsketch": {
       "firstSeen": "2026-10-23T06:17:50Z",
       "lastSeen": "2026-10-23T06:17:50Z",
