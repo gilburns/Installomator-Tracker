@@ -46,5 +46,17 @@
     "name": "OBS",
     "timeStamp": "2026-08-15T06:23:19Z",
     "type": "dmg"
+  },
+  {
+    "appName": "OBS.app",
+    "appNewVersion": "33.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-macOS-Apple.dmg",
+    "downloadURLi386": "https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-macOS-Intel.dmg",
+    "expectedTeamID": "2MMRE5MTB8",
+    "label": "obs",
+    "name": "OBS",
+    "timeStamp": "2026-10-24T02:35:47Z",
+    "type": "dmg"
   }
 ]

@@ -59,5 +59,19 @@
     "name": "Zulu JDK 17",
     "timeStamp": "2026-10-13T18:49:45Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "17.70+111",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://cdn.azul.com/zulu/bin/zulu17.70.111-ca-jdk17.0.21-macosx_aarch64.dmg",
+    "downloadURLi386": "https://cdn.azul.com/zulu/bin/zulu17.70.111-ca-jdk17.0.21-macosx_x64.dmg",
+    "expectedTeamID": "TDTHCUPYFR",
+    "label": "zulujdk17",
+    "name": "Zulu JDK 17",
+    "timeStamp": "2026-10-24T02:43:35Z",
+    "type": "pkgInDmg"
   }
 ]
