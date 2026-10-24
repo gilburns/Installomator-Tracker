@@ -1,0 +1,41 @@
+{
+  "label": "arturiasoftwarecenter",
+  "labelFile": "fragments/labels/arturiasoftwarecenter.sh",
+  "pullRequests": [
+    {
+      "number": 3491,
+      "title": "Fix arturia software center",
+      "url": "https://github.com/Installomator/Installomator/pull/3491",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-24T23:10:09Z",
+      "updatedAt": "2026-10-24T23:10:09Z",
+      "baseBranch": "main",
+      "headBranch": "FixArturiaSoftwareCenter",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "dd665277407a8fc2c47749c2ae01da9522536fb9",
+      "commitCount": 2,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 3,
+        "deletions": 17
+      },
+      "labelsInPR": [
+        "arturiasoftwarecenter"
+      ]
+    }
+  ]
+}

@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2023-12-22T21:14:03Z",
-      "updatedAt": "2025-11-05T03:46:43Z",
+      "updatedAt": "2026-10-24T20:29:08Z",
       "baseBranch": "main",
       "headBranch": "addignoreexitcode",
       "headRepository": "bmacphail/Installomator",
@@ -29,7 +29,7 @@
       "checksState": null,
       "headCommit": "64de2306a4a69c6f9fba21a096257438b7c2168e",
       "commitCount": 3,
-      "commentCount": 4,
+      "commentCount": 5,
       "changedFileCount": 4,
       "labelChange": {
         "changeType": "MODIFIED",

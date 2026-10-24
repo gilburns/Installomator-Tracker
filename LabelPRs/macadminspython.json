@@ -1,0 +1,41 @@
+{
+  "label": "macadminspython",
+  "labelFile": "fragments/labels/macadminspython.sh",
+  "pullRequests": [
+    {
+      "number": 3493,
+      "title": "Update macadminspython.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3493",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-24T23:23:25Z",
+      "updatedAt": "2026-10-24T23:23:37Z",
+      "baseBranch": "main",
+      "headBranch": "FixMacAdminsPython",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "444904deb74c460e818f101c3fb2e96bbaf91e00",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 2,
+        "deletions": 2
+      },
+      "labelsInPR": [
+        "macadminspython"
+      ]
+    }
+  ]
+}

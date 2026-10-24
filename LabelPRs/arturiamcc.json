@@ -1,0 +1,41 @@
+{
+  "label": "arturiamcc",
+  "labelFile": "fragments/labels/arturiamcc.sh",
+  "pullRequests": [
+    {
+      "number": 3490,
+      "title": "Update arturiamcc.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3490",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-24T22:50:37Z",
+      "updatedAt": "2026-10-24T22:50:49Z",
+      "baseBranch": "main",
+      "headBranch": "FixArturiaMidiControlCenter",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "f85fa6526866df7dc53c344e4ad4b05ce2b1b714",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 4,
+        "deletions": 15
+      },
+      "labelsInPR": [
+        "arturiamcc"
+      ]
+    }
+  ]
+}
