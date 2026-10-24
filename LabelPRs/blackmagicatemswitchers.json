@@ -1,0 +1,50 @@
+{
+  "label": "blackmagicatemswitchers",
+  "labelFile": "fragments/labels/blackmagicatemswitchers.sh",
+  "pullRequests": [
+    {
+      "number": 3460,
+      "title": "Fix correct download for blackmagicatemswitchers.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3460",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-18T19:37:34Z",
+      "updatedAt": "2026-10-19T16:03:48Z",
+      "baseBranch": "main",
+      "headBranch": "FixBlackmagicatemswitchers",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "bug",
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-19T16:03:47Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "b128d92c8aafa4a7791385854c77302283087095",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "blackmagicatemswitchers"
+      ]
+    }
+  ]
+}

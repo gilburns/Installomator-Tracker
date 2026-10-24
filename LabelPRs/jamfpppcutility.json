@@ -1,0 +1,49 @@
+{
+  "label": "jamfpppcutility",
+  "labelFile": "fragments/labels/jamfpppcutility.sh",
+  "pullRequests": [
+    {
+      "number": 3437,
+      "title": "jamfpppcutility-label-update",
+      "url": "https://github.com/Installomator/Installomator/pull/3437",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-16T19:21:47Z",
+      "updatedAt": "2026-10-17T19:56:43Z",
+      "baseBranch": "main",
+      "headBranch": "jamfpppcutility-label-update",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-17T19:56:43Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "aa28ce3740cd247625a09fc4894604c75b68180a",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 3,
+        "deletions": 4
+      },
+      "labelsInPR": [
+        "jamfpppcutility"
+      ]
+    }
+  ]
+}

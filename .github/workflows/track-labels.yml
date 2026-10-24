@@ -38,6 +38,21 @@ jobs:
             git push
           fi
 
+      - name: Track open upstream PRs touching labels
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./track_label_prs.sh --verbose
+
+      - name: Commit label PR changes
+        run: |
+          git add -A LabelPRs label_prs.csv
+          if git diff --cached --quiet; then
+            echo "No label PR changes."
+          else
+            git commit -m "Update open label PRs"
+            git push
+          fi
+
       - name: Run label tracker
         run: ./update_tracked_labels.sh --verbose
 

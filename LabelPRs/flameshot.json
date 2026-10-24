@@ -1,0 +1,50 @@
+{
+  "label": "flameshot",
+  "labelFile": "fragments/labels/flameshot.sh",
+  "pullRequests": [
+    {
+      "number": 3322,
+      "title": "Add Flameshot label",
+      "url": "https://github.com/Installomator/Installomator/pull/3322",
+      "author": {
+        "login": "kylebcooke",
+        "url": "https://github.com/kylebcooke"
+      },
+      "isDraft": false,
+      "createdAt": "2026-09-22T00:41:36Z",
+      "updatedAt": "2026-10-15T21:37:41Z",
+      "baseBranch": "main",
+      "headBranch": "add-flameshot-label",
+      "headRepository": "kylebcooke/Installomator",
+      "prLabels": [
+        "application",
+        "waiting for response"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-09-22T16:09:28Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": null,
+      "headCommit": "4e476672fdf74043ef0bbf5f238f1f644a6ee212",
+      "commitCount": 3,
+      "commentCount": 2,
+      "changedFileCount": 2,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 79,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "flameshot"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "label": "jetbrainsgoland",
+  "labelFile": "fragments/labels/jetbrainsgoland.sh",
+  "pullRequests": [
+    {
+      "number": 3453,
+      "title": "Merge goland.sh case",
+      "url": "https://github.com/Installomator/Installomator/pull/3453",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-18T14:00:16Z",
+      "updatedAt": "2026-10-19T15:50:08Z",
+      "baseBranch": "main",
+      "headBranch": "MergeGoLandCase",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-19T15:50:08Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "fd7567fa4b924c92e7fe8cc6d969be96623c691a",
+      "commitCount": 2,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 2,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "jetbrainsgoland"
+      ]
+    }
+  ]
+}

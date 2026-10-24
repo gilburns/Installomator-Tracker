@@ -1,0 +1,49 @@
+{
+  "label": "aftershoot",
+  "labelFile": "fragments/labels/aftershoot.sh",
+  "pullRequests": [
+    {
+      "number": 3314,
+      "title": "Add label for Aftershoot",
+      "url": "https://github.com/Installomator/Installomator/pull/3314",
+      "author": {
+        "login": "ajamaya1",
+        "url": "https://github.com/ajamaya1"
+      },
+      "isDraft": false,
+      "createdAt": "2026-09-18T20:26:01Z",
+      "updatedAt": "2026-10-15T22:06:33Z",
+      "baseBranch": "main",
+      "headBranch": "Aftershoot",
+      "headRepository": "ajamaya1/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-15T22:05:53Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "CONFLICTING",
+      "checksState": "SUCCESS",
+      "headCommit": "9f70e676dc6b6ed7a78a59d26369c480b56a4cc7",
+      "commitCount": 5,
+      "commentCount": 4,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 12,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "aftershoot"
+      ]
+    }
+  ]
+}

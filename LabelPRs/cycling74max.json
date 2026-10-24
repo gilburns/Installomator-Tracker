@@ -1,0 +1,49 @@
+{
+  "label": "cycling74max",
+  "labelFile": "fragments/labels/cycling74max.sh",
+  "pullRequests": [
+    {
+      "number": 3454,
+      "title": "Merge duplicate Max labels",
+      "url": "https://github.com/Installomator/Installomator/pull/3454",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-18T14:13:00Z",
+      "updatedAt": "2026-10-19T15:56:22Z",
+      "baseBranch": "main",
+      "headBranch": "MergeMaxLabels",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-19T15:56:21Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "a1910fa8ad88ba18dfd696f96ad64ef85346200e",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 4,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "cycling74max"
+      ]
+    }
+  ]
+}

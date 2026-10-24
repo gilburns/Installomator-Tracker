@@ -1,0 +1,49 @@
+{
+  "label": "macuncleemlconverter",
+  "labelFile": "fragments/labels/macuncleemlconverter.sh",
+  "pullRequests": [
+    {
+      "number": 3473,
+      "title": "Add macuncleemlconverter label",
+      "url": "https://github.com/Installomator/Installomator/pull/3473",
+      "author": {
+        "login": "jonpage-upstart",
+        "url": "https://github.com/jonpage-upstart"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-20T20:12:46Z",
+      "updatedAt": "2026-10-20T20:56:47Z",
+      "baseBranch": "main",
+      "headBranch": "label/macuncleemlconverter",
+      "headRepository": "jonpage-upstart/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-20T20:56:47Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "075fa3405144718ed21ac416faf75fd8e6dd8cd3",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "macuncleemlconverter"
+      ]
+    }
+  ]
+}

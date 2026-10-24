@@ -1,0 +1,50 @@
+{
+  "label": "logitechoptionsplusoffline",
+  "labelFile": "fragments/labels/logitechoptionsplusoffline.sh",
+  "pullRequests": [
+    {
+      "number": 3154,
+      "title": "Fix logitechoptionsplusoffline, fix: removing non-reliable version check",
+      "url": "https://github.com/Installomator/Installomator/pull/3154",
+      "author": {
+        "login": "Tuttu",
+        "url": "https://github.com/Tuttu"
+      },
+      "isDraft": false,
+      "createdAt": "2026-08-05T13:35:15Z",
+      "updatedAt": "2026-08-25T17:55:09Z",
+      "baseBranch": "main",
+      "headBranch": "label-fix-logitechoptionsplusoffline",
+      "headRepository": "Tuttu/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-08-05T16:54:18Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "8190be769bbc8579c934e4b679675496600ede25",
+      "commitCount": 3,
+      "commentCount": 4,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 4,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "logitechoptionsplusoffline"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "label": "realvncconnect",
+  "labelFile": "fragments/labels/realvncconnect.sh",
+  "pullRequests": [
+    {
+      "number": 3418,
+      "title": "New label: realvncconnect (RealVNC Connect v8)",
+      "url": "https://github.com/Installomator/Installomator/pull/3418",
+      "author": {
+        "login": "al-laktah",
+        "url": "https://github.com/al-laktah"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-12T13:25:54Z",
+      "updatedAt": "2026-10-15T20:39:14Z",
+      "baseBranch": "main",
+      "headBranch": "label-realvncconnect",
+      "headRepository": "al-laktah/Installomator",
+      "prLabels": [
+        "application",
+        "waiting for response"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-12T20:12:18Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "18b043b7d13513a514e50b67c937aa7ea06c2f7d",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 8,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "realvncconnect"
+      ]
+    }
+  ]
+}

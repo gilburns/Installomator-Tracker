@@ -1,0 +1,51 @@
+{
+  "label": "setupchecklist",
+  "labelFile": "fragments/labels/setupchecklist.sh",
+  "pullRequests": [
+    {
+      "number": 2793,
+      "title": "feat: add setupchecklist label for Jamf Setup Checklist",
+      "url": "https://github.com/Installomator/Installomator/pull/2793",
+      "author": {
+        "login": "TheBigPieceOfChicken",
+        "url": "https://github.com/TheBigPieceOfChicken"
+      },
+      "isDraft": false,
+      "createdAt": "2026-03-05T22:00:20Z",
+      "updatedAt": "2026-10-17T15:18:28Z",
+      "baseBranch": "main",
+      "headBranch": "feature/setupchecklist-label",
+      "headRepository": "AttunedIT/Installomator",
+      "prLabels": [
+        "application",
+        "waiting for response"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-04-30T20:34:47Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": null,
+      "headCommit": "1739d1621894ab1747b40dce584805b07c93ccc9",
+      "commitCount": 1,
+      "commentCount": 1,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 9,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "setupchecklist"
+      ]
+    }
+  ]
+}

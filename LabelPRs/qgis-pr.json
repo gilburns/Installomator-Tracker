@@ -1,0 +1,86 @@
+{
+  "label": "qgis-pr",
+  "labelFile": "fragments/labels/qgis-pr.sh",
+  "pullRequests": [
+    {
+      "number": 2711,
+      "title": "Fix QGIS download url",
+      "url": "https://github.com/Installomator/Installomator/pull/2711",
+      "author": {
+        "login": "pmex",
+        "url": "https://github.com/pmex"
+      },
+      "isDraft": false,
+      "createdAt": "2026-01-05T11:35:51Z",
+      "updatedAt": "2026-05-30T16:01:59Z",
+      "baseBranch": "main",
+      "headBranch": "fix_qgis_appNewVersion",
+      "headRepository": "BonnierNews/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-05-01T19:05:26Z"
+        }
+      ],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "5c44e25cfcbab2a04960de3ca247525302fcc763",
+      "commitCount": 2,
+      "commentCount": 1,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 2,
+        "deletions": 2
+      },
+      "labelsInPR": [
+        "qgis-pr"
+      ]
+    },
+    {
+      "number": 3210,
+      "title": "Qgis bugfix",
+      "url": "https://github.com/Installomator/Installomator/pull/3210",
+      "author": {
+        "login": "tgrymatt",
+        "url": "https://github.com/tgrymatt"
+      },
+      "isDraft": false,
+      "createdAt": "2026-08-31T14:36:06Z",
+      "updatedAt": "2026-09-02T01:56:29Z",
+      "baseBranch": "main",
+      "headBranch": "QGIS-Bugfix",
+      "headRepository": "tgrymatt/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "uurazzle",
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": null,
+      "headCommit": "b55b0784c333a4ad06d43913bbe142746ecbabd8",
+      "commitCount": 2,
+      "commentCount": 1,
+      "changedFileCount": 2,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 3,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "qgis-pr",
+        "qgisltr"
+      ]
+    }
+  ]
+}

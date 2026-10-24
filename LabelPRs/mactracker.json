@@ -1,0 +1,49 @@
+{
+  "label": "mactracker",
+  "labelFile": "fragments/labels/mactracker.sh",
+  "pullRequests": [
+    {
+      "number": 3464,
+      "title": "mactracker-label-update",
+      "url": "https://github.com/Installomator/Installomator/pull/3464",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-19T18:38:40Z",
+      "updatedAt": "2026-10-22T02:19:49Z",
+      "baseBranch": "main",
+      "headBranch": "mactracker-label-update",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-22T02:19:49Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "d0a5866bdc483667991d52dd5a1844c711bd48b3",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 0,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "mactracker"
+      ]
+    }
+  ]
+}

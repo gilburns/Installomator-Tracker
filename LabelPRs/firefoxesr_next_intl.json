@@ -1,0 +1,49 @@
+{
+  "label": "firefoxesr_next_intl",
+  "labelFile": "fragments/labels/firefoxesr_next_intl.sh",
+  "pullRequests": [
+    {
+      "number": 3262,
+      "title": "Create firefoxesr_next_intl.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3262",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-09-02T23:12:05Z",
+      "updatedAt": "2026-10-23T03:43:53Z",
+      "baseBranch": "main",
+      "headBranch": "firefoxesr_next_intl-label-update",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-23T03:43:53Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "1c8025f3be5703d4f3aede8a57df109b5dcb58c2",
+      "commitCount": 1,
+      "commentCount": 1,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 24,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "firefoxesr_next_intl"
+      ]
+    }
+  ]
+}

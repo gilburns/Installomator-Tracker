@@ -1,0 +1,50 @@
+{
+  "label": "gpgsuite",
+  "labelFile": "fragments/labels/gpgsuite.sh",
+  "pullRequests": [
+    {
+      "number": 3309,
+      "title": "Fix gpgsuite broken downloadURL and version detection",
+      "url": "https://github.com/Installomator/Installomator/pull/3309",
+      "author": {
+        "login": "jonpage-upstart",
+        "url": "https://github.com/jonpage-upstart"
+      },
+      "isDraft": false,
+      "createdAt": "2026-09-17T22:31:44Z",
+      "updatedAt": "2026-10-14T18:22:28Z",
+      "baseBranch": "main",
+      "headBranch": "fix/gpgsuite-download-url",
+      "headRepository": "jonpage-upstart/Installomator",
+      "prLabels": [
+        "application",
+        "waiting for response"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-09-18T18:22:42Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "1fbafc2f0126f2b0cb356c7acb98b2364d2d251f",
+      "commitCount": 1,
+      "commentCount": 1,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 7,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "gpgsuite"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "label": "exacqvision",
+  "labelFile": "fragments/labels/exacqvision.sh",
+  "pullRequests": [
+    {
+      "number": 3471,
+      "title": "Add exacqvision label",
+      "url": "https://github.com/Installomator/Installomator/pull/3471",
+      "author": {
+        "login": "jonpage-upstart",
+        "url": "https://github.com/jonpage-upstart"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-20T20:12:37Z",
+      "updatedAt": "2026-10-20T20:41:38Z",
+      "baseBranch": "main",
+      "headBranch": "label/exacqvision",
+      "headRepository": "jonpage-upstart/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-20T20:41:38Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "2133cebbd2ec365119fd788bd2419d33de57af3c",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 12,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "exacqvision"
+      ]
+    }
+  ]
+}
