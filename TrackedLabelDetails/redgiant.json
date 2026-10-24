@@ -1,46 +1,50 @@
 [
   {
+    "type": "dmg",
     "appName": "",
-    "appNewVersion": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2026.4.1/RedGiant-2026.4.1_Mac.dmg",
-    "blockingProcesses": [],
-    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2026.4.1/RedGiant-2026.4.1_Mac.dmg",
-    "expectedTeamID": "4ZY22YGXQG",
-    "label": "redgiant",
-    "name": "Red Giant",
     "timeStamp": "2026-07-03T16:01:58Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2026.5.0/RedGiant-2026.5.0_Mac.dmg",
-    "blockingProcesses": [],
-    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2026.5.0/RedGiant-2026.5.0_Mac.dmg",
-    "expectedTeamID": "4ZY22YGXQG",
+    "appNewVersion": "2026.4.1",
+    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2026.4.1/RedGiant-2026.4.1_Mac.dmg",
+    "blockingProcesses": [
+    ],
     "label": "redgiant",
     "name": "Red Giant",
+    "expectedTeamID": "4ZY22YGXQG"
+  },
+  {
+    "type": "dmg",
+    "appName": "",
     "timeStamp": "2026-07-22T18:50:58Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2026.5.1/RedGiant-2026.5.1_Mac.dmg",
-    "blockingProcesses": [],
-    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2026.5.1/RedGiant-2026.5.1_Mac.dmg",
-    "expectedTeamID": "4ZY22YGXQG",
+    "appNewVersion": "2026.5.0",
+    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2026.5.0/RedGiant-2026.5.0_Mac.dmg",
+    "blockingProcesses": [
+    ],
     "label": "redgiant",
     "name": "Red Giant",
+    "expectedTeamID": "4ZY22YGXQG"
+  },
+  {
+    "type": "dmg",
+    "appName": "",
     "timeStamp": "2026-08-12T18:44:04Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2027.0.0/RedGiant-2027.0.0_Mac.dmg",
-    "blockingProcesses": [],
-    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2027.0.0/RedGiant-2027.0.0_Mac.dmg",
-    "expectedTeamID": "4ZY22YGXQG",
+    "appNewVersion": "2026.5.1",
+    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2026.5.1/RedGiant-2026.5.1_Mac.dmg",
+    "blockingProcesses": [
+    ],
     "label": "redgiant",
     "name": "Red Giant",
+    "expectedTeamID": "4ZY22YGXQG"
+  },
+  {
+    "type": "dmg",
+    "appName": "",
     "timeStamp": "2026-10-14T18:36:10Z",
-    "type": "dmg"
+    "appNewVersion": "2027.0.0",
+    "downloadURL": "https://mx-app-blob-prod.maxon.net/mx-package-production/installer/macos/maxon/redgiant/releases/2027.0.0/RedGiant-2027.0.0_Mac.dmg",
+    "blockingProcesses": [
+    ],
+    "label": "redgiant",
+    "name": "Red Giant",
+    "expectedTeamID": "4ZY22YGXQG"
   }
 ]
