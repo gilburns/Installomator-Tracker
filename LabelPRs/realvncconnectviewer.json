@@ -1,0 +1,39 @@
+{
+  "label": "realvncconnectviewer",
+  "labelFile": "fragments/labels/realvncconnectviewer.sh",
+  "pullRequests": [
+    {
+      "number": 3494,
+      "title": "New label: realvncconnectviewer (RealVNC Connect Viewer v8)",
+      "url": "https://github.com/Installomator/Installomator/pull/3494",
+      "author": {
+        "login": "al-laktah",
+        "url": "https://github.com/al-laktah"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-25T13:19:31Z",
+      "updatedAt": "2026-10-25T13:36:59Z",
+      "baseBranch": "main",
+      "headBranch": "label-realvncconnectviewer",
+      "headRepository": "al-laktah/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "4c72b08ba0eb510df24c23afce8ad1d5ea719459",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 9,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "realvncconnectviewer"
+      ]
+    }
+  ]
+}

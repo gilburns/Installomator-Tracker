@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-12T13:25:54Z",
-      "updatedAt": "2026-10-15T20:39:14Z",
+      "updatedAt": "2026-10-25T13:19:39Z",
       "baseBranch": "main",
       "headBranch": "label-realvncconnect",
       "headRepository": "al-laktah/Installomator",
@@ -34,13 +34,13 @@
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "18b043b7d13513a514e50b67c937aa7ea06c2f7d",
-      "commitCount": 1,
-      "commentCount": 0,
+      "headCommit": "1ac62881cf8783246974ddfb1cbdf8800adfa6e2",
+      "commitCount": 2,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
-        "additions": 8,
+        "additions": 9,
         "deletions": 0
       },
       "labelsInPR": [
