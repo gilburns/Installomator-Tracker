@@ -375,6 +375,11 @@
       "lastSeen": "2026-10-23T06:20:24Z",
       "reason": "missing appNewVersion"
     },
+    "fiddlereverywhere": {
+      "firstSeen": "2026-10-25T18:15:51Z",
+      "lastSeen": "2026-10-25T18:15:51Z",
+      "reason": "missing appNewVersion"
+    },
     "fierycommandworkstation": {
       "firstSeen": "2026-10-23T06:20:48Z",
       "lastSeen": "2026-10-23T06:20:48Z",
