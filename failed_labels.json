@@ -205,6 +205,11 @@
       "lastSeen": "2026-10-26T06:19:26Z",
       "reason": "missing appNewVersion"
     },
+    "capcut": {
+      "firstSeen": "2026-10-26T19:06:02Z",
+      "lastSeen": "2026-10-26T19:06:02Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-10-26T06:19:39Z",
       "lastSeen": "2026-10-26T06:19:39Z",
@@ -440,6 +445,11 @@
       "lastSeen": "2026-10-26T06:25:32Z",
       "reason": "missing appNewVersion"
     },
+    "harper": {
+      "firstSeen": "2026-10-26T19:12:39Z",
+      "lastSeen": "2026-10-26T19:12:39Z",
+      "reason": "missing appNewVersion"
+    },
     "hmavpn": {
       "firstSeen": "2026-10-26T06:25:44Z",
       "lastSeen": "2026-10-26T06:25:44Z",
@@ -479,6 +489,11 @@
       "firstSeen": "2026-10-26T06:27:12Z",
       "lastSeen": "2026-10-26T06:27:12Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "inkscape": {
+      "firstSeen": "2026-10-26T19:14:11Z",
+      "lastSeen": "2026-10-26T19:14:11Z",
+      "reason": "resolve failed (exit 142)"
     },
     "ipvisionconnect": {
       "firstSeen": "2026-10-26T06:27:30Z",
@@ -1018,6 +1033,21 @@
     "steelseriesengine": {
       "firstSeen": "2026-10-26T06:38:55Z",
       "lastSeen": "2026-10-26T06:38:55Z",
+      "reason": "missing appNewVersion"
+    },
+    "steinbergactivationmanager": {
+      "firstSeen": "2026-10-26T19:23:27Z",
+      "lastSeen": "2026-10-26T19:23:27Z",
+      "reason": "missing appNewVersion"
+    },
+    "steinberglibrarymanager": {
+      "firstSeen": "2026-10-26T19:23:27Z",
+      "lastSeen": "2026-10-26T19:23:27Z",
+      "reason": "missing appNewVersion"
+    },
+    "steinbergmediabay": {
+      "firstSeen": "2026-10-26T19:23:28Z",
+      "lastSeen": "2026-10-26T19:23:28Z",
       "reason": "missing appNewVersion"
     },
     "suitestudio": {

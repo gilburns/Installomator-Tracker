@@ -20,5 +20,16 @@
     "name": "Druva inSync",
     "timeStamp": "2026-09-01T18:15:45Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.1.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.druva.com/downloads/inSync/MAC/8.1.6/inSync8.1.6r110993.dmg",
+    "expectedTeamID": "JN6HK3RMAP",
+    "label": "druvainsync",
+    "name": "Druva inSync",
+    "timeStamp": "2026-10-26T19:09:37Z",
+    "type": "pkgInDmg"
   }
 ]

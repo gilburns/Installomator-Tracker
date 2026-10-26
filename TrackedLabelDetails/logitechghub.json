@@ -3,11 +3,21 @@
     "appName": "lghub.app",
     "appNewVersion": "2026.6.974819",
     "blockingProcesses": [],
-    "downloadURL": "https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.zip",
     "expectedTeamID": "QED4VVPZWA",
     "label": "logitechghub",
     "name": "Logi G-HUB",
     "timeStamp": "2026-09-21T18:23:26Z",
+    "type": "zip"
+  },
+  {
+    "appName": "lghub.app",
+    "appNewVersion": "2026.7.992920",
+    "blockingProcesses": [],
+    "downloadURL": "https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.zip",
+    "expectedTeamID": "QED4VVPZWA",
+    "label": "logitechghub",
+    "name": "Logi G-HUB",
+    "timeStamp": "2026-10-26T19:16:50Z",
     "type": "zip"
   }
 ]

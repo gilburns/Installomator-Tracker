@@ -31,5 +31,16 @@
     "name": "Studio",
     "timeStamp": "2026-10-21T18:18:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.4.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://studio-releases.s3.amazonaws.com/Studio-2.4.1.dmg",
+    "expectedTeamID": "2YLQ7PASUE",
+    "label": "hudlstudio",
+    "name": "Studio",
+    "timeStamp": "2026-10-26T19:12:55Z",
+    "type": "dmg"
   }
 ]

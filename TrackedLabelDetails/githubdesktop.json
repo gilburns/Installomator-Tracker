@@ -94,5 +94,17 @@
     "name": "GitHub Desktop",
     "timeStamp": "2026-10-24T06:19:22Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.6.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop.githubusercontent.com/releases/3.6.10-ffeefe5d/GitHubDesktop-arm64.zip",
+    "downloadURLi386": "https://desktop.githubusercontent.com/releases/3.6.10-ffeefe5d/GitHubDesktop-x64.zip",
+    "expectedTeamID": "VEKTX9H2N7",
+    "label": "githubdesktop",
+    "name": "GitHub Desktop",
+    "timeStamp": "2026-10-26T19:11:57Z",
+    "type": "zip"
   }
 ]

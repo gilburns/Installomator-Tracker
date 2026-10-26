@@ -232,5 +232,18 @@
     "name": "Microsoft OneNote",
     "timeStamp": "2026-10-22T18:22:57Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "16.114.26102345",
+    "blockingProcesses": [
+      "Microsoft OneNote"
+    ],
+    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.114.26102345_Updater.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftonenote",
+    "name": "Microsoft OneNote",
+    "timeStamp": "2026-10-26T19:17:59Z",
+    "type": "pkg"
   }
 ]

@@ -34,5 +34,17 @@
     "name": "Synergy Editor",
     "timeStamp": "2026-09-16T18:32:39Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "14.4.0.54",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.synergysportstech.com/apps/editor/basketball/macos/arm64/Synergy_Editor_14_4_0_54_arm64.dmg",
+    "downloadURLi386": "https://www.synergysportstech.com/apps/editor/basketball/macos/x64/Synergy_Editor_14_4_0_54_x64.dmg",
+    "expectedTeamID": "BATB6XS52B",
+    "label": "synergyeditorbasketball",
+    "name": "Synergy Editor",
+    "timeStamp": "2026-10-26T19:23:51Z",
+    "type": "dmg"
   }
 ]

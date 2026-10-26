@@ -9,5 +9,18 @@
     "name": "JAMF Setup Checklist",
     "timeStamp": "2026-08-28T21:40:00Z",
     "type": "pkg"
+  },
+  {
+    "appName": "Setup Checklist.app",
+    "appNewVersion": "1.1.1",
+    "blockingProcesses": [
+      "Setup Checklist"
+    ],
+    "downloadURL": "https://github.com/Jamf-Concepts/setup-checklist/releases/download/v1.1.1/Setup.Checklist-1.1.1-82.pkg",
+    "expectedTeamID": "483DWKW443",
+    "label": "jamfsetupchecklist",
+    "name": "JAMF Setup Checklist",
+    "timeStamp": "2026-10-26T19:14:42Z",
+    "type": "pkg"
   }
 ]

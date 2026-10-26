@@ -53,5 +53,16 @@
     "name": "PsychoPy Studio",
     "timeStamp": "2026-09-14T18:27:37Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.2.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/psychopy/psychopy/releases/download/2026.2.5/PsychoPy_Studio_2026.2.5.dmg",
+    "expectedTeamID": "NM3SX67P2X",
+    "label": "psychopystudio",
+    "name": "PsychoPy Studio",
+    "timeStamp": "2026-10-26T19:21:00Z",
+    "type": "dmg"
   }
 ]

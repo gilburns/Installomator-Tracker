@@ -119,5 +119,16 @@
     "name": "Tunnelblick",
     "timeStamp": "2026-10-17T06:34:20Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "10.1beta03 (build 6600)",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Tunnelblick/Tunnelblick/releases/download/v10.1beta03/Tunnelblick_10.1beta03_build_6600.dmg",
+    "expectedTeamID": "Z2SG5H3HC8",
+    "label": "tunnelblick",
+    "name": "Tunnelblick",
+    "timeStamp": "2026-10-26T19:25:13Z",
+    "type": "dmg"
   }
 ]
