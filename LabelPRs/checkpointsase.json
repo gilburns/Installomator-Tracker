@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-09-29T15:49:24Z",
-      "updatedAt": "2026-10-23T02:01:28Z",
+      "updatedAt": "2026-10-26T16:18:21Z",
       "baseBranch": "main",
       "headBranch": "checkpointsase-label",
       "headRepository": "jnichols35/Installomator",
@@ -22,7 +22,7 @@
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
       "requestedReviewers": [
-        "uurazzle"
+        "gilburns"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
