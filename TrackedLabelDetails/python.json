@@ -68,5 +68,19 @@
     "name": "Python",
     "timeStamp": "2026-10-21T18:26:19Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.15.2",
+    "blockingProcesses": [
+      "IDLE",
+      "Python Launcher"
+    ],
+    "downloadURL": "https://www.python.org/ftp/python/3.15.2/python-3.15.2-macos11.pkg",
+    "expectedTeamID": "BMM5U3QVKW",
+    "label": "python",
+    "name": "Python",
+    "timeStamp": "2026-10-26T06:36:52Z",
+    "type": "pkg"
   }
 ]

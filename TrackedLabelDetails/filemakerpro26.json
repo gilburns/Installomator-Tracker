@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.0.3.307",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.claris.com/esd/fmp_26.0.3.307.dmg",
+    "expectedTeamID": "J6K4T76U7W",
+    "label": "filemakerpro26",
+    "name": "FileMaker Pro",
+    "timeStamp": "2026-10-26T06:24:12Z",
+    "type": "dmg"
+  }
+]

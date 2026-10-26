@@ -9,5 +9,16 @@
     "name": "macUSB",
     "timeStamp": "2026-10-13T18:31:23Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Kruszoneq/macUSB/releases/download/v2.6/macUSB.2.6.dmg",
+    "expectedTeamID": "27NC66L8P2",
+    "label": "macusb",
+    "name": "macUSB",
+    "timeStamp": "2026-10-26T06:32:12Z",
+    "type": "dmg"
   }
 ]

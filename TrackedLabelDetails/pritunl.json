@@ -75,5 +75,16 @@
     "name": "Pritunl",
     "timeStamp": "2026-10-12T06:37:09Z",
     "type": "pkgInZip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.4.4791.77",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/pritunl/pritunl-client/releases/download/1.4.4791.77/Pritunl.pkg.zip",
+    "expectedTeamID": "U22BLATN63",
+    "label": "pritunl",
+    "name": "Pritunl",
+    "timeStamp": "2026-10-26T06:36:27Z",
+    "type": "pkgInZip"
   }
 ]
