@@ -12,11 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-25T13:19:31Z",
-      "updatedAt": "2026-10-25T13:36:59Z",
+      "updatedAt": "2026-10-25T20:23:15Z",
       "baseBranch": "main",
       "headBranch": "label-realvncconnectviewer",
       "headRepository": "al-laktah/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
       "requestedReviewers": [],
