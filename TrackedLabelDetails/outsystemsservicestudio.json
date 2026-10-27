@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "11.55.94.65328",
+    "blockingProcesses": [],
+    "downloadURL": "https://dxejw4oyledi.cloudfront.net/repository/servicestudio/11.55.94.65328/ServiceStudio-11.55.94.65328_arm64.dmg",
+    "downloadURLi386": "https://dxejw4oyledi.cloudfront.net/repository/servicestudio/11.55.94.65328/ServiceStudio-11.55.94.65328.dmg",
+    "expectedTeamID": "S25XN959HW",
+    "label": "outsystemsservicestudio",
+    "name": "ServiceStudio",
+    "timeStamp": "2026-10-27T06:32:45Z",
+    "type": "dmg"
+  }
+]

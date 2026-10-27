@@ -34,5 +34,17 @@
     "name": "Session",
     "timeStamp": "2026-10-13T06:43:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.18.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/session-foundation/session-desktop/releases/download/v1.18.3/session-desktop-mac-arm64-1.18.3.dmg",
+    "downloadURLi386": "https://github.com/session-foundation/session-desktop/releases/download/v1.18.3/session-desktop-mac-x64-1.18.3.dmg",
+    "expectedTeamID": "SUQ8J2PCT7",
+    "label": "sessiondesktop",
+    "name": "Session",
+    "timeStamp": "2026-10-27T06:35:18Z",
+    "type": "dmg"
   }
 ]

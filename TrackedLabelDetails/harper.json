@@ -42,5 +42,16 @@
     "name": "Harper",
     "timeStamp": "2026-10-17T18:15:22Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Automattic/harper/releases/download/v3.0.0/Harper_3.0.0_universal.dmg",
+    "expectedTeamID": "PZYM8XX95Q",
+    "label": "harper",
+    "name": "Harper",
+    "timeStamp": "2026-10-27T06:22:27Z",
+    "type": "dmg"
   }
 ]

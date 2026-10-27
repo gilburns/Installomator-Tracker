@@ -64,5 +64,16 @@
     "name": "Pandoc",
     "timeStamp": "2026-10-08T06:29:35Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.13",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/jgm/pandoc/releases/download/3.13/pandoc-3.13-arm64-macOS.pkg",
+    "expectedTeamID": "5U2WKE6DES",
+    "label": "pandoc",
+    "name": "Pandoc",
+    "timeStamp": "2026-10-27T06:32:57Z",
+    "type": "pkg"
   }
 ]
