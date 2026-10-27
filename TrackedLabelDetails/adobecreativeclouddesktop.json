@@ -26,5 +26,19 @@
     "name": "Adobe Creative Cloud",
     "timeStamp": "2026-09-09T18:09:28Z",
     "type": "dmg"
+  },
+  {
+    "appName": "Creative Cloud.app",
+    "appNewVersion": "6.11.0.478.6",
+    "blockingProcesses": [
+      "Creative Cloud"
+    ],
+    "downloadURL": "https://ccmdls.adobe.com/AdobeProducts/StandaloneBuilds/ACCC/ESD/6.11.0/478.6/macarm64/ACCCx6_11_0_478_6.dmg",
+    "downloadURLi386": "https://ccmdls.adobe.com/AdobeProducts/StandaloneBuilds/ACCC/ESD/6.11.0/478.6/osx10/ACCCx6_11_0_478_6.dmg",
+    "expectedTeamID": "JQ525L2MZD",
+    "label": "adobecreativeclouddesktop",
+    "name": "Adobe Creative Cloud",
+    "timeStamp": "2026-10-27T18:07:27Z",
+    "type": "dmg"
   }
 ]

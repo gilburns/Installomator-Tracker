@@ -9,5 +9,16 @@
     "name": "ghostty",
     "timeStamp": "2026-07-03T15:46:48Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://release.files.ghostty.org/1.4.0/Ghostty.dmg",
+    "expectedTeamID": "24VZTF6M5V",
+    "label": "ghostty",
+    "name": "ghostty",
+    "timeStamp": "2026-10-27T18:18:44Z",
+    "type": "dmg"
   }
 ]

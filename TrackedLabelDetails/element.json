@@ -23,11 +23,21 @@
     "appName": "",
     "appNewVersion": "1.12.32",
     "blockingProcesses": [],
-    "downloadURL": "https://packages.element.io/desktop/install/macos/Element.dmg",
     "expectedTeamID": "7J4U792NQT",
     "label": "element",
     "name": "Element",
     "timeStamp": "2026-10-16T18:21:32Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.12.33",
+    "blockingProcesses": [],
+    "downloadURL": "https://packages.element.io/desktop/install/macos/Element.dmg",
+    "expectedTeamID": "7J4U792NQT",
+    "label": "element",
+    "name": "Element",
+    "timeStamp": "2026-10-27T18:16:40Z",
     "type": "dmg"
   }
 ]
