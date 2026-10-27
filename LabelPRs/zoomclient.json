@@ -12,21 +12,29 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-27T03:34:38Z",
-      "updatedAt": "2026-10-27T03:34:49Z",
+      "updatedAt": "2026-10-27T15:06:10Z",
       "baseBranch": "main",
       "headBranch": "FixZoomClient",
       "headRepository": "gilburns/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-27T14:23:26Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "c73fadc44399c693eb7c16e456e8796274c7626a",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",

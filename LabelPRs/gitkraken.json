@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-26T04:00:22Z",
-      "updatedAt": "2026-10-26T12:57:17Z",
+      "updatedAt": "2026-10-27T15:35:37Z",
       "baseBranch": "main",
       "headBranch": "FitGitKraken",
       "headRepository": "gilburns/Installomator",
@@ -21,12 +21,15 @@
       ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "uurazzle",
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "f833672feac82308719204e66037450a7efd83dd",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
