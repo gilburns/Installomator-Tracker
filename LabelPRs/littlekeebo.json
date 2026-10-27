@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-24T15:31:42Z",
-      "updatedAt": "2026-10-26T15:24:56Z",
+      "updatedAt": "2026-10-26T19:17:07Z",
       "baseBranch": "main",
       "headBranch": "littlekeebo",
       "headRepository": "isa/Installomator",
@@ -32,7 +32,9 @@
           "submittedAt": "2026-10-24T15:49:22Z"
         }
       ],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "db53c9b25e42583a195b8eaac02bc151d8168f39",
