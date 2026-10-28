@@ -12,25 +12,23 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-12T13:25:54Z",
-      "updatedAt": "2026-10-25T13:19:39Z",
+      "updatedAt": "2026-10-28T16:00:06Z",
       "baseBranch": "main",
       "headBranch": "label-realvncconnect",
       "headRepository": "al-laktah/Installomator",
       "prLabels": [
-        "application",
-        "waiting for response"
+        "application"
       ],
-      "reviewDecision": "CHANGES_REQUESTED",
+      "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [
         {
           "reviewer": "uurazzle",
-          "state": "CHANGES_REQUESTED",
-          "submittedAt": "2026-10-12T20:12:18Z"
+          "state": "APPROVED",
+          "submittedAt": "2026-10-28T15:59:55Z"
         }
       ],
       "requestedReviewers": [
-        "gilburns",
-        "uurazzle"
+        "gilburns"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",

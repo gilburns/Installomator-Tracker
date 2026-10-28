@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-16T19:21:47Z",
-      "updatedAt": "2026-10-28T01:45:35Z",
+      "updatedAt": "2026-10-28T14:18:56Z",
       "baseBranch": "main",
       "headBranch": "jamfpppcutility-label-update",
       "headRepository": "uurazzle/Installomator",
@@ -35,7 +35,7 @@
       "checksState": "SUCCESS",
       "headCommit": "aa28ce3740cd247625a09fc4894604c75b68180a",
       "commitCount": 1,
-      "commentCount": 1,
+      "commentCount": 2,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",

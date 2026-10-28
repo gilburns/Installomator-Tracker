@@ -1,0 +1,44 @@
+{
+  "label": "jre8",
+  "labelFile": "fragments/labels/jre8.sh",
+  "pullRequests": [
+    {
+      "number": 3513,
+      "title": "jre8-label-update",
+      "url": "https://github.com/Installomator/Installomator/pull/3513",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-28T16:26:17Z",
+      "updatedAt": "2026-10-28T16:26:42Z",
+      "baseBranch": "main",
+      "headBranch": "jre8-label-update",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "gilburns",
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "f6334813d328c03ff4e65ac1abcb406a3393b522",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 6,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "jre8"
+      ]
+    }
+  ]
+}
