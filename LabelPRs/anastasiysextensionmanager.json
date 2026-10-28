@@ -1,20 +1,20 @@
 {
-  "label": "arturiamcc",
-  "labelFile": "fragments/labels/arturiamcc.sh",
+  "label": "anastasiysextensionmanager",
+  "labelFile": "fragments/labels/anastasiysextensionmanager.sh",
   "pullRequests": [
     {
-      "number": 3490,
-      "title": "Update arturiamcc.sh",
-      "url": "https://github.com/Installomator/Installomator/pull/3490",
+      "number": 3509,
+      "title": "Update anastasiysextensionmanager.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3509",
       "author": {
         "login": "gilburns",
         "url": "https://github.com/gilburns"
       },
       "isDraft": false,
-      "createdAt": "2026-10-24T22:50:37Z",
-      "updatedAt": "2026-10-24T22:50:49Z",
+      "createdAt": "2026-10-28T03:53:06Z",
+      "updatedAt": "2026-10-28T03:53:18Z",
       "baseBranch": "main",
-      "headBranch": "FixArturiaMidiControlCenter",
+      "headBranch": "FixAnastasiysExtensionManager",
       "headRepository": "gilburns/Installomator",
       "prLabels": [
         "application"
@@ -24,17 +24,17 @@
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "f85fa6526866df7dc53c344e4ad4b05ce2b1b714",
+      "headCommit": "dcb0f11d647f9dfcbfd8c7087c047527bc5098b5",
       "commitCount": 1,
       "commentCount": 0,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
-        "additions": 4,
-        "deletions": 15
+        "additions": 1,
+        "deletions": 0
       },
       "labelsInPR": [
-        "arturiamcc"
+        "anastasiysextensionmanager"
       ]
     }
   ]

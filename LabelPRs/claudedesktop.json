@@ -1,0 +1,47 @@
+{
+  "label": "claudedesktop",
+  "labelFile": "fragments/labels/claudedesktop.sh",
+  "pullRequests": [
+    {
+      "number": 3507,
+      "title": "Update claudedesktop to use getJSONValue",
+      "url": "https://github.com/Installomator/Installomator/pull/3507",
+      "author": {
+        "login": "acodega",
+        "url": "https://github.com/acodega"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-28T01:31:50Z",
+      "updatedAt": "2026-10-28T03:54:38Z",
+      "baseBranch": "main",
+      "headBranch": "acodega-claudedesktop-json",
+      "headRepository": "acodega/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-28T03:54:27Z"
+        }
+      ],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "6404d361bb6d98833c1891a963ebfd6fbfabd9e7",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 3,
+        "deletions": 2
+      },
+      "labelsInPR": [
+        "claudedesktop"
+      ]
+    }
+  ]
+}

@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-24T17:58:35Z",
-      "updatedAt": "2026-10-27T16:52:02Z",
+      "updatedAt": "2026-10-27T20:38:28Z",
       "baseBranch": "main",
       "headBranch": "MergeMagicBulletAndRedGiant",
       "headRepository": "gilburns/Installomator",
@@ -20,9 +20,14 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-27T20:38:27Z"
+        }
+      ],
       "requestedReviewers": [
-        "uurazzle",
         "acodega"
       ],
       "mergeable": "MERGEABLE",

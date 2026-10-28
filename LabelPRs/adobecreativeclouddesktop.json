@@ -12,19 +12,25 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-27T10:31:27Z",
-      "updatedAt": "2026-10-27T10:31:27Z",
+      "updatedAt": "2026-10-28T01:46:03Z",
       "baseBranch": "main",
       "headBranch": "patch-1",
       "headRepository": "sier/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application",
+        "waiting for response"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
       "mergeable": "UNKNOWN",
       "checksState": "SUCCESS",
       "headCommit": "f8cd0eab9e21ad74dbcf95aafcba66ae5334ef19",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",

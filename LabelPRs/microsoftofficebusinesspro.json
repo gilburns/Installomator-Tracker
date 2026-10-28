@@ -12,12 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-09-10T17:04:45Z",
-      "updatedAt": "2026-10-13T15:16:46Z",
+      "updatedAt": "2026-10-28T01:45:35Z",
       "baseBranch": "main",
       "headBranch": "microsoftofficebusinesspro-label-update",
       "headRepository": "uurazzle/Installomator",
       "prLabels": [
-        "application"
+        "application",
+        "waiting for response"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [

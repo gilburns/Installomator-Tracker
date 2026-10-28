@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-24T23:10:09Z",
-      "updatedAt": "2026-10-24T23:10:09Z",
+      "updatedAt": "2026-10-27T21:35:18Z",
       "baseBranch": "main",
       "headBranch": "FixArturiaSoftwareCenter",
       "headRepository": "gilburns/Installomator",
@@ -20,8 +20,16 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-27T21:35:18Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "dd665277407a8fc2c47749c2ae01da9522536fb9",

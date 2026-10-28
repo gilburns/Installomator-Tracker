@@ -1,0 +1,41 @@
+{
+  "label": "npssanta",
+  "labelFile": "fragments/labels/npssanta.sh",
+  "pullRequests": [
+    {
+      "number": 3506,
+      "title": "Combine dup santa labels",
+      "url": "https://github.com/Installomator/Installomator/pull/3506",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-27T23:40:17Z",
+      "updatedAt": "2026-10-27T23:40:18Z",
+      "baseBranch": "main",
+      "headBranch": "CombineDupSantaLabels",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "UNKNOWN",
+      "checksState": "SUCCESS",
+      "headCommit": "a94742babb849e374736f7ab43187120eb8a9a0f",
+      "commitCount": 2,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "RENAMED",
+        "additions": 3,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "npssanta"
+      ]
+    }
+  ]
+}
