@@ -43,11 +43,21 @@
     "appName": "",
     "appNewVersion": "3.0.2",
     "blockingProcesses": [],
-    "downloadURL": "https://builds.superwhisper.com/latest/superwhisper.dmg",
     "expectedTeamID": "XDP69BYUP9",
     "label": "superwhisper",
     "name": "superwhisper",
     "timeStamp": "2026-10-21T06:29:14Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://builds.superwhisper.com/latest/superwhisper.dmg",
+    "expectedTeamID": "XDP69BYUP9",
+    "label": "superwhisper",
+    "name": "superwhisper",
+    "timeStamp": "2026-10-28T18:37:56Z",
     "type": "dmg"
   }
 ]

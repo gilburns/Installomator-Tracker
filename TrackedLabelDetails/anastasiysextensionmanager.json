@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://f000.backblazeb2.com/file/anastasiy-downloads/EM/ExtensionManager.zip",
+    "expectedTeamID": "D3SBBNFWTC",
+    "label": "anastasiysextensionmanager",
+    "name": "ExtensionManager",
+    "timeStamp": "2026-10-28T18:08:31Z",
+    "type": "zip"
+  }
+]

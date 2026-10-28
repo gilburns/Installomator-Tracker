@@ -22,5 +22,17 @@
     "name": "LosslessCut",
     "timeStamp": "2026-10-19T18:30:13Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.70.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/mifi/lossless-cut/releases/download/v3.70.2/LosslessCut-mac-arm64.dmg",
+    "downloadURLi386": "https://github.com/mifi/lossless-cut/releases/download/v3.70.2/LosslessCut-mac-x64.dmg",
+    "expectedTeamID": "46F6T3M669",
+    "label": "losslesscut",
+    "name": "LosslessCut",
+    "timeStamp": "2026-10-28T18:29:11Z",
+    "type": "dmg"
   }
 ]

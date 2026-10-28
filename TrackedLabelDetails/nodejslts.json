@@ -20,5 +20,16 @@
     "name": "nodejs",
     "timeStamp": "2026-10-21T18:24:21Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "v26.13.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://nodejs.org/dist/v26.13.0/node-v26.13.0.pkg",
+    "expectedTeamID": "HX7739G8FX",
+    "label": "nodejslts",
+    "name": "nodejs",
+    "timeStamp": "2026-10-28T18:32:04Z",
+    "type": "pkg"
   }
 ]

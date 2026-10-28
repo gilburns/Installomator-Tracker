@@ -16,6 +16,7 @@
     "appNewVersion": "1.6.7",
     "blockingProcesses": [],
     "downloadURL": "https://sourceforge.net/projects/scribus/files/scribus/1.6.7/scribus-1.6.7-arm64.dmg/download",
+    "downloadURLi386": "https://sourceforge.net/projects/scribus/files/scribus/1.6.7/scribus-1.6.7.dmg/download",
     "expectedTeamID": "627FV4LMG7",
     "label": "scribus",
     "name": "Scribus",

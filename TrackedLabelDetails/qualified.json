@@ -9,5 +9,16 @@
     "name": "Qualified",
     "timeStamp": "2026-10-10T06:36:52Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.5.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://qf-prod-desktop.s3.amazonaws.com/releases/Qualified-1.5.4-universal.dmg",
+    "expectedTeamID": "X4K33UUA44",
+    "label": "qualified",
+    "name": "Qualified",
+    "timeStamp": "2026-10-28T18:34:49Z",
+    "type": "dmg"
   }
 ]

@@ -46,5 +46,17 @@
     "name": "8x8 Work",
     "timeStamp": "2026-09-07T18:08:28Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.38.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://work-desktop-assets.8x8.com/prod-publish/ga/work-arm64-dmg-v8.38.4-1.dmg",
+    "downloadURLi386": "https://work-desktop-assets.8x8.com/prod-publish/ga/work-dmg-v8.38.4-1.dmg",
+    "expectedTeamID": "FC967L3QRG",
+    "label": "8x8",
+    "name": "8x8 Work",
+    "timeStamp": "2026-10-28T18:07:29Z",
+    "type": "dmg"
   }
 ]

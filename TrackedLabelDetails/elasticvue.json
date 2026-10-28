@@ -20,5 +20,16 @@
     "name": "elasticvue",
     "timeStamp": "2026-09-20T18:16:33Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.17.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/cars10/elasticvue/releases/download/v1.17.0/elasticvue_1.17.0_aarch64.dmg",
+    "expectedTeamID": "9L4YGY6JVY",
+    "label": "elasticvue",
+    "name": "elasticvue",
+    "timeStamp": "2026-10-28T18:17:59Z",
+    "type": "dmg"
   }
 ]

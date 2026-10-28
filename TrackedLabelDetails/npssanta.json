@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/northpolesec/santa/releases/download/2026.9/santa-2026.9.pkg",
+    "expectedTeamID": "ZMCG7MLDV9",
+    "label": "npssanta",
+    "name": "Santa",
+    "timeStamp": "2026-10-28T18:32:12Z",
+    "type": "pkg"
+  }
+]

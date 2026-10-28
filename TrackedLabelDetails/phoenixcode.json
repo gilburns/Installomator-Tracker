@@ -34,5 +34,17 @@
     "name": "Phoenix Code",
     "timeStamp": "2026-08-11T06:38:41Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.5.11",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/phcode-dev/phoenix-desktop/releases/download/prod-app-v5.5.11/Phoenix.Code_5.5.11_aarch64.dmg",
+    "downloadURLi386": "https://github.com/phcode-dev/phoenix-desktop/releases/download/prod-app-v5.5.11/Phoenix.Code_5.5.11_x64.dmg",
+    "expectedTeamID": "8F632A866K",
+    "label": "phoenixcode",
+    "name": "Phoenix Code",
+    "timeStamp": "2026-10-28T18:33:44Z",
+    "type": "dmg"
   }
 ]

@@ -63,5 +63,18 @@
     "name": "VSCodium",
     "timeStamp": "2026-10-26T19:26:28Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.143.17232",
+    "blockingProcesses": [
+      "Electron"
+    ],
+    "downloadURL": "https://github.com/VSCodium/vscodium/releases/download/1.143.17232/VSCodium.arm64.1.143.17232.dmg",
+    "expectedTeamID": "VC39D2VNQ7",
+    "label": "vscodium",
+    "name": "VSCodium",
+    "timeStamp": "2026-10-28T18:41:15Z",
+    "type": "dmg"
   }
 ]

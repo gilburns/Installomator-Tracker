@@ -42,5 +42,16 @@
     "name": "kDrive",
     "timeStamp": "2026-10-21T18:19:42Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.0.1.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.storage.infomaniak.com/drive/desktopclient/kDrive-4.0.1.1.pkg",
+    "expectedTeamID": "864VDCS2QY",
+    "label": "kdrive",
+    "name": "kDrive",
+    "timeStamp": "2026-10-28T18:25:47Z",
+    "type": "pkg"
   }
 ]

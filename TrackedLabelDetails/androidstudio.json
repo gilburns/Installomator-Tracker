@@ -122,5 +122,19 @@
     "name": "Android Studio",
     "timeStamp": "2026-10-13T18:11:16Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "AI-262.10968.63.2622.16730706",
+    "blockingProcesses": [
+      "studio"
+    ],
+    "downloadURL": "https://edgedl.me.gvt1.com/android/studio/install/2026.2.2.8/android-studio-rabbit2-mac_arm.dmg",
+    "downloadURLi386": "https://edgedl.me.gvt1.com/android/studio/install/2026.2.2.8/android-studio-rabbit2-mac.dmg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "androidstudio",
+    "name": "Android Studio",
+    "timeStamp": "2026-10-28T18:08:35Z",
+    "type": "dmg"
   }
 ]
