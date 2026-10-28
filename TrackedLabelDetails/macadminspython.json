@@ -11,5 +11,18 @@
     "name": "MacAdmins Python",
     "timeStamp": "2026-07-04T18:40:51Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.15.1.80795",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://github.com/macadmins/python/releases/download/v3.15.1.80795/python_recommended_signed-3.15.1.80795.pkg",
+    "expectedTeamID": "T4SK8ZXCXG",
+    "label": "macadminspython",
+    "name": "MacAdmins Python",
+    "timeStamp": "2026-10-28T06:31:17Z",
+    "type": "pkg"
   }
 ]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.9.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/jamf/ReEnroller/releases/download/v5.9.1/ReEnroller.zip",
+    "expectedTeamID": "PS2F6S478M",
+    "label": "jamfreenroller",
+    "name": "ReEnroller",
+    "timeStamp": "2026-10-28T06:27:09Z",
+    "type": "zip"
+  }
+]

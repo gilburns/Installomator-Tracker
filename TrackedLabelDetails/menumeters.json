@@ -9,5 +9,16 @@
     "name": "MenuMeters",
     "timeStamp": "2026-07-03T15:56:00Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.1.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/yujitach/MenuMeters/releases/download/2.1.7/MenuMeters_2.1.7.zip",
+    "expectedTeamID": "95AQ7YKR5A",
+    "label": "menumeters",
+    "name": "MenuMeters",
+    "timeStamp": "2026-10-28T06:32:32Z",
+    "type": "zip"
   }
 ]

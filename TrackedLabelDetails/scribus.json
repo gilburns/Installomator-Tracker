@@ -10,5 +10,16 @@
     "name": "Scribus",
     "timeStamp": "2026-07-03T16:03:37Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.6.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://sourceforge.net/projects/scribus/files/scribus/1.6.7/scribus-1.6.7-arm64.dmg/download",
+    "expectedTeamID": "627FV4LMG7",
+    "label": "scribus",
+    "name": "Scribus",
+    "timeStamp": "2026-10-28T06:38:58Z",
+    "type": "dmg"
   }
 ]

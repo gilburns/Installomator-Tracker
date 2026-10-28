@@ -3,11 +3,21 @@
     "appName": "silentknight214/SilentKnight.app",
     "appNewVersion": "214",
     "blockingProcesses": [],
-    "downloadURL": "https://eclecticlight.co/wp-content/uploads/2026/03/silentknight214.zip",
     "expectedTeamID": "QWY4LRW926",
     "label": "silentknight",
     "name": "SilentKnight",
     "timeStamp": "2026-07-03T16:04:02Z",
+    "type": "zip"
+  },
+  {
+    "appName": "silentknight214/SilentKnight.app",
+    "appNewVersion": "2.14",
+    "blockingProcesses": [],
+    "downloadURL": "https://eclecticlight.co/wp-content/uploads/2026/03/silentknight214.zip",
+    "expectedTeamID": "QWY4LRW926",
+    "label": "silentknight",
+    "name": "SilentKnight",
+    "timeStamp": "2026-10-28T06:39:17Z",
     "type": "zip"
   }
 ]

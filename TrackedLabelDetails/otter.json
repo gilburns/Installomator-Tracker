@@ -9,5 +9,16 @@
     "name": "Otter",
     "timeStamp": "2026-10-13T18:36:24Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.14.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://assets.otter.ai/desktop-app/mac/production/otter_1.14.0_universal.pkg",
+    "expectedTeamID": "6AWUP5FE76",
+    "label": "otter",
+    "name": "Otter",
+    "timeStamp": "2026-10-28T06:36:54Z",
+    "type": "pkg"
   }
 ]

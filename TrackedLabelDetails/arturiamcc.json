@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.23.0.134",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.arturia.net/products/mccu/soft/MIDI_Control_Center__1_23_0_134.pkg",
+    "expectedTeamID": "T53ZHSF36C",
+    "label": "arturiamcc",
+    "name": "MIDI Control Center",
+    "timeStamp": "2026-10-28T06:11:18Z",
+    "type": "pkg"
+  }
+]

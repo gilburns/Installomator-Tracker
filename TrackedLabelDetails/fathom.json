@@ -53,12 +53,22 @@
     "appName": "",
     "appNewVersion": "3.10.3",
     "blockingProcesses": [],
+    "expectedTeamID": "JH7GAYKCUH",
+    "label": "fathom",
+    "name": "Fathom",
+    "timeStamp": "2026-10-21T18:16:00Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.12.0",
+    "blockingProcesses": [],
     "downloadURL": "https://electron-update.fathom.video/download/dmg_arm64",
     "downloadURLi386": "https://electron-update.fathom.video/download/dmg",
     "expectedTeamID": "JH7GAYKCUH",
     "label": "fathom",
     "name": "Fathom",
-    "timeStamp": "2026-10-21T18:16:00Z",
+    "timeStamp": "2026-10-28T06:22:08Z",
     "type": "dmg"
   }
 ]

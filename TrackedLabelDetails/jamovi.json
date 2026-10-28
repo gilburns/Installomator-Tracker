@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "28.14.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.jamovi.org/404.html",
+    "expectedTeamID": "9NCBP559AB",
+    "label": "jamovi",
+    "name": "jamovi",
+    "timeStamp": "2026-10-28T06:27:16Z",
+    "type": "dmg"
+  }
+]

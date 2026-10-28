@@ -53,5 +53,16 @@
     "name": "CMake",
     "timeStamp": "2026-10-02T18:17:37Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.4.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Kitware/CMake/releases/download/v4.4.5/cmake-4.4.5-macos-universal.dmg",
+    "expectedTeamID": "W38PE5Y733",
+    "label": "cmake",
+    "name": "CMake",
+    "timeStamp": "2026-10-28T06:16:54Z",
+    "type": "dmg"
   }
 ]
