@@ -3,11 +3,21 @@
     "appName": "",
     "appNewVersion": "1.7",
     "blockingProcesses": [],
-    "downloadURL": "https://www.mothersruin.com/software/downloads/Archaeology.dmg",
     "expectedTeamID": "936EB786NH",
     "label": "archaeology",
     "name": "Archaeology",
     "timeStamp": "2026-09-17T06:13:33Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.mothersruin.com/software/downloads/Archaeology.dmg",
+    "expectedTeamID": "936EB786NH",
+    "label": "archaeology",
+    "name": "Archaeology",
+    "timeStamp": "2026-10-29T18:08:48Z",
     "type": "dmg"
   }
 ]

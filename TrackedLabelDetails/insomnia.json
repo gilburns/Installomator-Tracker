@@ -53,5 +53,16 @@
     "name": "Insomnia",
     "timeStamp": "2026-10-09T18:21:28Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "13.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Kong/insomnia/releases/download/core%4013.4.0/Insomnia.Core-13.4.0.dmg",
+    "expectedTeamID": "FX44YY62GV",
+    "label": "insomnia",
+    "name": "Insomnia",
+    "timeStamp": "2026-10-29T18:18:27Z",
+    "type": "dmg"
   }
 ]

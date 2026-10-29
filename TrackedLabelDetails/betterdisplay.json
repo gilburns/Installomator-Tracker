@@ -64,5 +64,16 @@
     "name": "BetterDisplay",
     "timeStamp": "2026-10-06T18:11:29Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.2.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/waydabber/BetterDisplay/releases/download/v5.2.1/BetterDisplay-v5.2.1.dmg",
+    "expectedTeamID": "299YSU96J7",
+    "label": "betterdisplay",
+    "name": "BetterDisplay",
+    "timeStamp": "2026-10-29T18:09:28Z",
+    "type": "dmg"
   }
 ]

@@ -20,5 +20,16 @@
     "name": "CloudTalk Phone",
     "timeStamp": "2026-10-23T18:12:43Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.1.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://cloudtalk-phone-distribution.s3.amazonaws.com/CloudTalk-Phone-5.1.4-mac.dmg",
+    "expectedTeamID": "7SQQD5UJAM",
+    "label": "cloudtalk",
+    "name": "CloudTalk Phone",
+    "timeStamp": "2026-10-29T18:11:45Z",
+    "type": "dmg"
   }
 ]

@@ -86,5 +86,16 @@
     "name": "AlDente",
     "timeStamp": "2026-10-24T18:08:25Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.40.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring/releases/download/1.40.1/AlDente.dmg",
+    "expectedTeamID": "3WVC84GB99",
+    "label": "aldente",
+    "name": "AlDente",
+    "timeStamp": "2026-10-29T18:07:59Z",
+    "type": "dmg"
   }
 ]

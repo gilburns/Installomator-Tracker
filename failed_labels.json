@@ -125,6 +125,16 @@
       "lastSeen": "2026-10-28T18:10:14Z",
       "reason": "label does not set appNewVersion"
     },
+    "audacity3": {
+      "firstSeen": "2026-10-29T18:08:57Z",
+      "lastSeen": "2026-10-29T18:08:57Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "audacity4": {
+      "firstSeen": "2026-10-29T18:08:57Z",
+      "lastSeen": "2026-10-29T18:08:57Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "avertouch": {
       "firstSeen": "2026-10-28T18:10:25Z",
       "lastSeen": "2026-10-29T02:53:38Z",
@@ -1053,6 +1063,11 @@
     "tidal": {
       "firstSeen": "2026-10-28T18:39:03Z",
       "lastSeen": "2026-10-29T02:59:09Z",
+      "reason": "missing appNewVersion"
+    },
+    "tigervnc": {
+      "firstSeen": "2026-10-29T18:29:21Z",
+      "lastSeen": "2026-10-29T18:29:21Z",
       "reason": "missing appNewVersion"
     },
     "toonboomharmony2024": {

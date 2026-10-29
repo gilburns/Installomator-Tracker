@@ -46,5 +46,17 @@
     "name": "Zulu JDK 21",
     "timeStamp": "2026-10-24T06:34:13Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "21.54.109",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.azul.com/zulu/bin/zulu21.54.109-ca-jdk21.0.13.0.3-macosx_aarch64.dmg",
+    "downloadURLi386": "https://cdn.azul.com/zulu/bin/zulu21.54.109-ca-jdk21.0.13.0.3-macosx_x64.dmg",
+    "expectedTeamID": "TDTHCUPYFR",
+    "label": "zulujdk21",
+    "name": "Zulu JDK 21",
+    "timeStamp": "2026-10-29T18:32:44Z",
+    "type": "pkgInDmg"
   }
 ]

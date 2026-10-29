@@ -20,5 +20,16 @@
     "name": "DeepL",
     "timeStamp": "2026-10-19T18:17:35Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.10.23003800724",
+    "blockingProcesses": [],
+    "downloadURL": "https://appdownload.deepl.com/macos/26.10/23003800724/DeepL.dmg",
+    "expectedTeamID": "4N8BGCG336",
+    "label": "deepl",
+    "name": "DeepL",
+    "timeStamp": "2026-10-29T18:12:59Z",
+    "type": "dmg"
   }
 ]

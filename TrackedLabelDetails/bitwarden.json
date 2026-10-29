@@ -86,5 +86,16 @@
     "name": "Bitwarden",
     "timeStamp": "2026-10-23T06:15:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.10.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-universal.dmg",
+    "expectedTeamID": "LTZ2PFU5D6",
+    "label": "bitwarden",
+    "name": "Bitwarden",
+    "timeStamp": "2026-10-29T18:09:42Z",
+    "type": "dmg"
   }
 ]

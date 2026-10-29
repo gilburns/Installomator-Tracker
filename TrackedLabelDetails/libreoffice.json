@@ -68,5 +68,19 @@
     "name": "LibreOffice",
     "timeStamp": "2026-10-04T08:19:05Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.8.2.2",
+    "blockingProcesses": [
+      "soffice"
+    ],
+    "downloadURL": "https://ftp.osuosl.org/pub/tdf/libreoffice/stable/26.8.2/mac/aarch64/LibreOffice_26.8.2_MacOS_aarch64.dmg",
+    "downloadURLi386": "https://ftp.osuosl.org/pub/tdf/libreoffice/stable/26.8.2/mac/x86_64/LibreOffice_26.8.2_MacOS_x86-64.dmg",
+    "expectedTeamID": "7P5S3ZLCN7",
+    "label": "libreoffice",
+    "name": "LibreOffice",
+    "timeStamp": "2026-10-29T18:21:09Z",
+    "type": "dmg"
   }
 ]
