@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-28T16:26:17Z",
-      "updatedAt": "2026-10-28T16:26:42Z",
+      "updatedAt": "2026-10-28T18:08:28Z",
       "baseBranch": "main",
       "headBranch": "jre8-label-update",
       "headRepository": "uurazzle/Installomator",
@@ -27,17 +27,18 @@
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "f6334813d328c03ff4e65ac1abcb406a3393b522",
-      "commitCount": 1,
+      "headCommit": "99325f51a9b0a7ea5d7c8d8920ba95413b160bd3",
+      "commitCount": 2,
       "commentCount": 0,
-      "changedFileCount": 1,
+      "changedFileCount": 2,
       "labelChange": {
         "changeType": "MODIFIED",
         "additions": 6,
         "deletions": 1
       },
       "labelsInPR": [
-        "jre8"
+        "jre8",
+        "microsoftonedrive"
       ]
     }
   ]

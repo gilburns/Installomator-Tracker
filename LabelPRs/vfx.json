@@ -25,7 +25,7 @@
       "requestedReviewers": [
         "scriptingosx"
       ],
-      "mergeable": "MERGEABLE",
+      "mergeable": "CONFLICTING",
       "checksState": null,
       "headCommit": "64de2306a4a69c6f9fba21a096257438b7c2168e",
       "commitCount": 3,

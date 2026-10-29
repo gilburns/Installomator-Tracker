@@ -26,7 +26,7 @@
         "gilburns",
         "uurazzle"
       ],
-      "mergeable": "UNKNOWN",
+      "mergeable": "CONFLICTING",
       "checksState": "SUCCESS",
       "headCommit": "f8cd0eab9e21ad74dbcf95aafcba66ae5334ef19",
       "commitCount": 1,
