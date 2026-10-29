@@ -1,0 +1,39 @@
+{
+  "label": "beeperdesktop",
+  "labelFile": "fragments/labels/beeperdesktop.sh",
+  "pullRequests": [
+    {
+      "number": 3515,
+      "title": "New label: beeperdesktop",
+      "url": "https://github.com/Installomator/Installomator/pull/3515",
+      "author": {
+        "login": "LucasAtLucca",
+        "url": "https://github.com/LucasAtLucca"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-29T11:10:02Z",
+      "updatedAt": "2026-10-29T11:10:02Z",
+      "baseBranch": "main",
+      "headBranch": "beeperdesktop",
+      "headRepository": "LucasAtLucca/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "8dc2140cf999930a300c3be89a4a35d1a6161038",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 11,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "beeperdesktop"
+      ]
+    }
+  ]
+}

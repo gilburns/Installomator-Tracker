@@ -1,0 +1,39 @@
+{
+  "label": "googlechromecanary",
+  "labelFile": "fragments/labels/googlechromecanary.sh",
+  "pullRequests": [
+    {
+      "number": 3516,
+      "title": "New label: googlechromecanary",
+      "url": "https://github.com/Installomator/Installomator/pull/3516",
+      "author": {
+        "login": "LucasAtLucca",
+        "url": "https://github.com/LucasAtLucca"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-29T11:22:58Z",
+      "updatedAt": "2026-10-29T11:22:58Z",
+      "baseBranch": "main",
+      "headBranch": "googlechromecanary",
+      "headRepository": "LucasAtLucca/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "9cfe4945b372d04fb77915687f6329f0a49e913f",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "googlechromecanary"
+      ]
+    }
+  ]
+}
