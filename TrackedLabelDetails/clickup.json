@@ -24,12 +24,22 @@
     "appName": "",
     "appNewVersion": "3.5.395",
     "blockingProcesses": [],
+    "expectedTeamID": "5RJWFAUGXQ",
+    "label": "clickup",
+    "name": "ClickUp",
+    "timeStamp": "2026-10-24T23:54:36Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.5.402",
+    "blockingProcesses": [],
     "downloadURL": "https://desktop.clickup.com/mac/dmg/arm64",
     "downloadURLi386": "https://desktop.clickup.com/mac",
     "expectedTeamID": "5RJWFAUGXQ",
     "label": "clickup",
     "name": "ClickUp",
-    "timeStamp": "2026-10-24T23:54:36Z",
+    "timeStamp": "2026-10-29T06:13:26Z",
     "type": "dmg"
   }
 ]

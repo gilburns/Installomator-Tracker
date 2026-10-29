@@ -37,5 +37,18 @@
     "name": "Munki",
     "timeStamp": "2026-08-25T18:30:44Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.4.0.5891",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://github.com/macadmins/munki-builds/releases/download/v7.4.0.5891/munkitools-7.4.0.5891.pkg",
+    "expectedTeamID": "T4SK8ZXCXG",
+    "label": "munki",
+    "name": "Munki",
+    "timeStamp": "2026-10-29T06:24:39Z",
+    "type": "pkg"
   }
 ]

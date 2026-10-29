@@ -163,12 +163,22 @@
     "appName": "",
     "appNewVersion": "12.34.2",
     "blockingProcesses": [],
+    "expectedTeamID": "H7H8Q7M5CK",
+    "label": "postman",
+    "name": "Postman",
+    "timeStamp": "2026-10-28T06:37:40Z",
+    "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "12.34.3",
+    "blockingProcesses": [],
     "downloadURL": "https://dl.pstmn.io/download/latest/osx_arm64",
     "downloadURLi386": "https://dl.pstmn.io/download/latest/osx_64",
     "expectedTeamID": "H7H8Q7M5CK",
     "label": "postman",
     "name": "Postman",
-    "timeStamp": "2026-10-28T06:37:40Z",
+    "timeStamp": "2026-10-29T06:26:30Z",
     "type": "zip"
   }
 ]

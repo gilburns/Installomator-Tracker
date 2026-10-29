@@ -9,5 +9,16 @@
     "name": "Thonny",
     "timeStamp": "2026-07-03T16:05:58Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/thonny/thonny/releases/download/v5.0.1/thonny-5.0.1-arm64.pkg",
+    "expectedTeamID": "2SA9D4CVU8",
+    "label": "thonny",
+    "name": "Thonny",
+    "timeStamp": "2026-10-29T06:30:06Z",
+    "type": "pkg"
   }
 ]
