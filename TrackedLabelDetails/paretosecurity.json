@@ -97,5 +97,16 @@
     "name": "Pareto Security",
     "timeStamp": "2026-10-29T18:25:03Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.41.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/ParetoSecurity/pareto-mac/releases/download/1.41.0/ParetoSecurity.dmg",
+    "expectedTeamID": "PM784W7B8X",
+    "label": "paretosecurity",
+    "name": "Pareto Security",
+    "timeStamp": "2026-10-30T18:23:16Z",
+    "type": "dmg"
   }
 ]

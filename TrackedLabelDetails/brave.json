@@ -322,5 +322,17 @@
     "name": "Brave Browser",
     "timeStamp": "2026-10-28T18:11:27Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "198.63",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/brave/brave-browser/releases/download/v1.98.63/Brave-Browser-arm64.dmg",
+    "downloadURLi386": "https://github.com",
+    "expectedTeamID": "KL8N8XSYF4",
+    "label": "brave",
+    "name": "Brave Browser",
+    "timeStamp": "2026-10-30T18:09:25Z",
+    "type": "dmg"
   }
 ]

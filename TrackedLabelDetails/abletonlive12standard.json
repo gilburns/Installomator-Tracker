@@ -76,5 +76,18 @@
     "name": "Ableton Live 12 Standard",
     "timeStamp": "2026-10-28T18:07:36Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "12.4.16",
+    "blockingProcesses": [
+      "Live"
+    ],
+    "downloadURL": "https://cdn-downloads.ableton.com/channels/12.4.16/ableton_live_standard_12.4.16_universal.dmg",
+    "expectedTeamID": "MWR434WD94",
+    "label": "abletonlive12standard",
+    "name": "Ableton Live 12 Standard",
+    "timeStamp": "2026-10-30T18:06:41Z",
+    "type": "dmg"
   }
 ]

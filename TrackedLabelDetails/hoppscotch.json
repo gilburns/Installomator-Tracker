@@ -81,5 +81,17 @@
     "name": "Hoppscotch",
     "timeStamp": "2026-09-30T18:22:40Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.10.00",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/hoppscotch/releases/releases/download/v26.10.0-0/Hoppscotch_mac_aarch64.dmg",
+    "downloadURLi386": "https://github.com/hoppscotch/releases/releases/download/v26.10.0-0/Hoppscotch_mac_x64.dmg",
+    "expectedTeamID": "XBK86CMQGZ",
+    "label": "hoppscotch",
+    "name": "Hoppscotch",
+    "timeStamp": "2026-10-30T18:16:32Z",
+    "type": "dmg"
   }
 ]

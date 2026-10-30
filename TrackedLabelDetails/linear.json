@@ -19,11 +19,24 @@
       "Linear",
       "Linear Helper"
     ],
-    "downloadURL": "https://releases.linear.app/mac",
     "expectedTeamID": "7VZ2S3V9RV",
     "label": "linear",
     "name": "Linear",
     "timeStamp": "2026-10-22T18:21:17Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.32.8",
+    "blockingProcesses": [
+      "Linear",
+      "Linear Helper"
+    ],
+    "downloadURL": "https://releases.linear.app/mac",
+    "expectedTeamID": "7VZ2S3V9RV",
+    "label": "linear",
+    "name": "Linear",
+    "timeStamp": "2026-10-30T18:19:31Z",
     "type": "dmg"
   }
 ]

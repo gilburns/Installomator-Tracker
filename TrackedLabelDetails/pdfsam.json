@@ -42,5 +42,16 @@
     "name": "PDFsam Basic",
     "timeStamp": "2026-10-02T18:32:43Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.0.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/torakiki/pdfsam/releases/download/v6.0.9/pdfsam-basic-6.0.9-macos-arm64.dmg",
+    "expectedTeamID": "8XM3GHX436",
+    "label": "pdfsam",
+    "name": "PDFsam Basic",
+    "timeStamp": "2026-10-30T18:23:21Z",
+    "type": "dmg"
   }
 ]

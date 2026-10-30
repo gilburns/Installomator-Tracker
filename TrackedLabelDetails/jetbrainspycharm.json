@@ -70,5 +70,17 @@
     "name": "PyCharm",
     "timeStamp": "2026-09-18T18:22:08Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.2.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.jetbrains.com/python/pycharm-2026.2.4-aarch64.dmg",
+    "downloadURLi386": "https://download.jetbrains.com/python/pycharm-2026.2.4.dmg",
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainspycharm",
+    "name": "PyCharm",
+    "timeStamp": "2026-10-30T18:17:58Z",
+    "type": "dmg"
   }
 ]

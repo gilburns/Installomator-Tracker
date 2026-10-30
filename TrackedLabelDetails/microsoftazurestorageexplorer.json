@@ -34,5 +34,17 @@
     "name": "Microsoft Azure Storage Explorer",
     "timeStamp": "2026-09-01T06:28:04Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.47.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.47.0/StorageExplorer-darwin-arm64.zip",
+    "downloadURLi386": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.47.0/StorageExplorer-darwin-x64.zip",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftazurestorageexplorer",
+    "name": "Microsoft Azure Storage Explorer",
+    "timeStamp": "2026-10-30T18:20:43Z",
+    "type": "zip"
   }
 ]

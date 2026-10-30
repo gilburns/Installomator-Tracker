@@ -125,6 +125,16 @@
       "lastSeen": "2026-10-28T18:10:14Z",
       "reason": "label does not set appNewVersion"
     },
+    "audacity3": {
+      "firstSeen": "2026-10-30T18:08:16Z",
+      "lastSeen": "2026-10-30T18:08:16Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "audacity4": {
+      "firstSeen": "2026-10-30T18:08:16Z",
+      "lastSeen": "2026-10-30T18:08:16Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "avertouch": {
       "firstSeen": "2026-10-28T18:10:25Z",
       "lastSeen": "2026-10-30T02:01:40Z",
@@ -303,6 +313,11 @@
     "enpass": {
       "firstSeen": "2026-10-28T18:18:10Z",
       "lastSeen": "2026-10-30T02:02:14Z",
+      "reason": "missing appNewVersion"
+    },
+    "enteauth": {
+      "firstSeen": "2026-10-30T18:14:10Z",
+      "lastSeen": "2026-10-30T18:14:10Z",
       "reason": "missing appNewVersion"
     },
     "eposconnect": {
@@ -1045,6 +1060,11 @@
       "lastSeen": "2026-10-30T02:07:37Z",
       "reason": "missing appNewVersion"
     },
+    "tigervnc": {
+      "firstSeen": "2026-10-30T18:27:46Z",
+      "lastSeen": "2026-10-30T18:27:46Z",
+      "reason": "missing appNewVersion"
+    },
     "toonboomharmony2024": {
       "firstSeen": "2026-10-28T18:39:10Z",
       "lastSeen": "2026-10-30T02:07:38Z",
@@ -1123,6 +1143,11 @@
     "webcatalog": {
       "firstSeen": "2026-10-28T18:41:23Z",
       "lastSeen": "2026-10-30T02:08:20Z",
+      "reason": "missing appNewVersion"
+    },
+    "webex": {
+      "firstSeen": "2026-10-30T18:29:51Z",
+      "lastSeen": "2026-10-30T18:29:51Z",
       "reason": "missing appNewVersion"
     },
     "webexmeetings": {

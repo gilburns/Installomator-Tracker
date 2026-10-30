@@ -96,5 +96,19 @@
     "name": "IntelliJ IDEA",
     "timeStamp": "2026-10-22T06:27:11Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.2.4",
+    "blockingProcesses": [
+      "idea"
+    ],
+    "downloadURL": "https://download.jetbrains.com/idea/idea-2026.2.4-aarch64.dmg",
+    "downloadURLi386": "https://download.jetbrains.com/idea/idea-2026.2.4.dmg",
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainsintellijidea",
+    "name": "IntelliJ IDEA",
+    "timeStamp": "2026-10-30T18:17:52Z",
+    "type": "dmg"
   }
 ]

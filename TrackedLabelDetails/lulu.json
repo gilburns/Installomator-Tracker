@@ -75,5 +75,16 @@
     "name": "LuLu",
     "timeStamp": "2026-10-28T06:31:15Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.5.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/objective-see/LuLu/releases/download/v4.5.5/LuLu_4.5.5.dmg",
+    "expectedTeamID": "VBG97UB4TA",
+    "label": "lulu",
+    "name": "LuLu",
+    "timeStamp": "2026-10-30T18:19:51Z",
+    "type": "dmg"
   }
 ]

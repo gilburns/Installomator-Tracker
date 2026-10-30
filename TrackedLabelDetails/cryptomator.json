@@ -34,5 +34,17 @@
     "name": "Cryptomator",
     "timeStamp": "2026-10-29T18:12:30Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.19.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/Cryptomator-1.19.6-arm64.dmg",
+    "downloadURLi386": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/Cryptomator-1.19.6-x64.dmg",
+    "expectedTeamID": "YZQJQUHA3L",
+    "label": "cryptomator",
+    "name": "Cryptomator",
+    "timeStamp": "2026-10-30T18:12:03Z",
+    "type": "dmg"
   }
 ]
