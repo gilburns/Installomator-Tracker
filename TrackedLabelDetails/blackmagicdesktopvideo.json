@@ -12,5 +12,19 @@
     "name": "Blackmagic Desktop Video",
     "timeStamp": "2026-10-19T01:58:01Z",
     "type": "pkgInDmgInZip"
+  },
+  {
+    "appName": "Blackmagic Desktop Video/Desktop Video Setup.app",
+    "appNewVersion": "16.5",
+    "blockingProcesses": [
+      "BlackmagicDesktopVideoSetup",
+      "LiveKey"
+    ],
+    "downloadURL": "https://sw.blackmagicdesign.com/DesktopVideo/v16.5/Blackmagic_Desktop_Video_Macintosh_16.5.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=kw2KGX4zFMhcPkO+UGpr2qXFD8vSDLd1MnhayNj4pjkoAYqiqBZlCDs4xgpq6HKyQRhuPtP3nUE4FE0wc9nGbVmwkGhxZQKEIcFOfJJ38RtPLH34L7tLNQcMiKMncy6PsrBG+EpucgLvDzwG5q7K7tc4UFHiFxD4SRkiJ71gVSth9zuaqbP6548QC57PEYIQSynWBMNfJpcmH72Oar5reDwRkigvfNtcUxfYaWegqGsNK2cqQahNDaFD9FTUKHsq4zU9o16iHbMb0XcLUyvOberTYM4BJMpxCyui8VNO4NJ8CSHL16FR/iu0kBDoDRk7IbUs9VzIZj2QfnZ2w6M6Fw==&Expires=1793351503",
+    "expectedTeamID": "9ZGFBWLSYP",
+    "label": "blackmagicdesktopvideo",
+    "name": "Blackmagic Desktop Video",
+    "timeStamp": "2026-10-30T06:11:43Z",
+    "type": "pkgInDmgInZip"
   }
 ]

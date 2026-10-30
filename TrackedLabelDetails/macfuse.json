@@ -31,5 +31,16 @@
     "name": "FUSE for macOS",
     "timeStamp": "2026-09-18T18:24:30Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.5.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/macfuse/macfuse/releases/download/macfuse-5.5.0/macfuse-5.5.0.dmg",
+    "expectedTeamID": "3T5GSNBU6W",
+    "label": "macfuse",
+    "name": "FUSE for macOS",
+    "timeStamp": "2026-10-30T06:22:29Z",
+    "type": "pkgInDmg"
   }
 ]

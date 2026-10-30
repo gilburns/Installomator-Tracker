@@ -42,5 +42,16 @@
     "name": "TechSmith Audiate",
     "timeStamp": "2026-09-17T06:35:45Z",
     "type": "dmg"
+  },
+  {
+    "appName": "Audiate.app",
+    "appNewVersion": "2027.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn-audiate.cloud.techsmith.com/audiate/Audiate-darwin-universal-2027.0.0.dmg",
+    "expectedTeamID": "7TQL462TU8",
+    "label": "techsmithaudiate",
+    "name": "TechSmith Audiate",
+    "timeStamp": "2026-10-30T06:29:08Z",
+    "type": "dmg"
   }
 ]

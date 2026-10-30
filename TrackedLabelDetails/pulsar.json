@@ -10,5 +10,17 @@
     "name": "Pulsar",
     "timeStamp": "2026-07-03T16:00:28Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.133.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Silicon.Mac.Pulsar-1.133.0-arm64-mac.zip",
+    "downloadURLi386": "https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Intel.Mac.Pulsar-1.133.0-mac.zip",
+    "expectedTeamID": "D3KV2P2CZ8",
+    "label": "pulsar",
+    "name": "Pulsar",
+    "timeStamp": "2026-10-30T06:26:14Z",
+    "type": "zip"
   }
 ]

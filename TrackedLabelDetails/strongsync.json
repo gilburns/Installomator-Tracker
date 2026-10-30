@@ -130,5 +130,16 @@
     "name": "Strongsync",
     "timeStamp": "2026-10-03T06:46:16Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.10.29",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/files-com-public-builds/builds/ExpanDrive/2026.10.29.908/mac/ExpanDrive_2026.10.29.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAU5E2BGFBKFOVPYNZ%2F20261030%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261030T062833Z&amp;X-Amz-Expires=604800&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27ExpanDrive%2520v2026.10.29.zip&amp;response-content-type=application%2Fzip&amp;X-Amz-Signature=a8959f0aa74986873398d8a1d2f3dedd2fe37682bf5d4b7b1c34cfa47b235b1c",
+    "expectedTeamID": "CH86M498V4",
+    "label": "strongsync",
+    "name": "Strongsync",
+    "timeStamp": "2026-10-30T06:28:34Z",
+    "type": "dmg"
   }
 ]

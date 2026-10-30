@@ -27,12 +27,22 @@
     "appName": "",
     "appNewVersion": "1",
     "blockingProcesses": [],
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainsdataspell",
+    "name": "DataSpell",
+    "timeStamp": "2026-10-22T06:27:02Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5",
+    "blockingProcesses": [],
     "downloadURL": "https://download.jetbrains.com/python/dataspell-2026.1.3-aarch64.dmg",
     "downloadURLi386": "https://download.jetbrains.com/python/dataspell-2026.1.3.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainsdataspell",
     "name": "DataSpell",
-    "timeStamp": "2026-10-22T06:27:02Z",
+    "timeStamp": "2026-10-30T06:20:29Z",
     "type": "dmg"
   }
 ]
