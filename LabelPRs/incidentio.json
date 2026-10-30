@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-29T10:16:10Z",
-      "updatedAt": "2026-10-29T10:16:11Z",
+      "updatedAt": "2026-10-29T20:31:21Z",
       "baseBranch": "main",
       "headBranch": "incidentio",
       "headRepository": "LucasAtLucca/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-29T20:31:21Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "cd3befc12727723d5763c783614a21cdb2290929",

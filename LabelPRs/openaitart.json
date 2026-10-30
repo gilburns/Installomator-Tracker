@@ -1,0 +1,44 @@
+{
+  "label": "openaitart",
+  "labelFile": "fragments/labels/openaitart.sh",
+  "pullRequests": [
+    {
+      "number": 3517,
+      "title": "openaitart-new-label",
+      "url": "https://github.com/Installomator/Installomator/pull/3517",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-29T20:29:19Z",
+      "updatedAt": "2026-10-29T20:29:46Z",
+      "baseBranch": "main",
+      "headBranch": "openaitart-new-label",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "gilburns",
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "85be168c38c931053ecacb7f19504101de64e6f1",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 10,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "openaitart"
+      ]
+    }
+  ]
+}

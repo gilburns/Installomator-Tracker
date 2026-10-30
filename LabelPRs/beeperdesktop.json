@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-29T11:10:02Z",
-      "updatedAt": "2026-10-29T11:10:02Z",
+      "updatedAt": "2026-10-29T20:34:41Z",
       "baseBranch": "main",
       "headBranch": "beeperdesktop",
       "headRepository": "LucasAtLucca/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-29T20:34:41Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "8dc2140cf999930a300c3be89a4a35d1a6161038",

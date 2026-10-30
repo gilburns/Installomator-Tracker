@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-29T11:22:58Z",
-      "updatedAt": "2026-10-29T11:22:58Z",
+      "updatedAt": "2026-10-29T20:38:53Z",
       "baseBranch": "main",
       "headBranch": "googlechromecanary",
       "headRepository": "LucasAtLucca/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-29T20:38:53Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "9cfe4945b372d04fb77915687f6329f0a49e913f",
