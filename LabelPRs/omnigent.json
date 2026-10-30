@@ -12,44 +12,37 @@
       },
       "isDraft": false,
       "createdAt": "2026-09-22T20:09:09Z",
-      "updatedAt": "2026-10-17T18:56:59Z",
+      "updatedAt": "2026-10-30T15:09:02Z",
       "baseBranch": "main",
       "headBranch": "create-new-label-omnigent",
       "headRepository": "a-martin253/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "CHANGES_REQUESTED",
+      "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [
         {
           "reviewer": "uurazzle",
-          "state": "CHANGES_REQUESTED",
-          "submittedAt": "2026-10-15T21:34:47Z"
-        },
-        {
-          "reviewer": "gilburns",
           "state": "APPROVED",
-          "submittedAt": "2026-10-10T01:10:39Z"
+          "submittedAt": "2026-10-30T15:09:02Z"
         }
       ],
       "requestedReviewers": [
-        "uurazzle",
         "gilburns"
       ],
-      "mergeable": "CONFLICTING",
+      "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "dafe3172ca5eb7738146d85f10b37b4d70896db9",
-      "commitCount": 5,
-      "commentCount": 2,
-      "changedFileCount": 2,
+      "headCommit": "84e475cda99c18be0185323ee9ac97faaa622abc",
+      "commitCount": 7,
+      "commentCount": 4,
+      "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
         "additions": 11,
         "deletions": 0
       },
       "labelsInPR": [
-        "omnigent",
-        "snowflakeodbc"
+        "omnigent"
       ]
     }
   ]

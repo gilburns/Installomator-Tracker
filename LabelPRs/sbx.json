@@ -1,0 +1,49 @@
+{
+  "label": "sbx",
+  "labelFile": "fragments/labels/sbx.sh",
+  "pullRequests": [
+    {
+      "number": 3519,
+      "title": "add docker sandboxes (sbx)",
+      "url": "https://github.com/Installomator/Installomator/pull/3519",
+      "author": {
+        "login": "Arinono",
+        "url": "https://github.com/Arinono"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-30T10:17:55Z",
+      "updatedAt": "2026-10-30T16:11:50Z",
+      "baseBranch": "main",
+      "headBranch": "feat-add-sbx",
+      "headRepository": "Arinono/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-10-30T16:11:18Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "c4c955c2e98cb4a66fd664607a5ca725064a44a4",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 8,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "sbx"
+      ]
+    }
+  ]
+}

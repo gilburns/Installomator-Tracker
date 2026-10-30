@@ -1,0 +1,49 @@
+{
+  "label": "kilobat",
+  "labelFile": "fragments/labels/kilobat.sh",
+  "pullRequests": [
+    {
+      "number": 3520,
+      "title": "Add kilobat label",
+      "url": "https://github.com/Installomator/Installomator/pull/3520",
+      "author": {
+        "login": "seifip",
+        "url": "https://github.com/seifip"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-30T12:06:46Z",
+      "updatedAt": "2026-10-30T16:14:58Z",
+      "baseBranch": "main",
+      "headBranch": "kilobat",
+      "headRepository": "seifip/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-30T16:14:58Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "3987662d2a40c9f4468d2ceb6d26d21810c36ead",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "kilobat"
+      ]
+    }
+  ]
+}
