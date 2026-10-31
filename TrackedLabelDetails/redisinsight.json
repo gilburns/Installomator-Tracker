@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.8.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-mac-arm64.dmg",
+    "downloadURLi386": "https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-mac-x64.dmg",
+    "expectedTeamID": "UUK47G4BAZ",
+    "label": "redisinsight",
+    "name": "Redis Insight",
+    "timeStamp": "2026-10-31T18:27:23Z",
+    "type": "dmg"
+  }
+]

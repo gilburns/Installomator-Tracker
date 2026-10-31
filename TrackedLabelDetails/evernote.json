@@ -196,5 +196,16 @@
     "name": "Evernote",
     "timeStamp": "2026-10-22T18:15:37Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "11.40.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://mac.desktop.evernote.com/builds/Evernote-11.40.3-mac-ddl-stage-20261028150328-72813fc90b1fb765821ba48623647d59cd0e0af6.dmg",
+    "expectedTeamID": "Q79WDW8YH9",
+    "label": "evernote",
+    "name": "Evernote",
+    "timeStamp": "2026-10-31T18:13:58Z",
+    "type": "dmg"
   }
 ]

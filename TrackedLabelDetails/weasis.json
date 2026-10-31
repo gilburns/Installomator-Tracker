@@ -42,5 +42,16 @@
     "name": "Weasis",
     "timeStamp": "2026-08-25T18:40:56Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.8.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/nroduit/Weasis/releases/download/v4.8.0/Weasis-4.8.0-aarch64.pkg",
+    "expectedTeamID": "T52M998N47",
+    "label": "weasis",
+    "name": "Weasis",
+    "timeStamp": "2026-10-31T18:32:51Z",
+    "type": "pkg"
   }
 ]

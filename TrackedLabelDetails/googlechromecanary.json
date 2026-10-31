@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "159.0.8134.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "googlechromecanary",
+    "name": "Google Chrome Canary",
+    "timeStamp": "2026-10-31T18:15:43Z",
+    "type": "dmg"
+  }
+]

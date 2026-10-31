@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.13",
+    "blockingProcesses": [],
+    "downloadURL": "https://storage.googleapis.com/incident-io-production-downloads/incident.io-1.4.13.zip",
+    "expectedTeamID": "2B35RJ426W",
+    "label": "incidentio",
+    "name": "incident.io",
+    "timeStamp": "2026-10-31T18:17:44Z",
+    "type": "zip"
+  }
+]
