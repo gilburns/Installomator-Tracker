@@ -1,0 +1,39 @@
+{
+  "label": "proclaim",
+  "labelFile": "fragments/labels/proclaim.sh",
+  "pullRequests": [
+    {
+      "number": 3523,
+      "title": "Add Proclaim label",
+      "url": "https://github.com/Installomator/Installomator/pull/3523",
+      "author": {
+        "login": "math-boy11",
+        "url": "https://github.com/math-boy11"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-31T17:06:02Z",
+      "updatedAt": "2026-10-31T17:47:04Z",
+      "baseBranch": "main",
+      "headBranch": "add-proclaim-label",
+      "headRepository": "math-boy11/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "7aa5f64ba9b0d6915112a99422b92e6fc6979d43",
+      "commitCount": 2,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 11,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "proclaim"
+      ]
+    }
+  ]
+}
