@@ -119,5 +119,16 @@
     "name": "LM Studio",
     "timeStamp": "2026-10-30T06:22:06Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.4.28+2",
+    "blockingProcesses": [],
+    "downloadURL": "https://installers.lmstudio.ai/darwin/arm64/0.4.28-2/LM-Studio-0.4.28-2-arm64.dmg",
+    "expectedTeamID": "D65G88RHWN",
+    "label": "lmstudio",
+    "name": "LM Studio",
+    "timeStamp": "2026-10-31T06:20:38Z",
+    "type": "dmg"
   }
 ]

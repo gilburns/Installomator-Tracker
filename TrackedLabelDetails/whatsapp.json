@@ -53,11 +53,21 @@
     "appName": "",
     "appNewVersion": "26.43.20",
     "blockingProcesses": [],
-    "downloadURL": "https://web.whatsapp.com/desktop/mac_native/release/?configuration=Release",
     "expectedTeamID": "57T9237FN3",
     "label": "whatsapp",
     "name": "WhatsApp",
     "timeStamp": "2026-10-27T18:40:43Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.43.27",
+    "blockingProcesses": [],
+    "downloadURL": "https://web.whatsapp.com/desktop/mac_native/release/?configuration=Release",
+    "expectedTeamID": "57T9237FN3",
+    "label": "whatsapp",
+    "name": "WhatsApp",
+    "timeStamp": "2026-10-31T06:31:25Z",
     "type": "dmg"
   }
 ]

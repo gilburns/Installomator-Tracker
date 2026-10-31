@@ -1160,6 +1160,11 @@
       "lastSeen": "2026-10-28T18:41:26Z",
       "reason": "label does not set appNewVersion"
     },
+    "wechat": {
+      "firstSeen": "2026-10-31T06:31:16Z",
+      "lastSeen": "2026-10-31T06:31:16Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "weprint": {
       "firstSeen": "2026-10-28T18:41:34Z",
       "lastSeen": "2026-10-30T02:08:21Z",

@@ -20,5 +20,16 @@
     "name": "Clipy",
     "timeStamp": "2026-10-12T06:23:59Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.4.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Clipy/Clipy/releases/download/1.4.1/Clipy_1.4.1.dmg",
+    "expectedTeamID": "BBCHAJ584H",
+    "label": "clipy",
+    "name": "Clipy",
+    "timeStamp": "2026-10-31T06:11:47Z",
+    "type": "dmg"
   }
 ]
