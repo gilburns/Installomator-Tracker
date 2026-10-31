@@ -1,0 +1,39 @@
+{
+  "label": "enteauth",
+  "labelFile": "fragments/labels/enteauth.sh",
+  "pullRequests": [
+    {
+      "number": 3521,
+      "title": "Update enteauth.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3521",
+      "author": {
+        "login": "fleish",
+        "url": "https://github.com/fleish"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-30T20:20:49Z",
+      "updatedAt": "2026-10-30T20:20:49Z",
+      "baseBranch": "main",
+      "headBranch": "main",
+      "headRepository": "fleish/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "cde71097ecf9a036340c39a6987ecac972919e00",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 2
+      },
+      "labelsInPR": [
+        "enteauth"
+      ]
+    }
+  ]
+}

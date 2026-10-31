@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-30T10:17:55Z",
-      "updatedAt": "2026-10-30T16:11:50Z",
+      "updatedAt": "2026-10-31T00:23:17Z",
       "baseBranch": "main",
       "headBranch": "feat-add-sbx",
       "headRepository": "Arinono/Installomator",
@@ -34,7 +34,7 @@
       "checksState": "SUCCESS",
       "headCommit": "c4c955c2e98cb4a66fd664607a5ca725064a44a4",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
