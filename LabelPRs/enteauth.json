@@ -12,13 +12,21 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-30T20:20:49Z",
-      "updatedAt": "2026-10-30T20:20:49Z",
+      "updatedAt": "2026-10-31T16:19:55Z",
       "baseBranch": "main",
       "headBranch": "main",
       "headRepository": "fleish/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-31T16:18:49Z"
+        }
+      ],
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",

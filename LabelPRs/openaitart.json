@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-29T20:29:19Z",
-      "updatedAt": "2026-10-29T20:29:46Z",
+      "updatedAt": "2026-10-31T16:10:23Z",
       "baseBranch": "main",
       "headBranch": "openaitart-new-label",
       "headRepository": "uurazzle/Installomator",
@@ -20,9 +20,14 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-31T16:10:23Z"
+        }
+      ],
       "requestedReviewers": [
-        "gilburns",
         "acodega"
       ],
       "mergeable": "MERGEABLE",
