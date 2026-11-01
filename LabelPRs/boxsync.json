@@ -1,0 +1,41 @@
+{
+  "label": "boxsync",
+  "labelFile": "fragments/labels/boxsync.sh",
+  "pullRequests": [
+    {
+      "number": 3527,
+      "title": "Add EOL notice to Box Sync",
+      "url": "https://github.com/Installomator/Installomator/pull/3527",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-01T17:29:14Z",
+      "updatedAt": "2026-11-01T17:29:43Z",
+      "baseBranch": "main",
+      "headBranch": "EOLBoxSync",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "604d13660c130b805c6071ce5d258d9d2f2a4bd5",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "boxsync"
+      ]
+    }
+  ]
+}
