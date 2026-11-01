@@ -9,5 +9,16 @@
     "name": "macshot",
     "timeStamp": "2026-10-18T06:30:03Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/sw33tLie/macshot/releases/download/v4.4.0/MacShot.dmg",
+    "expectedTeamID": "BR52ZWX528",
+    "label": "macshot",
+    "name": "macshot",
+    "timeStamp": "2026-11-01T18:18:08Z",
+    "type": "dmg"
   }
 ]
