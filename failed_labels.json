@@ -125,6 +125,11 @@
       "lastSeen": "2026-10-31T18:08:09Z",
       "reason": "label does not set appNewVersion"
     },
+    "audacity4": {
+      "firstSeen": "2026-11-01T06:09:38Z",
+      "lastSeen": "2026-11-01T06:09:38Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "avertouch": {
       "firstSeen": "2026-10-31T18:08:16Z",
       "lastSeen": "2026-10-31T18:08:16Z",
@@ -184,6 +189,16 @@
       "firstSeen": "2026-10-31T18:09:12Z",
       "lastSeen": "2026-10-31T18:09:12Z",
       "reason": "missing appNewVersion"
+    },
+    "calibre": {
+      "firstSeen": "2026-11-01T06:11:04Z",
+      "lastSeen": "2026-11-01T06:11:04Z",
+      "reason": "missing appNewVersion"
+    },
+    "capcut": {
+      "firstSeen": "2026-11-01T06:11:18Z",
+      "lastSeen": "2026-11-01T06:11:18Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "cardpresso": {
       "firstSeen": "2026-10-31T18:09:46Z",
