@@ -555,6 +555,11 @@
       "lastSeen": "2026-11-02T02:11:05Z",
       "reason": "missing appNewVersion"
     },
+    "mestrenova": {
+      "firstSeen": "2026-11-02T08:29:53Z",
+      "lastSeen": "2026-11-02T08:29:53Z",
+      "reason": "invalid JSON output"
+    },
     "microsoftazuredatastudio": {
       "firstSeen": "2026-11-02T02:11:13Z",
       "lastSeen": "2026-11-02T02:11:13Z",
