@@ -1,0 +1,39 @@
+{
+  "label": "epidemicsound",
+  "labelFile": "fragments/labels/epidemicsound.sh",
+  "pullRequests": [
+    {
+      "number": 3529,
+      "title": "Add epidemicsound",
+      "url": "https://github.com/Installomator/Installomator/pull/3529",
+      "author": {
+        "login": "pmex",
+        "url": "https://github.com/pmex"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-02T09:18:19Z",
+      "updatedAt": "2026-11-02T09:18:19Z",
+      "baseBranch": "main",
+      "headBranch": "add_epidemicsound",
+      "headRepository": "BonnierNews/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "32aef9366da9e9ae79edc2c17715f79df1fb4226",
+      "commitCount": 2,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 13,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "epidemicsound"
+      ]
+    }
+  ]
+}
