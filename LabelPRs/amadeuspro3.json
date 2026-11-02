@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-01T19:01:33Z",
-      "updatedAt": "2026-11-01T19:01:45Z",
+      "updatedAt": "2026-11-02T15:51:37Z",
       "baseBranch": "main",
       "headBranch": "FixAmadeus3",
       "headRepository": "gilburns/Installomator",
@@ -21,7 +21,10 @@
       ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "uurazzle",
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "e4456f6af25de0333a3d2928d25a5fcd1a0c2ea0",

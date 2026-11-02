@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-01T16:21:42Z",
-      "updatedAt": "2026-11-01T16:21:55Z",
+      "updatedAt": "2026-11-02T15:47:07Z",
       "baseBranch": "main",
       "headBranch": "FixAzuredatastudio",
       "headRepository": "gilburns/Installomator",
@@ -20,8 +20,16 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-02T15:47:07Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "e2d1b5f57d34daee99d09f9bfd01eb3aa76f16ec",
