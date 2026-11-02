@@ -24,5 +24,18 @@
     "name": "Quarto",
     "timeStamp": "2026-10-30T18:24:10Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.11.9",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.9/quarto-1.11.9-macos.pkg",
+    "expectedTeamID": "FYF2F5GFX4",
+    "label": "quarto",
+    "name": "Quarto",
+    "timeStamp": "2026-11-02T12:34:11Z",
+    "type": "pkg"
   }
 ]

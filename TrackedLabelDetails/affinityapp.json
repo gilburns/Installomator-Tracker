@@ -13,11 +13,21 @@
     "appName": "Affinity.app",
     "appNewVersion": "3.3.1",
     "blockingProcesses": [],
-    "downloadURL": "https://downloads.affinity.studio/Affinity.dmg",
     "expectedTeamID": "5HD2ARTBFS",
     "label": "affinityapp",
     "name": "Affinity",
     "timeStamp": "2026-10-08T18:09:25Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "Affinity.app",
+    "appNewVersion": "3.3.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.affinity.studio/Affinity.dmg",
+    "expectedTeamID": "5HD2ARTBFS",
+    "label": "affinityapp",
+    "name": "Affinity",
+    "timeStamp": "2026-11-02T12:14:44Z",
     "type": "dmg"
   }
 ]

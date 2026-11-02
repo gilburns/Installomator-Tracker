@@ -420,6 +420,11 @@
       "lastSeen": "2026-11-02T02:03:49Z",
       "reason": "missing appNewVersion"
     },
+    "harper": {
+      "firstSeen": "2026-11-02T12:25:42Z",
+      "lastSeen": "2026-11-02T12:25:42Z",
+      "reason": "missing appNewVersion"
+    },
     "hmavpn": {
       "firstSeen": "2026-11-02T02:04:00Z",
       "lastSeen": "2026-11-02T02:04:00Z",
@@ -1139,6 +1144,11 @@
       "firstSeen": "2026-11-02T02:21:33Z",
       "lastSeen": "2026-11-02T02:21:33Z",
       "reason": "label does not set appNewVersion"
+    },
+    "wechat": {
+      "firstSeen": "2026-11-02T12:41:58Z",
+      "lastSeen": "2026-11-02T12:41:58Z",
+      "reason": "resolve failed (exit 142)"
     },
     "weprint": {
       "firstSeen": "2026-11-02T02:21:43Z",
