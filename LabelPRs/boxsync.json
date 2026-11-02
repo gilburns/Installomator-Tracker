@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-01T17:29:14Z",
-      "updatedAt": "2026-11-01T17:29:43Z",
+      "updatedAt": "2026-11-02T13:42:00Z",
       "baseBranch": "main",
       "headBranch": "EOLBoxSync",
       "headRepository": "gilburns/Installomator",
@@ -20,7 +20,13 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "acodega",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-02T13:41:59Z"
+        }
+      ],
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",

@@ -1,0 +1,47 @@
+{
+  "label": "microsoftdotnetsdk10",
+  "labelFile": "fragments/labels/microsoftdotnetsdk10.sh",
+  "pullRequests": [
+    {
+      "number": 3530,
+      "title": "New label: microsoftdotnetsdk10",
+      "url": "https://github.com/Installomator/Installomator/pull/3530",
+      "author": {
+        "login": "LucasAtLucca",
+        "url": "https://github.com/LucasAtLucca"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-02T12:55:11Z",
+      "updatedAt": "2026-11-02T13:40:57Z",
+      "baseBranch": "main",
+      "headBranch": "microsoftdotnetsdk10",
+      "headRepository": "LucasAtLucca/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "acodega",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-02T13:40:47Z"
+        }
+      ],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "af09c813da87df7bf2b1302dd4bb93f478aeed0b",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 13,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "microsoftdotnetsdk10"
+      ]
+    }
+  ]
+}
