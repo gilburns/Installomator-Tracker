@@ -9,5 +9,16 @@
     "name": "Red Canary Mac Monitor",
     "timeStamp": "2026-07-03T16:01:56Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Brandon7CC/mac-monitor/releases/download/v3.0.0/Mac-Monitor.pkg",
+    "expectedTeamID": "UA6JCQGF3F",
+    "label": "redcanarymacmonitor",
+    "name": "Red Canary Mac Monitor",
+    "timeStamp": "2026-11-02T16:36:08Z",
+    "type": "pkg"
   }
 ]

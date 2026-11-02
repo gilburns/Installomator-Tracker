@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "4.22.0.0097",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.logoscdn.com/Proclaim/Installer/4.22.0.0097/Proclaim-arm.dmg",
+    "downloadURLi386": "https://downloads.logoscdn.com/Proclaim/Installer/4.22.0.0097/Proclaim.dmg",
+    "expectedTeamID": "G2ET27DGDP",
+    "label": "proclaim",
+    "name": "Proclaim",
+    "timeStamp": "2026-11-02T16:35:14Z",
+    "type": "dmg"
+  }
+]

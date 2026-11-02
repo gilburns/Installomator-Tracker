@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.1.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Hammerspoon/hammerspoon/releases/download/1.1.1/Hammerspoon-1.1.1.zip",
+    "expectedTeamID": "VQCYSNZB89",
+    "label": "hammerspoon",
+    "name": "Hammerspoon",
+    "timeStamp": "2026-11-02T16:22:52Z",
+    "type": "zip"
+  }
+]
