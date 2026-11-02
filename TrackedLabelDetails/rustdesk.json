@@ -31,5 +31,16 @@
     "name": "RustDesk",
     "timeStamp": "2026-10-02T06:41:10Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.5.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-aarch64.dmg",
+    "expectedTeamID": "HZF9JMC8YN",
+    "label": "rustdesk",
+    "name": "RustDesk",
+    "timeStamp": "2026-11-02T04:33:16Z",
+    "type": "dmg"
   }
 ]
