@@ -12,14 +12,25 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-02T14:17:48Z",
-      "updatedAt": "2026-11-02T14:17:48Z",
+      "updatedAt": "2026-11-02T16:49:36Z",
       "baseBranch": "main",
       "headBranch": "macsfancontrol-label",
       "headRepository": "jcmbowman/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-02T16:49:36Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns",
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "6d22254da75519c56e31473956ca062178c8965c",
