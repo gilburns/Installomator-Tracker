@@ -61,6 +61,7 @@
     "appNewVersion": "3.7.22",
     "blockingProcesses": [],
     "downloadURL": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-3.7.22-arm64.DMG",
+    "downloadURLi386": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-3.7.22.dmg",
     "expectedTeamID": "A9BXAFS6CT",
     "label": "joplin",
     "name": "Joplin",

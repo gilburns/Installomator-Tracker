@@ -23,11 +23,21 @@
     "appName": "",
     "appNewVersion": "159.0.8136.0",
     "blockingProcesses": [],
-    "downloadURL": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg",
     "expectedTeamID": "EQHXZ8M8AV",
     "label": "googlechromecanary",
     "name": "Google Chrome Canary",
     "timeStamp": "2026-11-01T18:14:25Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "159.0.8137.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "googlechromecanary",
+    "name": "Google Chrome Canary",
+    "timeStamp": "2026-11-02T02:03:23Z",
     "type": "dmg"
   }
 ]

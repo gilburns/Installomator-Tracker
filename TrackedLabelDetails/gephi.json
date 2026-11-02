@@ -22,5 +22,17 @@
     "name": "Gephi",
     "timeStamp": "2026-09-06T18:16:50Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.11.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/gephi/gephi/releases/download/v0.11.4/gephi-0.11.4-macos-aarch64.dmg",
+    "downloadURLi386": "https://github.com/gephi/gephi/releases/download/v0.11.4/gephi-0.11.4-macos-x64.dmg",
+    "expectedTeamID": "3D8H75J8UL",
+    "label": "gephi",
+    "name": "Gephi",
+    "timeStamp": "2026-11-02T02:02:47Z",
+    "type": "dmg"
   }
 ]
