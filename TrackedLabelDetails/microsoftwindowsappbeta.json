@@ -42,5 +42,16 @@
     "name": "Windows App Beta",
     "timeStamp": "2026-11-02T06:36:32Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3140",
+    "blockingProcesses": [],
+    "downloadURL": "https://appcenter-filemanagement-distrib4ede6f06e-hqhrdcgha8f4cchs.z01.azurefd.net/af68e9e8-65cc-44b3-bc93-41d35b337954/Windows%20App%20Beta.app.zip?skoid=05571020-ed2f-4af9-8176-0df11ddebe41&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2026-11-02T21%3A25%3A10Z&ske=2026-11-03T21%3A30%3A10Z&sks=b&skv=2026-06-06&sv=2026-06-06&st=2026-11-02T21%3A25%3A10Z&se=2026-11-03T21%3A30%3A10Z&sr=c&sp=r&sig=NpyNkydg%2FivJl9HClxi2jg63M7MCSefRMnqj1LoJpAw%3D",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftwindowsappbeta",
+    "name": "Windows App Beta",
+    "timeStamp": "2026-11-02T22:27:17Z",
+    "type": "zip"
   }
 ]

@@ -336,5 +336,18 @@
     "name": "Visual Studio Code",
     "timeStamp": "2026-10-28T18:30:56Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.144.1",
+    "blockingProcesses": [
+      "Code"
+    ],
+    "downloadURL": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/261c84cb1eddf11235f9e2c921425e9663fbe556/VSCode-darwin-universal.zip",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftvisualstudiocode",
+    "name": "Visual Studio Code",
+    "timeStamp": "2026-11-02T22:27:14Z",
+    "type": "zip"
   }
 ]
