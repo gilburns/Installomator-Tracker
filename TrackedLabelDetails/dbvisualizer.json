@@ -62,5 +62,17 @@
     "name": "DbVisualizer",
     "timeStamp": "2026-10-08T18:15:37Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.2.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.dbvis.net/product_download/dbvis-26.2.5/media/dbvis_macos-aarch64_26_2_5.dmg",
+    "downloadURLi386": "https://downloads.dbvis.net/product_download/dbvis-26.2.5/media/dbvis_macos-x64_26_2_5.dmg",
+    "expectedTeamID": "U9TP5KYV49",
+    "label": "dbvisualizer",
+    "name": "DbVisualizer",
+    "timeStamp": "2026-11-02T20:14:48Z",
+    "type": "dmg"
   }
 ]

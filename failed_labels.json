@@ -180,6 +180,11 @@
       "lastSeen": "2026-11-02T18:15:20Z",
       "reason": "missing appNewVersion"
     },
+    "calibre": {
+      "firstSeen": "2026-11-02T20:11:47Z",
+      "lastSeen": "2026-11-02T20:11:47Z",
+      "reason": "missing appNewVersion"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-02T18:16:00Z",
       "lastSeen": "2026-11-02T18:16:00Z",
@@ -630,6 +635,11 @@
       "lastSeen": "2026-11-02T18:33:08Z",
       "reason": "label does not set appNewVersion"
     },
+    "mkuser": {
+      "firstSeen": "2026-11-02T20:25:24Z",
+      "lastSeen": "2026-11-02T20:25:24Z",
+      "reason": "missing appNewVersion"
+    },
     "mmhmm": {
       "firstSeen": "2026-11-02T18:33:17Z",
       "lastSeen": "2026-11-02T18:33:17Z",
@@ -905,6 +915,11 @@
       "lastSeen": "2026-11-02T18:38:53Z",
       "reason": "invalid JSON output"
     },
+    "soapuiopensource": {
+      "firstSeen": "2026-11-02T20:30:52Z",
+      "lastSeen": "2026-11-02T20:30:52Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "sococo": {
       "firstSeen": "2026-11-02T18:39:16Z",
       "lastSeen": "2026-11-02T18:39:16Z",
@@ -1015,6 +1030,11 @@
       "lastSeen": "2026-11-02T18:41:53Z",
       "reason": "missing appNewVersion"
     },
+    "tigervnc": {
+      "firstSeen": "2026-11-02T20:33:30Z",
+      "lastSeen": "2026-11-02T20:33:30Z",
+      "reason": "missing appNewVersion"
+    },
     "toonboomharmony2024": {
       "firstSeen": "2026-11-02T18:42:03Z",
       "lastSeen": "2026-11-02T18:42:03Z",
@@ -1069,6 +1089,11 @@
       "firstSeen": "2026-11-02T18:43:39Z",
       "lastSeen": "2026-11-02T18:43:39Z",
       "reason": "label does not set appNewVersion"
+    },
+    "veracrypt-fuse-t": {
+      "firstSeen": "2026-11-02T20:34:58Z",
+      "lastSeen": "2026-11-02T20:34:58Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "vernierspectralanalysis": {
       "firstSeen": "2026-11-02T18:43:47Z",
