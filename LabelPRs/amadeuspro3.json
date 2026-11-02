@@ -1,0 +1,41 @@
+{
+  "label": "amadeuspro3",
+  "labelFile": "fragments/labels/amadeuspro3.sh",
+  "pullRequests": [
+    {
+      "number": 3528,
+      "title": "Update amadeuspro3.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3528",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-01T19:01:33Z",
+      "updatedAt": "2026-11-01T19:01:45Z",
+      "baseBranch": "main",
+      "headBranch": "FixAmadeus3",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "e4456f6af25de0333a3d2928d25a5fcd1a0c2ea0",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 3,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "amadeuspro3"
+      ]
+    }
+  ]
+}
