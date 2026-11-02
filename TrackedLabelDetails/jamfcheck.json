@@ -20,5 +20,16 @@
     "name": "jamfcheck",
     "timeStamp": "2026-10-09T18:21:48Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.4.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/txhaflaire/JamfCheck/releases/download/v2.4.1/JamfCheck.dmg",
+    "expectedTeamID": "CLQKFNPCCP",
+    "label": "jamfcheck",
+    "name": "jamfcheck",
+    "timeStamp": "2026-11-02T14:23:52Z",
+    "type": "dmg"
   }
 ]
