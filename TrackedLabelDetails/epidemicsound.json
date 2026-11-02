@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.18.15",
+    "blockingProcesses": [],
+    "downloadURL": "https://storage.googleapis.com/es-plugin-builds/desktop/darwin/arm64/latest/Epidemic%20Sound-arm64.dmg",
+    "downloadURLi386": "https://storage.googleapis.com/es-plugin-builds/desktop/darwin/x64/latest/Epidemic%20Sound-x64.dmg",
+    "expectedTeamID": "LE95XJ5KXM",
+    "label": "epidemicsound",
+    "name": "Epidemic Sound",
+    "timeStamp": "2026-11-02T18:20:51Z",
+    "type": "dmg"
+  }
+]
