@@ -20,5 +20,16 @@
     "name": "Audacity",
     "timeStamp": "2026-09-30T18:11:09Z",
     "type": "dmg"
+  },
+  {
+    "appName": "Audacity 4.app",
+    "appNewVersion": "4.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-macOS-4.0.2-universal.dmg",
+    "expectedTeamID": "6EPAF2X3PR",
+    "label": "audacity4",
+    "name": "Audacity",
+    "timeStamp": "2026-11-02T10:11:03Z",
+    "type": "dmg"
   }
 ]
