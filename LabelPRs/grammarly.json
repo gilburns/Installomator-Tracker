@@ -1,0 +1,41 @@
+{
+  "label": "grammarly",
+  "labelFile": "fragments/labels/grammarly.sh",
+  "pullRequests": [
+    {
+      "number": 3532,
+      "title": "Update grammarly.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3532",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-03T13:20:57Z",
+      "updatedAt": "2026-11-03T13:21:07Z",
+      "baseBranch": "main",
+      "headBranch": "FixGrammarly",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "c4b5ec7f1b5cfc26d831a64aad6741f5843a90a8",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 10,
+        "deletions": 9
+      },
+      "labelsInPR": [
+        "grammarly"
+      ]
+    }
+  ]
+}
