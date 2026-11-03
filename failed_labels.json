@@ -800,6 +800,11 @@
       "lastSeen": "2026-11-02T18:35:00Z",
       "reason": "label does not set appNewVersion"
     },
+    "pgadmin4": {
+      "firstSeen": "2026-11-03T16:39:21Z",
+      "lastSeen": "2026-11-03T16:39:21Z",
+      "reason": "missing appNewVersion"
+    },
     "pingplotter": {
       "firstSeen": "2026-11-02T18:35:50Z",
       "lastSeen": "2026-11-02T18:35:50Z",
