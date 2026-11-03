@@ -2,8 +2,8 @@ name: Track Installomator label versions
 
 on:
   schedule:
-    # Every 2 hours on the even hours (00:00, 02:00, ... 22:00 UTC)
-    - cron: '0 */2 * * *'
+    # Every 1 hours (00:00, 01:00, ... 23:00 UTC)
+    - cron: '11 * * * *'
   workflow_dispatch: {}
 
 permissions:
