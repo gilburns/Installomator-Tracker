@@ -97,5 +97,16 @@
     "name": "Camtasia",
     "timeStamp": "2026-11-03T14:21:42Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2025.2.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.techsmith.com/camtasiamac/releases/2025.2.8/camtasia.dmg",
+    "expectedTeamID": "7TQL462TU8",
+    "label": "camtasia2025",
+    "name": "Camtasia",
+    "timeStamp": "2026-11-03T15:19:54Z",
+    "type": "dmg"
   }
 ]
