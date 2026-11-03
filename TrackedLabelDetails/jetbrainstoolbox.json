@@ -123,6 +123,7 @@
     "appName": "",
     "appNewVersion": "3.9.1.89198",
     "blockingProcesses": [],
+    "downloadURLi386": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.9.1.89198.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainstoolbox",
     "name": "JetBrains Toolbox",

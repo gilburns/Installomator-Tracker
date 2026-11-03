@@ -25,11 +25,21 @@
     "appName": "",
     "appNewVersion": "5.1.1",
     "blockingProcesses": [],
-    "downloadURL": "https://www.titanium-software.fr/download//OnyX.dmg",
     "expectedTeamID": "T49MRBL8UL",
     "label": "onyx",
     "name": "OnyX",
     "timeStamp": "2026-10-18T06:34:03Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.1.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.titanium-software.fr/download//OnyX.dmg",
+    "expectedTeamID": "T49MRBL8UL",
+    "label": "onyx",
+    "name": "OnyX",
+    "timeStamp": "2026-11-03T02:41:40Z",
     "type": "dmg"
   }
 ]
