@@ -22,5 +22,17 @@
     "name": "GIMP",
     "timeStamp": "2026-09-11T06:20:45Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.2.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://paducahix.mm.fcix.net/gimp/gimp/v3.2/macos/gimp-3.2.8-arm64.dmg",
+    "downloadURLi386": "https://paducahix.mm.fcix.net/gimp/gimp/v3.2/macos/gimp-3.2.8-x86_64.dmg",
+    "expectedTeamID": "T25BQ8HSJF",
+    "label": "gimp",
+    "name": "GIMP",
+    "timeStamp": "2026-11-03T22:24:27Z",
+    "type": "dmg"
   }
 ]
