@@ -175,6 +175,11 @@
       "lastSeen": "2026-11-02T18:14:59Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagicconverters": {
+      "firstSeen": "2026-11-03T09:20:27Z",
+      "lastSeen": "2026-11-03T09:20:27Z",
+      "reason": "missing appNewVersion"
+    },
     "blackmagicultimatte": {
       "firstSeen": "2026-11-03T08:23:49Z",
       "lastSeen": "2026-11-03T08:23:49Z",
@@ -443,6 +448,11 @@
     "gyazogif": {
       "firstSeen": "2026-11-02T18:23:51Z",
       "lastSeen": "2026-11-02T18:23:51Z",
+      "reason": "missing appNewVersion"
+    },
+    "harper": {
+      "firstSeen": "2026-11-03T09:29:35Z",
+      "lastSeen": "2026-11-03T09:29:35Z",
       "reason": "missing appNewVersion"
     },
     "hmavpn": {
@@ -1163,6 +1173,11 @@
     "webcatalog": {
       "firstSeen": "2026-11-02T18:44:23Z",
       "lastSeen": "2026-11-02T18:44:23Z",
+      "reason": "missing appNewVersion"
+    },
+    "webex": {
+      "firstSeen": "2026-11-03T09:45:08Z",
+      "lastSeen": "2026-11-03T09:45:08Z",
       "reason": "missing appNewVersion"
     },
     "webexmeetings": {
