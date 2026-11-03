@@ -37,5 +37,18 @@
     "name": "Elgato Stream Deck",
     "timeStamp": "2026-09-22T18:18:28Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.6.1",
+    "blockingProcesses": [
+      "Stream Deck"
+    ],
+    "downloadURL": "https://edge.elgato.com/egc/macos/sd/Stream_Deck_7.6.1.23033.pkg",
+    "expectedTeamID": "Y93VXCB8Q5",
+    "label": "elgatostreamdeck",
+    "name": "Elgato Stream Deck",
+    "timeStamp": "2026-11-03T10:25:04Z",
+    "type": "pkg"
   }
 ]
