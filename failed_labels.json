@@ -175,6 +175,11 @@
       "lastSeen": "2026-11-02T18:14:59Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagicultimatte": {
+      "firstSeen": "2026-11-03T08:23:49Z",
+      "lastSeen": "2026-11-03T08:23:49Z",
+      "reason": "missing downloadURL"
+    },
     "boxsync": {
       "firstSeen": "2026-11-02T18:15:15Z",
       "lastSeen": "2026-11-02T18:15:15Z",
@@ -1169,6 +1174,11 @@
       "firstSeen": "2026-11-02T18:44:26Z",
       "lastSeen": "2026-11-02T18:44:26Z",
       "reason": "label does not set appNewVersion"
+    },
+    "wechat": {
+      "firstSeen": "2026-11-03T08:48:44Z",
+      "lastSeen": "2026-11-03T08:48:44Z",
+      "reason": "resolve failed (exit 142)"
     },
     "weprint": {
       "firstSeen": "2026-11-02T18:44:36Z",
