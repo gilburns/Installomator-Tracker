@@ -190,6 +190,11 @@
       "lastSeen": "2026-11-02T18:15:20Z",
       "reason": "missing appNewVersion"
     },
+    "busycal": {
+      "firstSeen": "2026-11-03T04:22:11Z",
+      "lastSeen": "2026-11-03T04:22:11Z",
+      "reason": "missing appNewVersion"
+    },
     "calibre": {
       "firstSeen": "2026-11-02T20:11:47Z",
       "lastSeen": "2026-11-02T20:11:47Z",
@@ -1054,6 +1059,11 @@
       "firstSeen": "2026-11-02T18:41:40Z",
       "lastSeen": "2026-11-02T18:41:40Z",
       "reason": "label does not set appNewVersion"
+    },
+    "thinlincclient": {
+      "firstSeen": "2026-11-03T04:45:01Z",
+      "lastSeen": "2026-11-03T04:45:01Z",
+      "reason": "resolve failed (exit 142)"
     },
     "thunderbird_intl": {
       "firstSeen": "2026-11-02T18:41:50Z",
