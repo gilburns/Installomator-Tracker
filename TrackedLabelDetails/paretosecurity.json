@@ -119,5 +119,16 @@
     "name": "Pareto Security",
     "timeStamp": "2026-11-03T08:40:01Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.43.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com",
+    "expectedTeamID": "PM784W7B8X",
+    "label": "paretosecurity",
+    "name": "Pareto Security",
+    "timeStamp": "2026-11-03T14:37:28Z",
+    "type": "dmg"
   }
 ]
