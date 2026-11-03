@@ -365,6 +365,11 @@
       "lastSeen": "2026-11-02T18:22:23Z",
       "reason": "missing appNewVersion"
     },
+    "godot": {
+      "firstSeen": "2026-11-03T03:30:53Z",
+      "lastSeen": "2026-11-03T03:30:53Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "googledrivebackupandsync": {
       "firstSeen": "2026-11-02T18:23:26Z",
       "lastSeen": "2026-11-02T18:23:26Z",
@@ -524,6 +529,21 @@
       "firstSeen": "2026-11-02T18:29:27Z",
       "lastSeen": "2026-11-02T18:29:27Z",
       "reason": "label does not set appNewVersion"
+    },
+    "libericajdk11ltsfull": {
+      "firstSeen": "2026-11-03T03:35:13Z",
+      "lastSeen": "2026-11-03T03:35:13Z",
+      "reason": "resolve failed (exit 142)"
+    },
+    "libericajdk17ltsfull": {
+      "firstSeen": "2026-11-03T03:36:13Z",
+      "lastSeen": "2026-11-03T03:36:13Z",
+      "reason": "resolve failed (exit 142)"
+    },
+    "libericajdk8ltsfull": {
+      "firstSeen": "2026-11-03T03:37:13Z",
+      "lastSeen": "2026-11-03T03:37:13Z",
+      "reason": "resolve failed (exit 142)"
     },
     "libreofficelanguagepackintl": {
       "firstSeen": "2026-11-02T18:30:47Z",
