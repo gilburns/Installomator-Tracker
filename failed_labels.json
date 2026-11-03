@@ -460,6 +460,11 @@
       "lastSeen": "2026-11-02T18:25:38Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-11-03T00:34:53Z",
+      "lastSeen": "2026-11-03T00:34:53Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "ipvisionconnect": {
       "firstSeen": "2026-11-02T18:26:03Z",
       "lastSeen": "2026-11-02T18:26:03Z",

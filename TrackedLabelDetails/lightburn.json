@@ -31,5 +31,16 @@
     "name": "LightBurn",
     "timeStamp": "2026-10-20T06:24:31Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.2.01",
+    "blockingProcesses": [],
+    "downloadURL": "https://files.release.lightburnsoftware.com/LightBurn/Release/LightBurn-v2.2.01/LightBurn.V2.2.01.dmg",
+    "expectedTeamID": "UWZQ3LL82C",
+    "label": "lightburn",
+    "name": "LightBurn",
+    "timeStamp": "2026-11-03T00:37:47Z",
+    "type": "dmg"
   }
 ]
