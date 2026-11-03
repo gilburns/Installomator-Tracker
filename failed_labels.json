@@ -380,6 +380,11 @@
       "lastSeen": "2026-11-02T18:22:23Z",
       "reason": "missing appNewVersion"
     },
+    "garminbasecamp": {
+      "firstSeen": "2026-11-03T18:29:36Z",
+      "lastSeen": "2026-11-03T18:29:36Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "godot": {
       "firstSeen": "2026-11-03T03:30:53Z",
       "lastSeen": "2026-11-03T03:30:53Z",
