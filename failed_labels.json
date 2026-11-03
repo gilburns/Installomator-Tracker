@@ -830,6 +830,11 @@
       "lastSeen": "2026-11-02T18:35:50Z",
       "reason": "label does not set appNewVersion"
     },
+    "plexdesktop": {
+      "firstSeen": "2026-11-03T23:35:01Z",
+      "lastSeen": "2026-11-03T23:35:01Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "portingkit": {
       "firstSeen": "2026-11-02T18:36:08Z",
       "lastSeen": "2026-11-02T18:36:08Z",

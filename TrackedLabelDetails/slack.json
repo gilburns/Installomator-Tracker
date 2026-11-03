@@ -119,5 +119,16 @@
     "name": "Slack",
     "timeStamp": "2026-10-30T06:27:38Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.53.280",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.53.280/Slack-4.53.280-macOS.pkg",
+    "expectedTeamID": "BQR82RBBHL",
+    "label": "slack",
+    "name": "Slack",
+    "timeStamp": "2026-11-03T23:37:40Z",
+    "type": "pkg"
   }
 ]
