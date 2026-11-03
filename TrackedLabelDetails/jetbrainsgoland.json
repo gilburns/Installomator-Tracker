@@ -111,6 +111,7 @@
     "appName": "",
     "appNewVersion": "2026.2.4",
     "blockingProcesses": [],
+    "downloadURLi386": "https://download.jetbrains.com/go/goland-2026.2.4.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainsgoland",
     "name": "GoLand",
