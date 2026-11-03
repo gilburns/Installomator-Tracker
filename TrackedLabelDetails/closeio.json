@@ -108,5 +108,16 @@
     "name": "Close.io",
     "timeStamp": "2026-09-15T18:12:49Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/closeio/closeio-desktop-releases/releases/download/v9.4.0/Close-9.4.0.dmg",
+    "expectedTeamID": "WTNQ6773UC",
+    "label": "closeio",
+    "name": "Close.io",
+    "timeStamp": "2026-11-03T12:27:41Z",
+    "type": "dmg"
   }
 ]
