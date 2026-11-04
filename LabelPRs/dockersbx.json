@@ -1,6 +1,6 @@
 {
-  "label": "sbx",
-  "labelFile": "fragments/labels/sbx.sh",
+  "label": "dockersbx",
+  "labelFile": "fragments/labels/dockersbx.sh",
   "pullRequests": [
     {
       "number": 3519,
@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-30T10:17:55Z",
-      "updatedAt": "2026-10-31T00:23:17Z",
+      "updatedAt": "2026-11-04T09:51:15Z",
       "baseBranch": "main",
       "headBranch": "feat-add-sbx",
       "headRepository": "Arinono/Installomator",
@@ -28,21 +28,22 @@
         }
       ],
       "requestedReviewers": [
-        "gilburns"
+        "gilburns",
+        "uurazzle"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "c4c955c2e98cb4a66fd664607a5ca725064a44a4",
+      "headCommit": "350e6b7392e441a08b4c91f54f4684118a83cd50",
       "commitCount": 1,
       "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
-        "additions": 8,
+        "additions": 13,
         "deletions": 0
       },
       "labelsInPR": [
-        "sbx"
+        "dockersbx"
       ]
     }
   ]
