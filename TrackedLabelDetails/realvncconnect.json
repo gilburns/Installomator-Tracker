@@ -5,11 +5,23 @@
     "blockingProcesses": [
       "rvncconnect"
     ],
-    "downloadURL": "https://downloads.realvnc.com/download/file/realvnc-connect/RealVNC-Connect-Latest-MacOSX-universal.pkg",
     "expectedTeamID": "ZNCQ8JEH7X",
     "label": "realvncconnect",
     "name": "RealVNC Connect",
     "timeStamp": "2026-10-31T18:27:15Z",
+    "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.6.0",
+    "blockingProcesses": [
+      "rvncconnect"
+    ],
+    "downloadURL": "https://downloads.realvnc.com/download/file/realvnc-connect/RealVNC-Connect-Latest-MacOSX-universal.pkg",
+    "expectedTeamID": "ZNCQ8JEH7X",
+    "label": "realvncconnect",
+    "name": "RealVNC Connect",
+    "timeStamp": "2026-11-04T12:43:33Z",
     "type": "pkg"
   }
 ]
