@@ -1220,6 +1220,11 @@
       "lastSeen": "2026-11-02T18:44:26Z",
       "reason": "label does not set appNewVersion"
     },
+    "webexvdiplugin": {
+      "firstSeen": "2026-11-04T07:43:56Z",
+      "lastSeen": "2026-11-04T07:43:56Z",
+      "reason": "missing downloadURL"
+    },
     "wechat": {
       "firstSeen": "2026-11-03T08:48:44Z",
       "lastSeen": "2026-11-03T08:48:44Z",
