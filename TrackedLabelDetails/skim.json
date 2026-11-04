@@ -42,5 +42,16 @@
     "name": "Skim",
     "timeStamp": "2026-11-04T12:44:58Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.7.19",
+    "blockingProcesses": [],
+    "downloadURL": "https://sourceforge.net/projects/skim-app/files/Skim/Skim-1.7.19/Skim-1.7.19.dmg/download",
+    "expectedTeamID": "J33JTA7SY9",
+    "label": "skim",
+    "name": "Skim",
+    "timeStamp": "2026-11-04T17:39:03Z",
+    "type": "dmg"
   }
 ]
