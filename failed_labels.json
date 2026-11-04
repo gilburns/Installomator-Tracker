@@ -295,6 +295,11 @@
       "lastSeen": "2026-11-02T18:20:04Z",
       "reason": "label does not set appNewVersion"
     },
+    "dymoconnectdesktop": {
+      "firstSeen": "2026-11-04T20:25:27Z",
+      "lastSeen": "2026-11-04T20:25:27Z",
+      "reason": "missing appNewVersion"
+    },
     "dynalist": {
       "firstSeen": "2026-11-02T18:20:09Z",
       "lastSeen": "2026-11-02T18:20:09Z",
