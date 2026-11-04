@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-04T01:16:19Z",
-      "updatedAt": "2026-11-04T01:16:31Z",
+      "updatedAt": "2026-11-04T15:17:40Z",
       "baseBranch": "main",
       "headBranch": "FixLexarRecoveryTool",
       "headRepository": "gilburns/Installomator",
@@ -21,7 +21,10 @@
       ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "uurazzle",
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "900635715cf290779ed04051d547a3aaf19643f6",
