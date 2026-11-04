@@ -20,5 +20,16 @@
     "name": "osquery-*",
     "timeStamp": "2026-10-22T06:34:16Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.24.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1.pkg",
+    "expectedTeamID": "3522FA9PXF",
+    "label": "osquery",
+    "name": "osquery-*",
+    "timeStamp": "2026-11-04T18:37:12Z",
+    "type": "pkg"
   }
 ]

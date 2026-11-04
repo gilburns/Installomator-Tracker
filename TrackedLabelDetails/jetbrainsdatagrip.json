@@ -122,6 +122,7 @@
     "appName": "",
     "appNewVersion": "2026.2.6.1",
     "blockingProcesses": [],
+    "downloadURLi386": "https://download.jetbrains.com/datagrip/datagrip-2026.2.6.1.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainsdatagrip",
     "name": "DataGrip",
