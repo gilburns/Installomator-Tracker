@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-04T12:25:08Z",
-      "updatedAt": "2026-11-04T16:16:12Z",
+      "updatedAt": "2026-11-04T16:19:22Z",
       "baseBranch": "main",
       "headBranch": "main",
       "headRepository": "mwegmann98/Installomator",
@@ -22,8 +22,7 @@
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
       "requestedReviewers": [
-        "gilburns",
-        "uurazzle"
+        "gilburns"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",

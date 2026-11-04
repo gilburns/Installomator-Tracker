@@ -1,0 +1,44 @@
+{
+  "label": "amadeuspro2",
+  "labelFile": "fragments/labels/amadeuspro2.sh",
+  "pullRequests": [
+    {
+      "number": 3539,
+      "title": "Update amadeuspro2.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3539",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-04T17:09:24Z",
+      "updatedAt": "2026-11-04T17:09:50Z",
+      "baseBranch": "main",
+      "headBranch": "amadeuspro2-label-update",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "gilburns",
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "c0a1a4fc62bd301dc3c175ca3f9d22be95204b84",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 2
+      },
+      "labelsInPR": [
+        "amadeuspro2"
+      ]
+    }
+  ]
+}
