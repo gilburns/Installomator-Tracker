@@ -185,6 +185,11 @@
       "lastSeen": "2026-11-03T08:23:49Z",
       "reason": "missing downloadURL"
     },
+    "blackmagicvideohub": {
+      "firstSeen": "2026-11-04T00:38:19Z",
+      "lastSeen": "2026-11-04T00:38:19Z",
+      "reason": "missing appNewVersion"
+    },
     "boxsync": {
       "firstSeen": "2026-11-02T18:15:15Z",
       "lastSeen": "2026-11-02T18:15:15Z",
