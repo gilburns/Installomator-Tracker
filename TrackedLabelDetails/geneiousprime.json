@@ -31,5 +31,16 @@
     "name": "Geneious Prime",
     "timeStamp": "2026-10-09T06:21:31Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2027.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://assets.geneious.com/installers/geneious/release/Geneious_Prime_mac64_2027_0_1_with_jre.dmg",
+    "expectedTeamID": "3BTDDQD3L6",
+    "label": "geneiousprime",
+    "name": "Geneious Prime",
+    "timeStamp": "2026-11-04T03:29:13Z",
+    "type": "dmg"
   }
 ]
