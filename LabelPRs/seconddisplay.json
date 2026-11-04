@@ -1,0 +1,39 @@
+{
+  "label": "seconddisplay",
+  "labelFile": "fragments/labels/seconddisplay.sh",
+  "pullRequests": [
+    {
+      "number": 3538,
+      "title": "New label: seconddisplay",
+      "url": "https://github.com/Installomator/Installomator/pull/3538",
+      "author": {
+        "login": "mwegmann98",
+        "url": "https://github.com/mwegmann98"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-04T12:25:08Z",
+      "updatedAt": "2026-11-04T12:44:25Z",
+      "baseBranch": "main",
+      "headBranch": "main",
+      "headRepository": "mwegmann98/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "54b8289cb65c9fe5d69eb9bd9c517f47019cb393",
+      "commitCount": 3,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "seconddisplay"
+      ]
+    }
+  ]
+}
