@@ -75,12 +75,22 @@
     "appName": "",
     "appNewVersion": "2026.2.4",
     "blockingProcesses": [],
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainsrubymine",
+    "name": "RubyMine",
+    "timeStamp": "2026-10-30T18:18:03Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "08",
+    "blockingProcesses": [],
     "downloadURL": "https://download.jetbrains.com/ruby/RubyMine-2026.2.4-aarch64.dmg",
     "downloadURLi386": "https://download.jetbrains.com/ruby/RubyMine-2026.2.4.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainsrubymine",
     "name": "RubyMine",
-    "timeStamp": "2026-10-30T18:18:03Z",
+    "timeStamp": "2026-11-04T05:30:13Z",
     "type": "dmg"
   }
 ]

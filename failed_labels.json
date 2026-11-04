@@ -995,6 +995,11 @@
       "lastSeen": "2026-11-02T18:38:53Z",
       "reason": "invalid JSON output"
     },
+    "snagit2019": {
+      "firstSeen": "2026-11-04T05:39:53Z",
+      "lastSeen": "2026-11-04T05:39:53Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "soapuiopensource": {
       "firstSeen": "2026-11-02T20:30:52Z",
       "lastSeen": "2026-11-02T20:30:52Z",
