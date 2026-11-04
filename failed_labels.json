@@ -1100,6 +1100,11 @@
       "lastSeen": "2026-11-02T18:41:05Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "textmate": {
+      "firstSeen": "2026-11-04T19:39:00Z",
+      "lastSeen": "2026-11-04T19:39:00Z",
+      "reason": "missing appNewVersion"
+    },
     "things": {
       "firstSeen": "2026-11-02T18:41:40Z",
       "lastSeen": "2026-11-02T18:41:40Z",

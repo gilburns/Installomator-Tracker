@@ -100,6 +100,7 @@
     "appNewVersion": "5.1.2",
     "blockingProcesses": [],
     "downloadURL": "https://cf-pub.bitfocus.io/companion/companion/companion-mac-arm64-5.1.2-10019-stable-98d5d4e1a1.dmg",
+    "downloadURLi386": "https://cf-pub.bitfocus.io/companion/companion/companion-mac-x64-5.1.2-10019-stable-98d5d4e1a1.dmg",
     "expectedTeamID": "FGQ2G3HYBT",
     "label": "bitfocuscompanion",
     "name": "Companion",
