@@ -97,5 +97,16 @@
     "name": "Poll Everywhere",
     "timeStamp": "2026-10-08T18:27:19Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.0.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://polleverywhere-app.s3.amazonaws.com/mac-stable/4.0.4/pollev.dmg",
+    "expectedTeamID": "W48F3X5M8W",
+    "label": "polleverywhere",
+    "name": "Poll Everywhere",
+    "timeStamp": "2026-11-04T22:35:33Z",
+    "type": "dmg"
   }
 ]
