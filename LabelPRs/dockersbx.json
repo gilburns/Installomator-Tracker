@@ -12,24 +12,23 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-30T10:17:55Z",
-      "updatedAt": "2026-11-04T09:51:15Z",
+      "updatedAt": "2026-11-04T15:56:05Z",
       "baseBranch": "main",
       "headBranch": "feat-add-sbx",
       "headRepository": "Arinono/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "CHANGES_REQUESTED",
+      "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [
         {
           "reviewer": "uurazzle",
-          "state": "CHANGES_REQUESTED",
-          "submittedAt": "2026-10-30T16:11:18Z"
+          "state": "APPROVED",
+          "submittedAt": "2026-11-04T15:56:04Z"
         }
       ],
       "requestedReviewers": [
-        "gilburns",
-        "uurazzle"
+        "gilburns"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
