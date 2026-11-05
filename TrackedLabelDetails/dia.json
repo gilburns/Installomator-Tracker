@@ -53,11 +53,21 @@
     "appName": "",
     "appNewVersion": "1.55.1",
     "blockingProcesses": [],
-    "downloadURL": "https://releases.diabrowser.com/release/Dia-latest.dmg",
     "expectedTeamID": "S6N382Y83G",
     "label": "dia",
     "name": "Dia",
     "timeStamp": "2026-10-30T06:15:20Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.56.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://releases.diabrowser.com/release/Dia-latest.dmg",
+    "expectedTeamID": "S6N382Y83G",
+    "label": "dia",
+    "name": "Dia",
+    "timeStamp": "2026-11-05T18:27:04Z",
     "type": "dmg"
   }
 ]
