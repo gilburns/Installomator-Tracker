@@ -50,5 +50,18 @@
     "name": "Safe Exam Browser",
     "timeStamp": "2026-10-15T18:40:11Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.7.2",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://github.com/SafeExamBrowser/seb-mac/releases/download/3.7.2/SafeExamBrowser-3.7.2.dmg",
+    "expectedTeamID": "6F38DNSC7X",
+    "label": "safeexambrowser",
+    "name": "Safe Exam Browser",
+    "timeStamp": "2026-11-05T00:59:26Z",
+    "type": "dmg"
   }
 ]
