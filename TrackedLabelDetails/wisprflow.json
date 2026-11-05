@@ -442,5 +442,17 @@
     "name": "Wispr Flow",
     "timeStamp": "2026-11-03T20:45:18Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.6.1400",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.wisprflow.com/wispr-flow/darwin/arm64/dmgs/Flow-v1.6.1400.dmg",
+    "downloadURLi386": "https://dl.wisprflow.com/wispr-flow/darwin/x64/dmgs/Flow-v1.6.1400.dmg",
+    "expectedTeamID": "C9VQZ78H85",
+    "label": "wisprflow",
+    "name": "Wispr Flow",
+    "timeStamp": "2026-11-05T20:43:06Z",
+    "type": "dmg"
   }
 ]
