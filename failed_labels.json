@@ -195,6 +195,11 @@
       "lastSeen": "2026-11-05T02:26:01Z",
       "reason": "missing appNewVersion"
     },
+    "calibre": {
+      "firstSeen": "2026-11-05T10:21:19Z",
+      "lastSeen": "2026-11-05T10:21:19Z",
+      "reason": "missing appNewVersion"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-05T02:26:42Z",
       "lastSeen": "2026-11-05T02:26:42Z",

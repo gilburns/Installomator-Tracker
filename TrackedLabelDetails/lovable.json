@@ -143,11 +143,21 @@
     "appName": "",
     "appNewVersion": "1.10.0",
     "blockingProcesses": [],
-    "downloadURL": "https://downloads.lovable.dev/desktop/latest/mac",
     "expectedTeamID": "SWJU3R2URD",
     "label": "lovable",
     "name": "Lovable",
     "timeStamp": "2026-11-04T19:29:50Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.10.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.lovable.dev/desktop/latest/mac",
+    "expectedTeamID": "SWJU3R2URD",
+    "label": "lovable",
+    "name": "Lovable",
+    "timeStamp": "2026-11-05T10:35:03Z",
     "type": "dmg"
   }
 ]
