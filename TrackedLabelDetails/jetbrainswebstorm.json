@@ -87,6 +87,7 @@
     "appName": "",
     "appNewVersion": "2026.2.4",
     "blockingProcesses": [],
+    "downloadURLi386": "https://download.jetbrains.com/webstorm/WebStorm-2026.2.4.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainswebstorm",
     "name": "Webstorm",

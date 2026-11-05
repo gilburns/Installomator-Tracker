@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.5.23",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/crystalidea/macs-fan-control/releases/download/v1.5.23/macsfancontrol.zip",
+    "expectedTeamID": "ACC5R6RH47",
+    "label": "macsfancontrol",
+    "name": "Macs Fan Control",
+    "timeStamp": "2026-11-05T02:43:03Z",
+    "type": "zip"
+  }
+]
