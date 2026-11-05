@@ -465,6 +465,11 @@
       "lastSeen": "2026-11-05T02:35:25Z",
       "reason": "missing appNewVersion"
     },
+    "hancock": {
+      "firstSeen": "2026-11-05T15:34:47Z",
+      "lastSeen": "2026-11-05T15:34:47Z",
+      "reason": "missing appNewVersion"
+    },
     "harper": {
       "firstSeen": "2026-11-05T02:35:37Z",
       "lastSeen": "2026-11-05T02:35:37Z",
@@ -523,6 +528,21 @@
     "jamfcli": {
       "firstSeen": "2026-11-05T02:37:58Z",
       "lastSeen": "2026-11-05T02:37:58Z",
+      "reason": "missing appNewVersion"
+    },
+    "jamfmigrator": {
+      "firstSeen": "2026-11-05T15:37:56Z",
+      "lastSeen": "2026-11-05T15:37:56Z",
+      "reason": "missing appNewVersion"
+    },
+    "jamfreenroller": {
+      "firstSeen": "2026-11-05T15:38:40Z",
+      "lastSeen": "2026-11-05T15:38:40Z",
+      "reason": "missing appNewVersion"
+    },
+    "jamie": {
+      "firstSeen": "2026-11-05T15:39:11Z",
+      "lastSeen": "2026-11-05T15:39:11Z",
       "reason": "missing appNewVersion"
     },
     "jdk20": {
@@ -593,6 +613,11 @@
     "mactexfull": {
       "firstSeen": "2026-11-05T07:34:29Z",
       "lastSeen": "2026-11-05T07:34:29Z",
+      "reason": "resolve failed (exit 142)"
+    },
+    "macvector": {
+      "firstSeen": "2026-11-05T15:45:46Z",
+      "lastSeen": "2026-11-05T15:45:46Z",
       "reason": "resolve failed (exit 142)"
     },
     "magicbullet": {

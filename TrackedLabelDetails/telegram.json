@@ -23,11 +23,21 @@
     "appName": "",
     "appNewVersion": "13.1.0",
     "blockingProcesses": [],
-    "downloadURL": "https://osx.telegram.org/updates/Telegram.dmg",
     "expectedTeamID": "6N38VWS5BX",
     "label": "telegram",
     "name": "Telegram",
     "timeStamp": "2026-10-20T18:30:54Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "13.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://osx.telegram.org/updates/Telegram.dmg",
+    "expectedTeamID": "6N38VWS5BX",
+    "label": "telegram",
+    "name": "Telegram",
+    "timeStamp": "2026-11-05T15:55:33Z",
     "type": "dmg"
   }
 ]
