@@ -410,6 +410,11 @@
       "lastSeen": "2026-11-05T02:35:08Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "gram": {
+      "firstSeen": "2026-11-05T11:27:05Z",
+      "lastSeen": "2026-11-05T11:27:05Z",
+      "reason": "missing appNewVersion"
+    },
     "grammarly": {
       "firstSeen": "2026-11-05T02:35:18Z",
       "lastSeen": "2026-11-05T02:35:18Z",
