@@ -37,5 +37,18 @@
     "name": "Particulars",
     "timeStamp": "2026-09-11T06:29:00Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "71.511",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://gitlab.com/fraserhess/particulars/-/package_files/384700542/download",
+    "expectedTeamID": "2Z25XDNP2X",
+    "label": "particulars",
+    "name": "Particulars",
+    "timeStamp": "2026-11-05T03:41:29Z",
+    "type": "pkg"
   }
 ]

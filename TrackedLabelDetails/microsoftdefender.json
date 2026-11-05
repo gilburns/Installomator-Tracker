@@ -33,11 +33,21 @@
     "appName": "",
     "appNewVersion": "101.26092.0009",
     "blockingProcesses": [],
-    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav.pkg",
     "expectedTeamID": "UBF8T346G9",
     "label": "microsoftdefender",
     "name": "Microsoft Defender",
     "timeStamp": "2026-11-02T18:32:40Z",
+    "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "101.26092.0012",
+    "blockingProcesses": [],
+    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftdefender",
+    "name": "Microsoft Defender",
+    "timeStamp": "2026-11-05T03:38:33Z",
     "type": "pkg"
   }
 ]
