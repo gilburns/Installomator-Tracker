@@ -97,5 +97,16 @@
     "name": "REAPER",
     "timeStamp": "2026-10-28T18:35:09Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.85",
+    "blockingProcesses": [],
+    "downloadURL": "https://dlcf.reaper.fm/7.x/reaper785_universal.dmg",
+    "expectedTeamID": "Y3T58622SG",
+    "label": "reaper",
+    "name": "REAPER",
+    "timeStamp": "2026-11-05T21:34:34Z",
+    "type": "dmg"
   }
 ]
