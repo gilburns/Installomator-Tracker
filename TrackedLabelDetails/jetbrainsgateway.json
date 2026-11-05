@@ -58,5 +58,17 @@
     "name": "JetBrains Gateway",
     "timeStamp": "2026-10-30T18:17:47Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2026.3-aarch64.dmg",
+    "downloadURLi386": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2026.3.dmg",
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainsgateway",
+    "name": "JetBrains Gateway",
+    "timeStamp": "2026-11-05T13:30:21Z",
+    "type": "dmg"
   }
 ]

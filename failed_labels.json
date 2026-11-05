@@ -1165,6 +1165,11 @@
       "lastSeen": "2026-11-05T02:56:34Z",
       "reason": "label does not set appNewVersion"
     },
+    "webexvdiplugin": {
+      "firstSeen": "2026-11-05T13:44:28Z",
+      "lastSeen": "2026-11-05T13:44:28Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "wechat": {
       "firstSeen": "2026-11-05T09:49:15Z",
       "lastSeen": "2026-11-05T09:49:15Z",

@@ -20,5 +20,16 @@
     "name": "Signiant App",
     "timeStamp": "2026-07-26T18:43:12Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.5.1821",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.signiant.com/signiant_app/Signiant_App_1.5.1821.dmg",
+    "expectedTeamID": "U6ZZ4QLU4Q",
+    "label": "signiantapp",
+    "name": "Signiant App",
+    "timeStamp": "2026-11-05T13:38:48Z",
+    "type": "dmg"
   }
 ]
