@@ -26,5 +26,19 @@
     "name": "Blackmagic ATEM Switchers",
     "timeStamp": "2026-10-27T06:15:47Z",
     "type": "pkgInDmgInZip"
+  },
+  {
+    "appName": "/Blackmagic ATEM Switchers/ATEM Software Control.app",
+    "appNewVersion": "21.2",
+    "blockingProcesses": [
+      "ATEM Setup",
+      "ATEM Software Control"
+    ],
+    "downloadURL": "https://sw.blackmagicdesign.com/DaVinciResolve/v21.2/DaVinci_Resolve_Studio_21.2_Mac.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=MlutV5FqirZRudbZSnBcyhlaBfwM7HS8pAR9Cdewaz66rNT2SrPPqbKuy688/oq8/MWvPRqxd+1atOahSAxgy1r9d/Xhyd5bRSfQ0hmPBPyuchVgLMR1pZbSWE+BRSDX5s7R2DuaCAIFASJ3t9a4a1NDrvmBhcSIc8DkDeyOklMiTmiaASvKC84vAqlgrZZb1oQVxqOR3vYEfW66sD58IsIt9Io9nroIpzGguZLHME/uVqADpR57+M0JGhGgWlDwDmCcsrm2fPn9qymRDqRaPZha3+HNoWgvHipinGzTuhp2fOu9kXLPtU6nB7BNLVfpXpAVzbkn9zk93JmAyLEe8Q==&Expires=1793863321",
+    "expectedTeamID": "9ZGFBWLSYP",
+    "label": "blackmagicatemswitchers",
+    "name": "Blackmagic ATEM Switchers",
+    "timeStamp": "2026-11-05T04:22:01Z",
+    "type": "pkgInDmgInZip"
   }
 ]

@@ -120,6 +120,16 @@
       "lastSeen": "2026-11-05T02:24:47Z",
       "reason": "label does not set appNewVersion"
     },
+    "audacity3": {
+      "firstSeen": "2026-11-05T04:21:06Z",
+      "lastSeen": "2026-11-05T04:21:06Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "audacity4": {
+      "firstSeen": "2026-11-05T04:21:06Z",
+      "lastSeen": "2026-11-05T04:21:06Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "avertouch": {
       "firstSeen": "2026-11-05T02:24:58Z",
       "lastSeen": "2026-11-05T02:24:58Z",
@@ -164,6 +174,11 @@
       "firstSeen": "2026-11-05T02:25:41Z",
       "lastSeen": "2026-11-05T02:25:41Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "blackmagicvideohub": {
+      "firstSeen": "2026-11-05T04:22:06Z",
+      "lastSeen": "2026-11-05T04:22:06Z",
+      "reason": "missing appNewVersion"
     },
     "boxsync": {
       "firstSeen": "2026-11-05T02:25:56Z",
@@ -640,6 +655,11 @@
       "lastSeen": "2026-11-05T02:45:50Z",
       "reason": "label does not set appNewVersion"
     },
+    "mkuser": {
+      "firstSeen": "2026-11-05T04:36:43Z",
+      "lastSeen": "2026-11-05T04:36:43Z",
+      "reason": "missing appNewVersion"
+    },
     "mmhmm": {
       "firstSeen": "2026-11-05T02:45:57Z",
       "lastSeen": "2026-11-05T02:45:57Z",
@@ -894,6 +914,11 @@
       "firstSeen": "2026-11-05T02:50:19Z",
       "lastSeen": "2026-11-05T02:50:19Z",
       "reason": "label does not set appNewVersion"
+    },
+    "sequelace": {
+      "firstSeen": "2026-11-05T04:41:27Z",
+      "lastSeen": "2026-11-05T04:41:27Z",
+      "reason": "missing appNewVersion"
     },
     "sidekick": {
       "firstSeen": "2026-11-05T02:50:36Z",
