@@ -9,5 +9,16 @@
     "name": "FastScripts",
     "timeStamp": "2026-07-03T15:45:48Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.3.9",
+    "blockingProcesses": [],
+    "downloadURL": "https://redsweater.s3.amazonaws.com/FastScripts3.3.9.zip",
+    "expectedTeamID": "493CVA9A35",
+    "label": "fastscripts",
+    "name": "FastScripts",
+    "timeStamp": "2026-11-05T22:24:50Z",
+    "type": "zip"
   }
 ]

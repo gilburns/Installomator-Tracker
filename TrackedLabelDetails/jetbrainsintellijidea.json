@@ -117,6 +117,7 @@
     "blockingProcesses": [
       "idea"
     ],
+    "downloadURLi386": "https://download.jetbrains.com/idea/idea-2026.3.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainsintellijidea",
     "name": "IntelliJ IDEA",
