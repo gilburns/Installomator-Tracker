@@ -63,6 +63,7 @@
     "appName": "",
     "appNewVersion": "2026.3",
     "blockingProcesses": [],
+    "downloadURLi386": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2026.3.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainsgateway",
     "name": "JetBrains Gateway",

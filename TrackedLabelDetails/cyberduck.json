@@ -31,5 +31,16 @@
     "name": "Cyberduck",
     "timeStamp": "2026-08-25T18:16:41Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.6.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com/Cyberduck-9.6.0.46406.zip",
+    "expectedTeamID": "G69SCX94XU",
+    "label": "cyberduck",
+    "name": "Cyberduck",
+    "timeStamp": "2026-11-05T16:27:33Z",
+    "type": "zip"
   }
 ]
