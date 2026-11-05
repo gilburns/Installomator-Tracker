@@ -70,5 +70,17 @@
     "name": "OpenWork Enterprise",
     "timeStamp": "2026-11-03T14:36:58Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.18.65",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/different-ai/openwork/releases/download/v0.18.65/openwork-enterprise-mac-arm64-0.18.65.dmg",
+    "downloadURLi386": "https://github.com/different-ai/openwork/releases/download/v0.18.65/openwork-enterprise-mac-x64-0.18.65.dmg",
+    "expectedTeamID": "F5DJWB4CCV",
+    "label": "openworkenterprise",
+    "name": "OpenWork Enterprise",
+    "timeStamp": "2026-11-05T08:40:42Z",
+    "type": "dmg"
   }
 ]
