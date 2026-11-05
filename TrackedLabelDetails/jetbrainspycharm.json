@@ -93,5 +93,17 @@
     "name": "PyCharm",
     "timeStamp": "2026-11-02T18:27:10Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.jetbrains.com/python/pycharm-2026.3-aarch64.dmg",
+    "downloadURLi386": "https://download.jetbrains.com/python/pycharm-2026.3.dmg",
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainspycharm",
+    "name": "PyCharm",
+    "timeStamp": "2026-11-05T14:48:36Z",
+    "type": "dmg"
   }
 ]

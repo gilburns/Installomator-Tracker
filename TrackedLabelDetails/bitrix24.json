@@ -3,12 +3,22 @@
     "appName": "",
     "appNewVersion": "23.0.32",
     "blockingProcesses": [],
+    "expectedTeamID": "5B3T3A994N",
+    "label": "bitrix24",
+    "name": "Bitrix24",
+    "timeStamp": "2026-07-07T18:42:57Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "24.0.37",
+    "blockingProcesses": [],
     "downloadURL": "https://dl.bitrix24.com/b24/bitrix24_desktop_arm.dmg",
     "downloadURLi386": "https://dl.bitrix24.com/b24/bitrix24_desktop.dmg",
     "expectedTeamID": "5B3T3A994N",
     "label": "bitrix24",
     "name": "Bitrix24",
-    "timeStamp": "2026-07-07T18:42:57Z",
+    "timeStamp": "2026-11-05T14:24:34Z",
     "type": "dmg"
   }
 ]

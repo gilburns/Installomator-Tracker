@@ -10,5 +10,17 @@
     "name": "Ultimaker Cura",
     "timeStamp": "2026-07-03T16:06:56Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.14.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Ultimaker/Cura/releases/download/5.14.0/UltiMaker-Cura-5.14.0-macos-ARM64.dmg",
+    "downloadURLi386": "https://github.com/Ultimaker/Cura/releases/download/5.14.0/UltiMaker-Cura-5.14.0-macos-X64.dmg",
+    "expectedTeamID": "V4B3JXRRQS",
+    "label": "ultimakercura",
+    "name": "Ultimaker Cura",
+    "timeStamp": "2026-11-05T15:02:55Z",
+    "type": "dmg"
   }
 ]

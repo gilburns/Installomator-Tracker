@@ -240,6 +240,11 @@
       "lastSeen": "2026-11-05T02:28:14Z",
       "reason": "missing appNewVersion"
     },
+    "cocoapods": {
+      "firstSeen": "2026-11-05T14:30:07Z",
+      "lastSeen": "2026-11-05T14:30:07Z",
+      "reason": "missing appNewVersion"
+    },
     "code42": {
       "firstSeen": "2026-11-05T02:28:36Z",
       "lastSeen": "2026-11-05T02:28:36Z",
@@ -250,9 +255,19 @@
       "lastSeen": "2026-11-05T02:28:59Z",
       "reason": "missing appNewVersion"
     },
+    "darktable": {
+      "firstSeen": "2026-11-05T14:32:29Z",
+      "lastSeen": "2026-11-05T14:32:29Z",
+      "reason": "missing appNewVersion"
+    },
     "daylite": {
       "firstSeen": "2026-11-05T02:29:36Z",
       "lastSeen": "2026-11-05T02:29:36Z",
+      "reason": "missing appNewVersion"
+    },
+    "dbgate": {
+      "firstSeen": "2026-11-05T14:32:52Z",
+      "lastSeen": "2026-11-05T14:32:52Z",
       "reason": "missing appNewVersion"
     },
     "debookee": {
@@ -268,6 +283,11 @@
     "doctolib": {
       "firstSeen": "2026-11-05T02:30:56Z",
       "lastSeen": "2026-11-05T02:30:56Z",
+      "reason": "missing appNewVersion"
+    },
+    "drawio": {
+      "firstSeen": "2026-11-05T14:34:39Z",
+      "lastSeen": "2026-11-05T14:34:39Z",
       "reason": "missing appNewVersion"
     },
     "drift": {
@@ -359,6 +379,11 @@
       "firstSeen": "2026-11-05T02:33:19Z",
       "lastSeen": "2026-11-05T02:33:19Z",
       "reason": "label does not set appNewVersion"
+    },
+    "flycut": {
+      "firstSeen": "2026-11-05T14:40:10Z",
+      "lastSeen": "2026-11-05T14:40:10Z",
+      "reason": "missing appNewVersion"
     },
     "fontexplorer": {
       "firstSeen": "2026-11-05T02:33:50Z",
