@@ -55,7 +55,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-05T17:40:31Z",
-      "updatedAt": "2026-11-05T17:40:57Z",
+      "updatedAt": "2026-11-05T22:03:31Z",
       "baseBranch": "main",
       "headBranch": "audacity3-label-update",
       "headRepository": "uurazzle/Installomator",
@@ -72,7 +72,7 @@
       "checksState": "SUCCESS",
       "headCommit": "01fbef4307b2e010e3fed982460e93634150b974",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
