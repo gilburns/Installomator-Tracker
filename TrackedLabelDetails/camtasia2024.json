@@ -20,5 +20,16 @@
     "name": "Camtasia 2024",
     "timeStamp": "2026-09-14T18:11:21Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2024.1.13",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.techsmith.com/camtasiamac/releases/2024.1.13/camtasia.dmg",
+    "expectedTeamID": "7TQL462TU8",
+    "label": "camtasia2024",
+    "name": "Camtasia 2024",
+    "timeStamp": "2026-11-05T19:18:32Z",
+    "type": "dmg"
   }
 ]
