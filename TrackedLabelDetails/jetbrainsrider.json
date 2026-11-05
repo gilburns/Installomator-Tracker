@@ -111,6 +111,7 @@
     "appName": "",
     "appNewVersion": "2026.2.4.1",
     "blockingProcesses": [],
+    "downloadURLi386": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.4.1.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainsrider",
     "name": "Rider",
