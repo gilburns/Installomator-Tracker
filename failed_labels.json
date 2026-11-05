@@ -555,6 +555,11 @@
       "lastSeen": "2026-11-05T02:43:02Z",
       "reason": "resolve failed (exit 98)"
     },
+    "mactexfull": {
+      "firstSeen": "2026-11-05T07:34:29Z",
+      "lastSeen": "2026-11-05T07:34:29Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "magicbullet": {
       "firstSeen": "2026-11-05T02:44:31Z",
       "lastSeen": "2026-11-05T02:44:31Z",
