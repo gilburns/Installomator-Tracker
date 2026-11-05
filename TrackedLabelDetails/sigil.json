@@ -21,5 +21,17 @@
     "name": "Sigil",
     "timeStamp": "2026-07-18T18:48:31Z",
     "type": "tbz"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.8.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Sigil-Ebook/Sigil/releases/download/2.8.5/Sigil.app-2.8.5-Mac-arm64.txz",
+    "downloadURLi386": "https://github.com/Sigil-Ebook/Sigil/releases/download/2.8.5/Sigil.app-2.8.5-Mac-x86_64.txz",
+    "expectedTeamID": "2SMCVQU3CJ",
+    "label": "sigil",
+    "name": "Sigil",
+    "timeStamp": "2026-11-05T23:36:41Z",
+    "type": "tbz"
   }
 ]

@@ -240,5 +240,16 @@
     "name": "Warp",
     "timeStamp": "2026-11-04T19:41:10Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.2026.11.04.08.17.01",
+    "blockingProcesses": [],
+    "downloadURL": "https://releases.warp.dev/stable/v0.2026.11.04.08.17.stable_01/Warp.dmg",
+    "expectedTeamID": "2BBY89MBSN",
+    "label": "warp",
+    "name": "Warp",
+    "timeStamp": "2026-11-05T23:41:03Z",
+    "type": "dmg"
   }
 ]
