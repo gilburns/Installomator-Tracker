@@ -1,0 +1,44 @@
+{
+  "label": "antcon",
+  "labelFile": "fragments/labels/antcon.sh",
+  "pullRequests": [
+    {
+      "number": 3547,
+      "title": "antconc-lable-update",
+      "url": "https://github.com/Installomator/Installomator/pull/3547",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-06T16:35:05Z",
+      "updatedAt": "2026-11-06T16:35:29Z",
+      "baseBranch": "main",
+      "headBranch": "antconc-label-update",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "gilburns",
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "ccf5107278d7044e811027ad4ea75bc51c36bf1a",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 3,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "antcon"
+      ]
+    }
+  ]
+}
