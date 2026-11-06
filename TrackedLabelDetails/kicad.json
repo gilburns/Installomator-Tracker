@@ -74,5 +74,24 @@
     "name": "KiCad",
     "timeStamp": "2026-10-16T18:28:03Z",
     "type": "dmg"
+  },
+  {
+    "appName": "KiCad/KiCad.app",
+    "appNewVersion": "10.0.8",
+    "blockingProcesses": [
+      "gerbview",
+      "bitmap2component",
+      "kicad",
+      "pl_editor",
+      "pcb_calculator",
+      "pcbnew",
+      "eeschema"
+    ],
+    "downloadURL": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.8/kicad-unified-universal-10.0.8.dmg",
+    "expectedTeamID": "9FQDHNY6U2",
+    "label": "kicad",
+    "name": "KiCad",
+    "timeStamp": "2026-11-06T06:40:19Z",
+    "type": "dmg"
   }
 ]

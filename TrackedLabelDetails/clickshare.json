@@ -31,5 +31,16 @@
     "name": "ClickShare",
     "timeStamp": "2026-09-09T06:17:01Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.52.0.11",
+    "blockingProcesses": [],
+    "downloadURL": "https://assets.cloud.barco.com/clickshare/release/ClickShare-4.52.0-b11_mac.zip",
+    "expectedTeamID": "P6CDJZR997",
+    "label": "clickshare",
+    "name": "ClickShare",
+    "timeStamp": "2026-11-06T06:31:00Z",
+    "type": "zip"
   }
 ]
