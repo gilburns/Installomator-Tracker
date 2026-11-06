@@ -57,5 +57,17 @@
     "name": "Zulu JDK 11",
     "timeStamp": "2026-10-24T06:34:05Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "/bin/113",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.azul.com/zulu/bin/113-ca-jdk11.0.33-macosx_aarch64.dmg</td>",
+    "downloadURLi386": "https://cdn.azul.com/zulu/bin/113-ca-jdk11.0.33-macosx_x64.dmg</td>",
+    "expectedTeamID": "TDTHCUPYFR",
+    "label": "zulujdk11",
+    "name": "Zulu JDK 11",
+    "timeStamp": "2026-11-06T22:42:34Z",
+    "type": "pkgInDmg"
   }
 ]
