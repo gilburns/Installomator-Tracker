@@ -22,5 +22,17 @@
     "name": "Rancher Desktop",
     "timeStamp": "2026-07-30T07:16:11Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.25.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.25.0/Rancher.Desktop-1.25.0-mac.aarch64.zip",
+    "downloadURLi386": "https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.25.0/Rancher.Desktop-1.25.0-mac.x86_64.zip",
+    "expectedTeamID": "2Q6FHJR3H3",
+    "label": "rancherdesktop",
+    "name": "Rancher Desktop",
+    "timeStamp": "2026-11-06T00:56:49Z",
+    "type": "zip"
   }
 ]
