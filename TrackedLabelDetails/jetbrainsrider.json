@@ -122,12 +122,22 @@
     "appName": "",
     "appNewVersion": "4",
     "blockingProcesses": [],
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainsrider",
+    "name": "Rider",
+    "timeStamp": "2026-11-05T05:30:46Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5",
+    "blockingProcesses": [],
     "downloadURL": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.4.1-aarch64.dmg",
     "downloadURLi386": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.4.1.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainsrider",
     "name": "Rider",
-    "timeStamp": "2026-11-05T05:30:46Z",
+    "timeStamp": "2026-11-06T18:33:22Z",
     "type": "dmg"
   }
 ]
