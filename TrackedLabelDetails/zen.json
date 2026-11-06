@@ -240,5 +240,16 @@
     "name": "Zen",
     "timeStamp": "2026-10-30T06:32:57Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.24.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/zen-browser/desktop/releases/download/1.24.1b/zen.macos-universal.dmg",
+    "expectedTeamID": "9V5K9TP787",
+    "label": "zen",
+    "name": "Zen",
+    "timeStamp": "2026-11-06T19:42:33Z",
+    "type": "dmg"
   }
 ]
