@@ -265,6 +265,11 @@
       "lastSeen": "2026-11-05T14:32:29Z",
       "reason": "missing appNewVersion"
     },
+    "davinciresolvestudio": {
+      "firstSeen": "2026-11-06T13:23:29Z",
+      "lastSeen": "2026-11-06T13:23:29Z",
+      "reason": "missing downloadURL"
+    },
     "daylite": {
       "firstSeen": "2026-11-05T02:29:36Z",
       "lastSeen": "2026-11-05T02:29:36Z",
