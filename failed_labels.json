@@ -175,6 +175,11 @@
       "lastSeen": "2026-11-05T02:25:41Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagicdesktopvideo": {
+      "firstSeen": "2026-11-06T02:24:43Z",
+      "lastSeen": "2026-11-06T02:24:43Z",
+      "reason": "missing appNewVersion"
+    },
     "blackmagicvideohub": {
       "firstSeen": "2026-11-05T04:22:06Z",
       "lastSeen": "2026-11-05T04:22:06Z",
@@ -609,6 +614,11 @@
       "firstSeen": "2026-11-05T02:43:02Z",
       "lastSeen": "2026-11-05T02:43:02Z",
       "reason": "resolve failed (exit 98)"
+    },
+    "mactexbasic": {
+      "firstSeen": "2026-11-06T02:39:16Z",
+      "lastSeen": "2026-11-06T02:39:16Z",
+      "reason": "resolve failed (exit 142)"
     },
     "mactexfull": {
       "firstSeen": "2026-11-05T07:34:29Z",

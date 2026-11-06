@@ -20,5 +20,16 @@
     "name": "IINA",
     "timeStamp": "2026-10-03T06:29:39Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.5.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/iina/iina/releases/download/v1.5.1/IINA.v1.5.1.dmg",
+    "expectedTeamID": "67CQ77V27R",
+    "label": "iina",
+    "name": "IINA",
+    "timeStamp": "2026-11-06T02:34:45Z",
+    "type": "dmg"
   }
 ]
