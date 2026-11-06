@@ -10,5 +10,17 @@
     "name": "Omnigent",
     "timeStamp": "2026-10-31T18:25:08Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.21.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://diksk5m140cfbma7.public.blob.vercel-storage.com/mac/Omnigent-0.21.0-arm64.dmg",
+    "downloadURLi386": "https://diksk5m140cfbma7.public.blob.vercel-storage.com/mac/Omnigent-0.21.0-x64.dmg",
+    "expectedTeamID": "8RMX4WU6F8",
+    "label": "omnigent",
+    "name": "Omnigent",
+    "timeStamp": "2026-11-06T08:39:11Z",
+    "type": "dmg"
   }
 ]

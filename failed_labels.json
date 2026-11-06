@@ -705,6 +705,11 @@
       "lastSeen": "2026-11-05T02:45:39Z",
       "reason": "label does not set appNewVersion"
     },
+    "microsoftskypeforbusiness": {
+      "firstSeen": "2026-11-06T08:37:34Z",
+      "lastSeen": "2026-11-06T08:37:34Z",
+      "reason": "missing appNewVersion"
+    },
     "microsoftskypeforbusinessremovaltool": {
       "firstSeen": "2026-11-05T02:45:40Z",
       "lastSeen": "2026-11-05T02:45:40Z",
