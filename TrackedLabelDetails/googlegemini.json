@@ -73,11 +73,21 @@
     "appName": "",
     "appNewVersion": "1.138.0.1315",
     "blockingProcesses": [],
-    "downloadURL": "https://dl.google.com/release2/j33ro/release/Gemini.dmg",
     "expectedTeamID": "EQHXZ8M8AV",
     "label": "googlegemini",
     "name": "Gemini",
     "timeStamp": "2026-10-31T06:17:03Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.141.3.1394",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.google.com/release2/j33ro/release/Gemini.dmg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "googlegemini",
+    "name": "Gemini",
+    "timeStamp": "2026-11-06T01:29:16Z",
     "type": "dmg"
   }
 ]
