@@ -1,0 +1,44 @@
+{
+  "label": "arq7",
+  "labelFile": "fragments/labels/arq7.sh",
+  "pullRequests": [
+    {
+      "number": 3548,
+      "title": "arq7-label-update",
+      "url": "https://github.com/Installomator/Installomator/pull/3548",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-06T17:23:07Z",
+      "updatedAt": "2026-11-06T17:23:31Z",
+      "baseBranch": "main",
+      "headBranch": "arq7-label-update",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "gilburns",
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "b2984f217eeff2464499adbe72f213466e21831e",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 4,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "arq7"
+      ]
+    }
+  ]
+}
