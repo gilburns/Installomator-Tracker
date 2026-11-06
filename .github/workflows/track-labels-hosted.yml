@@ -1,0 +1,73 @@
+name: Track Installomator label versions (GitHub-hosted backup)
+
+# On-demand fallback for when the self-hosted runner is unavailable. Shares
+# the track-labels concurrency group with track-labels.yml so the two never
+# push to main at the same time.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: track-labels
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: macos-latest
+    timeout-minutes: 300
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync labels from upstream Installomator
+        run: ./sync_labels.sh --verbose
+
+      - name: Commit label sync changes
+        run: |
+          git add Labels
+          if git diff --cached --quiet; then
+            echo "No label changes from upstream."
+          else
+            git commit -m "Sync labels from Installomator upstream"
+            git push
+          fi
+
+      - name: Track open upstream PRs touching labels
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./track_label_prs.sh --verbose
+
+      - name: Commit label PR changes
+        run: |
+          git add -A LabelPRs label_prs.csv
+          if git diff --cached --quiet; then
+            echo "No label PR changes."
+          else
+            git commit -m "Update open label PRs"
+            git push
+          fi
+
+      - name: Run label tracker
+        run: ./update_tracked_labels.sh --verbose
+
+      # failed_labels.json is deliberately discarded: hosted runner IPs get
+      # blocked or rate-limited by some sites, and committing those failures
+      # would make the self-hosted runner skip the labels for up to 7 days.
+      - name: Commit tracked version changes
+        run: |
+          git checkout -- failed_labels.json
+          git add TrackedLabelDetails label_status.csv
+          if git diff --cached --quiet; then
+            echo "No new versions discovered."
+            exit 0
+          fi
+          git commit -m "Update tracked label versions (hosted)"
+          git push
