@@ -480,6 +480,11 @@
       "lastSeen": "2026-11-05T02:35:37Z",
       "reason": "missing appNewVersion"
     },
+    "hazel": {
+      "firstSeen": "2026-11-06T07:29:56Z",
+      "lastSeen": "2026-11-06T07:29:56Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "hmavpn": {
       "firstSeen": "2026-11-05T02:35:46Z",
       "lastSeen": "2026-11-05T02:35:46Z",
