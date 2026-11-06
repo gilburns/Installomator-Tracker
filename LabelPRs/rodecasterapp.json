@@ -1,0 +1,39 @@
+{
+  "label": "rodecasterapp",
+  "labelFile": "fragments/labels/rodecasterapp.sh",
+  "pullRequests": [
+    {
+      "number": 3544,
+      "title": "Add rodecasterapp label (RØDECaster App)",
+      "url": "https://github.com/Installomator/Installomator/pull/3544",
+      "author": {
+        "login": "jisgett",
+        "url": "https://github.com/jisgett"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-06T13:36:50Z",
+      "updatedAt": "2026-11-06T13:36:50Z",
+      "baseBranch": "main",
+      "headBranch": "rodecasterapp-label",
+      "headRepository": "jisgett/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "ef30c750ec841808734d5baa7325a168b0014f45",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "rodecasterapp"
+      ]
+    }
+  ]
+}
