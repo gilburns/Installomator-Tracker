@@ -10,9 +10,9 @@
         "login": "mactesting12",
         "url": "https://github.com/mactesting12"
       },
-      "isDraft": true,
+      "isDraft": false,
       "createdAt": "2026-11-06T02:12:47Z",
-      "updatedAt": "2026-11-06T02:12:47Z",
+      "updatedAt": "2026-11-06T02:24:26Z",
       "baseBranch": "main",
       "headBranch": "label-mailviewer",
       "headRepository": "machinery-software/Installomator",
