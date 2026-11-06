@@ -166,5 +166,17 @@
     "name": "Emdash",
     "timeStamp": "2026-10-30T18:14:08Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.2.11",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/generalaction/emdash/releases/download/v1.2.11/emdash-arm64.dmg",
+    "downloadURLi386": "https://github.com/generalaction/emdash/releases/download/v1.2.11/emdash-x64.dmg",
+    "expectedTeamID": "2AZ6648627",
+    "label": "emdash",
+    "name": "Emdash",
+    "timeStamp": "2026-11-06T11:23:40Z",
+    "type": "dmg"
   }
 ]
