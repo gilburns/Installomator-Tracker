@@ -850,6 +850,11 @@
       "lastSeen": "2026-11-05T02:47:47Z",
       "reason": "label does not set appNewVersion"
     },
+    "outsystemsservicestudio": {
+      "firstSeen": "2026-11-06T12:40:37Z",
+      "lastSeen": "2026-11-06T12:40:37Z",
+      "reason": "missing appNewVersion"
+    },
     "pingplotter": {
       "firstSeen": "2026-11-05T02:48:22Z",
       "lastSeen": "2026-11-05T02:48:22Z",
@@ -1114,6 +1119,11 @@
       "firstSeen": "2026-11-05T02:53:13Z",
       "lastSeen": "2026-11-05T02:53:13Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "teamviewerqs": {
+      "firstSeen": "2026-11-06T12:46:10Z",
+      "lastSeen": "2026-11-06T12:46:10Z",
+      "reason": "missing appNewVersion"
     },
     "teamviewerqscustom": {
       "firstSeen": "2026-11-05T02:53:14Z",
