@@ -1,0 +1,39 @@
+{
+  "label": "edits",
+  "labelFile": "fragments/labels/edits.sh",
+  "pullRequests": [
+    {
+      "number": 3551,
+      "title": "Instagram Edits label add",
+      "url": "https://github.com/Installomator/Installomator/pull/3551",
+      "author": {
+        "login": "ajamaya1",
+        "url": "https://github.com/ajamaya1"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-06T19:15:37Z",
+      "updatedAt": "2026-11-06T19:15:37Z",
+      "baseBranch": "main",
+      "headBranch": "label-edits",
+      "headRepository": "ajamaya1/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "19da00f2424d1ad50ed4d33249e685edafba4800",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "edits"
+      ]
+    }
+  ]
+}
