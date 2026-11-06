@@ -1,0 +1,41 @@
+{
+  "label": "betterzip",
+  "labelFile": "fragments/labels/betterzip.sh",
+  "pullRequests": [
+    {
+      "number": 3543,
+      "title": "Update betterzip.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3543",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-06T03:58:13Z",
+      "updatedAt": "2026-11-06T03:58:23Z",
+      "baseBranch": "main",
+      "headBranch": "FixBetterZip",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "9405cd7be41ea7db8f978aebe6c8b56f2e94002e",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 3,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "betterzip"
+      ]
+    }
+  ]
+}
