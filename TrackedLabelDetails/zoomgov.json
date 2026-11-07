@@ -42,5 +42,16 @@
     "name": "zoom.us",
     "timeStamp": "2026-09-30T06:38:13Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.2.5.90525",
+    "blockingProcesses": [],
+    "downloadURL": "https://zfgclients.zoomgov.com/prod/7.2.5.90525/ZoomInstallerIT.pkg?_x_zm_rtaid=C2RAYKPKS5e9JRytoNkXuA.1794019808366.23fcbd7677370f2b52499a5f8da829df&_x_zm_rhtaid=716",
+    "expectedTeamID": "BJ4HAAB9B3",
+    "label": "zoomgov",
+    "name": "zoom.us",
+    "timeStamp": "2026-11-07T02:50:09Z",
+    "type": "pkg"
   }
 ]
