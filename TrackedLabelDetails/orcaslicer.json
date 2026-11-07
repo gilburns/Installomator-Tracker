@@ -21,5 +21,16 @@
     "name": "OrcaSlicer",
     "timeStamp": "2026-07-07T07:35:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.5.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/OrcaSlicer/OrcaSlicer/releases/download/v2.5.0/OrcaSlicer_Mac_universal_V2.5.0.dmg",
+    "expectedTeamID": "XQK7C38HH5",
+    "label": "orcaslicer",
+    "name": "OrcaSlicer",
+    "timeStamp": "2026-11-07T07:36:37Z",
+    "type": "dmg"
   }
 ]
