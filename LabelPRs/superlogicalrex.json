@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-07T18:13:04Z",
-      "updatedAt": "2026-11-07T18:46:32Z",
+      "updatedAt": "2026-11-07T19:18:08Z",
       "baseBranch": "main",
       "headBranch": "superlogicalrex",
       "headRepository": "LucasAtLucca/Installomator",
@@ -26,7 +26,7 @@
       "checksState": "SUCCESS",
       "headCommit": "5809eb25de5381db8f31d140e8141d9da7a38fdc",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
