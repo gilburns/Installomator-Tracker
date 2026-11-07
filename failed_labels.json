@@ -565,6 +565,11 @@
       "lastSeen": "2026-11-07T01:37:51Z",
       "reason": "resolve failed (exit 98)"
     },
+    "mactexfull": {
+      "firstSeen": "2026-11-07T18:34:23Z",
+      "lastSeen": "2026-11-07T18:34:23Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "magicbullet": {
       "firstSeen": "2026-11-07T01:38:22Z",
       "lastSeen": "2026-11-07T01:38:22Z",
@@ -779,6 +784,11 @@
       "firstSeen": "2026-11-07T01:41:50Z",
       "lastSeen": "2026-11-07T01:41:50Z",
       "reason": "missing appNewVersion"
+    },
+    "pgadmin4": {
+      "firstSeen": "2026-11-07T18:39:09Z",
+      "lastSeen": "2026-11-07T18:39:09Z",
+      "reason": "resolve failed (exit 142)"
     },
     "pingplotter": {
       "firstSeen": "2026-11-07T01:42:14Z",
@@ -1189,6 +1199,11 @@
       "firstSeen": "2026-11-07T01:49:46Z",
       "lastSeen": "2026-11-07T01:49:46Z",
       "reason": "missing appNewVersion"
+    },
+    "whatroute": {
+      "firstSeen": "2026-11-07T18:48:18Z",
+      "lastSeen": "2026-11-07T18:48:18Z",
+      "reason": "resolve failed (exit 142)"
     },
     "wordservice": {
       "firstSeen": "2026-11-07T01:50:10Z",
