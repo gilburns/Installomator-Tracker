@@ -1,0 +1,41 @@
+{
+  "label": "teamviewer",
+  "labelFile": "fragments/labels/teamviewer.sh",
+  "pullRequests": [
+    {
+      "number": 3556,
+      "title": "Update teamviewer.sh to use Sparkle feed",
+      "url": "https://github.com/Installomator/Installomator/pull/3556",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-07T23:02:45Z",
+      "updatedAt": "2026-11-07T23:02:57Z",
+      "baseBranch": "main",
+      "headBranch": "UpdateTeamViewer",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "dce12776e22ee231c3912e705333c975b6cd8836",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 4,
+        "deletions": 6
+      },
+      "labelsInPR": [
+        "teamviewer"
+      ]
+    }
+  ]
+}
