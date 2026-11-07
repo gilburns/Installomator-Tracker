@@ -520,6 +520,11 @@
       "lastSeen": "2026-11-07T01:34:25Z",
       "reason": "label does not set appNewVersion"
     },
+    "krita": {
+      "firstSeen": "2026-11-07T10:28:44Z",
+      "lastSeen": "2026-11-07T10:28:44Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "launchcontrol": {
       "firstSeen": "2026-11-07T06:39:03Z",
       "lastSeen": "2026-11-07T06:39:03Z",
