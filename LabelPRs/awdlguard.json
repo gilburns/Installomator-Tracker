@@ -12,36 +12,33 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-05T21:55:22Z",
-      "updatedAt": "2026-11-07T16:43:26Z",
+      "updatedAt": "2026-11-07T18:46:09Z",
       "baseBranch": "main",
       "headBranch": "awdlguard",
       "headRepository": "moragabriele/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "CHANGES_REQUESTED",
+      "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [
         {
           "reviewer": "gilburns",
-          "state": "CHANGES_REQUESTED",
-          "submittedAt": "2026-11-07T16:43:26Z"
-        },
-        {
-          "reviewer": "uurazzle",
           "state": "APPROVED",
-          "submittedAt": "2026-11-06T15:36:26Z"
+          "submittedAt": "2026-11-07T18:45:58Z"
         }
       ],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "uurazzle"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "8ca6499b9100a0c583da177a1c96f9d230b1e425",
-      "commitCount": 1,
-      "commentCount": 0,
+      "headCommit": "6a0a6e027234b441d19fc53ae3bce3c5b9ff0049",
+      "commitCount": 2,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
-        "additions": 10,
+        "additions": 9,
         "deletions": 0
       },
       "labelsInPR": [

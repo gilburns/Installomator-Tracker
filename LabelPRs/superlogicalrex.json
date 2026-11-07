@@ -12,11 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-07T18:13:04Z",
-      "updatedAt": "2026-11-07T18:13:04Z",
+      "updatedAt": "2026-11-07T18:46:32Z",
       "baseBranch": "main",
       "headBranch": "superlogicalrex",
       "headRepository": "LucasAtLucca/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
       "requestedReviewers": [],

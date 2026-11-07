@@ -34,7 +34,7 @@
       ],
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
-      "checksState": "SUCCESS",
+      "checksState": null,
       "headCommit": "a06bdd85f8b99000ece7075e2d861d9b4a230038",
       "commitCount": 1,
       "commentCount": 1,

@@ -12,22 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-31T02:00:08Z",
-      "updatedAt": "2026-11-07T18:11:15Z",
+      "updatedAt": "2026-11-07T18:44:30Z",
       "baseBranch": "main",
       "headBranch": "lockdownbrowser",
       "headRepository": "burninrubber0/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "CHANGES_REQUESTED",
+      "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [
         {
           "reviewer": "gilburns",
-          "state": "CHANGES_REQUESTED",
-          "submittedAt": "2026-11-05T02:33:46Z"
+          "state": "APPROVED",
+          "submittedAt": "2026-11-07T18:44:17Z"
         }
       ],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "uurazzle"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "dbd59bf41c119f98fdd73a504518d49c0a036784",
