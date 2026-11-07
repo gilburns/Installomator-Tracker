@@ -12,17 +12,22 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-06T17:23:07Z",
-      "updatedAt": "2026-11-06T17:23:31Z",
+      "updatedAt": "2026-11-07T14:52:56Z",
       "baseBranch": "main",
       "headBranch": "arq7-label-update",
       "headRepository": "uurazzle/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-07T14:52:56Z"
+        }
+      ],
       "requestedReviewers": [
-        "gilburns",
         "acodega"
       ],
       "mergeable": "MERGEABLE",

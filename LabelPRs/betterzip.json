@@ -55,7 +55,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-06T17:35:58Z",
-      "updatedAt": "2026-11-06T17:36:18Z",
+      "updatedAt": "2026-11-07T15:08:02Z",
       "baseBranch": "main",
       "headBranch": "betterzip-label-update",
       "headRepository": "uurazzle/Installomator",
@@ -72,7 +72,7 @@
       "checksState": "SUCCESS",
       "headCommit": "ea153ffd9b0af9375c9960dc3ffaf83cb8bb0abe",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",

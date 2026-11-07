@@ -12,11 +12,14 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-06T18:44:17Z",
-      "updatedAt": "2026-11-06T18:44:17Z",
+      "updatedAt": "2026-11-07T14:32:24Z",
       "baseBranch": "main",
       "headBranch": "macshot",
       "headRepository": "klou/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application",
+        "app-team-ID-change"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
       "requestedReviewers": [],

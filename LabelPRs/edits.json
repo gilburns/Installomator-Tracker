@@ -12,13 +12,21 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-06T19:15:37Z",
-      "updatedAt": "2026-11-06T19:15:37Z",
+      "updatedAt": "2026-11-07T14:49:10Z",
       "baseBranch": "main",
       "headBranch": "label-edits",
       "headRepository": "ajamaya1/Installomator",
-      "prLabels": [],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-07T14:28:04Z"
+        }
+      ],
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
