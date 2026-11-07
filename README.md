@@ -103,7 +103,7 @@ Those are [static-URL labels](#static-url-labels-version-history-only). The labe
 
 ### Why is a label missing from `TrackedLabelDetails/`, or why did it stop updating?
 
-It's most likely listed in [`failed_labels.json`](failed_labels.json), along with the reason it failed. The most common reason is that the label never sets `appNewVersion` itself (see [Skipping known-broken labels](#skipping-known-broken-labels)). A failure can also come from the vendor's site being down or changed, or from a label that's broken upstream. As with static-URL labels, the lasting fix is to update the label in Installomator so it sets both `appNewVersion` and `downloadURL` up front. Failed labels are retried automatically when `Labels/` changes, and at least every 7 days. To retry right away, run `./retry_failed_labels.sh` (or `./update_tracked_labels.sh --label <name>` for just one).
+It's most likely listed in [`failed_labels.json`](failed_labels.json), along with the reason it failed. The most common reason is that the label never sets `appNewVersion` itself (see [Skipping known-broken labels](#skipping-known-broken-labels)). A failure can also come from the vendor's site being down or changed, or from a label that's broken upstream. As with static-URL labels, the lasting fix is to update the label in Installomator so it sets both `appNewVersion` and `downloadURL` up front. Failed labels are retried automatically when `Labels/` changes, and at least every 1 days. To retry right away, run `./retry_failed_labels.sh` (or `./update_tracked_labels.sh --label <name>` for just one).
 
 ### Can I fix a label by editing it in this repo?
 
