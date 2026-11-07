@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-06T16:35:05Z",
-      "updatedAt": "2026-11-06T16:35:29Z",
+      "updatedAt": "2026-11-07T16:13:28Z",
       "baseBranch": "main",
       "headBranch": "antconc-label-update",
       "headRepository": "uurazzle/Installomator",
@@ -20,9 +20,14 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-07T16:13:27Z"
+        }
+      ],
       "requestedReviewers": [
-        "gilburns",
         "acodega"
       ],
       "mergeable": "MERGEABLE",
