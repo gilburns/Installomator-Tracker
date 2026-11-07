@@ -41,7 +41,7 @@ Some labels branch on `$(arch)` to serve different Intel vs. Apple Silicon downl
 
 ### Skipping known-broken labels
 
-Some labels can't be resolved through this lightweight method at all - about ~250 of the ~1,163, mostly because the label script itself never sets `appNewVersion` (it relies on Installomator's full install flow inspecting the downloaded installer after the fact, which this project doesn't do). Since those fail identically on every run, [`failed_labels.json`](failed_labels.json) records them and they're skipped on subsequent runs - no point re-paying the network cost for a label that hasn't changed and is going to fail the same way again. That cache resets automatically whenever the actual content of `Labels/` changes (so a label fixed upstream gets retried), with a 7-day fallback retry regardless, in case something was blacklisted from a one-off transient failure rather than a real problem.
+Some labels can't be resolved through this lightweight method at all - about ~250 of the ~1,163, mostly because the label script itself never sets `appNewVersion` (it relies on Installomator's full install flow inspecting the downloaded installer after the fact, which this project doesn't do). Since those fail identically on every run, [`failed_labels.json`](failed_labels.json) records them and they're skipped on subsequent runs - no point re-paying the network cost for a label that hasn't changed and is going to fail the same way again. That cache resets automatically whenever the actual content of `Labels/` changes (so a label fixed upstream gets retried), with a 1-day fallback retry regardless, in case something was blacklisted from a one-off transient failure rather than a real problem.
 
 ## Repo layout
 
