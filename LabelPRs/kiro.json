@@ -1,0 +1,41 @@
+{
+  "label": "kiro",
+  "labelFile": "fragments/labels/kiro.sh",
+  "pullRequests": [
+    {
+      "number": 3552,
+      "title": "Update kiro.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3552",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-07T00:56:03Z",
+      "updatedAt": "2026-11-07T00:56:35Z",
+      "baseBranch": "main",
+      "headBranch": "FixKiro",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "20d31b5d19bdeac233c4603a9b785a6b6d0a4673",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 5,
+        "deletions": 4
+      },
+      "labelsInPR": [
+        "kiro"
+      ]
+    }
+  ]
+}
