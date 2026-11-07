@@ -119,5 +119,16 @@
     "name": "container",
     "timeStamp": "2026-10-24T02:25:50Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.7.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/apple/container/releases/download/1.7.1/container-1.7.1-installer-signed.pkg",
+    "expectedTeamID": "UPBK2H6LZM",
+    "label": "container",
+    "name": "container",
+    "timeStamp": "2026-11-07T00:40:29Z",
+    "type": "pkg"
   }
 ]
