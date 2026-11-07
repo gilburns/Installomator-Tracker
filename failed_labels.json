@@ -475,6 +475,11 @@
       "lastSeen": "2026-11-07T01:31:48Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-11-07T06:35:45Z",
+      "lastSeen": "2026-11-07T06:35:45Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "ipvisionconnect": {
       "firstSeen": "2026-11-07T01:32:24Z",
       "lastSeen": "2026-11-07T01:32:24Z",
@@ -514,6 +519,11 @@
       "firstSeen": "2026-11-07T01:34:25Z",
       "lastSeen": "2026-11-07T01:34:25Z",
       "reason": "label does not set appNewVersion"
+    },
+    "launchcontrol": {
+      "firstSeen": "2026-11-07T06:39:03Z",
+      "lastSeen": "2026-11-07T06:39:03Z",
+      "reason": "resolve failed (exit 142)"
     },
     "levelscreenrecorder": {
       "firstSeen": "2026-11-07T01:35:49Z",
@@ -1109,6 +1119,16 @@
       "firstSeen": "2026-11-07T01:48:18Z",
       "lastSeen": "2026-11-07T01:48:18Z",
       "reason": "label does not set appNewVersion"
+    },
+    "uviportal": {
+      "firstSeen": "2026-11-07T06:51:31Z",
+      "lastSeen": "2026-11-07T06:51:31Z",
+      "reason": "missing appNewVersion"
+    },
+    "uviworkstation": {
+      "firstSeen": "2026-11-07T06:52:05Z",
+      "lastSeen": "2026-11-07T06:52:05Z",
+      "reason": "missing appNewVersion"
     },
     "vanilla": {
       "firstSeen": "2026-11-07T01:48:55Z",
