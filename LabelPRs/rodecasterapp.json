@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-06T13:36:50Z",
-      "updatedAt": "2026-11-06T15:48:31Z",
+      "updatedAt": "2026-11-07T16:50:02Z",
       "baseBranch": "main",
       "headBranch": "rodecasterapp-label",
       "headRepository": "jisgett/Installomator",
@@ -20,25 +20,19 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [
-        {
-          "reviewer": "uurazzle",
-          "state": "APPROVED",
-          "submittedAt": "2026-11-06T15:48:31Z"
-        }
-      ],
+      "reviews": [],
       "requestedReviewers": [
         "gilburns"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "ef30c750ec841808734d5baa7325a168b0014f45",
-      "commitCount": 1,
-      "commentCount": 0,
+      "headCommit": "2c3ca04822f782257e34d72b3ec9a1b38c487412",
+      "commitCount": 2,
+      "commentCount": 2,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
-        "additions": 7,
+        "additions": 8,
         "deletions": 0
       },
       "labelsInPR": [
