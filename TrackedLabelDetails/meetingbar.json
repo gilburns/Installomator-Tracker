@@ -9,5 +9,16 @@
     "name": "Meetingbar",
     "timeStamp": "2026-07-03T15:55:56Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/leits/MeetingBar/releases/download/v5.0.0/MeetingBar.dmg",
+    "expectedTeamID": "KGH289N6T8",
+    "label": "meetingbar",
+    "name": "Meetingbar",
+    "timeStamp": "2026-11-07T21:31:36Z",
+    "type": "dmg"
   }
 ]
