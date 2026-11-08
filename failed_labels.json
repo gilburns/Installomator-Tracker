@@ -1070,6 +1070,11 @@
       "lastSeen": "2026-11-08T02:51:59Z",
       "reason": "label does not set appNewVersion"
     },
+    "thirdpartypatcher": {
+      "firstSeen": "2026-11-08T08:43:58Z",
+      "lastSeen": "2026-11-08T08:43:58Z",
+      "reason": "missing appNewVersion"
+    },
     "thunderbird_intl": {
       "firstSeen": "2026-11-08T02:52:06Z",
       "lastSeen": "2026-11-08T02:52:06Z",
@@ -1090,6 +1095,11 @@
       "lastSeen": "2026-11-08T02:52:17Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "tophat": {
+      "firstSeen": "2026-11-08T08:45:17Z",
+      "lastSeen": "2026-11-08T08:45:17Z",
+      "reason": "missing appNewVersion"
+    },
     "torbrowser": {
       "firstSeen": "2026-11-08T02:52:30Z",
       "lastSeen": "2026-11-08T02:52:30Z",
@@ -1100,10 +1110,25 @@
       "lastSeen": "2026-11-08T02:52:51Z",
       "reason": "missing appNewVersion"
     },
+    "trex": {
+      "firstSeen": "2026-11-08T08:45:40Z",
+      "lastSeen": "2026-11-08T08:45:40Z",
+      "reason": "missing appNewVersion"
+    },
+    "tropy": {
+      "firstSeen": "2026-11-08T08:45:55Z",
+      "lastSeen": "2026-11-08T08:45:55Z",
+      "reason": "missing appNewVersion"
+    },
     "tunnelbear": {
       "firstSeen": "2026-11-08T02:52:59Z",
       "lastSeen": "2026-11-08T02:52:59Z",
       "reason": "label does not set appNewVersion"
+    },
+    "tunnelblick": {
+      "firstSeen": "2026-11-08T08:46:18Z",
+      "lastSeen": "2026-11-08T08:46:18Z",
+      "reason": "missing appNewVersion"
     },
     "tuple": {
       "firstSeen": "2026-11-08T02:53:01Z",
@@ -1113,6 +1138,11 @@
     "twingate": {
       "firstSeen": "2026-11-08T02:53:02Z",
       "lastSeen": "2026-11-08T02:53:02Z",
+      "reason": "missing appNewVersion"
+    },
+    "ultimakercura": {
+      "firstSeen": "2026-11-08T08:46:35Z",
+      "lastSeen": "2026-11-08T08:46:35Z",
       "reason": "missing appNewVersion"
     },
     "ultracompare": {
@@ -1135,10 +1165,30 @@
       "lastSeen": "2026-11-08T02:53:14Z",
       "reason": "label does not set appNewVersion"
     },
+    "upscayl": {
+      "firstSeen": "2026-11-08T08:47:10Z",
+      "lastSeen": "2026-11-08T08:47:10Z",
+      "reason": "missing appNewVersion"
+    },
+    "utiluti": {
+      "firstSeen": "2026-11-08T08:47:21Z",
+      "lastSeen": "2026-11-08T08:47:21Z",
+      "reason": "missing appNewVersion"
+    },
     "vanilla": {
       "firstSeen": "2026-11-08T02:53:54Z",
       "lastSeen": "2026-11-08T02:53:54Z",
       "reason": "label does not set appNewVersion"
+    },
+    "venturablocker": {
+      "firstSeen": "2026-11-08T08:47:51Z",
+      "lastSeen": "2026-11-08T08:47:51Z",
+      "reason": "missing appNewVersion"
+    },
+    "veracrypt": {
+      "firstSeen": "2026-11-08T08:48:04Z",
+      "lastSeen": "2026-11-08T08:48:04Z",
+      "reason": "missing appNewVersion"
     },
     "veracrypt-fuse-t": {
       "firstSeen": "2026-11-08T05:43:23Z",
@@ -1150,15 +1200,35 @@
       "lastSeen": "2026-11-08T02:53:59Z",
       "reason": "missing appNewVersion"
     },
+    "virtualbuddy": {
+      "firstSeen": "2026-11-08T08:48:36Z",
+      "lastSeen": "2026-11-08T08:48:36Z",
+      "reason": "missing appNewVersion"
+    },
+    "visualz": {
+      "firstSeen": "2026-11-08T08:48:49Z",
+      "lastSeen": "2026-11-08T08:48:49Z",
+      "reason": "missing appNewVersion"
+    },
     "vocevistavideopro": {
       "firstSeen": "2026-11-08T02:54:22Z",
       "lastSeen": "2026-11-08T02:54:22Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "vscodium": {
+      "firstSeen": "2026-11-08T08:49:28Z",
+      "lastSeen": "2026-11-08T08:49:28Z",
+      "reason": "missing appNewVersion"
+    },
     "wallyezflash": {
       "firstSeen": "2026-11-08T02:54:39Z",
       "lastSeen": "2026-11-08T02:54:39Z",
       "reason": "label does not set appNewVersion"
+    },
+    "weasis": {
+      "firstSeen": "2026-11-08T08:49:57Z",
+      "lastSeen": "2026-11-08T08:49:57Z",
+      "reason": "missing appNewVersion"
     },
     "webcatalog": {
       "firstSeen": "2026-11-08T02:54:42Z",
@@ -1180,6 +1250,11 @@
       "lastSeen": "2026-11-08T02:54:56Z",
       "reason": "missing appNewVersion"
     },
+    "whatcable": {
+      "firstSeen": "2026-11-08T08:50:22Z",
+      "lastSeen": "2026-11-08T08:50:22Z",
+      "reason": "missing appNewVersion"
+    },
     "wordservice": {
       "firstSeen": "2026-11-08T02:55:23Z",
       "lastSeen": "2026-11-08T02:55:23Z",
@@ -1190,19 +1265,49 @@
       "lastSeen": "2026-11-08T02:55:25Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "wwdc": {
+      "firstSeen": "2026-11-08T08:50:54Z",
+      "lastSeen": "2026-11-08T08:50:54Z",
+      "reason": "missing appNewVersion"
+    },
+    "xbar": {
+      "firstSeen": "2026-11-08T08:51:07Z",
+      "lastSeen": "2026-11-08T08:51:07Z",
+      "reason": "missing appNewVersion"
+    },
+    "xcodesapp": {
+      "firstSeen": "2026-11-08T08:51:19Z",
+      "lastSeen": "2026-11-08T08:51:19Z",
+      "reason": "missing appNewVersion"
+    },
     "xeroxphaser7800": {
       "firstSeen": "2026-11-08T02:55:32Z",
       "lastSeen": "2026-11-08T02:55:32Z",
       "reason": "label does not set appNewVersion"
+    },
+    "xquartz": {
+      "firstSeen": "2026-11-08T08:51:35Z",
+      "lastSeen": "2026-11-08T08:51:35Z",
+      "reason": "missing appNewVersion"
     },
     "zappy": {
       "firstSeen": "2026-11-08T02:55:43Z",
       "lastSeen": "2026-11-08T02:55:43Z",
       "reason": "label does not set appNewVersion"
     },
+    "zen": {
+      "firstSeen": "2026-11-08T08:52:29Z",
+      "lastSeen": "2026-11-08T08:52:29Z",
+      "reason": "missing appNewVersion"
+    },
     "zeplin": {
       "firstSeen": "2026-11-08T02:55:51Z",
       "lastSeen": "2026-11-08T02:55:51Z",
+      "reason": "missing appNewVersion"
+    },
+    "zerotier": {
+      "firstSeen": "2026-11-08T08:52:40Z",
+      "lastSeen": "2026-11-08T08:52:40Z",
       "reason": "missing appNewVersion"
     },
     "zipwhip": {
