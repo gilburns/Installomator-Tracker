@@ -25,67 +25,14 @@
   },
   {
     "appName": "",
-    "appNewVersion": "1",
-    "blockingProcesses": [],
-    "expectedTeamID": "2ZEFAR8TH3",
-    "label": "jetbrainsdataspell",
-    "name": "DataSpell",
-    "timeStamp": "2026-10-22T06:27:02Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "5",
-    "blockingProcesses": [],
-    "downloadURL": "https://download.jetbrains.com/python/dataspell-2026.1.3-aarch64.dmg",
-    "downloadURLi386": "https://download.jetbrains.com/python/dataspell-2026.1.3.dmg",
-    "expectedTeamID": "2ZEFAR8TH3",
-    "label": "jetbrainsdataspell",
-    "name": "DataSpell",
-    "timeStamp": "2026-10-30T06:20:29Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
     "appNewVersion": "2026.1.3.1",
-    "blockingProcesses": [],
-    "downloadURLi386": "https://download.jetbrains.com/python/dataspell-2026.1.3.1.dmg",
-    "expectedTeamID": "2ZEFAR8TH3",
-    "label": "jetbrainsdataspell",
-    "name": "DataSpell",
-    "timeStamp": "2026-10-30T18:17:44Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "7",
-    "blockingProcesses": [],
-    "expectedTeamID": "2ZEFAR8TH3",
-    "label": "jetbrainsdataspell",
-    "name": "DataSpell",
-    "timeStamp": "2026-10-31T18:18:38Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "41",
-    "blockingProcesses": [],
-    "expectedTeamID": "2ZEFAR8TH3",
-    "label": "jetbrainsdataspell",
-    "name": "DataSpell",
-    "timeStamp": "2026-11-05T12:37:04Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "2",
     "blockingProcesses": [],
     "downloadURL": "https://download.jetbrains.com/python/dataspell-2026.1.3.1-aarch64.dmg",
     "downloadURLi386": "https://download.jetbrains.com/python/dataspell-2026.1.3.1.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainsdataspell",
     "name": "DataSpell",
-    "timeStamp": "2026-11-05T20:29:31Z",
+    "timeStamp": "2026-10-30T18:17:44Z",
     "type": "dmg"
   }
 ]

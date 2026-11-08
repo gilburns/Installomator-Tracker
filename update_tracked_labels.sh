@@ -378,6 +378,20 @@ for labelFile in "${labelFiles[@]}"; do
         currentTracked="[]"
     fi
 
+    # A label that scrapes its version from a redirect URL can pick up a
+    # stray number from a signed CDN query string instead (the JetBrains
+    # labels' sed matched "-8-" inside the CloudFront signature). Reject a
+    # bare dotless version when the last tracked one was dotted, so labels
+    # whose versions really are whole numbers are unaffected. The signature
+    # changes from request to request, so just skip this run rather than
+    # adding the label to failed_labels.json.
+    lastVersion=$(echo "$currentTracked" | jq -r 'if length > 0 then (sort_by(.timeStamp) | last | .appNewVersion // empty) else empty end')
+    if [[ "$appNewVersion" != *.* && "$lastVersion" == *.* ]]; then
+        echo "[$label] WARN: ignoring appNewVersion '$appNewVersion' (no dot, previous was '$lastVersion'), likely mis-parsed" >&2
+        failCount=$((failCount + 1))
+        continue
+    fi
+
     alreadyTracked=$(echo "$currentTracked" | jq --arg v "$appNewVersion" 'any(.[]; .appNewVersion == $v)')
 
     tmpFile=$(mktemp)

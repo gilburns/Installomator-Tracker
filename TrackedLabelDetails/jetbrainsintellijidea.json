@@ -85,20 +85,6 @@
   },
   {
     "appName": "",
-    "appNewVersion": "4",
-    "blockingProcesses": [
-      "idea"
-    ],
-    "downloadURL": "https://download.jetbrains.com/idea/idea-2026.2.3-aarch64.dmg",
-    "downloadURLi386": "https://download.jetbrains.com/idea/idea-2026.2.3.dmg",
-    "expectedTeamID": "2ZEFAR8TH3",
-    "label": "jetbrainsintellijidea",
-    "name": "IntelliJ IDEA",
-    "timeStamp": "2026-10-22T06:27:11Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
     "appNewVersion": "2026.2.4",
     "blockingProcesses": [
       "idea"
@@ -117,37 +103,12 @@
     "blockingProcesses": [
       "idea"
     ],
-    "downloadURLi386": "https://download.jetbrains.com/idea/idea-2026.3.dmg",
-    "expectedTeamID": "2ZEFAR8TH3",
-    "label": "jetbrainsintellijidea",
-    "name": "IntelliJ IDEA",
-    "timeStamp": "2026-11-05T08:35:10Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "7",
-    "blockingProcesses": [
-      "idea"
-    ],
-    "expectedTeamID": "2ZEFAR8TH3",
-    "label": "jetbrainsintellijidea",
-    "name": "IntelliJ IDEA",
-    "timeStamp": "2026-11-05T21:27:06Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "2",
-    "blockingProcesses": [
-      "idea"
-    ],
     "downloadURL": "https://download.jetbrains.com/idea/idea-2026.3-aarch64.dmg",
     "downloadURLi386": "https://download.jetbrains.com/idea/idea-2026.3.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainsintellijidea",
     "name": "IntelliJ IDEA",
-    "timeStamp": "2026-11-07T16:29:37Z",
+    "timeStamp": "2026-11-05T08:35:10Z",
     "type": "dmg"
   }
 ]

@@ -75,6 +75,7 @@
     "appName": "",
     "appNewVersion": "2026.2.4",
     "blockingProcesses": [],
+    "downloadURL": "https://download.jetbrains.com/python/pycharm-2026.2.4-aarch64.dmg",
     "downloadURLi386": "https://download.jetbrains.com/python/pycharm-2026.2.4.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainspycharm",
@@ -84,47 +85,14 @@
   },
   {
     "appName": "",
-    "appNewVersion": "4",
-    "blockingProcesses": [],
-    "downloadURL": "https://download.jetbrains.com/python/pycharm-2026.2.4-aarch64.dmg",
-    "downloadURLi386": "https://download.jetbrains.com/python/pycharm-2026.2.4.dmg",
-    "expectedTeamID": "2ZEFAR8TH3",
-    "label": "jetbrainspycharm",
-    "name": "PyCharm",
-    "timeStamp": "2026-11-02T18:27:10Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
     "appNewVersion": "2026.3",
-    "blockingProcesses": [],
-    "downloadURLi386": "https://download.jetbrains.com/python/pycharm-2026.3.dmg",
-    "expectedTeamID": "2ZEFAR8TH3",
-    "label": "jetbrainspycharm",
-    "name": "PyCharm",
-    "timeStamp": "2026-11-05T14:48:36Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "9",
-    "blockingProcesses": [],
-    "expectedTeamID": "2ZEFAR8TH3",
-    "label": "jetbrainspycharm",
-    "name": "PyCharm",
-    "timeStamp": "2026-11-08T01:29:46Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "2",
     "blockingProcesses": [],
     "downloadURL": "https://download.jetbrains.com/python/pycharm-2026.3-aarch64.dmg",
     "downloadURLi386": "https://download.jetbrains.com/python/pycharm-2026.3.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainspycharm",
     "name": "PyCharm",
-    "timeStamp": "2026-11-08T09:53:38Z",
+    "timeStamp": "2026-11-05T14:48:36Z",
     "type": "dmg"
   }
 ]
