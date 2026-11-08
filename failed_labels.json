@@ -555,6 +555,11 @@
       "lastSeen": "2026-11-08T02:42:09Z",
       "reason": "resolve failed (exit 98)"
     },
+    "mactexbasic": {
+      "firstSeen": "2026-11-08T04:35:32Z",
+      "lastSeen": "2026-11-08T04:35:32Z",
+      "reason": "resolve failed (exit 142)"
+    },
     "magicbullet": {
       "firstSeen": "2026-11-08T02:42:44Z",
       "lastSeen": "2026-11-08T02:42:44Z",
@@ -920,6 +925,11 @@
       "lastSeen": "2026-11-08T02:48:55Z",
       "reason": "label does not set appNewVersion"
     },
+    "sequelace": {
+      "firstSeen": "2026-11-08T04:41:35Z",
+      "lastSeen": "2026-11-08T04:41:35Z",
+      "reason": "missing appNewVersion"
+    },
     "sidekick": {
       "firstSeen": "2026-11-08T02:49:12Z",
       "lastSeen": "2026-11-08T02:49:12Z",
@@ -934,6 +944,11 @@
       "firstSeen": "2026-11-08T02:49:19Z",
       "lastSeen": "2026-11-08T02:49:19Z",
       "reason": "invalid JSON output"
+    },
+    "soapuiopensource": {
+      "firstSeen": "2026-11-08T04:42:19Z",
+      "lastSeen": "2026-11-08T04:42:19Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "sococo": {
       "firstSeen": "2026-11-08T02:49:44Z",
