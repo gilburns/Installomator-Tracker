@@ -1,0 +1,41 @@
+{
+  "label": "jetbrainspycharm",
+  "labelFile": "fragments/labels/jetbrainspycharm.sh",
+  "pullRequests": [
+    {
+      "number": 3570,
+      "title": "Update jetbrainspycharm.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3570",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-08T23:05:51Z",
+      "updatedAt": "2026-11-08T23:06:01Z",
+      "baseBranch": "main",
+      "headBranch": "FixJetbrainspycharm",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "a942f82f2924568d05a5dab83cbe4dcab111bc14",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "jetbrainspycharm"
+      ]
+    }
+  ]
+}

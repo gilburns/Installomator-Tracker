@@ -1,0 +1,41 @@
+{
+  "label": "jetbrainsdatagrip",
+  "labelFile": "fragments/labels/jetbrainsdatagrip.sh",
+  "pullRequests": [
+    {
+      "number": 3575,
+      "title": "Update jetbrainsdatagrip.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3575",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-08T23:08:22Z",
+      "updatedAt": "2026-11-08T23:08:33Z",
+      "baseBranch": "main",
+      "headBranch": "FixJetbrainsdatagrip",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "e3c9aef8dfb3b7cdf8f0c8793d6f5ee8b9cc9962",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "jetbrainsdatagrip"
+      ]
+    }
+  ]
+}

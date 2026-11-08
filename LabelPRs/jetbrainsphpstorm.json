@@ -1,0 +1,41 @@
+{
+  "label": "jetbrainsphpstorm",
+  "labelFile": "fragments/labels/jetbrainsphpstorm.sh",
+  "pullRequests": [
+    {
+      "number": 3571,
+      "title": "Update jetbrainsphpstorm.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3571",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-08T23:06:41Z",
+      "updatedAt": "2026-11-08T23:06:59Z",
+      "baseBranch": "main",
+      "headBranch": "FixJetbrainsphpstorm",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "1ea5d5c114baeb5c72ef2c67eb8693d5f71d979d",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "jetbrainsphpstorm"
+      ]
+    }
+  ]
+}

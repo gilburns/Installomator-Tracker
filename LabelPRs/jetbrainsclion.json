@@ -1,0 +1,41 @@
+{
+  "label": "jetbrainsclion",
+  "labelFile": "fragments/labels/jetbrainsclion.sh",
+  "pullRequests": [
+    {
+      "number": 3576,
+      "title": "Update jetbrainsclion.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3576",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-08T23:08:47Z",
+      "updatedAt": "2026-11-08T23:08:59Z",
+      "baseBranch": "main",
+      "headBranch": "FixJetbrainsclion",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "1d88db8a391dae40681f047f00741bf0d3d5810a",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "jetbrainsclion"
+      ]
+    }
+  ]
+}

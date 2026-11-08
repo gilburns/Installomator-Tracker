@@ -1,0 +1,41 @@
+{
+  "label": "jetbrainswebstorm",
+  "labelFile": "fragments/labels/jetbrainswebstorm.sh",
+  "pullRequests": [
+    {
+      "number": 3566,
+      "title": "Update jetbrainswebstorm.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3566",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-08T23:04:15Z",
+      "updatedAt": "2026-11-08T23:04:27Z",
+      "baseBranch": "main",
+      "headBranch": "FixJetbrainswebstorm",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "c8f4a187d7d4926b92e44ba0ccc4abbcd428c202",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "jetbrainswebstorm"
+      ]
+    }
+  ]
+}

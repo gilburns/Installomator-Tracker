@@ -1,0 +1,41 @@
+{
+  "label": "jetbrainsgateway",
+  "labelFile": "fragments/labels/jetbrainsgateway.sh",
+  "pullRequests": [
+    {
+      "number": 3573,
+      "title": "Update jetbrainsgateway.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3573",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-08T23:07:40Z",
+      "updatedAt": "2026-11-08T23:07:54Z",
+      "baseBranch": "main",
+      "headBranch": "FixJetbrainsgateway",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "b90fd6340e843d8168dd85b60cf761a5c81d2669",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "jetbrainsgateway"
+      ]
+    }
+  ]
+}

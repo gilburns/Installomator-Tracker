@@ -1,0 +1,41 @@
+{
+  "label": "jetbrainsintellijidea",
+  "labelFile": "fragments/labels/jetbrainsintellijidea.sh",
+  "pullRequests": [
+    {
+      "number": 3572,
+      "title": "Update jetbrainsintellijidea.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3572",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-08T23:07:18Z",
+      "updatedAt": "2026-11-08T23:07:29Z",
+      "baseBranch": "main",
+      "headBranch": "FixJetbrainsintellijidea",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "e289eda8b4a50edbf494c4e5612d758ef3c2e5d4",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "jetbrainsintellijidea"
+      ]
+    }
+  ]
+}

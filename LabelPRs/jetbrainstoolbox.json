@@ -1,0 +1,41 @@
+{
+  "label": "jetbrainstoolbox",
+  "labelFile": "fragments/labels/jetbrainstoolbox.sh",
+  "pullRequests": [
+    {
+      "number": 3567,
+      "title": "Update jetbrainstoolbox.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3567",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-08T23:04:40Z",
+      "updatedAt": "2026-11-08T23:04:51Z",
+      "baseBranch": "main",
+      "headBranch": "FixJetbrainstoolbox",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "f8de9d8e324dfaf6a07339252d4ec8bd68bb6d30",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "jetbrainstoolbox"
+      ]
+    }
+  ]
+}
