@@ -1,0 +1,43 @@
+{
+  "label": "facebookmessenger",
+  "labelFile": "fragments/labels/facebookmessenger.sh",
+  "pullRequests": [
+    {
+      "number": 3553,
+      "title": "Disable facebookmessenger.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3553",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-07T05:23:40Z",
+      "updatedAt": "2026-11-07T05:24:04Z",
+      "baseBranch": "main",
+      "headBranch": "DisableFacebookMessenger",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "0ccb0d25f60ab97c638b7f86478ec77ab196befe",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "DISABLED",
+        "additions": 0,
+        "deletions": 0,
+        "path": "fragments/disabled/facebookmessenger.sh",
+        "previousPath": "fragments/labels/facebookmessenger.sh"
+      },
+      "labelsInPR": [
+        "facebookmessenger"
+      ]
+    }
+  ]
+}

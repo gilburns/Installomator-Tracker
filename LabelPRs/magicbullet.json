@@ -40,6 +40,52 @@
         "magicbullet",
         "vfx"
       ]
+    },
+    {
+      "number": 3485,
+      "title": "Disable Magic Bullet Label",
+      "url": "https://github.com/Installomator/Installomator/pull/3485",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-24T17:52:14Z",
+      "updatedAt": "2026-10-27T16:51:14Z",
+      "baseBranch": "main",
+      "headBranch": "DisableMagicBulletSuite",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "duplicate",
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-27T16:51:14Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "df0384d667f95a5c6fd9b785f3dd455eb918a317",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "DISABLED",
+        "additions": 0,
+        "deletions": 0,
+        "path": "fragments/disabled/magicbullet.sh",
+        "previousPath": "fragments/labels/magicbullet.sh"
+      },
+      "labelsInPR": [
+        "magicbullet"
+      ]
     }
   ]
 }

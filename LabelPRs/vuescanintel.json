@@ -1,0 +1,52 @@
+{
+  "label": "vuescanintel",
+  "labelFile": "fragments/labels/vuescanintel.sh",
+  "pullRequests": [
+    {
+      "number": 3457,
+      "title": "Disable duplicate vuescanintel.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3457",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-18T15:39:09Z",
+      "updatedAt": "2026-10-19T20:43:05Z",
+      "baseBranch": "main",
+      "headBranch": "DisableDupViewScan",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "duplicate",
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-19T20:43:05Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "bca76801532ac33f605eae9841a8e07f9b67c0f8",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "DISABLED",
+        "additions": 0,
+        "deletions": 0,
+        "path": "fragments/disabled/vuescanintel.sh",
+        "previousPath": "fragments/labels/vuescanintel.sh"
+      },
+      "labelsInPR": [
+        "vuescanintel"
+      ]
+    }
+  ]
+}

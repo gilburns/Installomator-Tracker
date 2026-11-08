@@ -1,0 +1,51 @@
+{
+  "label": "pppcutility",
+  "labelFile": "fragments/labels/pppcutility.sh",
+  "pullRequests": [
+    {
+      "number": 3438,
+      "title": "Disable pppcutility label",
+      "url": "https://github.com/Installomator/Installomator/pull/3438",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-16T19:28:22Z",
+      "updatedAt": "2026-10-17T20:07:03Z",
+      "baseBranch": "main",
+      "headBranch": "disable-pppcutility",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-17T20:07:03Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "fc30338c5c1bd48fce5947f9dbff10fa09f589a3",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "DISABLED",
+        "additions": 0,
+        "deletions": 0,
+        "path": "fragments/disabled/pppcutility.sh",
+        "previousPath": "fragments/labels/pppcutility.sh"
+      },
+      "labelsInPR": [
+        "pppcutility"
+      ]
+    }
+  ]
+}

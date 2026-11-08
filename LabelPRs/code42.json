@@ -1,0 +1,43 @@
+{
+  "label": "code42",
+  "labelFile": "fragments/labels/code42.sh",
+  "pullRequests": [
+    {
+      "number": 3559,
+      "title": "Disable code42.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3559",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-07T23:29:17Z",
+      "updatedAt": "2026-11-07T23:29:27Z",
+      "baseBranch": "main",
+      "headBranch": "DisableCode42",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "1b0ea872a000e7f4a37a3e8881e11dea0511d3bb",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "DISABLED",
+        "additions": 0,
+        "deletions": 0,
+        "path": "fragments/disabled/code42.sh",
+        "previousPath": "fragments/labels/code42.sh"
+      },
+      "labelsInPR": [
+        "code42"
+      ]
+    }
+  ]
+}

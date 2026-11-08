@@ -1,0 +1,43 @@
+{
+  "label": "nomad",
+  "labelFile": "fragments/labels/nomad.sh",
+  "pullRequests": [
+    {
+      "number": 3560,
+      "title": "Disable nomad.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3560",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-07T23:32:47Z",
+      "updatedAt": "2026-11-07T23:33:01Z",
+      "baseBranch": "main",
+      "headBranch": "DisableNomad",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "9ab8165878f8e235b243242cbc54091b19ba89b8",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "DISABLED",
+        "additions": 0,
+        "deletions": 0,
+        "path": "fragments/disabled/nomad.sh",
+        "previousPath": "fragments/labels/nomad.sh"
+      },
+      "labelsInPR": [
+        "nomad"
+      ]
+    }
+  ]
+}

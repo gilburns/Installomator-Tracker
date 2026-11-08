@@ -1,0 +1,49 @@
+{
+  "label": "stats",
+  "labelFile": "fragments/labels/stats.sh",
+  "pullRequests": [
+    {
+      "number": 3422,
+      "title": "Move `stats.sh` to disabled due to duplicate label named `exelbanstats.sh`",
+      "url": "https://github.com/Installomator/Installomator/pull/3422",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-10-13T16:57:56Z",
+      "updatedAt": "2026-10-15T02:02:27Z",
+      "baseBranch": "main",
+      "headBranch": "stats-lable-disable",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-10-15T02:02:27Z"
+        }
+      ],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "fa338d7092ac52ca6994c1b3b078fae8ad620bd9",
+      "commitCount": 1,
+      "commentCount": 2,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "DISABLED",
+        "additions": 0,
+        "deletions": 0,
+        "path": "fragments/disabled/stats.sh",
+        "previousPath": "fragments/labels/stats.sh"
+      },
+      "labelsInPR": [
+        "stats"
+      ]
+    }
+  ]
+}
