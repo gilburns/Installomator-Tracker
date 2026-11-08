@@ -42,5 +42,16 @@
     "name": "Praat",
     "timeStamp": "2026-08-28T09:32:08Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.0.03",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/praat/praat.github.io/releases/download/v7.0.03/praat7003_mac.dmg",
+    "expectedTeamID": "J9C6R9XA5W",
+    "label": "praat",
+    "name": "Praat",
+    "timeStamp": "2026-11-08T02:47:02Z",
+    "type": "dmg"
   }
 ]
