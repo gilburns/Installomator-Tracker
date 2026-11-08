@@ -295,8 +295,15 @@ for labelFile in "${labelFiles[@]}"; do
     rm -f "$outFile"
 
     if [[ $exitStatus -ne 0 || -z "$jsonOutput" ]]; then
-        echo "[$label] FAILED to resolve (exit $exitStatus)" >&2
-        newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "resolve failed (exit $exitStatus)" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
+        # 142 = 128 + SIGALRM (14), from the alarm() in runLabelWithTimeout.
+        # Any other non-zero status is the label's own cleanupAndExit code.
+        if [[ $exitStatus -eq 142 ]]; then
+            reason="timed out after ${TIMEOUT_SECS}s"
+        else
+            reason="resolve failed (exit $exitStatus)"
+        fi
+        echo "[$label] FAILED: $reason" >&2
+        newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "$reason" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
             .[$l] = {reason: $reason, firstSeen: (.[$l].firstSeen // $now), lastSeen: $now}
         ')
         failCount=$((failCount + 1))

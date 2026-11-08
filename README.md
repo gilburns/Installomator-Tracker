@@ -43,6 +43,12 @@ Some labels branch on `$(arch)` to serve different Intel vs. Apple Silicon downl
 
 Some labels can't be resolved through this lightweight method at all - about ~250 of the ~1,163, mostly because the label script itself never sets `appNewVersion` (it relies on Installomator's full install flow inspecting the downloaded installer after the fact, which this project doesn't do). Since those fail identically on every run, [`failed_labels.json`](failed_labels.json) records them and they're skipped on subsequent runs - no point re-paying the network cost for a label that hasn't changed and is going to fail the same way again. That cache resets automatically whenever the actual content of `Labels/` changes (so a label fixed upstream gets retried), with a 1-day fallback retry regardless, in case something was blacklisted from a one-off transient failure rather than a real problem.
 
+#### Exit codes in failure reasons
+
+A reason like `resolve failed (exit 98)` means the label itself stopped with `cleanupAndExit 98`. These are Installomator's exit codes, passed through unchanged, so they mean the same thing they do in Installomator. See the [Installomator Exit Codes](https://github.com/Installomator/Installomator/wiki/Installomator-Exit-Codes) wiki page, or the label's own `cleanupAndExit` line. Each label resolve is capped at 60 seconds. One that runs over is recorded as `timed out after 60s` rather than an exit code.
+
+Labels are resolved as if they were running on macOS 27.2: `installedOSversion` and `sw_vers -productVersion` both report it, whatever macOS the runner has, so labels that pick an OS-specific download get the latest one. A label that only supports older macOS versions can be given a lower version in `osVersionOverrides` in `process_label.sh`.
+
 ## Repo layout
 
 | Path | What it is |

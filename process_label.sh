@@ -3,6 +3,9 @@
 export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"
 export LANG="en_US.UTF-8"
 
+# Installomator autoloads this zsh helper, and labels use it for OS version checks
+autoload -Uz is-at-least
+
 ################################
 # FUNCTIONS FUNCTIONS FUNCTIONS
 ################################
@@ -184,6 +187,26 @@ label=$fullPathToLabel:t:r
 
 # Surpress helper tools from running when labels are evaluated
 INSTALL="force"
+
+# Installomator sets installedOSversion from the running Mac, and some labels
+# branch on it (or exit) to pick an OS-specific download. We're only looking
+# for the latest version and URL, not installing, so report the newest macOS
+# regardless of what the runner is on. A label that only supports older macOS
+# versions can be given a lower version in osVersionOverrides.
+typeset -A osVersionOverrides=(
+    amadeuspro2 "12.7.6"
+)
+installedOSversion="${osVersionOverrides[$label]:-27.2}"
+
+# A few labels call sw_vers directly instead of using installedOSversion, so
+# make it report the same version.
+sw_vers() {
+    if [[ "$1" == "-productVersion" ]]; then
+        echo "$installedOSversion"
+    else
+        command sw_vers "$@"
+    fi
+}
 
 # Read contents of the label into variable
 labelFile=$(/bin/cat "${fullPathToLabel}")
