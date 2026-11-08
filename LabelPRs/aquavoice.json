@@ -1,0 +1,39 @@
+{
+  "label": "aquavoice",
+  "labelFile": "fragments/labels/aquavoice.sh",
+  "pullRequests": [
+    {
+      "number": 3562,
+      "title": "feat: add aquavoice label to Labels",
+      "url": "https://github.com/Installomator/Installomator/pull/3562",
+      "author": {
+        "login": "ad2012",
+        "url": "https://github.com/ad2012"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-08T11:23:49Z",
+      "updatedAt": "2026-11-08T11:23:49Z",
+      "baseBranch": "main",
+      "headBranch": "main",
+      "headRepository": "ad2012/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "3248a3ae852ecaaa53b94d3b394dd0de7d610a3f",
+      "commitCount": 2,
+      "commentCount": 0,
+      "changedFileCount": 2,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 40,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "aquavoice"
+      ]
+    }
+  ]
+}
