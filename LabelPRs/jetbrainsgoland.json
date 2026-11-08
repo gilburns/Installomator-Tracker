@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-18T14:00:16Z",
-      "updatedAt": "2026-10-19T15:50:08Z",
+      "updatedAt": "2026-11-08T21:36:44Z",
       "baseBranch": "main",
       "headBranch": "MergeGoLandCase",
       "headRepository": "gilburns/Installomator",
@@ -20,26 +20,21 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [
-        {
-          "reviewer": "uurazzle",
-          "state": "APPROVED",
-          "submittedAt": "2026-10-19T15:50:08Z"
-        }
-      ],
+      "reviews": [],
       "requestedReviewers": [
-        "acodega"
+        "acodega",
+        "uurazzle"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "fd7567fa4b924c92e7fe8cc6d969be96623c691a",
-      "commitCount": 2,
-      "commentCount": 0,
+      "headCommit": "3cb2db828cc1cc09e84c87d38fb3c6f3a63af5d7",
+      "commitCount": 3,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
-        "additions": 2,
-        "deletions": 1
+        "additions": 3,
+        "deletions": 2
       },
       "labelsInPR": [
         "jetbrainsgoland"
