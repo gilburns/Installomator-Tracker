@@ -525,6 +525,11 @@
       "lastSeen": "2026-11-08T19:48:55Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "mactexbasic": {
+      "firstSeen": "2026-11-08T20:31:14Z",
+      "lastSeen": "2026-11-08T20:31:14Z",
+      "reason": "missing appNewVersion"
+    },
     "mactexfull": {
       "firstSeen": "2026-11-08T06:39:17Z",
       "lastSeen": "2026-11-08T19:49:05Z",
