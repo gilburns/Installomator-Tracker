@@ -12,16 +12,6 @@
   },
   {
     "appName": "",
-    "appNewVersion": "Binary file (standard input) matches",
-    "blockingProcesses": [],
-    "expectedTeamID": "5RJWFAUGXQ",
-    "label": "clickup",
-    "name": "ClickUp",
-    "timeStamp": "2026-10-24T02:25:14Z",
-    "type": "dmg"
-  },
-  {
-    "appName": "",
     "appNewVersion": "3.5.395",
     "blockingProcesses": [],
     "expectedTeamID": "5RJWFAUGXQ",
