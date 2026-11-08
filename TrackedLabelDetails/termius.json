@@ -33,11 +33,21 @@
     "appName": "",
     "appNewVersion": "10.4.0",
     "blockingProcesses": [],
-    "downloadURL": "https://download.termius.com/mac-universal/Termius.dmg",
     "expectedTeamID": "6KN952WR85",
     "label": "termius",
     "name": "Termius",
     "timeStamp": "2026-11-04T01:01:15Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "10.4.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.termius.com/mac-universal/Termius.dmg",
+    "expectedTeamID": "6KN952WR85",
+    "label": "termius",
+    "name": "Termius",
+    "timeStamp": "2026-11-08T23:39:09Z",
     "type": "dmg"
   }
 ]

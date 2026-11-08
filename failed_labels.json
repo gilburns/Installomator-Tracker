@@ -420,6 +420,11 @@
       "lastSeen": "2026-11-08T19:47:50Z",
       "reason": "missing appNewVersion"
     },
+    "hazel": {
+      "firstSeen": "2026-11-08T23:27:15Z",
+      "lastSeen": "2026-11-08T23:27:15Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "hmavpn": {
       "firstSeen": "2026-11-08T02:34:27Z",
       "lastSeen": "2026-11-08T19:47:52Z",
