@@ -9,5 +9,16 @@
     "name": "Infinite Calculus",
     "timeStamp": "2026-09-19T18:22:26Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.5.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.kutasoftware.com/retail/mac/ICA-Site-3.05.02.dmg",
+    "expectedTeamID": "2XHJ678JT7",
+    "label": "infinitecalculus",
+    "name": "Infinite Calculus",
+    "timeStamp": "2026-11-08T19:27:10Z",
+    "type": "dmg"
   }
 ]

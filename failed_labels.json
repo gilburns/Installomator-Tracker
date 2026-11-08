@@ -510,6 +510,11 @@
       "lastSeen": "2026-11-08T18:55:10Z",
       "reason": "timed out after 60s"
     },
+    "logitechoptionsplus": {
+      "firstSeen": "2026-11-08T19:30:31Z",
+      "lastSeen": "2026-11-08T19:30:31Z",
+      "reason": "missing appNewVersion"
+    },
     "lsagent": {
       "firstSeen": "2026-11-08T02:41:55Z",
       "lastSeen": "2026-11-08T18:55:12Z",
@@ -739,6 +744,11 @@
       "firstSeen": "2026-11-08T02:46:04Z",
       "lastSeen": "2026-11-08T18:56:53Z",
       "reason": "missing appNewVersion"
+    },
+    "pgadmin4": {
+      "firstSeen": "2026-11-08T19:35:28Z",
+      "lastSeen": "2026-11-08T19:35:28Z",
+      "reason": "timed out after 60s"
     },
     "pingplotter": {
       "firstSeen": "2026-11-08T02:46:36Z",
