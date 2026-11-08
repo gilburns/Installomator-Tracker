@@ -12,13 +12,19 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-08T11:23:49Z",
-      "updatedAt": "2026-11-08T11:23:49Z",
+      "updatedAt": "2026-11-08T15:26:50Z",
       "baseBranch": "main",
       "headBranch": "main",
       "headRepository": "ad2012/Installomator",
       "prLabels": [],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-08T15:26:50Z"
+        }
+      ],
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
