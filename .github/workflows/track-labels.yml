@@ -54,6 +54,8 @@ jobs:
           fi
 
       - name: Run label tracker
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: ./update_tracked_labels.sh --verbose
 
       - name: Commit tracked version changes

@@ -7,6 +7,20 @@ export LANG="en_US.UTF-8"
 # FUNCTIONS FUNCTIONS FUNCTIONS
 ################################
 
+# Unauthenticated api.github.com calls are capped at 60/hour per IP, far fewer
+# than the number of GitHub-based labels, so most of them fail on any given
+# run. When GH_TOKEN is set, wrap curl so every api.github.com request - from
+# downloadURLFromGit below or from a label's own curl call, since labels are
+# eval'd in this shell - is authenticated. curl drops the Authorization header
+# on redirects to other hosts, so the token isn't leaked to asset CDNs.
+curl() {
+    if [[ -n "${GH_TOKEN:-}" && "$*" == *api.github.com* ]]; then
+        command curl -H "Authorization: Bearer $GH_TOKEN" "$@"
+    else
+        command curl "$@"
+    fi
+}
+
 downloadURLFromGit() { # $1 git user name, $2 git repo name
     gitusername=${1?:"no git user name"}
     gitreponame=${2?:"no git repo name"}
