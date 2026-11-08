@@ -299,6 +299,8 @@ for labelFile in "${labelFiles[@]}"; do
         # Any other non-zero status is the label's own cleanupAndExit code.
         if [[ $exitStatus -eq 142 ]]; then
             reason="timed out after ${TIMEOUT_SECS}s"
+        elif [[ $exitStatus -eq 0 ]]; then
+            reason="label exited without a result (exit 0)"
         else
             reason="resolve failed (exit $exitStatus)"
         fi

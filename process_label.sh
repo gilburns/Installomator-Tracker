@@ -16,11 +16,17 @@ autoload -Uz is-at-least
 # downloadURLFromGit below or from a label's own curl call, since labels are
 # eval'd in this shell - is authenticated. curl drops the Authorization header
 # on redirects to other hosts, so the token isn't leaked to asset CDNs.
+#
+# Labels rarely set their own curl timeouts, so an unresponsive vendor site
+# would otherwise hang until the 60s per-label timeout. Default to a 10s
+# connect / 30s total limit; curl uses the last value given, so a label that
+# passes its own --connect-timeout or --max-time still wins.
 curl() {
+    local -a defaults=(--connect-timeout 10 --max-time 30)
     if [[ -n "${GH_TOKEN:-}" && "$*" == *api.github.com* ]]; then
-        command curl -H "Authorization: Bearer $GH_TOKEN" "$@"
+        command curl "${defaults[@]}" -H "Authorization: Bearer $GH_TOKEN" "$@"
     else
-        command curl "$@"
+        command curl "${defaults[@]}" "$@"
     fi
 }
 
@@ -87,6 +93,13 @@ xpath() {
 # getJSONValue "$json" "[0].some.path" (JS-style path, no leading dot needed
 # for bare keys). jq requires a leading dot for both forms, so add one
 # whenever the caller's path doesn't already start with one.
+#
+# The exit status has to match Installomator's too: labels loop over arrays
+# with e.g. `while value=$(getJSONValue "$json" "items[$i].name")`, relying on
+# JXA throwing (exit 1) once the index runs past the end or the JSON is empty.
+# jq just returns null there (or nothing, for empty input), so in either case
+# re-check with JXA, which tells a missing leaf key (undefined, exit 0) apart
+# from a missing parent or unparseable JSON (exit 1).
 getJSONValue() {
     local json="$1"
     local path="$2"
@@ -94,16 +107,19 @@ getJSONValue() {
         path=".$path"
     fi
     local value
-    if ! value=$(printf '%s' "$json" | /usr/bin/jq -r "$path" 2>/dev/null); then
+    local jsonStatus=0
+    if ! value=$(printf '%s' "$json" | /usr/bin/jq -r "$path" 2>/dev/null) || [[ -z "$value" || "$value" == "null" ]]; then
         # Some labels pass real JavaScript that jq can't parse, e.g.
         # .downloads.find(item => item.name.includes('X')).urls['Mac OS X'][0]
         # Fall back to evaluating it with JXA the way Installomator does.
         value=$(getJSONValueJXA "$json" "$2")
+        jsonStatus=$?
     fi
     if [[ "$value" == "null" || "$value" == "undefined" ]]; then
         value=""
     fi
     printf '%s' "$value"
+    return $jsonStatus
 }
 
 
@@ -138,6 +154,9 @@ resolveStableURL() { # $1 url
     local next
     local hops=0
     while (( hops++ < 10 )); do
+        # Mirror redirectors send each request to a different (random or
+        # geo-picked) mirror, so the redirector URL is the stable one.
+        [[ "$url" =~ '^https?://(mirror\.ctan\.org|download\.documentfoundation\.org|download\.kde\.org|downloads\.sourceforge\.net)/' ]] && break
         # Some servers ignore the range request and send the whole file (e.g.
         # a 400+ MB dmg), so cap the size and time spent. -w still prints the
         # redirect URL when curl bails out on either limit.
@@ -156,6 +175,13 @@ cleanupAndExit() { # $1 exit code, $2 message, $3 log level
     local level="${3:-ERROR}"
     printlog "$message" "$level"
     exit "$code"
+}
+
+
+# Installomator runs this as the logged-in console user. Nothing here runs as
+# root, so just run it as the current user.
+runAsUser() {
+    "$@"
 }
 
 
