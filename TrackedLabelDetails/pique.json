@@ -9,5 +9,16 @@
     "name": "Pique",
     "timeStamp": "2026-07-03T15:59:33Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/macadmins/pique/releases/download/v1.0.0/Pique-1.0.0.pkg",
+    "expectedTeamID": "T4SK8ZXCXG",
+    "label": "pique",
+    "name": "Pique",
+    "timeStamp": "2026-11-08T18:56:55Z",
+    "type": "pkg"
   }
 ]

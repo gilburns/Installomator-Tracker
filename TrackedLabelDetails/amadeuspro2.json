@@ -9,5 +9,16 @@
     "name": "Amadeus Pro",
     "timeStamp": "2026-07-06T23:14:58Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.8.14",
+    "blockingProcesses": [],
+    "downloadURL": "https://s3.amazonaws.com/AmadeusPro2/AmadeusPro_2.8.14.zip",
+    "expectedTeamID": "FWDH9W45C2",
+    "label": "amadeuspro2",
+    "name": "Amadeus Pro",
+    "timeStamp": "2026-11-08T18:49:53Z",
+    "type": "zip"
   }
 ]

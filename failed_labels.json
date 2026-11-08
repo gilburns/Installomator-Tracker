@@ -2,27 +2,27 @@
   "failed": {
     "abstract": {
       "firstSeen": "2026-11-08T02:21:16Z",
-      "lastSeen": "2026-11-08T16:44:12Z",
+      "lastSeen": "2026-11-08T18:49:42Z",
       "reason": "missing appNewVersion"
     },
     "acroniscyberprotectconnect": {
       "firstSeen": "2026-11-08T02:21:18Z",
-      "lastSeen": "2026-11-08T16:44:18Z",
+      "lastSeen": "2026-11-08T18:49:47Z",
       "reason": "missing appNewVersion"
     },
     "acroniscyberprotectconnectagent": {
       "firstSeen": "2026-11-08T02:21:19Z",
-      "lastSeen": "2026-11-08T16:44:20Z",
+      "lastSeen": "2026-11-08T18:49:49Z",
       "reason": "missing appNewVersion"
     },
     "adobeconnect": {
       "firstSeen": "2026-11-08T02:21:20Z",
-      "lastSeen": "2026-11-08T16:44:21Z",
+      "lastSeen": "2026-11-08T18:49:50Z",
       "reason": "missing appNewVersion"
     },
     "adobereaderdc": {
       "firstSeen": "2026-11-08T02:21:23Z",
-      "lastSeen": "2026-11-08T16:44:23Z",
+      "lastSeen": "2026-11-08T18:49:51Z",
       "reason": "missing appNewVersion"
     },
     "airtable": {
@@ -32,22 +32,17 @@
     },
     "altserver": {
       "firstSeen": "2026-11-08T02:21:46Z",
-      "lastSeen": "2026-11-08T16:44:31Z",
+      "lastSeen": "2026-11-08T18:49:52Z",
       "reason": "missing appNewVersion"
-    },
-    "amadeuspro2": {
-      "firstSeen": "2026-11-08T02:21:47Z",
-      "lastSeen": "2026-11-08T16:44:32Z",
-      "reason": "resolve failed (exit 95)"
     },
     "amazonredshiftodbc": {
       "firstSeen": "2026-11-08T02:22:00Z",
-      "lastSeen": "2026-11-08T16:44:35Z",
+      "lastSeen": "2026-11-08T18:49:54Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "antcon": {
       "firstSeen": "2026-11-08T02:22:12Z",
-      "lastSeen": "2026-11-08T16:44:42Z",
+      "lastSeen": "2026-11-08T18:49:54Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "applenyfonts": {
@@ -82,28 +77,28 @@
     },
     "archimate": {
       "firstSeen": "2026-11-08T02:22:34Z",
-      "lastSeen": "2026-11-08T16:44:52Z",
+      "lastSeen": "2026-11-08T18:49:56Z",
       "reason": "missing appNewVersion"
     },
     "archiwareb2go": {
       "firstSeen": "2026-11-08T02:22:36Z",
-      "lastSeen": "2026-11-08T16:44:54Z",
+      "lastSeen": "2026-11-08T18:49:59Z",
       "reason": "missing appNewVersion"
     },
     "archiwarepst": {
       "firstSeen": "2026-11-08T02:22:37Z",
-      "lastSeen": "2026-11-08T16:44:56Z",
+      "lastSeen": "2026-11-08T18:50:00Z",
       "reason": "missing appNewVersion"
     },
     "arq7": {
       "firstSeen": "2026-11-08T02:22:40Z",
-      "lastSeen": "2026-11-08T16:45:01Z",
+      "lastSeen": "2026-11-08T18:50:02Z",
       "reason": "missing appNewVersion"
     },
     "arturiasoftwarecenter": {
       "firstSeen": "2026-11-08T02:23:43Z",
-      "lastSeen": "2026-11-08T16:46:02Z",
-      "reason": "resolve failed (exit 142)"
+      "lastSeen": "2026-11-08T18:51:02Z",
+      "reason": "timed out after 60s"
     },
     "asana": {
       "firstSeen": "2026-11-08T02:23:43Z",
@@ -122,7 +117,7 @@
     },
     "avertouch": {
       "firstSeen": "2026-11-08T02:23:53Z",
-      "lastSeen": "2026-11-08T16:46:17Z",
+      "lastSeen": "2026-11-08T18:51:04Z",
       "reason": "missing appNewVersion"
     },
     "aviatrix": {
@@ -147,22 +142,22 @@
     },
     "betterzip": {
       "firstSeen": "2026-11-08T02:24:20Z",
-      "lastSeen": "2026-11-08T16:46:27Z",
+      "lastSeen": "2026-11-08T18:51:07Z",
       "reason": "missing appNewVersion"
     },
     "blackhole16ch": {
       "firstSeen": "2026-11-08T02:24:32Z",
-      "lastSeen": "2026-11-08T16:46:29Z",
+      "lastSeen": "2026-11-08T18:51:08Z",
       "reason": "missing appNewVersion"
     },
     "blackhole2ch": {
       "firstSeen": "2026-11-08T02:24:34Z",
-      "lastSeen": "2026-11-08T16:46:31Z",
+      "lastSeen": "2026-11-08T18:51:09Z",
       "reason": "missing appNewVersion"
     },
     "blackhole64": {
       "firstSeen": "2026-11-08T02:24:34Z",
-      "lastSeen": "2026-11-08T16:46:32Z",
+      "lastSeen": "2026-11-08T18:51:10Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "boxsync": {
@@ -177,17 +172,17 @@
     },
     "brosix": {
       "firstSeen": "2026-11-08T02:24:58Z",
-      "lastSeen": "2026-11-08T16:46:46Z",
+      "lastSeen": "2026-11-08T18:51:11Z",
       "reason": "missing appNewVersion"
     },
     "calibre": {
       "firstSeen": "2026-11-08T02:25:15Z",
-      "lastSeen": "2026-11-08T16:47:04Z",
+      "lastSeen": "2026-11-08T18:51:12Z",
       "reason": "missing appNewVersion"
     },
     "cardpresso": {
       "firstSeen": "2026-11-08T02:25:33Z",
-      "lastSeen": "2026-11-08T16:47:14Z",
+      "lastSeen": "2026-11-08T18:51:15Z",
       "reason": "missing appNewVersion"
     },
     "chatwork": {
@@ -197,17 +192,17 @@
     },
     "chromeremotedesktop": {
       "firstSeen": "2026-11-08T02:26:24Z",
-      "lastSeen": "2026-11-08T16:47:15Z",
+      "lastSeen": "2026-11-08T18:51:15Z",
       "reason": "missing appNewVersion"
     },
     "cinema4d2023": {
       "firstSeen": "2026-11-08T02:26:27Z",
-      "lastSeen": "2026-11-08T16:47:18Z",
+      "lastSeen": "2026-11-08T18:51:18Z",
       "reason": "missing appNewVersion"
     },
     "cisdemdocumentreader": {
       "firstSeen": "2026-11-08T02:26:31Z",
-      "lastSeen": "2026-11-08T16:47:20Z",
+      "lastSeen": "2026-11-08T18:51:19Z",
       "reason": "missing appNewVersion"
     },
     "cleartouchcollage": {
@@ -217,12 +212,12 @@
     },
     "clevershare2": {
       "firstSeen": "2026-11-08T02:26:35Z",
-      "lastSeen": "2026-11-08T16:47:21Z",
+      "lastSeen": "2026-11-08T18:51:20Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "clipgrab": {
       "firstSeen": "2026-11-08T02:27:04Z",
-      "lastSeen": "2026-11-08T16:47:24Z",
+      "lastSeen": "2026-11-08T18:51:22Z",
       "reason": "missing appNewVersion"
     },
     "code42": {
@@ -232,12 +227,12 @@
     },
     "craftmanagerforsketch": {
       "firstSeen": "2026-11-08T02:27:41Z",
-      "lastSeen": "2026-11-08T16:47:39Z",
+      "lastSeen": "2026-11-08T18:51:23Z",
       "reason": "missing appNewVersion"
     },
     "daylite": {
       "firstSeen": "2026-11-08T02:28:11Z",
-      "lastSeen": "2026-11-08T16:47:54Z",
+      "lastSeen": "2026-11-08T18:51:27Z",
       "reason": "missing appNewVersion"
     },
     "debookee": {
@@ -252,7 +247,7 @@
     },
     "doctolib": {
       "firstSeen": "2026-11-08T02:29:28Z",
-      "lastSeen": "2026-11-08T16:48:05Z",
+      "lastSeen": "2026-11-08T18:51:29Z",
       "reason": "missing appNewVersion"
     },
     "drift": {
@@ -267,7 +262,7 @@
     },
     "dynalist": {
       "firstSeen": "2026-11-08T02:29:56Z",
-      "lastSeen": "2026-11-08T16:48:11Z",
+      "lastSeen": "2026-11-08T18:51:30Z",
       "reason": "missing appNewVersion"
     },
     "easeusdatarecoverywizard": {
@@ -277,12 +272,12 @@
     },
     "editshare-connect": {
       "firstSeen": "2026-11-08T02:30:13Z",
-      "lastSeen": "2026-11-08T16:48:12Z",
+      "lastSeen": "2026-11-08T18:51:30Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "editshare-flowstory": {
       "firstSeen": "2026-11-08T02:30:13Z",
-      "lastSeen": "2026-11-08T16:48:13Z",
+      "lastSeen": "2026-11-08T18:51:31Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "egnytewebedit": {
@@ -292,22 +287,22 @@
     },
     "enpass": {
       "firstSeen": "2026-11-08T02:30:27Z",
-      "lastSeen": "2026-11-08T16:48:18Z",
+      "lastSeen": "2026-11-08T18:51:32Z",
       "reason": "missing appNewVersion"
     },
     "enteauth": {
       "firstSeen": "2026-11-08T02:30:28Z",
-      "lastSeen": "2026-11-08T16:48:21Z",
+      "lastSeen": "2026-11-08T18:51:35Z",
       "reason": "missing appNewVersion"
     },
     "eposconnect": {
       "firstSeen": "2026-11-08T02:30:38Z",
-      "lastSeen": "2026-11-08T16:48:22Z",
+      "lastSeen": "2026-11-08T18:51:36Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "epsonprintlayout": {
       "firstSeen": "2026-11-08T02:30:39Z",
-      "lastSeen": "2026-11-08T16:48:23Z",
+      "lastSeen": "2026-11-08T18:51:37Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "etrecheck": {
@@ -327,17 +322,17 @@
     },
     "examplify": {
       "firstSeen": "2026-11-08T02:30:47Z",
-      "lastSeen": "2026-11-08T16:48:27Z",
+      "lastSeen": "2026-11-08T18:51:38Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "facebookmessenger": {
       "firstSeen": "2026-11-08T02:30:56Z",
-      "lastSeen": "2026-11-08T16:48:29Z",
+      "lastSeen": "2026-11-08T18:51:39Z",
       "reason": "missing appNewVersion"
     },
     "fierycommandworkstation": {
       "firstSeen": "2026-11-08T02:31:33Z",
-      "lastSeen": "2026-11-08T16:48:30Z",
+      "lastSeen": "2026-11-08T18:51:40Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "finalcutprocontent": {
@@ -347,12 +342,12 @@
     },
     "fontexplorer": {
       "firstSeen": "2026-11-08T02:32:21Z",
-      "lastSeen": "2026-11-08T16:48:34Z",
+      "lastSeen": "2026-11-08T18:51:41Z",
       "reason": "missing appNewVersion"
     },
     "foxitpdfeditor": {
       "firstSeen": "2026-11-08T02:32:26Z",
-      "lastSeen": "2026-11-08T16:48:38Z",
+      "lastSeen": "2026-11-08T18:51:44Z",
       "reason": "missing appNewVersion"
     },
     "googledrivebackupandsync": {
@@ -377,7 +372,7 @@
     },
     "gotiengviet": {
       "firstSeen": "2026-11-08T02:33:51Z",
-      "lastSeen": "2026-11-08T16:48:56Z",
+      "lastSeen": "2026-11-08T18:51:45Z",
       "reason": "missing appNewVersion"
     },
     "gotomeeting": {
@@ -387,12 +382,12 @@
     },
     "gotowebinar": {
       "firstSeen": "2026-11-08T02:33:52Z",
-      "lastSeen": "2026-11-08T16:48:58Z",
+      "lastSeen": "2026-11-08T18:51:46Z",
       "reason": "missing appNewVersion"
     },
     "gpgsuite": {
       "firstSeen": "2026-11-08T02:33:53Z",
-      "lastSeen": "2026-11-08T16:49:00Z",
+      "lastSeen": "2026-11-08T18:51:47Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "grammarly": {
@@ -412,27 +407,27 @@
     },
     "gyazo": {
       "firstSeen": "2026-11-08T02:34:12Z",
-      "lastSeen": "2026-11-08T16:49:05Z",
+      "lastSeen": "2026-11-08T18:51:48Z",
       "reason": "missing appNewVersion"
     },
     "gyazogif": {
       "firstSeen": "2026-11-08T02:34:12Z",
-      "lastSeen": "2026-11-08T16:49:06Z",
+      "lastSeen": "2026-11-08T18:51:49Z",
       "reason": "missing appNewVersion"
     },
     "hmavpn": {
       "firstSeen": "2026-11-08T02:34:27Z",
-      "lastSeen": "2026-11-08T16:49:20Z",
+      "lastSeen": "2026-11-08T18:51:51Z",
       "reason": "missing appNewVersion"
     },
     "horos": {
       "firstSeen": "2026-11-08T02:35:32Z",
-      "lastSeen": "2026-11-08T16:50:24Z",
-      "reason": "resolve failed (exit 142)"
+      "lastSeen": "2026-11-08T18:52:52Z",
+      "reason": "timed out after 60s"
     },
     "houdahspot": {
       "firstSeen": "2026-11-08T02:35:36Z",
-      "lastSeen": "2026-11-08T16:50:30Z",
+      "lastSeen": "2026-11-08T18:52:55Z",
       "reason": "missing appNewVersion"
     },
     "hpeasystart": {
@@ -442,32 +437,32 @@
     },
     "hubstaff": {
       "firstSeen": "2026-11-08T02:35:40Z",
-      "lastSeen": "2026-11-08T16:50:32Z",
+      "lastSeen": "2026-11-08T18:52:56Z",
       "reason": "missing appNewVersion"
     },
     "i1Profiler": {
       "firstSeen": "2026-11-08T02:35:47Z",
-      "lastSeen": "2026-11-08T16:50:36Z",
+      "lastSeen": "2026-11-08T18:52:57Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "ibarcoder": {
       "firstSeen": "2026-11-08T02:35:49Z",
-      "lastSeen": "2026-11-08T16:50:38Z",
+      "lastSeen": "2026-11-08T18:52:58Z",
       "reason": "missing appNewVersion"
     },
     "inetclearreportsdesigner": {
       "firstSeen": "2026-11-08T02:36:10Z",
-      "lastSeen": "2026-11-08T16:50:45Z",
+      "lastSeen": "2026-11-08T18:53:01Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "ipvisionconnect": {
       "firstSeen": "2026-11-08T02:36:36Z",
-      "lastSeen": "2026-11-08T16:51:01Z",
+      "lastSeen": "2026-11-08T18:53:03Z",
       "reason": "missing appNewVersion"
     },
     "jamfcli": {
       "firstSeen": "2026-11-08T02:36:55Z",
-      "lastSeen": "2026-11-08T16:51:06Z",
+      "lastSeen": "2026-11-08T18:53:04Z",
       "reason": "missing appNewVersion"
     },
     "jdk20": {
@@ -482,17 +477,17 @@
     },
     "jumpdesktop": {
       "firstSeen": "2026-11-08T02:38:01Z",
-      "lastSeen": "2026-11-08T16:51:33Z",
+      "lastSeen": "2026-11-08T18:53:06Z",
       "reason": "missing appNewVersion"
     },
     "kimplusclientmodul": {
       "firstSeen": "2026-11-08T02:38:40Z",
-      "lastSeen": "2026-11-08T16:51:52Z",
+      "lastSeen": "2026-11-08T18:53:08Z",
       "reason": "missing appNewVersion"
     },
     "kiro": {
       "firstSeen": "2026-11-08T02:38:40Z",
-      "lastSeen": "2026-11-08T16:51:54Z",
+      "lastSeen": "2026-11-08T18:53:09Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "klokki": {
@@ -502,8 +497,8 @@
     },
     "levelscreenrecorder": {
       "firstSeen": "2026-11-08T02:40:04Z",
-      "lastSeen": "2026-11-08T16:52:57Z",
-      "reason": "resolve failed (exit 142)"
+      "lastSeen": "2026-11-08T18:54:09Z",
+      "reason": "timed out after 60s"
     },
     "lexarrecoverytool": {
       "firstSeen": "2026-11-08T02:40:04Z",
@@ -512,37 +507,32 @@
     },
     "libreofficelanguagepackintl": {
       "firstSeen": "2026-11-08T02:41:29Z",
-      "lastSeen": "2026-11-08T16:53:59Z",
-      "reason": "resolve failed (exit 142)"
+      "lastSeen": "2026-11-08T18:55:10Z",
+      "reason": "timed out after 60s"
     },
     "lsagent": {
       "firstSeen": "2026-11-08T02:41:55Z",
-      "lastSeen": "2026-11-08T16:54:10Z",
+      "lastSeen": "2026-11-08T18:55:12Z",
       "reason": "resolve failed (exit 89)"
     },
     "lucifer": {
       "firstSeen": "2026-11-08T02:41:57Z",
-      "lastSeen": "2026-11-08T16:54:11Z",
+      "lastSeen": "2026-11-08T18:55:13Z",
       "reason": "missing appNewVersion"
     },
     "mackiemasterfader": {
       "firstSeen": "2026-11-08T02:42:06Z",
-      "lastSeen": "2026-11-08T16:54:19Z",
+      "lastSeen": "2026-11-08T18:55:14Z",
       "reason": "missing appNewVersion and downloadURL"
-    },
-    "macports": {
-      "firstSeen": "2026-11-08T02:42:09Z",
-      "lastSeen": "2026-11-08T16:54:21Z",
-      "reason": "resolve failed (exit 98)"
     },
     "mactexfull": {
       "firstSeen": "2026-11-08T06:39:17Z",
-      "lastSeen": "2026-11-08T16:55:36Z",
-      "reason": "resolve failed (exit 142)"
+      "lastSeen": "2026-11-08T18:56:16Z",
+      "reason": "timed out after 60s"
     },
     "magicbullet": {
       "firstSeen": "2026-11-08T02:42:44Z",
-      "lastSeen": "2026-11-08T16:55:46Z",
+      "lastSeen": "2026-11-08T18:56:24Z",
       "reason": "missing appNewVersion"
     },
     "mailtooutlook": {
@@ -552,12 +542,12 @@
     },
     "meistertask": {
       "firstSeen": "2026-11-08T02:43:14Z",
-      "lastSeen": "2026-11-08T16:55:56Z",
+      "lastSeen": "2026-11-08T18:56:25Z",
       "reason": "missing appNewVersion"
     },
     "microsoftazuredatastudio": {
       "firstSeen": "2026-11-08T02:43:28Z",
-      "lastSeen": "2026-11-08T16:55:57Z",
+      "lastSeen": "2026-11-08T18:56:27Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "microsoftexcelreset": {
@@ -627,7 +617,7 @@
     },
     "minecraftedu": {
       "firstSeen": "2026-11-08T02:44:00Z",
-      "lastSeen": "2026-11-08T16:56:06Z",
+      "lastSeen": "2026-11-08T18:56:29Z",
       "reason": "missing appNewVersion"
     },
     "miniconda": {
@@ -642,12 +632,12 @@
     },
     "mmhmm": {
       "firstSeen": "2026-11-08T02:44:10Z",
-      "lastSeen": "2026-11-08T16:56:18Z",
+      "lastSeen": "2026-11-08T18:56:29Z",
       "reason": "missing appNewVersion"
     },
     "mmhmm-studio": {
       "firstSeen": "2026-11-08T02:44:09Z",
-      "lastSeen": "2026-11-08T16:56:19Z",
+      "lastSeen": "2026-11-08T18:56:30Z",
       "reason": "missing appNewVersion"
     },
     "mobirise": {
@@ -657,27 +647,27 @@
     },
     "mochakeyboard": {
       "firstSeen": "2026-11-08T02:44:12Z",
-      "lastSeen": "2026-11-08T16:56:22Z",
+      "lastSeen": "2026-11-08T18:56:32Z",
       "reason": "missing appNewVersion"
     },
     "mochatelnet": {
       "firstSeen": "2026-11-08T02:44:13Z",
-      "lastSeen": "2026-11-08T16:56:24Z",
+      "lastSeen": "2026-11-08T18:56:33Z",
       "reason": "missing appNewVersion"
     },
     "mochatn3270": {
       "firstSeen": "2026-11-08T02:44:14Z",
-      "lastSeen": "2026-11-08T16:56:25Z",
+      "lastSeen": "2026-11-08T18:56:34Z",
       "reason": "missing appNewVersion"
     },
     "mochatn3812": {
       "firstSeen": "2026-11-08T02:44:14Z",
-      "lastSeen": "2026-11-08T16:56:26Z",
+      "lastSeen": "2026-11-08T18:56:35Z",
       "reason": "missing appNewVersion"
     },
     "mochatn5250": {
       "firstSeen": "2026-11-08T02:44:15Z",
-      "lastSeen": "2026-11-08T16:56:27Z",
+      "lastSeen": "2026-11-08T18:56:37Z",
       "reason": "missing appNewVersion"
     },
     "namiral": {
@@ -687,12 +677,12 @@
     },
     "nditools": {
       "firstSeen": "2026-11-08T02:44:43Z",
-      "lastSeen": "2026-11-08T16:56:45Z",
+      "lastSeen": "2026-11-08T18:56:38Z",
       "reason": "missing downloadURL"
     },
     "nomachine": {
       "firstSeen": "2026-11-08T02:44:57Z",
-      "lastSeen": "2026-11-08T16:56:51Z",
+      "lastSeen": "2026-11-08T18:56:41Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "nomad": {
@@ -707,17 +697,17 @@
     },
     "nweasecuretestingbrowser": {
       "firstSeen": "2026-11-08T02:45:08Z",
-      "lastSeen": "2026-11-08T16:56:58Z",
+      "lastSeen": "2026-11-08T18:56:42Z",
       "reason": "missing appNewVersion"
     },
     "obsbotwebcam": {
       "firstSeen": "2026-11-08T02:45:13Z",
-      "lastSeen": "2026-11-08T16:57:02Z",
+      "lastSeen": "2026-11-08T18:56:46Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "obsioscamera": {
       "firstSeen": "2026-11-08T02:45:14Z",
-      "lastSeen": "2026-11-08T16:57:03Z",
+      "lastSeen": "2026-11-08T18:56:48Z",
       "reason": "missing appNewVersion"
     },
     "odrive": {
@@ -727,7 +717,7 @@
     },
     "onionshare": {
       "firstSeen": "2026-11-08T02:45:28Z",
-      "lastSeen": "2026-11-08T16:57:07Z",
+      "lastSeen": "2026-11-08T18:56:50Z",
       "reason": "missing appNewVersion"
     },
     "openvpnconnect": {
@@ -737,7 +727,7 @@
     },
     "origin": {
       "firstSeen": "2026-11-08T02:45:56Z",
-      "lastSeen": "2026-11-08T16:57:26Z",
+      "lastSeen": "2026-11-08T18:56:51Z",
       "reason": "missing appNewVersion"
     },
     "orion": {
@@ -747,18 +737,13 @@
     },
     "outsystemsservicestudio": {
       "firstSeen": "2026-11-08T02:46:04Z",
-      "lastSeen": "2026-11-08T16:57:34Z",
+      "lastSeen": "2026-11-08T18:56:53Z",
       "reason": "missing appNewVersion"
     },
     "pingplotter": {
       "firstSeen": "2026-11-08T02:46:36Z",
-      "lastSeen": "2026-11-08T16:57:45Z",
+      "lastSeen": "2026-11-08T18:56:54Z",
       "reason": "missing appNewVersion"
-    },
-    "pique": {
-      "firstSeen": "2026-11-08T02:46:36Z",
-      "lastSeen": "2026-11-08T16:57:46Z",
-      "reason": "resolve failed (exit 15)"
     },
     "pitch": {
       "firstSeen": "2026-11-08T02:46:36Z",
@@ -767,7 +752,7 @@
     },
     "portingkit": {
       "firstSeen": "2026-11-08T02:46:53Z",
-      "lastSeen": "2026-11-08T16:57:55Z",
+      "lastSeen": "2026-11-08T18:56:56Z",
       "reason": "missing appNewVersion"
     },
     "proctortrack": {
@@ -792,7 +777,7 @@
     },
     "qgis-pr": {
       "firstSeen": "2026-11-08T02:47:39Z",
-      "lastSeen": "2026-11-08T16:58:18Z",
+      "lastSeen": "2026-11-08T18:57:00Z",
       "reason": "missing appNewVersion"
     },
     "quickbooksonline": {
@@ -802,22 +787,22 @@
     },
     "rawtherapee": {
       "firstSeen": "2026-11-08T02:47:58Z",
-      "lastSeen": "2026-11-08T16:58:26Z",
+      "lastSeen": "2026-11-08T18:57:01Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "realvnconedemandassist": {
       "firstSeen": "2026-11-08T02:48:00Z",
-      "lastSeen": "2026-11-08T16:58:27Z",
+      "lastSeen": "2026-11-08T18:57:02Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "redgiant": {
       "firstSeen": "2026-11-08T02:48:09Z",
-      "lastSeen": "2026-11-08T16:58:30Z",
+      "lastSeen": "2026-11-08T18:57:03Z",
       "reason": "missing appNewVersion"
     },
     "reflector4": {
       "firstSeen": "2026-11-08T02:48:14Z",
-      "lastSeen": "2026-11-08T16:58:34Z",
+      "lastSeen": "2026-11-08T18:57:04Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "resiliosynchome": {
@@ -847,52 +832,52 @@
     },
     "rodeconnect": {
       "firstSeen": "2026-11-08T02:48:30Z",
-      "lastSeen": "2026-11-08T16:58:39Z",
+      "lastSeen": "2026-11-08T18:57:06Z",
       "reason": "missing appNewVersion"
     },
     "rodeunify": {
       "firstSeen": "2026-11-08T02:48:30Z",
-      "lastSeen": "2026-11-08T16:58:41Z",
+      "lastSeen": "2026-11-08T18:57:07Z",
       "reason": "missing appNewVersion"
     },
     "rogueamoebaaudiohijack4": {
       "firstSeen": "2026-11-08T02:48:31Z",
-      "lastSeen": "2026-11-08T16:58:43Z",
+      "lastSeen": "2026-11-08T18:57:09Z",
       "reason": "missing appNewVersion"
     },
     "rogueamoebafission2": {
       "firstSeen": "2026-11-08T02:48:32Z",
-      "lastSeen": "2026-11-08T16:58:44Z",
+      "lastSeen": "2026-11-08T18:57:10Z",
       "reason": "missing appNewVersion"
     },
     "rogueamoebaloopback2": {
       "firstSeen": "2026-11-08T02:48:34Z",
-      "lastSeen": "2026-11-08T16:58:45Z",
+      "lastSeen": "2026-11-08T18:57:12Z",
       "reason": "missing appNewVersion"
     },
     "rogueamoebasoundsource5": {
       "firstSeen": "2026-11-08T02:48:35Z",
-      "lastSeen": "2026-11-08T16:58:47Z",
+      "lastSeen": "2026-11-08T18:57:13Z",
       "reason": "missing appNewVersion"
     },
     "salesforcesfdx": {
       "firstSeen": "2026-11-08T02:48:45Z",
-      "lastSeen": "2026-11-08T16:58:50Z",
+      "lastSeen": "2026-11-08T18:57:14Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "sassafraskeyaccess": {
       "firstSeen": "2026-11-08T02:48:46Z",
-      "lastSeen": "2026-11-08T16:58:52Z",
+      "lastSeen": "2026-11-08T18:57:14Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "scenebuilder": {
       "firstSeen": "2026-11-08T02:48:49Z",
-      "lastSeen": "2026-11-08T16:58:53Z",
+      "lastSeen": "2026-11-08T18:57:16Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "screencloudplayer": {
       "firstSeen": "2026-11-08T02:48:55Z",
-      "lastSeen": "2026-11-08T16:58:57Z",
+      "lastSeen": "2026-11-08T18:57:18Z",
       "reason": "missing appNewVersion"
     },
     "screenflick": {
@@ -902,7 +887,7 @@
     },
     "sidekick": {
       "firstSeen": "2026-11-08T02:49:12Z",
-      "lastSeen": "2026-11-08T16:59:07Z",
+      "lastSeen": "2026-11-08T18:57:18Z",
       "reason": "missing appNewVersion"
     },
     "sirimote": {
@@ -912,12 +897,12 @@
     },
     "sketchup2024": {
       "firstSeen": "2026-11-08T02:49:19Z",
-      "lastSeen": "2026-11-08T16:59:10Z",
+      "lastSeen": "2026-11-08T18:57:20Z",
       "reason": "invalid JSON output"
     },
     "sococo": {
       "firstSeen": "2026-11-08T02:49:44Z",
-      "lastSeen": "2026-11-08T16:59:16Z",
+      "lastSeen": "2026-11-08T18:57:20Z",
       "reason": "missing appNewVersion"
     },
     "sonos": {
@@ -957,7 +942,7 @@
     },
     "steelseriesengine": {
       "firstSeen": "2026-11-08T02:50:18Z",
-      "lastSeen": "2026-11-08T16:59:21Z",
+      "lastSeen": "2026-11-08T18:57:22Z",
       "reason": "missing appNewVersion"
     },
     "suitestudio": {
@@ -967,7 +952,7 @@
     },
     "surfdrive": {
       "firstSeen": "2026-11-08T02:51:03Z",
-      "lastSeen": "2026-11-08T16:59:25Z",
+      "lastSeen": "2026-11-08T18:57:24Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "swiftruntimeforcommandlinetools": {
@@ -982,7 +967,7 @@
     },
     "sync": {
       "firstSeen": "2026-11-08T02:51:07Z",
-      "lastSeen": "2026-11-08T16:59:32Z",
+      "lastSeen": "2026-11-08T18:57:26Z",
       "reason": "missing appNewVersion"
     },
     "taskpaper": {
@@ -992,27 +977,27 @@
     },
     "teamviewer": {
       "firstSeen": "2026-11-08T02:51:23Z",
-      "lastSeen": "2026-11-08T16:59:33Z",
+      "lastSeen": "2026-11-08T18:57:27Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "teamviewerhost": {
       "firstSeen": "2026-11-08T02:51:25Z",
-      "lastSeen": "2026-11-08T16:59:35Z",
+      "lastSeen": "2026-11-08T18:57:30Z",
       "reason": "missing appNewVersion"
     },
     "teamviewerhostcustom": {
       "firstSeen": "2026-11-08T02:51:25Z",
-      "lastSeen": "2026-11-08T16:59:37Z",
+      "lastSeen": "2026-11-08T18:57:31Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "teamviewerqs": {
       "firstSeen": "2026-11-08T02:51:27Z",
-      "lastSeen": "2026-11-08T16:59:39Z",
+      "lastSeen": "2026-11-08T18:57:34Z",
       "reason": "missing appNewVersion"
     },
     "teamviewerqscustom": {
       "firstSeen": "2026-11-08T02:51:27Z",
-      "lastSeen": "2026-11-08T16:59:40Z",
+      "lastSeen": "2026-11-08T18:57:35Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "things": {
@@ -1022,27 +1007,27 @@
     },
     "thunderbird_intl": {
       "firstSeen": "2026-11-08T02:52:06Z",
-      "lastSeen": "2026-11-08T16:59:58Z",
+      "lastSeen": "2026-11-08T18:57:39Z",
       "reason": "missing appNewVersion"
     },
     "tidal": {
       "firstSeen": "2026-11-08T02:52:10Z",
-      "lastSeen": "2026-11-08T16:59:59Z",
+      "lastSeen": "2026-11-08T18:57:41Z",
       "reason": "missing appNewVersion"
     },
     "toonboomharmony2024": {
       "firstSeen": "2026-11-08T02:52:17Z",
-      "lastSeen": "2026-11-08T17:00:02Z",
+      "lastSeen": "2026-11-08T18:57:42Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "torbrowser": {
       "firstSeen": "2026-11-08T02:52:30Z",
-      "lastSeen": "2026-11-08T17:00:06Z",
+      "lastSeen": "2026-11-08T18:57:47Z",
       "reason": "missing appNewVersion"
     },
     "trapcode": {
       "firstSeen": "2026-11-08T02:52:51Z",
-      "lastSeen": "2026-11-08T17:00:14Z",
+      "lastSeen": "2026-11-08T18:57:54Z",
       "reason": "missing appNewVersion"
     },
     "tunnelbear": {
@@ -1052,22 +1037,22 @@
     },
     "tuple": {
       "firstSeen": "2026-11-08T02:53:01Z",
-      "lastSeen": "2026-11-08T17:00:22Z",
+      "lastSeen": "2026-11-08T18:57:55Z",
       "reason": "missing appNewVersion"
     },
     "twingate": {
       "firstSeen": "2026-11-08T02:53:02Z",
-      "lastSeen": "2026-11-08T17:00:24Z",
+      "lastSeen": "2026-11-08T18:57:57Z",
       "reason": "missing appNewVersion"
     },
     "ultracompare": {
       "firstSeen": "2026-11-08T02:53:13Z",
-      "lastSeen": "2026-11-08T17:00:28Z",
+      "lastSeen": "2026-11-08T18:57:58Z",
       "reason": "missing appNewVersion"
     },
     "ultraedit": {
       "firstSeen": "2026-11-08T02:53:14Z",
-      "lastSeen": "2026-11-08T17:00:28Z",
+      "lastSeen": "2026-11-08T18:57:59Z",
       "reason": "missing appNewVersion"
     },
     "umbrellaroamingclient": {
@@ -1087,12 +1072,12 @@
     },
     "vernierspectralanalysis": {
       "firstSeen": "2026-11-08T02:53:59Z",
-      "lastSeen": "2026-11-08T17:00:42Z",
+      "lastSeen": "2026-11-08T18:58:00Z",
       "reason": "missing appNewVersion"
     },
     "vocevistavideopro": {
       "firstSeen": "2026-11-08T02:54:22Z",
-      "lastSeen": "2026-11-08T17:00:47Z",
+      "lastSeen": "2026-11-08T18:58:02Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "wallyezflash": {
@@ -1102,7 +1087,7 @@
     },
     "webcatalog": {
       "firstSeen": "2026-11-08T02:54:42Z",
-      "lastSeen": "2026-11-08T17:00:55Z",
+      "lastSeen": "2026-11-08T18:58:02Z",
       "reason": "missing appNewVersion"
     },
     "webexmeetings": {
@@ -1117,17 +1102,17 @@
     },
     "weprint": {
       "firstSeen": "2026-11-08T02:54:56Z",
-      "lastSeen": "2026-11-08T17:00:56Z",
+      "lastSeen": "2026-11-08T18:58:04Z",
       "reason": "missing appNewVersion"
     },
     "wordservice": {
       "firstSeen": "2026-11-08T02:55:23Z",
-      "lastSeen": "2026-11-08T17:00:59Z",
+      "lastSeen": "2026-11-08T18:58:05Z",
       "reason": "missing appNewVersion"
     },
     "workplacechat": {
       "firstSeen": "2026-11-08T02:55:25Z",
-      "lastSeen": "2026-11-08T17:00:59Z",
+      "lastSeen": "2026-11-08T18:58:06Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "xeroxphaser7800": {
@@ -1142,17 +1127,17 @@
     },
     "zeplin": {
       "firstSeen": "2026-11-08T02:55:51Z",
-      "lastSeen": "2026-11-08T17:01:11Z",
+      "lastSeen": "2026-11-08T18:58:08Z",
       "reason": "missing appNewVersion"
     },
     "zipwhip": {
       "firstSeen": "2026-11-08T02:56:00Z",
-      "lastSeen": "2026-11-08T17:01:16Z",
+      "lastSeen": "2026-11-08T18:58:09Z",
       "reason": "missing appNewVersion"
     },
     "zoapi": {
       "firstSeen": "2026-11-08T02:56:00Z",
-      "lastSeen": "2026-11-08T17:01:17Z",
+      "lastSeen": "2026-11-08T18:58:09Z",
       "reason": "missing appNewVersion and downloadURL"
     },
     "zohoworkdrive": {
@@ -1172,7 +1157,7 @@
     },
     "zoomclient": {
       "firstSeen": "2026-11-08T02:56:02Z",
-      "lastSeen": "2026-11-08T17:01:18Z",
+      "lastSeen": "2026-11-08T18:58:11Z",
       "reason": "missing appNewVersion"
     },
     "zoomoutlookpluginremoval": {
