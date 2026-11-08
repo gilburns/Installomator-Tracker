@@ -98,6 +98,7 @@
     "appName": "",
     "appNewVersion": "2026.3",
     "blockingProcesses": [],
+    "downloadURLi386": "https://download.jetbrains.com/ruby/RubyMine-2026.3.dmg",
     "expectedTeamID": "2ZEFAR8TH3",
     "label": "jetbrainsrubymine",
     "name": "RubyMine",

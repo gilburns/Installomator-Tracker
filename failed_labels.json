@@ -1065,6 +1065,11 @@
       "lastSeen": "2026-11-08T02:52:10Z",
       "reason": "missing appNewVersion"
     },
+    "tigervnc": {
+      "firstSeen": "2026-11-08T05:41:49Z",
+      "lastSeen": "2026-11-08T05:41:49Z",
+      "reason": "missing appNewVersion"
+    },
     "toonboomharmony2024": {
       "firstSeen": "2026-11-08T02:52:17Z",
       "lastSeen": "2026-11-08T02:52:17Z",
@@ -1119,6 +1124,11 @@
       "firstSeen": "2026-11-08T02:53:54Z",
       "lastSeen": "2026-11-08T02:53:54Z",
       "reason": "label does not set appNewVersion"
+    },
+    "veracrypt-fuse-t": {
+      "firstSeen": "2026-11-08T05:43:23Z",
+      "lastSeen": "2026-11-08T05:43:23Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "vernierspectralanalysis": {
       "firstSeen": "2026-11-08T02:53:59Z",
