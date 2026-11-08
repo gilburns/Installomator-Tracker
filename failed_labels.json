@@ -175,6 +175,11 @@
       "lastSeen": "2026-11-08T02:24:34Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagicconverters": {
+      "firstSeen": "2026-11-08T07:19:43Z",
+      "lastSeen": "2026-11-08T07:19:43Z",
+      "reason": "missing appNewVersion"
+    },
     "blackmagicvideohub": {
       "firstSeen": "2026-11-08T06:25:37Z",
       "lastSeen": "2026-11-08T06:25:37Z",
