@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-06T19:15:37Z",
-      "updatedAt": "2026-11-07T22:19:18Z",
+      "updatedAt": "2026-11-08T02:55:40Z",
       "baseBranch": "main",
       "headBranch": "label-edits",
       "headRepository": "ajamaya1/Installomator",
@@ -32,7 +32,7 @@
       "checksState": "SUCCESS",
       "headCommit": "e17aee0bd68a5a111075d6380b3209193e5d7aaa",
       "commitCount": 2,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
