@@ -5,7 +5,9 @@
 # fragments (fragments/labels/<label>.sh), and writes one
 # LabelPRs/<label>.json per affected label describing every open PR that
 # changes it: who opened it, draft/review/CI/merge state, and what the PR
-# does to that label file.
+# does to that label file. A PR that disables a label by moving it to
+# fragments/disabled/ is recorded with changeType DISABLED (ENABLED for the
+# reverse move).
 #
 # Also writes label_prs.csv, one row per (label, PR) pair.
 #
@@ -14,8 +16,9 @@
 # that label anymore (merged, closed, or the file was dropped from the PR).
 #
 # Uses the GitHub GraphQL API via `gh`, so it needs an authenticated gh (or
-# GH_TOKEN set, as in the workflow). PRs touching more than 100 files have
-# their file list completed through the REST API.
+# GH_TOKEN set, as in the workflow). PRs touching more than 100 files, and
+# PRs that rename a label file, have their file list fetched through the REST
+# API (GraphQL caps the list at 100 and doesn't report a rename's old path).
 #
 # Usage:
 #   ./track_label_prs.sh              # update LabelPRs/
@@ -30,6 +33,7 @@ export LANG="en_US.UTF-8"
 OWNER="Installomator"
 REPO="Installomator"
 LABELS_PREFIX="fragments/labels/"
+DISABLED_PREFIX="fragments/disabled/"
 PAGE_SIZE=25
 
 SCRIPT_DIR="${0:A:h}"
@@ -147,11 +151,17 @@ jq -s '[.[].data.repository.pullRequests.nodes[]]' "$tmpDir"/page_*.json(n) > "$
 prCount=$(jq 'length' "$tmpDir/prs.json")
 log "Fetched $prCount open pull requests."
 
-# GraphQL caps a PR's file list at 100 per page; for the rare larger PR,
-# replace its file list with the full one from REST (normalized to the
-# GraphQL changeType spelling).
-for number in $(jq -r '.[] | select(.files.pageInfo.hasNextPage) | .number' "$tmpDir/prs.json"); do
-    log "PR #$number has more than 100 files, fetching full file list..."
+# GraphQL caps a PR's file list at 100 per page, and gives only the new path
+# of a renamed file. For a PR with more than 100 files, or one that renames a
+# file into or out of fragments/labels/ or fragments/disabled/ (how a label is
+# disabled), replace its file list with the full one from REST, which carries
+# the old path (normalized to the GraphQL changeType spelling).
+for number in $(jq -r --arg lp "$LABELS_PREFIX" --arg dp "$DISABLED_PREFIX" '.[]
+        | select(.files.pageInfo.hasNextPage
+                 or any(.files.nodes[]; .changeType == "RENAMED"
+                        and ((.path | startswith($lp)) or (.path | startswith($dp)))))
+        | .number' "$tmpDir/prs.json"); do
+    log "PR #$number has more than 100 files or renames a label, fetching full file list..."
     if ! gh_retry api --paginate "repos/$OWNER/$REPO/pulls/$number/files?per_page=100" > "$tmpDir/files_$number.json"; then
         echo "Failed to fetch file list for PR #$number, aborting without changes" >&2
         exit 1
@@ -160,7 +170,8 @@ for number in $(jq -r '.[] | select(.files.pageInfo.hasNextPage) | .number' "$tm
             path: .filename,
             changeType: (if .status == "removed" then "DELETED" else (.status | ascii_upcase) end),
             additions,
-            deletions
+            deletions,
+            previousPath: (.previous_filename // null)
         })' "$tmpDir/files_$number.json" > "$tmpDir/files_$number.norm.json"
     jq --argjson n "$number" --slurpfile f "$tmpDir/files_$number.norm.json" \
         'map(if .number == $n then .files.nodes = $f[0] else . end)' \
@@ -170,15 +181,37 @@ done
 # Build one document per label: { label: { label, labelFile, pullRequests: [...] } }.
 # No "fetched at" timestamp is recorded, so a file only changes (and gets
 # committed) when something about its PRs actually changed.
-jq --arg prefix "$LABELS_PREFIX" '
-    def labelFiles: [.files.nodes[]
-        | select((.path | startswith($prefix)) and (.path | endswith(".sh"))
-                 and ((.path | ltrimstr($prefix)) | contains("/") | not))];
-    def labelName: .path | ltrimstr($prefix) | rtrimstr(".sh");
+#
+# A label moved from fragments/labels/ to fragments/disabled/ is recorded
+# under its label name with changeType DISABLED, and the reverse move as
+# ENABLED. When git didn't detect the move as a rename, the PR deletes
+# fragments/labels/<label>.sh and adds fragments/disabled/<label>.sh; that
+# pair also counts as DISABLED. Other changes inside fragments/disabled/ are
+# ignored.
+jq --arg prefix "$LABELS_PREFIX" --arg dprefix "$DISABLED_PREFIX" '
+    def isFragment($p): . != null and startswith($p) and endswith(".sh")
+        and (ltrimstr($p) | contains("/") | not);
+    def baseName($p): ltrimstr($p) | rtrimstr(".sh");
+    def labelFiles:
+        .files.nodes as $files
+        | [$files[] | select((.path | isFragment($dprefix)) and .changeType == "ADDED")
+                    | .path | baseName($dprefix)] as $addedDisabled
+        | [$files[]
+            | if (.path | isFragment($dprefix)) and (.previousPath | isFragment($prefix)) then
+                  {label: (.previousPath | baseName($prefix)), changeType: "DISABLED"}
+              elif (.path | isFragment($prefix)) and (.previousPath | isFragment($dprefix)) then
+                  {label: (.path | baseName($prefix)), changeType: "ENABLED"}
+              elif (.path | isFragment($prefix)) then
+                  (.path | baseName($prefix)) as $l
+                  | {label: $l, changeType: (if .changeType == "DELETED" and ($addedDisabled | index($l))
+                                             then "DISABLED" else .changeType end)}
+              else empty end
+            + {additions, deletions}
+            + (if .previousPath then {path, previousPath} else {} end)];
 
     [ .[] | . as $pr | labelFiles as $lf | $lf[] | {
-        label: labelName,
-        labelFile: .path,
+        label,
+        labelFile: ($prefix + .label + ".sh"),
         pr: {
             number: $pr.number,
             title: $pr.title,
@@ -202,8 +235,8 @@ jq --arg prefix "$LABELS_PREFIX" '
             commitCount: $pr.commits.totalCount,
             commentCount: $pr.comments.totalCount,
             changedFileCount: $pr.files.totalCount,
-            labelChange: {changeType, additions, deletions},
-            labelsInPR: [$lf[] | labelName]
+            labelChange: del(.label),
+            labelsInPR: [$lf[].label]
         }
     } ]
     | group_by(.label)
