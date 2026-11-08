@@ -12,11 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-08T11:23:49Z",
-      "updatedAt": "2026-11-08T15:26:50Z",
+      "updatedAt": "2026-11-08T17:58:03Z",
       "baseBranch": "main",
       "headBranch": "main",
       "headRepository": "ad2012/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "CHANGES_REQUESTED",
       "reviews": [
         {
