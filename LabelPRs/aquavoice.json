@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-08T11:23:49Z",
-      "updatedAt": "2026-11-09T02:44:13Z",
+      "updatedAt": "2026-11-09T05:10:07Z",
       "baseBranch": "main",
       "headBranch": "main",
       "headRepository": "ad2012/Installomator",
@@ -32,7 +32,7 @@
       "checksState": "SUCCESS",
       "headCommit": "3248a3ae852ecaaa53b94d3b394dd0de7d610a3f",
       "commitCount": 2,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 2,
       "labelChange": {
         "changeType": "ADDED",
