@@ -45,6 +45,11 @@
       "lastSeen": "2026-11-09T05:19:55Z",
       "reason": "missing appNewVersion"
     },
+    "alephone": {
+      "firstSeen": "2026-11-09T08:25:08Z",
+      "lastSeen": "2026-11-09T08:25:08Z",
+      "reason": "missing appNewVersion"
+    },
     "altserver": {
       "firstSeen": "2026-11-09T03:21:56Z",
       "lastSeen": "2026-11-09T03:21:56Z",
