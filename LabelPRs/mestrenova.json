@@ -1,0 +1,41 @@
+{
+  "label": "mestrenova",
+  "labelFile": "fragments/labels/mestrenova.sh",
+  "pullRequests": [
+    {
+      "number": 3577,
+      "title": "Update mestrenova.sh to use update XML feed",
+      "url": "https://github.com/Installomator/Installomator/pull/3577",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-08T23:46:39Z",
+      "updatedAt": "2026-11-08T23:47:06Z",
+      "baseBranch": "main",
+      "headBranch": "FixMestrenova",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "b79b56882723f2571eb468b96315cce4137cbb37",
+      "commitCount": 2,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 3,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "mestrenova"
+      ]
+    }
+  ]
+}
