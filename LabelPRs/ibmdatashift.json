@@ -1,0 +1,39 @@
+{
+  "label": "ibmdatashift",
+  "labelFile": "fragments/labels/ibmdatashift.sh",
+  "pullRequests": [
+    {
+      "number": 3578,
+      "title": "add ibmdatashift.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3578",
+      "author": {
+        "login": "mwegmann98",
+        "url": "https://github.com/mwegmann98"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-09T13:17:21Z",
+      "updatedAt": "2026-11-09T13:17:22Z",
+      "baseBranch": "main",
+      "headBranch": "new-label/ibmdatashift",
+      "headRepository": "mwegmann98/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "db6a84ca10b2403a8a5f338cc754c6aef83bdda1",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 8,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "ibmdatashift"
+      ]
+    }
+  ]
+}
