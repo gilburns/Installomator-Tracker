@@ -245,6 +245,11 @@
       "lastSeen": "2026-11-09T09:24:17Z",
       "reason": "missing appNewVersion"
     },
+    "blackmagicdesktopvideo": {
+      "firstSeen": "2026-11-09T14:20:43Z",
+      "lastSeen": "2026-11-09T14:20:43Z",
+      "reason": "missing appNewVersion"
+    },
     "boop": {
       "firstSeen": "2026-11-09T05:26:53Z",
       "lastSeen": "2026-11-09T05:26:53Z",
