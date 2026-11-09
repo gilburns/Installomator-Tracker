@@ -13,11 +13,21 @@
     "appName": "",
     "appNewVersion": "1.16.0",
     "blockingProcesses": [],
-    "downloadURL": "https://proton.me/download/mail/macos/ProtonMail-desktop.dmg",
     "expectedTeamID": "2SB5Z68H26",
     "label": "protonmail",
     "name": "Proton Mail",
     "timeStamp": "2026-11-04T12:43:03Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.16.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://proton.me/download/mail/macos/ProtonMail-desktop.dmg",
+    "expectedTeamID": "2SB5Z68H26",
+    "label": "protonmail",
+    "name": "Proton Mail",
+    "timeStamp": "2026-11-09T10:33:11Z",
     "type": "dmg"
   }
 ]

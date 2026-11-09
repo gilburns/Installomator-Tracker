@@ -13,11 +13,21 @@
     "appName": "",
     "appNewVersion": "2.2.0-2",
     "blockingProcesses": [],
-    "downloadURL": "https://download.cloud.lastpass.com/lastpass-for-desktop-macos/universal/LastPassForDesktopMac.dmg",
     "expectedTeamID": "RNDLY9ZML8",
     "label": "lastpassdesktop",
     "name": "LastPass for Desktop",
     "timeStamp": "2026-10-13T18:27:54Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.3.0-6",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.cloud.lastpass.com/lastpass-for-desktop-macos/universal/LastPassForDesktopMac.dmg",
+    "expectedTeamID": "RNDLY9ZML8",
+    "label": "lastpassdesktop",
+    "name": "LastPass for Desktop",
+    "timeStamp": "2026-11-09T10:29:09Z",
     "type": "dmg"
   }
 ]
