@@ -75,5 +75,16 @@
     "name": "Loopcloud",
     "timeStamp": "2026-11-04T13:31:10Z",
     "type": "pkgInZip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.0.11",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.loopmasters.com/cloud/autoupdate/archive/Loopcloud/8.0.11/Install%20Loopcloud%208.0.11%20Mac.pkg.zip",
+    "expectedTeamID": "6J526HR25E",
+    "label": "loopcloud",
+    "name": "Loopcloud",
+    "timeStamp": "2026-11-09T11:28:43Z",
+    "type": "pkgInZip"
   }
 ]
