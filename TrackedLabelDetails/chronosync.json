@@ -3,11 +3,21 @@
     "appName": "",
     "appNewVersion": "12.0.3",
     "blockingProcesses": [],
-    "downloadURL": "https://downloads.econtechnologies.com/CS4_Download.dmg",
     "expectedTeamID": "9U697UM7YX",
     "label": "chronosync",
     "name": "ChronoSync",
     "timeStamp": "2026-09-16T06:18:30Z",
+    "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "12.0.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.econtechnologies.com/CS4_Download.dmg",
+    "expectedTeamID": "9U697UM7YX",
+    "label": "chronosync",
+    "name": "ChronoSync",
+    "timeStamp": "2026-11-09T22:19:20Z",
     "type": "pkgInDmg"
   }
 ]
