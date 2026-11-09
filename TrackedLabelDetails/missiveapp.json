@@ -20,5 +20,16 @@
     "name": "Missive",
     "timeStamp": "2026-10-21T06:24:36Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "11.39.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.missiveapp.com/11.39.0/Missive-11.39.0.dmg",
+    "expectedTeamID": "PXGQRRXCJN",
+    "label": "missiveapp",
+    "name": "Missive",
+    "timeStamp": "2026-11-09T19:32:40Z",
+    "type": "dmg"
   }
 ]
