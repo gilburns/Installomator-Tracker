@@ -10,5 +10,17 @@
     "name": "MAMP PRO",
     "timeStamp": "2026-07-03T15:54:36Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.mamp.info/download.php?file=/MAMP-PRO/macOS/MAMP-PRO/MAMP-MAMP-PRO-7.5-Apple-chip.pkg",
+    "downloadURLi386": "https://downloads.mamp.info/download.php?file=/MAMP-PRO/macOS/MAMP-PRO/MAMP-MAMP-PRO-7.5-Intel-x86.pkg",
+    "expectedTeamID": "5KCB5KHK77",
+    "label": "mamp",
+    "name": "MAMP PRO",
+    "timeStamp": "2026-11-09T09:36:18Z",
+    "type": "pkg"
   }
 ]

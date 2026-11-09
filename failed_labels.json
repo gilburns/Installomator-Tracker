@@ -235,6 +235,16 @@
       "lastSeen": "2026-11-09T03:23:58Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagicatemswitchers": {
+      "firstSeen": "2026-11-09T09:24:16Z",
+      "lastSeen": "2026-11-09T09:24:16Z",
+      "reason": "missing appNewVersion"
+    },
+    "blackmagiccameras": {
+      "firstSeen": "2026-11-09T09:24:17Z",
+      "lastSeen": "2026-11-09T09:24:17Z",
+      "reason": "missing appNewVersion"
+    },
     "boop": {
       "firstSeen": "2026-11-09T05:26:53Z",
       "lastSeen": "2026-11-09T05:26:53Z",
@@ -740,6 +750,11 @@
       "lastSeen": "2026-11-09T03:35:48Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-11-09T09:33:24Z",
+      "lastSeen": "2026-11-09T09:33:24Z",
+      "reason": "missing appNewVersion"
+    },
     "insomnia": {
       "firstSeen": "2026-11-09T07:45:37Z",
       "lastSeen": "2026-11-09T07:45:37Z",
@@ -883,6 +898,11 @@
     "knockknock": {
       "firstSeen": "2026-11-09T05:59:07Z",
       "lastSeen": "2026-11-09T05:59:07Z",
+      "reason": "missing appNewVersion"
+    },
+    "launchcontrol": {
+      "firstSeen": "2026-11-09T09:35:14Z",
+      "lastSeen": "2026-11-09T09:35:14Z",
       "reason": "missing appNewVersion"
     },
     "lexarrecoverytool": {
