@@ -31,5 +31,16 @@
     "name": "Sublime Merge",
     "timeStamp": "2026-09-18T06:42:39Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "Build 2136",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.sublimetext.com/sublime_merge_build_2136_mac.zip",
+    "expectedTeamID": "Z6D26JE4Y4",
+    "label": "sublimemerge",
+    "name": "Sublime Merge",
+    "timeStamp": "2026-11-09T01:04:31Z",
+    "type": "zip"
   }
 ]
