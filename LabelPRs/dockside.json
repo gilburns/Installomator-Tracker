@@ -1,0 +1,39 @@
+{
+  "label": "dockside",
+  "labelFile": "fragments/labels/dockside.sh",
+  "pullRequests": [
+    {
+      "number": 3579,
+      "title": "New label: dockside",
+      "url": "https://github.com/Installomator/Installomator/pull/3579",
+      "author": {
+        "login": "mwegmann98",
+        "url": "https://github.com/mwegmann98"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-09T13:31:45Z",
+      "updatedAt": "2026-11-09T14:03:56Z",
+      "baseBranch": "main",
+      "headBranch": "new-label/dockside",
+      "headRepository": "mwegmann98/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "6a3630b8a0d3d690c242f7d80223cf2e29605b03",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "dockside"
+      ]
+    }
+  ]
+}
