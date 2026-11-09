@@ -1242,7 +1242,7 @@
 "webexmeetings","Cisco Webex Meetings","","","","label does not set appNewVersion"
 "webextoolsremoval","WebEx Tools Removal","","","","label does not set appNewVersion"
 "webexvdiplugin","Cisco Webex VDI Plugin","","46.10.0.36183","2026-11-03T10:44:03Z","success"
-"wechat","WeChat","","4.2.0.17","2026-11-05T03:49:20Z","success"
+"wechat","WeChat","","4.2.0.17","2026-11-05T03:49:20Z","missing appNewVersion and downloadURL"
 "weprint","Print","","","","missing appNewVersion"
 "whatcable","WhatCable","","1.5.0","2026-10-13T18:47:47Z","success"
 "whatroute","WhatRoute","","2.8.2","2026-10-20T06:35:00Z","success"

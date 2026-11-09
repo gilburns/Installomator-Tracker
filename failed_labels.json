@@ -1125,6 +1125,11 @@
       "lastSeen": "2026-11-08T02:54:46Z",
       "reason": "label does not set appNewVersion"
     },
+    "wechat": {
+      "firstSeen": "2026-11-09T01:45:52Z",
+      "lastSeen": "2026-11-09T01:45:52Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "weprint": {
       "firstSeen": "2026-11-08T02:54:56Z",
       "lastSeen": "2026-11-08T19:50:44Z",
