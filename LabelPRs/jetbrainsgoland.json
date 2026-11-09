@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-18T14:00:16Z",
-      "updatedAt": "2026-11-08T21:36:44Z",
+      "updatedAt": "2026-11-09T15:37:51Z",
       "baseBranch": "main",
       "headBranch": "MergeGoLandCase",
       "headRepository": "gilburns/Installomator",
@@ -20,10 +20,15 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-09T15:37:51Z"
+        }
+      ],
       "requestedReviewers": [
-        "acodega",
-        "uurazzle"
+        "acodega"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
