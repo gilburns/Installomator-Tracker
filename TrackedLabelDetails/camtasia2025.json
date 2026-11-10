@@ -108,5 +108,16 @@
     "name": "Camtasia",
     "timeStamp": "2026-11-03T15:19:54Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2027.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.techsmith.com/camtasiamac/releases/2027.0.0/camtasia.dmg",
+    "expectedTeamID": "7TQL462TU8",
+    "label": "camtasia2025",
+    "name": "Camtasia",
+    "timeStamp": "2026-11-10T14:20:27Z",
+    "type": "dmg"
   }
 ]
