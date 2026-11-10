@@ -53,5 +53,16 @@
     "name": "Monotype Connect",
     "timeStamp": "2026-10-21T06:24:50Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "29.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://bin.extensis.com/ExtensisConnect-M-29-0-0.dmg",
+    "expectedTeamID": "J6MMHGD9D6",
+    "label": "monotypeconnect",
+    "name": "Monotype Connect",
+    "timeStamp": "2026-11-10T19:32:49Z",
+    "type": "dmg"
   }
 ]

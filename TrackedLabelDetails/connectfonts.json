@@ -64,5 +64,16 @@
     "name": "Connect Fonts",
     "timeStamp": "2026-10-21T06:15:50Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "29.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://bin.extensis.com/ConnectFonts-M-29-0-0.dmg",
+    "expectedTeamID": "J6MMHGD9D6",
+    "label": "connectfonts",
+    "name": "Connect Fonts",
+    "timeStamp": "2026-11-10T19:20:41Z",
+    "type": "dmg"
   }
 ]

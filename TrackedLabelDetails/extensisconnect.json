@@ -64,5 +64,16 @@
     "name": "Extensis Connect",
     "timeStamp": "2026-10-21T06:18:36Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "29.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://bin.extensis.com/ExtensisConnect-M-29-0-0.dmg",
+    "expectedTeamID": "J6MMHGD9D6",
+    "label": "extensisconnect",
+    "name": "Extensis Connect",
+    "timeStamp": "2026-11-10T19:24:32Z",
+    "type": "dmg"
   }
 ]
