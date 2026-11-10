@@ -12,11 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-09T13:31:45Z",
-      "updatedAt": "2026-11-09T15:42:06Z",
+      "updatedAt": "2026-11-10T04:18:14Z",
       "baseBranch": "main",
       "headBranch": "new-label/dockside",
       "headRepository": "mwegmann98/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
       "requestedReviewers": [],

@@ -12,13 +12,21 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-09T13:17:21Z",
-      "updatedAt": "2026-11-09T15:42:45Z",
+      "updatedAt": "2026-11-10T04:17:17Z",
       "baseBranch": "main",
       "headBranch": "new-label/ibmdatashift",
       "headRepository": "mwegmann98/Installomator",
-      "prLabels": [],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-10T04:17:01Z"
+        }
+      ],
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
