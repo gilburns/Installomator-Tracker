@@ -94,5 +94,21 @@
     "name": "Lightkey",
     "timeStamp": "2026-10-30T18:19:30Z",
     "type": "pkgInZip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.1.2",
+    "blockingProcesses": [
+      "Lightkey",
+      "Lightkey Graphics and Media",
+      "Lightkey Networking",
+      "Lightkey Web Content"
+    ],
+    "downloadURL": "https://lightkeyapp.com/media/pages/download/Lightkey-6-1-2/1804890370-1794297293/LightkeyInstaller.zip",
+    "expectedTeamID": "9466VHH352",
+    "label": "lightkey",
+    "name": "Lightkey",
+    "timeStamp": "2026-11-10T08:39:29Z",
+    "type": "pkgInZip"
   }
 ]

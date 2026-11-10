@@ -1075,6 +1075,16 @@
       "lastSeen": "2026-11-10T07:47:26Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "vuescanintel": {
+      "firstSeen": "2026-11-10T08:53:16Z",
+      "lastSeen": "2026-11-10T08:53:16Z",
+      "reason": "missing appNewVersion"
+    },
+    "vuescanuni": {
+      "firstSeen": "2026-11-10T08:53:36Z",
+      "lastSeen": "2026-11-10T08:53:36Z",
+      "reason": "missing appNewVersion"
+    },
     "wallyezflash": {
       "firstSeen": "2026-11-10T07:47:39Z",
       "lastSeen": "2026-11-10T07:47:39Z",
