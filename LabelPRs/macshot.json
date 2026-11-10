@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-06T18:44:17Z",
-      "updatedAt": "2026-11-07T14:32:24Z",
+      "updatedAt": "2026-11-10T15:26:24Z",
       "baseBranch": "main",
       "headBranch": "macshot",
       "headRepository": "klou/Installomator",
@@ -21,8 +21,16 @@
         "app-team-ID-change"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-10T15:26:24Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "e073e8a2ac085fa25cc66a2395e24e1312ddd8fc",

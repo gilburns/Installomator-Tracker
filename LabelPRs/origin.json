@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-07T14:15:25Z",
-      "updatedAt": "2026-11-07T14:15:37Z",
+      "updatedAt": "2026-11-10T16:09:03Z",
       "baseBranch": "main",
       "headBranch": "DisableOrigin",
       "headRepository": "gilburns/Installomator",
@@ -20,8 +20,16 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-10T16:09:03Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "e756866d2477606ee0988c8ac169eb7254f77468",

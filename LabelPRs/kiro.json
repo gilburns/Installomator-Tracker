@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-07T00:56:03Z",
-      "updatedAt": "2026-11-07T00:56:35Z",
+      "updatedAt": "2026-11-10T16:06:22Z",
       "baseBranch": "main",
       "headBranch": "FixKiro",
       "headRepository": "gilburns/Installomator",
@@ -20,8 +20,16 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-10T16:06:21Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "20d31b5d19bdeac233c4603a9b785a6b6d0a4673",

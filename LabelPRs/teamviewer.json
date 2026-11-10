@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-07T23:02:45Z",
-      "updatedAt": "2026-11-07T23:02:57Z",
+      "updatedAt": "2026-11-10T16:13:55Z",
       "baseBranch": "main",
       "headBranch": "UpdateTeamViewer",
       "headRepository": "gilburns/Installomator",
@@ -21,7 +21,10 @@
       ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "uurazzle",
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "dce12776e22ee231c3912e705333c975b6cd8836",
