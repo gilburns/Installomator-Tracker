@@ -1,0 +1,39 @@
+{
+  "label": "toonboomstoryboardpro2025",
+  "labelFile": "fragments/labels/toonboomstoryboardpro2025.sh",
+  "pullRequests": [
+    {
+      "number": 3585,
+      "title": "Updated label to account for vendor adding major.minor to application…",
+      "url": "https://github.com/Installomator/Installomator/pull/3585",
+      "author": {
+        "login": "ehouston3",
+        "url": "https://github.com/ehouston3"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-10T20:36:26Z",
+      "updatedAt": "2026-11-10T20:36:26Z",
+      "baseBranch": "main",
+      "headBranch": "toonboomstoryboardpro2025-update",
+      "headRepository": "ehouston3/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "1a3907142c9fa4be9bb4f78a6d81531d24099359",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 7,
+        "deletions": 7
+      },
+      "labelsInPR": [
+        "toonboomstoryboardpro2025"
+      ]
+    }
+  ]
+}

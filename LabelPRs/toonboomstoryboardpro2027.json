@@ -1,0 +1,39 @@
+{
+  "label": "toonboomstoryboardpro2027",
+  "labelFile": "fragments/labels/toonboomstoryboardpro2027.sh",
+  "pullRequests": [
+    {
+      "number": 3586,
+      "title": "New label for ToonBoom Storyboard Pro 2027, using new logic to accoun…",
+      "url": "https://github.com/Installomator/Installomator/pull/3586",
+      "author": {
+        "login": "ehouston3",
+        "url": "https://github.com/ehouston3"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-10T20:38:12Z",
+      "updatedAt": "2026-11-10T20:38:12Z",
+      "baseBranch": "main",
+      "headBranch": "toonboomstoryboardpro2027-new",
+      "headRepository": "ehouston3/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "b31e63df6418d6ce919dc979f5cf024f61e554ec",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 13,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "toonboomstoryboardpro2027"
+      ]
+    }
+  ]
+}
