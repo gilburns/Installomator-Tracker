@@ -185,6 +185,11 @@
       "lastSeen": "2026-11-10T22:19:18Z",
       "reason": "missing appNewVersion"
     },
+    "capcut": {
+      "firstSeen": "2026-11-10T23:17:48Z",
+      "lastSeen": "2026-11-10T23:17:48Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-10T22:19:42Z",
       "lastSeen": "2026-11-10T22:19:42Z",
@@ -534,6 +539,11 @@
       "firstSeen": "2026-11-10T22:34:38Z",
       "lastSeen": "2026-11-10T22:34:38Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "macvector": {
+      "firstSeen": "2026-11-10T23:31:33Z",
+      "lastSeen": "2026-11-10T23:31:33Z",
+      "reason": "missing appNewVersion"
     },
     "magicbullet": {
       "firstSeen": "2026-11-10T22:34:56Z",

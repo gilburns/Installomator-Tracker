@@ -75,5 +75,16 @@
     "name": "Nextcloud Talk",
     "timeStamp": "2026-10-17T06:28:02Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.3.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/nextcloud-releases/talk-desktop/releases/download/v2.3.4/Nextcloud.Talk-macos-universal.dmg",
+    "expectedTeamID": "NKUJUXUJ3B",
+    "label": "nextcloudtalk",
+    "name": "Nextcloud Talk",
+    "timeStamp": "2026-11-10T23:33:42Z",
+    "type": "dmg"
   }
 ]

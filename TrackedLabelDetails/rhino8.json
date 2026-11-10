@@ -53,5 +53,16 @@
     "name": "Rhino 8",
     "timeStamp": "2026-10-21T06:27:33Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.37",
+    "blockingProcesses": [],
+    "downloadURL": "https://files.mcneel.com/rhino/8/mac/releases/rhino_8.37.26307.15002.dmg",
+    "expectedTeamID": "D6XDM4N99E",
+    "label": "rhino8",
+    "name": "Rhino 8",
+    "timeStamp": "2026-11-10T23:36:31Z",
+    "type": "dmg"
   }
 ]
