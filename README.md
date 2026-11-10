@@ -4,11 +4,11 @@ Automated, historical version/download-URL tracking for every [Installomator](ht
 
 [Installomator](https://github.com/Installomator/Installomator) is a shell-based tool that resolves the current download URL and version for ~1,163 macOS applications, then installs whichever one you tell it to. It always resolves to *whatever is current right now* - it has no memory of what a given version's download URL used to be.
 
-This repo runs that resolution logic for every label, every 2 hours, and keeps a running history: for each label, every version ever seen, with the download URL and metadata that were live for that version at the time it was discovered. The result is a queryable archive you can use to answer "what was the download URL for version X of label Y?" - something Installomator itself was never designed to answer.
+This repo runs that resolution logic for every label, every 1 hour, and keeps a running history: for each label, every version ever seen, with the download URL and metadata that were live for that version at the time it was discovered. The result is a queryable archive you can use to answer "what was the download URL for version X of label Y?" - something Installomator itself was never designed to answer.
 
 ## How it works
 
-A scheduled GitHub Actions workflow ([.github/workflows/track-labels.yml](.github/workflows/track-labels.yml)) runs on a self-hosted macOS runner every 2 hours on the even hours (00:00, 02:00, ... 22:00 UTC, plus on-demand via `workflow_dispatch`) and does four things in order, committing after each step that writes files:
+A scheduled GitHub Actions workflow ([.github/workflows/track-labels.yml](.github/workflows/track-labels.yml)) runs on a self-hosted macOS runner every 1 hour (00:00, 01:00, ... 23:00 UTC, plus on-demand via `workflow_dispatch`) and does four things in order, committing after each step that writes files:
 
 1. **Sync labels from upstream** ([sync_labels.sh](sync_labels.sh)) - pulls the current [`fragments/labels`](https://github.com/Installomator/Installomator/tree/main/fragments/labels) directory from Installomator's `main` branch via a shallow sparse-checkout clone, and mirrors it into [`Labels/`](Labels/): new labels are added, changed labels are updated, and labels removed upstream are deleted locally.
 2. **Track open label PRs** ([track_label_prs.sh](track_label_prs.sh)) - looks at every [open pull request](https://github.com/Installomator/Installomator/pulls) on Installomator, finds the ones that change a file in `fragments/labels/` (including disabling a label by moving it to `fragments/disabled/`), and writes [`LabelPRs/<label>.json`](LabelPRs/) for each label they touch, plus a [`label_prs.csv`](label_prs.csv) summary (see [Open label PRs](#open-label-prs)).
@@ -113,15 +113,15 @@ It's most likely listed in [`failed_labels.json`](failed_labels.json), along wit
 
 ### Can I fix a label by editing it in this repo?
 
-No. `Labels/` is an automatic mirror of upstream Installomator, and the next sync overwrites any local edits. Label changes go to the [Installomator repo](https://github.com/Installomator/Installomator). This repo picks them up within about 2 hours of the change landing on Installomator's `main` branch.
+No. `Labels/` is an automatic mirror of upstream Installomator, and the next sync overwrites any local edits. Label changes go to the [Installomator repo](https://github.com/Installomator/Installomator). This repo picks them up within about 1 hour of the change landing on Installomator's `main` branch.
 
 ### Why doesn't a label's history go back further?
 
-The tracker only records versions it actually sees while it's running. It started in July 2026, so nothing earlier is here. Because it checks every 2 hours, a version that is released and replaced between two runs can also be missed.
+The tracker only records versions it actually sees while it's running. It started in July 2026, so nothing earlier is here. Because it checks every 1 hour, a version that is released and replaced between two runs can also be missed.
 
 ### Is `timeStamp` the vendor's release date?
 
-No. It's when this tracker first saw that version, which is usually within about 2 hours of the version going live in Installomator's resolution. Vendor release dates aren't reliably available across labels.
+No. It's when this tracker first saw that version, which is usually within about 1 hour of the version going live in Installomator's resolution. Vendor release dates aren't reliably available across labels.
 
 ### Will a recorded download URL still work?
 
