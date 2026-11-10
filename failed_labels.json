@@ -1080,6 +1080,11 @@
       "lastSeen": "2026-11-10T12:45:41Z",
       "reason": "missing appNewVersion"
     },
+    "vmwarefusion": {
+      "firstSeen": "2026-11-10T15:42:31Z",
+      "lastSeen": "2026-11-10T15:42:31Z",
+      "reason": "missing appNewVersion"
+    },
     "vocevistavideopro": {
       "firstSeen": "2026-11-10T12:45:58Z",
       "lastSeen": "2026-11-10T12:45:58Z",
