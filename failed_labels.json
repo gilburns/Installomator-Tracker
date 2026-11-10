@@ -455,6 +455,11 @@
       "lastSeen": "2026-11-09T21:29:01Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-11-10T01:29:33Z",
+      "lastSeen": "2026-11-10T01:29:33Z",
+      "reason": "missing appNewVersion"
+    },
     "ipvisionconnect": {
       "firstSeen": "2026-11-09T21:29:25Z",
       "lastSeen": "2026-11-09T21:29:25Z",
@@ -504,6 +509,11 @@
       "firstSeen": "2026-11-09T21:32:02Z",
       "lastSeen": "2026-11-09T21:32:02Z",
       "reason": "label exited without a result (exit 0)"
+    },
+    "lightkey": {
+      "firstSeen": "2026-11-10T01:33:04Z",
+      "lastSeen": "2026-11-10T01:33:04Z",
+      "reason": "missing appNewVersion"
     },
     "logitechoptionsplus": {
       "firstSeen": "2026-11-09T21:32:10Z",
@@ -1099,6 +1109,11 @@
       "firstSeen": "2026-11-09T21:44:35Z",
       "lastSeen": "2026-11-09T21:44:35Z",
       "reason": "missing appNewVersion"
+    },
+    "whatroute": {
+      "firstSeen": "2026-11-10T01:44:56Z",
+      "lastSeen": "2026-11-10T01:44:56Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "wordservice": {
       "firstSeen": "2026-11-09T21:45:03Z",
