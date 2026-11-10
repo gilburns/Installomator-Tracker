@@ -160,6 +160,11 @@
       "lastSeen": "2026-11-10T12:24:19Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagicatemswitchers": {
+      "firstSeen": "2026-11-10T16:21:03Z",
+      "lastSeen": "2026-11-10T16:21:03Z",
+      "reason": "missing appNewVersion"
+    },
     "boxsync": {
       "firstSeen": "2026-11-10T12:24:36Z",
       "lastSeen": "2026-11-10T12:24:36Z",

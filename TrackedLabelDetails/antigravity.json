@@ -142,5 +142,17 @@
     "name": "Antigravity",
     "timeStamp": "2026-11-10T01:17:43Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.31.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://storage.googleapis.com/antigravity-public/antigravity-hub/2.31.0-6379060755038208/darwin-arm/Antigravity.dmg",
+    "downloadURLi386": "https://storage.googleapis.com/antigravity-public/antigravity-hub/2.31.0-6379060755038208/darwin-x64/Antigravity.dmg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "antigravity",
+    "name": "Antigravity",
+    "timeStamp": "2026-11-10T16:19:44Z",
+    "type": "dmg"
   }
 ]
