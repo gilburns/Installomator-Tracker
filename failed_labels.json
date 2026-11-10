@@ -125,6 +125,11 @@
       "lastSeen": "2026-11-10T07:20:06Z",
       "reason": "label does not set appNewVersion"
     },
+    "backgrounds": {
+      "firstSeen": "2026-11-10T10:21:52Z",
+      "lastSeen": "2026-11-10T10:21:52Z",
+      "reason": "missing appNewVersion"
+    },
     "balsamiqwireframes": {
       "firstSeen": "2026-11-10T07:20:17Z",
       "lastSeen": "2026-11-10T07:20:17Z",
@@ -159,6 +164,11 @@
       "firstSeen": "2026-11-10T07:20:54Z",
       "lastSeen": "2026-11-10T07:20:54Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "boop": {
+      "firstSeen": "2026-11-10T10:23:44Z",
+      "lastSeen": "2026-11-10T10:23:44Z",
+      "reason": "missing appNewVersion"
     },
     "boxsync": {
       "firstSeen": "2026-11-10T07:21:15Z",
@@ -1945,6 +1955,11 @@
       "lastSeen": "2026-11-10T07:42:32Z",
       "reason": "invalid JSON output"
     },
+    "snapgene": {
+      "firstSeen": "2026-11-10T10:38:02Z",
+      "lastSeen": "2026-11-10T10:38:02Z",
+      "reason": "missing appNewVersion"
+    },
     "sococo": {
       "firstSeen": "2026-11-10T07:42:53Z",
       "lastSeen": "2026-11-10T07:42:53Z",
@@ -2149,6 +2164,11 @@
       "firstSeen": "2026-11-10T07:47:50Z",
       "lastSeen": "2026-11-10T07:47:50Z",
       "reason": "label does not set appNewVersion"
+    },
+    "webexvdiplugin": {
+      "firstSeen": "2026-11-10T10:41:47Z",
+      "lastSeen": "2026-11-10T10:41:47Z",
+      "reason": "missing downloadURL"
     },
     "weprint": {
       "firstSeen": "2026-11-10T07:47:59Z",
