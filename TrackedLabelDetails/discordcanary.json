@@ -1714,5 +1714,27 @@
     "name": "Discord Canary",
     "timeStamp": "2026-11-09T03:29:36Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.0.1530",
+    "blockingProcesses": [],
+    "downloadURL": "https://canary.dl2.discordapp.net/distro/app/canary/osx/universal/0.0.1530/DiscordCanary.dmg",
+    "expectedTeamID": "53Q6R32WPB",
+    "label": "discordcanary",
+    "name": "Discord Canary",
+    "timeStamp": "2026-11-09T20:24:53Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.0.1532",
+    "blockingProcesses": [],
+    "downloadURL": "https://canary.dl2.discordapp.net/distro/app/canary/osx/universal/0.0.1532/DiscordCanary.dmg",
+    "expectedTeamID": "53Q6R32WPB",
+    "label": "discordcanary",
+    "name": "Discord Canary",
+    "timeStamp": "2026-11-09T23:22:07Z",
+    "type": "dmg"
   }
 ]

@@ -12,7 +12,7 @@
 # label is fixed upstream. That cache is invalidated - and everything
 # retried - whenever the content of Labels/ changes (a content hash, not the
 # upstream repo's commit SHA, so unrelated upstream commits don't trigger a
-# reset), or after 1 days regardless, as a safety valve against a label
+# reset), or after 4 hours regardless, as a safety valve against a label
 # that's stuck blacklisted from a one-off transient failure.
 #
 # Usage:
@@ -34,7 +34,7 @@ PROCESS_LABEL="$SCRIPT_DIR/process_label.sh"
 FAILED_LABELS_FILE="$SCRIPT_DIR/failed_labels.json"
 STATUS_CSV_FILE="$SCRIPT_DIR/label_status.csv"
 TIMEOUT_SECS=60
-FORCE_RETRY_INTERVAL_SECS=$((1 * 24 * 60 * 60))
+FORCE_RETRY_INTERVAL_SECS=$((1 * 4 * 60 * 60))
 
 verbose=0
 dry_run=0

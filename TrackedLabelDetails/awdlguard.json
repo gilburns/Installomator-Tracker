@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.3.1",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://github.com/moragabriele/awdl-guard/releases/download/v0.3.1/AWDLGuard-0.3.1.pkg",
+    "expectedTeamID": "9WCXJSYTFT",
+    "label": "awdlguard",
+    "name": "AWDL Guard",
+    "timeStamp": "2026-11-09T16:20:57Z",
+    "type": "pkg"
+  }
+]

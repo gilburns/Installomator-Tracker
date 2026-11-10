@@ -37,6 +37,7 @@
     "appNewVersion": "5.14.2",
     "blockingProcesses": [],
     "downloadURL": "https://desktop-download.zulip.com/v5.14.2/Zulip-5.14.2-arm64.dmg",
+    "downloadURLi386": "https://zulip.com/apps/download/mac",
     "expectedTeamID": "66KHCWMEYB",
     "label": "zulip",
     "name": "Zulip",

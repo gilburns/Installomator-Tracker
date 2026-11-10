@@ -108,5 +108,16 @@
     "name": "Remote Desktop Manager",
     "timeStamp": "2026-11-02T16:36:15Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.3.3.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.devolutions.net/download/Mac/Devolutions.RemoteDesktopManager.Mac.2026.3.3.0.dmg",
+    "expectedTeamID": "N592S9ASDB",
+    "label": "remotedesktopmanager",
+    "name": "Remote Desktop Manager",
+    "timeStamp": "2026-11-09T13:34:57Z",
+    "type": "dmg"
   }
 ]

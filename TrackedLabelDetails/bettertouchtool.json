@@ -64,5 +64,38 @@
     "name": "BetterTouchTool",
     "timeStamp": "2026-11-07T20:17:30Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.1115",
+    "blockingProcesses": [],
+    "downloadURL": "https://bttreleases.llo.ai/btt6.1115-2026110901.zip",
+    "expectedTeamID": "DAFVSXZ82P",
+    "label": "bettertouchtool",
+    "name": "BetterTouchTool",
+    "timeStamp": "2026-11-09T14:20:23Z",
+    "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.1117",
+    "blockingProcesses": [],
+    "downloadURL": "https://bttreleases.llo.ai/btt6.1117-2026110903.zip",
+    "expectedTeamID": "DAFVSXZ82P",
+    "label": "bettertouchtool",
+    "name": "BetterTouchTool",
+    "timeStamp": "2026-11-09T17:19:04Z",
+    "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.1119",
+    "blockingProcesses": [],
+    "downloadURL": "https://bttreleases.llo.ai/btt6.1119-2026110906.zip",
+    "expectedTeamID": "DAFVSXZ82P",
+    "label": "bettertouchtool",
+    "name": "BetterTouchTool",
+    "timeStamp": "2026-11-09T20:19:40Z",
+    "type": "zip"
   }
 ]

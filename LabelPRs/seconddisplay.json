@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-04T12:25:08Z",
-      "updatedAt": "2026-11-04T16:19:22Z",
+      "updatedAt": "2026-11-09T15:43:41Z",
       "baseBranch": "main",
       "headBranch": "main",
       "headRepository": "mwegmann98/Installomator",
@@ -26,13 +26,13 @@
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "54b8289cb65c9fe5d69eb9bd9c517f47019cb393",
-      "commitCount": 3,
-      "commentCount": 0,
+      "headCommit": "a3633aae931bd0305e09f52846a666035d76ac90",
+      "commitCount": 5,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
-        "additions": 7,
+        "additions": 8,
         "deletions": 0
       },
       "labelsInPR": [
