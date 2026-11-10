@@ -12,5 +12,19 @@
     "name": "Microsoft .NET SDK 10",
     "timeStamp": "2026-11-02T18:32:40Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "10.0.404",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.404/dotnet-sdk-10.0.404-osx-arm64.pkg",
+    "downloadURLi386": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.404/dotnet-sdk-10.0.404-osx-x64.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftdotnetsdk10",
+    "name": "Microsoft .NET SDK 10",
+    "timeStamp": "2026-11-10T17:34:01Z",
+    "type": "pkg"
   }
 ]
