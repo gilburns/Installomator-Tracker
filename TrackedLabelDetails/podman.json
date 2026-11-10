@@ -75,5 +75,16 @@
     "name": "Podman",
     "timeStamp": "2026-10-13T06:39:58Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/podman-container-tools/podman/releases/download/v6.2.0/podman-installer-macos-arm64.pkg",
+    "expectedTeamID": "HYSCB8KRL2",
+    "label": "podman",
+    "name": "Podman",
+    "timeStamp": "2026-11-10T20:38:27Z",
+    "type": "pkg"
   }
 ]
