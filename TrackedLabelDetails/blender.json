@@ -58,5 +58,17 @@
     "name": "Blender",
     "timeStamp": "2026-10-22T18:10:57Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.3.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://ftp.nluug.nl/pub/graphics/blender/release/Blender5.3/blender-5.3.0-macos-arm64.dmg",
+    "downloadURLi386": "https://ftp.nluug.nl/pub/graphics/blender/release/Blender4.5//blender-4.5.16-macos-x64.dmg",
+    "expectedTeamID": "68UA947AUU",
+    "label": "blender",
+    "name": "Blender",
+    "timeStamp": "2026-11-10T13:18:59Z",
+    "type": "dmg"
   }
 ]

@@ -273,5 +273,16 @@
     "name": "Opera",
     "timeStamp": "2026-11-04T12:41:52Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "140.0.6074.17",
+    "blockingProcesses": [],
+    "downloadURL": "https://get.geo.opera.com/pub/opera/desktop/140.0.6074.17/mac/Opera_140.0.6074.17_Setup.dmg",
+    "expectedTeamID": "A2P9LX4JPN",
+    "label": "opera",
+    "name": "Opera",
+    "timeStamp": "2026-11-10T13:32:40Z",
+    "type": "dmg"
   }
 ]
