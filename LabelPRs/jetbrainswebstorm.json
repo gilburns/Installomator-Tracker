@@ -12,16 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-08T23:04:15Z",
-      "updatedAt": "2026-11-08T23:04:27Z",
+      "updatedAt": "2026-11-11T22:22:39Z",
       "baseBranch": "main",
       "headBranch": "FixJetbrainswebstorm",
       "headRepository": "gilburns/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-11T22:22:39Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "c8f4a187d7d4926b92e44ba0ccc4abbcd428c202",
