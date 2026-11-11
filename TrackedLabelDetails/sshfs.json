@@ -9,5 +9,16 @@
     "name": "sshfs-3.7.3-ccb6821",
     "timeStamp": "2026-07-03T16:04:49Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.7.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com",
+    "expectedTeamID": "3T5GSNBU6W",
+    "label": "sshfs",
+    "name": "sshfs-3.7.3-ccb6821",
+    "timeStamp": "2026-11-11T09:41:22Z",
+    "type": "pkg"
   }
 ]
