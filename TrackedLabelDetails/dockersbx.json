@@ -9,5 +9,16 @@
     "name": "Sbx",
     "timeStamp": "2026-11-05T02:30:54Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.53.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/docker/sbx-releases/releases/download/v0.53.0/DockerSandboxes-darwin.dmg",
+    "expectedTeamID": "9BNSXJN65R",
+    "label": "dockersbx",
+    "name": "Sbx",
+    "timeStamp": "2026-11-11T08:28:56Z",
+    "type": "dmg"
   }
 ]
