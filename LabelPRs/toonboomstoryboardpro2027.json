@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-10T20:38:12Z",
-      "updatedAt": "2026-11-11T15:09:31Z",
+      "updatedAt": "2026-11-11T15:46:43Z",
       "baseBranch": "main",
       "headBranch": "toonboomstoryboardpro2027-new",
       "headRepository": "ehouston3/Installomator",
@@ -31,13 +31,13 @@
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "b31e63df6418d6ce919dc979f5cf024f61e554ec",
-      "commitCount": 1,
+      "headCommit": "2c9445c62c906c196a9be663484165a0dfa9a329",
+      "commitCount": 2,
       "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
-        "additions": 13,
+        "additions": 14,
         "deletions": 0
       },
       "labelsInPR": [
