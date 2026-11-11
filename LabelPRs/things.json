@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-08T00:12:21Z",
-      "updatedAt": "2026-11-08T00:12:33Z",
+      "updatedAt": "2026-11-11T16:55:36Z",
       "baseBranch": "main",
       "headBranch": "UpdateThings",
       "headRepository": "gilburns/Installomator",
@@ -21,7 +21,10 @@
       ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "uurazzle",
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "7beff526e3e1a2ded152b58fa6e635bc73ac4c13",

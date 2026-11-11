@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-07T23:21:57Z",
-      "updatedAt": "2026-11-07T23:22:18Z",
+      "updatedAt": "2026-11-11T16:52:39Z",
       "baseBranch": "main",
       "headBranch": "DisableDebookee",
       "headRepository": "gilburns/Installomator",
@@ -20,8 +20,16 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-11T16:52:39Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "eeaef520bf61f966ea380601a6f92afa92627ddf",
