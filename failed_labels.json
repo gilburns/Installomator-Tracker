@@ -1010,6 +1010,11 @@
       "lastSeen": "2026-11-11T12:49:17Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "textexpander": {
+      "firstSeen": "2026-11-11T14:41:18Z",
+      "lastSeen": "2026-11-11T14:41:18Z",
+      "reason": "missing appNewVersion"
+    },
     "things": {
       "firstSeen": "2026-11-11T12:49:47Z",
       "lastSeen": "2026-11-11T12:49:47Z",
