@@ -12,12 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-09T13:17:21Z",
-      "updatedAt": "2026-11-11T07:20:19Z",
+      "updatedAt": "2026-11-11T14:58:38Z",
       "baseBranch": "main",
       "headBranch": "new-label/ibmdatashift",
       "headRepository": "mwegmann98/Installomator",
       "prLabels": [
-        "application"
+        "application",
+        "waiting for response"
       ],
       "reviewDecision": "CHANGES_REQUESTED",
       "reviews": [

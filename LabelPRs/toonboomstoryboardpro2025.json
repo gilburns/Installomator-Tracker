@@ -12,11 +12,14 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-10T20:36:26Z",
-      "updatedAt": "2026-11-11T02:04:10Z",
+      "updatedAt": "2026-11-11T14:58:14Z",
       "baseBranch": "main",
       "headBranch": "toonboomstoryboardpro2025-update",
       "headRepository": "ehouston3/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application",
+        "waiting for response"
+      ],
       "reviewDecision": "CHANGES_REQUESTED",
       "reviews": [
         {
