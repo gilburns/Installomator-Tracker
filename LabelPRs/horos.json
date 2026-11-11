@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-08T19:26:53Z",
-      "updatedAt": "2026-11-08T19:27:04Z",
+      "updatedAt": "2026-11-11T18:12:51Z",
       "baseBranch": "main",
       "headBranch": "DisableHoros",
       "headRepository": "gilburns/Installomator",
@@ -20,8 +20,16 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-11T18:12:51Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "56fed34ea30d0da7e82b37542efe58f40dfbe20a",
