@@ -3,11 +3,21 @@
     "appName": "",
     "appNewVersion": "2.13",
     "blockingProcesses": [],
-    "downloadURL": "https://dl.google.com/adwords_editor/google_ads_editor.dmg",
     "expectedTeamID": "EQHXZ8M8AV",
     "label": "googleadseditor",
     "name": "Google Ads Editor",
     "timeStamp": "2026-07-24T18:39:44Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.14",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.google.com/adwords_editor/google_ads_editor.dmg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "googleadseditor",
+    "name": "Google Ads Editor",
+    "timeStamp": "2026-11-11T17:29:29Z",
     "type": "dmg"
   }
 ]

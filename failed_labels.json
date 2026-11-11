@@ -175,6 +175,11 @@
       "lastSeen": "2026-11-11T16:21:39Z",
       "reason": "missing appNewVersion"
     },
+    "calcservice": {
+      "firstSeen": "2026-11-11T17:20:19Z",
+      "lastSeen": "2026-11-11T17:20:19Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-11T16:22:31Z",
       "lastSeen": "2026-11-11T16:22:31Z",
@@ -265,6 +270,11 @@
       "lastSeen": "2026-11-11T16:27:47Z",
       "reason": "label does not set appNewVersion"
     },
+    "easyfind": {
+      "firstSeen": "2026-11-11T17:25:16Z",
+      "lastSeen": "2026-11-11T17:25:16Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "editshare-connect": {
       "firstSeen": "2026-11-11T16:28:04Z",
       "lastSeen": "2026-11-11T16:28:04Z",
@@ -344,6 +354,11 @@
       "firstSeen": "2026-11-11T16:30:51Z",
       "lastSeen": "2026-11-11T16:30:51Z",
       "reason": "missing appNewVersion"
+    },
+    "gentilhomme": {
+      "firstSeen": "2026-11-11T17:28:52Z",
+      "lastSeen": "2026-11-11T17:28:52Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "googledrivebackupandsync": {
       "firstSeen": "2026-11-11T16:31:54Z",
