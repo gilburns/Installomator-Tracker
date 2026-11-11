@@ -530,6 +530,11 @@
       "lastSeen": "2026-11-11T12:40:46Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "macvector": {
+      "firstSeen": "2026-11-11T13:33:49Z",
+      "lastSeen": "2026-11-11T13:33:49Z",
+      "reason": "missing appNewVersion"
+    },
     "magicbullet": {
       "firstSeen": "2026-11-11T12:41:05Z",
       "lastSeen": "2026-11-11T12:41:05Z",
@@ -614,6 +619,11 @@
       "firstSeen": "2026-11-11T12:42:10Z",
       "lastSeen": "2026-11-11T12:42:10Z",
       "reason": "label does not set appNewVersion"
+    },
+    "mindmanager": {
+      "firstSeen": "2026-11-11T13:35:06Z",
+      "lastSeen": "2026-11-11T13:35:06Z",
+      "reason": "missing appNewVersion"
     },
     "minecraftedu": {
       "firstSeen": "2026-11-11T12:42:12Z",

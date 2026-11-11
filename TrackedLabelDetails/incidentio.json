@@ -42,5 +42,16 @@
     "name": "incident.io",
     "timeStamp": "2026-11-04T19:26:53Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.4.17",
+    "blockingProcesses": [],
+    "downloadURL": "https://storage.googleapis.com/incident-io-production-downloads/incident.io-1.4.17.zip",
+    "expectedTeamID": "2B35RJ426W",
+    "label": "incidentio",
+    "name": "incident.io",
+    "timeStamp": "2026-11-11T13:29:59Z",
+    "type": "zip"
   }
 ]
