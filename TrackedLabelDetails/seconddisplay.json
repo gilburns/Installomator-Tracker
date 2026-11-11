@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.2.339",
+    "blockingProcesses": [],
+    "downloadURL": "https://storage.googleapis.com/seconddisplay-downloads/updates/SecondDisplay-1.2.339.dmg",
+    "expectedTeamID": "Z26LH56G3H",
+    "label": "seconddisplay",
+    "name": "Second Display",
+    "timeStamp": "2026-11-11T16:43:39Z",
+    "type": "dmg"
+  }
+]
