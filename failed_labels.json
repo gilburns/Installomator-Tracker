@@ -160,6 +160,11 @@
       "lastSeen": "2026-11-11T02:22:43Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagicconverters": {
+      "firstSeen": "2026-11-11T06:28:15Z",
+      "lastSeen": "2026-11-11T06:28:15Z",
+      "reason": "missing appNewVersion"
+    },
     "boxsync": {
       "firstSeen": "2026-11-11T02:23:05Z",
       "lastSeen": "2026-11-11T02:23:05Z",
@@ -805,6 +810,11 @@
       "lastSeen": "2026-11-11T02:44:51Z",
       "reason": "missing appNewVersion"
     },
+    "redshift": {
+      "firstSeen": "2026-11-11T06:47:05Z",
+      "lastSeen": "2026-11-11T06:47:05Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "reflector4": {
       "firstSeen": "2026-11-11T02:44:55Z",
       "lastSeen": "2026-11-11T02:44:55Z",
@@ -834,6 +844,11 @@
       "firstSeen": "2026-11-11T02:45:08Z",
       "lastSeen": "2026-11-11T02:45:08Z",
       "reason": "label does not set appNewVersion"
+    },
+    "rodecentral": {
+      "firstSeen": "2026-11-11T06:47:33Z",
+      "lastSeen": "2026-11-11T06:47:33Z",
+      "reason": "missing appNewVersion"
     },
     "rodeconnect": {
       "firstSeen": "2026-11-11T02:45:13Z",
@@ -865,6 +880,11 @@
       "lastSeen": "2026-11-11T02:45:18Z",
       "reason": "missing appNewVersion"
     },
+    "rstudio": {
+      "firstSeen": "2026-11-11T06:47:51Z",
+      "lastSeen": "2026-11-11T06:47:51Z",
+      "reason": "missing appNewVersion"
+    },
     "salesforcesfdx": {
       "firstSeen": "2026-11-11T02:45:26Z",
       "lastSeen": "2026-11-11T02:45:26Z",
@@ -890,10 +910,35 @@
       "lastSeen": "2026-11-11T02:45:35Z",
       "reason": "label does not set appNewVersion"
     },
+    "sdnotary": {
+      "firstSeen": "2026-11-11T06:48:14Z",
+      "lastSeen": "2026-11-11T06:48:14Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "sdnotary2": {
+      "firstSeen": "2026-11-11T06:48:15Z",
+      "lastSeen": "2026-11-11T06:48:15Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "sidekick": {
       "firstSeen": "2026-11-11T02:45:54Z",
       "lastSeen": "2026-11-11T02:45:54Z",
       "reason": "missing appNewVersion"
+    },
+    "silentknight": {
+      "firstSeen": "2026-11-11T06:48:38Z",
+      "lastSeen": "2026-11-11T06:48:38Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "silentknight3": {
+      "firstSeen": "2026-11-11T06:48:48Z",
+      "lastSeen": "2026-11-11T06:48:48Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "silnite": {
+      "firstSeen": "2026-11-11T06:49:08Z",
+      "lastSeen": "2026-11-11T06:49:08Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "sirimote": {
       "firstSeen": "2026-11-11T02:46:00Z",
@@ -1009,6 +1054,21 @@
       "firstSeen": "2026-11-11T02:48:50Z",
       "lastSeen": "2026-11-11T02:48:50Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "tencentmeeting": {
+      "firstSeen": "2026-11-11T06:51:38Z",
+      "lastSeen": "2026-11-11T06:51:38Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "texliveutility": {
+      "firstSeen": "2026-11-11T06:52:23Z",
+      "lastSeen": "2026-11-11T06:52:23Z",
+      "reason": "missing appNewVersion"
+    },
+    "texshop": {
+      "firstSeen": "2026-11-11T06:52:56Z",
+      "lastSeen": "2026-11-11T06:52:56Z",
+      "reason": "missing appNewVersion"
     },
     "things": {
       "firstSeen": "2026-11-11T02:49:23Z",
