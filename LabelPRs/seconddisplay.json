@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-04T12:25:08Z",
-      "updatedAt": "2026-11-09T15:43:41Z",
+      "updatedAt": "2026-11-11T02:07:27Z",
       "baseBranch": "main",
       "headBranch": "main",
       "headRepository": "mwegmann98/Installomator",
@@ -20,10 +20,14 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [
-        "gilburns"
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-11T02:07:27Z"
+        }
       ],
+      "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "a3633aae931bd0305e09f52846a666035d76ac90",
