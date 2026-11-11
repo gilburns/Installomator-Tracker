@@ -530,6 +530,11 @@
       "lastSeen": "2026-11-11T02:39:18Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "macvector": {
+      "firstSeen": "2026-11-11T04:36:01Z",
+      "lastSeen": "2026-11-11T04:36:01Z",
+      "reason": "missing appNewVersion"
+    },
     "magicbullet": {
       "firstSeen": "2026-11-11T02:39:35Z",
       "lastSeen": "2026-11-11T02:39:35Z",
