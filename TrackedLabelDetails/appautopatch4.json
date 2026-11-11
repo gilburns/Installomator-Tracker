@@ -310,5 +310,18 @@
     "name": "App Auto-Patch",
     "timeStamp": "2026-11-09T23:15:57Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "125",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://downloads.appautopatch.app/AppAutoPatch-4.0.0-125.pkg",
+    "expectedTeamID": "6GBSVT64FS",
+    "label": "appautopatch4",
+    "name": "App Auto-Patch",
+    "timeStamp": "2026-11-11T03:20:27Z",
+    "type": "pkg"
   }
 ]
