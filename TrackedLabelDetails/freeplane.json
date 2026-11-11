@@ -34,5 +34,17 @@
     "name": "Freeplane",
     "timeStamp": "2026-10-30T18:15:20Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.13.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/archive/1.13.5/Freeplane-1.13.5-apple.dmg/download",
+    "downloadURLi386": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/archive/1.13.5/Freeplane-1.13.5-intel.dmg/download",
+    "expectedTeamID": "CSHVD99Y7K",
+    "label": "freeplane",
+    "name": "Freeplane",
+    "timeStamp": "2026-11-11T20:28:13Z",
+    "type": "dmg"
   }
 ]

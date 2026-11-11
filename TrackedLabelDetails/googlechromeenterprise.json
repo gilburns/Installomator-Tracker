@@ -73,11 +73,21 @@
     "appName": "",
     "appNewVersion": "157.0.8103.51",
     "blockingProcesses": [],
-    "downloadURL": "https://dl.google.com/dl/chrome/mac/universal/stable/gcem/GoogleChrome.pkg",
     "expectedTeamID": "EQHXZ8M8AV",
     "label": "googlechromeenterprise",
     "name": "Google Chrome",
     "timeStamp": "2026-11-09T21:27:23Z",
+    "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "157.0.8103.79",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.google.com/dl/chrome/mac/universal/stable/gcem/GoogleChrome.pkg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "googlechromeenterprise",
+    "name": "Google Chrome",
+    "timeStamp": "2026-11-11T20:29:07Z",
     "type": "pkg"
   }
 ]
