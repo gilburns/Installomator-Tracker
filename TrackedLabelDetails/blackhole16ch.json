@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.7.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://existential.audio/downloads/BlackHole16ch-0.7.1.pkg",
+    "expectedTeamID": "Q5C99V536K",
+    "label": "blackhole16ch",
+    "name": "BlackHole 16 Channel",
+    "timeStamp": "2026-11-12T14:20:54Z",
+    "type": "pkg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.209.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-mac.grammarly.com/versions/1.209.0.0/Grammarly.dmg",
+    "expectedTeamID": "W8F64X92K3",
+    "label": "grammarly",
+    "name": "Grammarly Desktop",
+    "timeStamp": "2026-11-12T14:31:13Z",
+    "type": "dmg"
+  }
+]

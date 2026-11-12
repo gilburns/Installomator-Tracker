@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "15.83.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.teamviewer.com/download/version_15x/update/15.83.3/TeamViewerHost.pkg",
+    "expectedTeamID": "H7UGFBUGV6",
+    "label": "teamviewerhost",
+    "name": "TeamViewerHost",
+    "timeStamp": "2026-11-12T14:45:00Z",
+    "type": "pkg"
+  }
+]

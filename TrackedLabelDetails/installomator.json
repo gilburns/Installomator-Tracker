@@ -11,5 +11,18 @@
     "name": "Installomator",
     "timeStamp": "2026-07-03T15:49:19Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "10.10",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://github.com/Installomator/Installomator/releases/download/v10.10/Installomator-10.10.pkg",
+    "expectedTeamID": "JME5BW3F3R",
+    "label": "installomator",
+    "name": "Installomator",
+    "timeStamp": "2026-11-12T14:32:38Z",
+    "type": "pkg"
   }
 ]

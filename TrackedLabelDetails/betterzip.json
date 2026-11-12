@@ -9,5 +9,16 @@
     "name": "BetterZip",
     "timeStamp": "2026-07-03T15:39:28Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://macitbetter.com/dl/BetterZip-6.1.zip",
+    "expectedTeamID": "79RR9LPM2N",
+    "label": "betterzip",
+    "name": "BetterZip",
+    "timeStamp": "2026-11-12T14:20:38Z",
+    "type": "zip"
   }
 ]

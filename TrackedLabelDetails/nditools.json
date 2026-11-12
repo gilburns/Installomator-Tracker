@@ -1,0 +1,22 @@
+[
+  {
+    "appName": "NDI Access Manager.app",
+    "appNewVersion": "6.3.2",
+    "blockingProcesses": [
+      "NDI Access Manager",
+      "NDI Discovery",
+      "NDI Launcher",
+      "NDI Router",
+      "NDI Scan Converter",
+      "NDI Test Patterns",
+      "NDI Video Monitor",
+      "NDI Virtual Input"
+    ],
+    "downloadURL": "https://downloads.ndi.tv/Tools/NDIToolsInstaller.pkg",
+    "expectedTeamID": "W8U66ET244",
+    "label": "nditools",
+    "name": "NDI Tools",
+    "timeStamp": "2026-11-12T14:38:09Z",
+    "type": "pkg"
+  }
+]

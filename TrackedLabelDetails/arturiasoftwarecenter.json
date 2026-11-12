@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.13.0.3440",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.arturia.net/products/asc/soft/Arturia_Software_Center__2_13_0_3440.pkg",
+    "expectedTeamID": "T53ZHSF36C",
+    "label": "arturiasoftwarecenter",
+    "name": "Arturia Software Center",
+    "timeStamp": "2026-11-12T14:19:56Z",
+    "type": "pkg"
+  }
+]

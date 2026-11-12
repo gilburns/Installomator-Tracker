@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.24.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://static.culturedcode.com/things/Things_32402008.zip",
+    "expectedTeamID": "JLMPQHK86H",
+    "label": "things",
+    "name": "Things3",
+    "timeStamp": "2026-11-12T14:45:45Z",
+    "type": "zip"
+  }
+]

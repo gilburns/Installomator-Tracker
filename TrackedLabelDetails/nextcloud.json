@@ -85,5 +85,16 @@
     "name": "Nextcloud",
     "timeStamp": "2026-11-05T09:38:51Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "34.0.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.7/Nextcloud-34.0.7.pkg",
+    "expectedTeamID": "NKUJUXUJ3B",
+    "label": "nextcloud",
+    "name": "Nextcloud",
+    "timeStamp": "2026-11-12T14:38:18Z",
+    "type": "pkg"
   }
 ]

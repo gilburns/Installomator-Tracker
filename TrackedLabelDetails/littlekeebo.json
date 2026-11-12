@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.littlekeebo.app/releases/1.0.7/LittleKeebo-1.0.7.zip",
+    "expectedTeamID": "LT297PXA82",
+    "label": "littlekeebo",
+    "name": "Little Keebo",
+    "timeStamp": "2026-11-12T14:35:38Z",
+    "type": "zip"
+  }
+]

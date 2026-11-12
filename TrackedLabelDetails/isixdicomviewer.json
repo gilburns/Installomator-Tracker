@@ -82,5 +82,17 @@
     "name": "IsiX DICOM Viewer",
     "timeStamp": "2026-11-12T05:30:18Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/ThalesMMS/IsiX-DICOM-Viewer-macOS/releases/download/v6.0.1/IsiX-DICOM-Viewer-6.0.1-Apple-Silicon-Macs.zip",
+    "downloadURLi386": "https://github.com/ThalesMMS/IsiX-DICOM-Viewer-macOS/releases/download/v6.0.1/IsiX-DICOM-Viewer-6.0.1-Intel-Macs.zip",
+    "expectedTeamID": "H4Q6WN7NV5",
+    "label": "isixdicomviewer",
+    "name": "IsiX DICOM Viewer",
+    "timeStamp": "2026-11-12T14:32:51Z",
+    "type": "zip"
   }
 ]

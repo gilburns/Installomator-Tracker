@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.52.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.microsoft.com/download/6b2bfeac-9c1b-4182-9a2f-ce86ff8cc371/azuredatastudio-macos-universal-1.52.0.zip",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftazuredatastudio",
+    "name": "Azure Data Studio",
+    "timeStamp": "2026-11-12T14:36:54Z",
+    "type": "zip"
+  }
+]

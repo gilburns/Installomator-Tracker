@@ -53,5 +53,16 @@
     "name": "TextExpander",
     "timeStamp": "2026-09-29T06:43:32Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.textexpander.com/electron-mac/908.6.999/TextExpander_8.6.dmg",
+    "expectedTeamID": "7PKJ6G4DXL",
+    "label": "textexpander",
+    "name": "TextExpander",
+    "timeStamp": "2026-11-12T14:45:39Z",
+    "type": "dmg"
   }
 ]
