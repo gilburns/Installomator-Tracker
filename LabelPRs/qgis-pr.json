@@ -53,7 +53,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-08-31T14:36:06Z",
-      "updatedAt": "2026-09-02T01:56:29Z",
+      "updatedAt": "2026-11-12T15:16:13Z",
       "baseBranch": "main",
       "headBranch": "QGIS-Bugfix",
       "headRepository": "tgrymatt/Installomator",

@@ -12,11 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-12T10:31:24Z",
-      "updatedAt": "2026-11-12T13:42:26Z",
+      "updatedAt": "2026-11-12T15:08:20Z",
       "baseBranch": "main",
       "headBranch": "add_elgatostudio",
       "headRepository": "BonnierNews/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "CHANGES_REQUESTED",
       "reviews": [
         {

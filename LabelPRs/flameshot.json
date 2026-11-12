@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-09-22T00:41:36Z",
-      "updatedAt": "2026-10-15T21:37:41Z",
+      "updatedAt": "2026-11-12T15:16:03Z",
       "baseBranch": "main",
       "headBranch": "add-flameshot-label",
       "headRepository": "kylebcooke/Installomator",

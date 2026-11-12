@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-08-05T13:35:15Z",
-      "updatedAt": "2026-08-25T17:55:09Z",
+      "updatedAt": "2026-11-12T15:16:15Z",
       "baseBranch": "main",
       "headBranch": "label-fix-logitechoptionsplusoffline",
       "headRepository": "Tuttu/Installomator",

@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-09T13:31:45Z",
-      "updatedAt": "2026-11-11T14:58:41Z",
+      "updatedAt": "2026-11-12T15:15:04Z",
       "baseBranch": "main",
       "headBranch": "new-label/dockside",
       "headRepository": "mwegmann98/Installomator",

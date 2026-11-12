@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-09-17T22:31:44Z",
-      "updatedAt": "2026-10-14T18:22:28Z",
+      "updatedAt": "2026-11-12T15:16:07Z",
       "baseBranch": "main",
       "headBranch": "fix/gpgsuite-download-url",
       "headRepository": "jonpage-upstart/Installomator",
