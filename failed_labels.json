@@ -665,6 +665,11 @@
       "lastSeen": "2026-11-12T14:39:30Z",
       "reason": "missing appNewVersion"
     },
+    "pgadmin4": {
+      "firstSeen": "2026-11-12T17:35:58Z",
+      "lastSeen": "2026-11-12T17:35:58Z",
+      "reason": "missing appNewVersion"
+    },
     "pingplotter": {
       "firstSeen": "2026-11-12T14:40:03Z",
       "lastSeen": "2026-11-12T14:40:03Z",
@@ -933,6 +938,11 @@
     "torbrowser": {
       "firstSeen": "2026-11-12T14:46:17Z",
       "lastSeen": "2026-11-12T14:46:17Z",
+      "reason": "missing appNewVersion"
+    },
+    "transfer": {
+      "firstSeen": "2026-11-12T17:41:56Z",
+      "lastSeen": "2026-11-12T17:41:56Z",
       "reason": "missing appNewVersion"
     },
     "trapcode": {
