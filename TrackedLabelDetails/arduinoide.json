@@ -10,5 +10,17 @@
     "name": "Arduino IDE",
     "timeStamp": "2026-07-03T15:37:38Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.3.11",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/arduino/arduino-ide/releases/download/2.3.11/arduino-ide_2.3.11_macOS_arm64.dmg",
+    "downloadURLi386": "https://github.com/arduino/arduino-ide/releases/download/2.3.11/arduino-ide_2.3.11_macOS_64bit.dmg",
+    "expectedTeamID": "7KT7ZWMCJT",
+    "label": "arduinoide",
+    "name": "Arduino IDE",
+    "timeStamp": "2026-11-12T16:20:21Z",
+    "type": "dmg"
   }
 ]
