@@ -92,14 +92,19 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-12T17:25:31Z",
-      "updatedAt": "2026-11-12T17:25:31Z",
+      "updatedAt": "2026-11-12T20:35:04Z",
       "baseBranch": "main",
       "headBranch": "patch-4",
       "headRepository": "rougegoat/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "ea4f9ea971a4fe7539bb4064182c40bb4b6c3f8c",
