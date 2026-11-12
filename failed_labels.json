@@ -225,6 +225,21 @@
       "lastSeen": "2026-11-12T02:27:13Z",
       "reason": "missing appNewVersion"
     },
+    "crisp": {
+      "firstSeen": "2026-11-12T06:33:43Z",
+      "lastSeen": "2026-11-12T06:33:43Z",
+      "reason": "missing appNewVersion"
+    },
+    "crystalfetch": {
+      "firstSeen": "2026-11-12T06:34:45Z",
+      "lastSeen": "2026-11-12T06:34:45Z",
+      "reason": "missing appNewVersion"
+    },
+    "cytoscape": {
+      "firstSeen": "2026-11-12T06:35:09Z",
+      "lastSeen": "2026-11-12T06:35:09Z",
+      "reason": "missing appNewVersion"
+    },
     "daylite": {
       "firstSeen": "2026-11-12T02:27:42Z",
       "lastSeen": "2026-11-12T02:27:42Z",
