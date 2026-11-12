@@ -1,0 +1,39 @@
+{
+  "label": "elgatostudio",
+  "labelFile": "fragments/labels/elgatostudio.sh",
+  "pullRequests": [
+    {
+      "number": 3588,
+      "title": "Add Elgato Studio",
+      "url": "https://github.com/Installomator/Installomator/pull/3588",
+      "author": {
+        "login": "pmex",
+        "url": "https://github.com/pmex"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-12T10:31:24Z",
+      "updatedAt": "2026-11-12T10:31:24Z",
+      "baseBranch": "main",
+      "headBranch": "add_elgatostudio",
+      "headRepository": "BonnierNews/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "17f3aa955c6d2de9c6f1496be969387129f4ec2e",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 8,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "elgatostudio"
+      ]
+    }
+  ]
+}
