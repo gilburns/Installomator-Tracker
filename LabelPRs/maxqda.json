@@ -1,0 +1,41 @@
+{
+  "label": "maxqda",
+  "labelFile": "fragments/labels/maxqda.sh",
+  "pullRequests": [
+    {
+      "number": 3592,
+      "title": "Update and rename maxqda26.sh to maxqda.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3592",
+      "author": {
+        "login": "rougegoat",
+        "url": "https://github.com/rougegoat"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-12T22:44:03Z",
+      "updatedAt": "2026-11-12T22:44:03Z",
+      "baseBranch": "main",
+      "headBranch": "patch-5",
+      "headRepository": "rougegoat/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "38546f3e5f5490c2e94eb9ca98d89ceff99be3d3",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "RENAMED",
+        "additions": 1,
+        "deletions": 1,
+        "path": "fragments/labels/maxqda.sh",
+        "previousPath": "fragments/labels/maxqda26.sh"
+      },
+      "labelsInPR": [
+        "maxqda"
+      ]
+    }
+  ]
+}
