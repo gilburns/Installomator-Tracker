@@ -81,6 +81,39 @@
         "qgis-pr",
         "qgisltr"
       ]
+    },
+    {
+      "number": 3590,
+      "title": "Update qgis-pr.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3590",
+      "author": {
+        "login": "rougegoat",
+        "url": "https://github.com/rougegoat"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-12T17:25:31Z",
+      "updatedAt": "2026-11-12T17:25:31Z",
+      "baseBranch": "main",
+      "headBranch": "patch-4",
+      "headRepository": "rougegoat/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "ea4f9ea971a4fe7539bb4064182c40bb4b6c3f8c",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 4,
+        "deletions": 2
+      },
+      "labelsInPR": [
+        "qgis-pr"
+      ]
     }
   ]
 }
