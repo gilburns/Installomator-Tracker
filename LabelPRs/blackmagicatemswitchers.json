@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-10-18T19:37:34Z",
-      "updatedAt": "2026-11-12T08:20:56Z",
+      "updatedAt": "2026-11-12T13:20:34Z",
       "baseBranch": "main",
       "headBranch": "FixBlackmagicatemswitchers",
       "headRepository": "gilburns/Installomator",
@@ -21,26 +21,21 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [
-        {
-          "reviewer": "uurazzle",
-          "state": "APPROVED",
-          "submittedAt": "2026-10-19T16:03:47Z"
-        }
-      ],
+      "reviews": [],
       "requestedReviewers": [
-        "acodega"
+        "acodega",
+        "uurazzle"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "b128d92c8aafa4a7791385854c77302283087095",
-      "commitCount": 1,
-      "commentCount": 1,
+      "headCommit": "d719c8e62608714fc6ae6b1a901b7fdfdd7bc860",
+      "commitCount": 2,
+      "commentCount": 2,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
-        "additions": 1,
-        "deletions": 1
+        "additions": 2,
+        "deletions": 2
       },
       "labelsInPR": [
         "blackmagicatemswitchers"
