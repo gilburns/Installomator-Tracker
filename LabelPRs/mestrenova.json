@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-08T23:46:39Z",
-      "updatedAt": "2026-11-12T18:59:01Z",
+      "updatedAt": "2026-11-12T19:46:13Z",
       "baseBranch": "main",
       "headBranch": "FixMestrenova",
       "headRepository": "gilburns/Installomator",
@@ -20,9 +20,14 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-12T19:45:50Z"
+        }
+      ],
       "requestedReviewers": [
-        "uurazzle",
         "acodega"
       ],
       "mergeable": "MERGEABLE",
