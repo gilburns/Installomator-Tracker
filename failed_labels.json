@@ -175,6 +175,11 @@
       "lastSeen": "2026-11-12T07:21:56Z",
       "reason": "missing appNewVersion"
     },
+    "captureone": {
+      "firstSeen": "2026-11-12T10:21:31Z",
+      "lastSeen": "2026-11-12T10:21:31Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-12T07:22:37Z",
       "lastSeen": "2026-11-12T07:22:37Z",
@@ -449,6 +454,11 @@
       "firstSeen": "2026-11-12T07:32:43Z",
       "lastSeen": "2026-11-12T07:32:43Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "inkscape": {
+      "firstSeen": "2026-11-12T10:30:43Z",
+      "lastSeen": "2026-11-12T10:30:43Z",
+      "reason": "missing appNewVersion"
     },
     "insomnia": {
       "firstSeen": "2026-11-12T09:31:09Z",

@@ -46,11 +46,21 @@
     "appName": "",
     "appNewVersion": "7.3.5",
     "blockingProcesses": [],
-    "downloadURL": "https://github.com",
     "expectedTeamID": "79WVL87KXQ",
     "label": "dbgate",
     "name": "DbGate",
     "timeStamp": "2026-11-11T14:23:53Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.3.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com",
+    "expectedTeamID": "79WVL87KXQ",
+    "label": "dbgate",
+    "name": "DbGate",
+    "timeStamp": "2026-11-12T10:24:21Z",
     "type": "dmg"
   }
 ]
