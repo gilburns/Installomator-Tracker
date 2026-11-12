@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-08T23:05:03Z",
-      "updatedAt": "2026-11-11T23:13:35Z",
+      "updatedAt": "2026-11-11T23:45:54Z",
       "baseBranch": "main",
       "headBranch": "FixJetbrainsrubymine",
       "headRepository": "gilburns/Installomator",
@@ -20,9 +20,14 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-11T23:45:54Z"
+        }
+      ],
       "requestedReviewers": [
-        "uurazzle",
         "acodega"
       ],
       "mergeable": "MERGEABLE",
