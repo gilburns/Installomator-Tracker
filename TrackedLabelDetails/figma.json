@@ -53,12 +53,22 @@
     "appName": "",
     "appNewVersion": "126.11.8",
     "blockingProcesses": [],
+    "expectedTeamID": "T8RA8NE3B7",
+    "label": "figma",
+    "name": "Figma",
+    "timeStamp": "2026-11-06T21:25:06Z",
+    "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "126.11.9",
+    "blockingProcesses": [],
     "downloadURL": "https://desktop.figma.com/mac-arm/Figma.zip",
     "downloadURLi386": "https://desktop.figma.com/mac/Figma.zip",
     "expectedTeamID": "T8RA8NE3B7",
     "label": "figma",
     "name": "Figma",
-    "timeStamp": "2026-11-06T21:25:06Z",
+    "timeStamp": "2026-11-12T23:24:01Z",
     "type": "zip"
   }
 ]
