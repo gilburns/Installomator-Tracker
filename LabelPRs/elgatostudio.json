@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-12T10:31:24Z",
-      "updatedAt": "2026-11-12T15:08:20Z",
+      "updatedAt": "2026-11-12T15:26:07Z",
       "baseBranch": "main",
       "headBranch": "add_elgatostudio",
       "headRepository": "BonnierNews/Installomator",
@@ -27,12 +27,14 @@
           "submittedAt": "2026-11-12T13:42:26Z"
         }
       ],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "17f3aa955c6d2de9c6f1496be969387129f4ec2e",
-      "commitCount": 1,
-      "commentCount": 1,
+      "headCommit": "636b407d1ffd920c7030bc5b666eaab48ae97b20",
+      "commitCount": 2,
+      "commentCount": 2,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
