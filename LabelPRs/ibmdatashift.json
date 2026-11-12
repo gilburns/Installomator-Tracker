@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-09T13:17:21Z",
-      "updatedAt": "2026-11-11T14:58:38Z",
+      "updatedAt": "2026-11-12T04:42:40Z",
       "baseBranch": "main",
       "headBranch": "new-label/ibmdatashift",
       "headRepository": "mwegmann98/Installomator",
@@ -33,7 +33,7 @@
       "checksState": "SUCCESS",
       "headCommit": "db6a84ca10b2403a8a5f338cc754c6aef83bdda1",
       "commitCount": 1,
-      "commentCount": 3,
+      "commentCount": 4,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",

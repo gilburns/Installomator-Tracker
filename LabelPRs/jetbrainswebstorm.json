@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-08T23:04:15Z",
-      "updatedAt": "2026-11-11T22:22:39Z",
+      "updatedAt": "2026-11-12T04:35:49Z",
       "baseBranch": "main",
       "headBranch": "FixJetbrainswebstorm",
       "headRepository": "gilburns/Installomator",
@@ -34,7 +34,7 @@
       "checksState": "SUCCESS",
       "headCommit": "c8f4a187d7d4926b92e44ba0ccc4abbcd428c202",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
