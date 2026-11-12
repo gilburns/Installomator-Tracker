@@ -141,5 +141,16 @@
     "name": "BetterTouchTool",
     "timeStamp": "2026-11-12T10:19:53Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.1139",
+    "blockingProcesses": [],
+    "downloadURL": "https://bttreleases.llo.ai/btt6.1139-2026111209.zip",
+    "expectedTeamID": "DAFVSXZ82P",
+    "label": "bettertouchtool",
+    "name": "BetterTouchTool",
+    "timeStamp": "2026-11-12T12:25:54Z",
+    "type": "zip"
   }
 ]
