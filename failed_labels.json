@@ -450,6 +450,11 @@
       "lastSeen": "2026-11-12T07:32:43Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "insomnia": {
+      "firstSeen": "2026-11-12T09:31:09Z",
+      "lastSeen": "2026-11-12T09:31:09Z",
+      "reason": "missing appNewVersion"
+    },
     "ipvisionconnect": {
       "firstSeen": "2026-11-12T07:33:06Z",
       "lastSeen": "2026-11-12T07:33:06Z",
