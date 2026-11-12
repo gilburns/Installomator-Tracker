@@ -414,5 +414,18 @@
     "name": "Visual Studio Code",
     "timeStamp": "2026-11-11T10:33:57Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "<stdin>: Property List error: Cannot parse a NULL or zero-length data / JSON error: Unable to parse empty data.",
+    "blockingProcesses": [
+      "Code"
+    ],
+    "downloadURL": "https://update.code.visualstudio.com/latest/darwin-universal/stable",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftvisualstudiocode",
+    "name": "Visual Studio Code",
+    "timeStamp": "2026-11-12T15:36:05Z",
+    "type": "zip"
   }
 ]
