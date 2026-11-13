@@ -526,5 +526,16 @@
     "name": "Firefox Developer Edition",
     "timeStamp": "2026-11-11T16:30:23Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "161.0b3",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/161.0b3/mac/en-US/Firefox%20161.0b3.dmg",
+    "expectedTeamID": "43AQ936H96",
+    "label": "firefoxdeveloperedition",
+    "name": "Firefox Developer Edition",
+    "timeStamp": "2026-11-13T16:29:14Z",
+    "type": "dmg"
   }
 ]

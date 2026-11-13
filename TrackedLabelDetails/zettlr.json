@@ -46,5 +46,17 @@
     "name": "Zettlr",
     "timeStamp": "2026-10-25T18:33:28Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.10.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Zettlr/Zettlr/releases/download/v4.10.0/Zettlr-4.10.0-arm64.dmg",
+    "downloadURLi386": "https://github.com/Zettlr/Zettlr/releases/download/v4.10.0/Zettlr-4.10.0-x64.dmg",
+    "expectedTeamID": "QS52BN8W68",
+    "label": "zettlr",
+    "name": "Zettlr",
+    "timeStamp": "2026-11-13T16:48:28Z",
+    "type": "dmg"
   }
 ]
