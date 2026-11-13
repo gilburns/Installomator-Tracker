@@ -31,5 +31,16 @@
     "name": "multipass",
     "timeStamp": "2026-10-19T18:32:44Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.17.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/canonical/multipass/releases/download/v1.17.1/multipass-1.17.1%2Bmac-Darwin.pkg",
+    "expectedTeamID": "X4QN7LTP59",
+    "label": "multipass",
+    "name": "multipass",
+    "timeStamp": "2026-11-13T18:34:43Z",
+    "type": "pkg"
   }
 ]
