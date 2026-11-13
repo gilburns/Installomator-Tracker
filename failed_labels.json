@@ -160,6 +160,11 @@
       "lastSeen": "2026-11-13T08:24:04Z",
       "reason": "missing appNewVersion"
     },
+    "capcut": {
+      "firstSeen": "2026-11-13T09:22:50Z",
+      "lastSeen": "2026-11-13T09:22:50Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-13T06:29:12Z",
       "lastSeen": "2026-11-13T06:29:12Z",
@@ -449,6 +454,11 @@
       "firstSeen": "2026-11-13T06:40:55Z",
       "lastSeen": "2026-11-13T06:40:55Z",
       "reason": "label does not set appNewVersion"
+    },
+    "libreoffice": {
+      "firstSeen": "2026-11-13T09:34:30Z",
+      "lastSeen": "2026-11-13T09:34:30Z",
+      "reason": "missing appNewVersion"
     },
     "libreofficelanguagepackintl": {
       "firstSeen": "2026-11-13T06:41:47Z",
