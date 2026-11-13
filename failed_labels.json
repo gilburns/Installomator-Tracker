@@ -440,6 +440,11 @@
       "lastSeen": "2026-11-12T20:31:36Z",
       "reason": "missing appNewVersion"
     },
+    "keybase": {
+      "firstSeen": "2026-11-13T00:52:43Z",
+      "lastSeen": "2026-11-13T00:52:43Z",
+      "reason": "missing downloadURL"
+    },
     "kimplusclientmodul": {
       "firstSeen": "2026-11-12T20:32:08Z",
       "lastSeen": "2026-11-12T20:32:08Z",
@@ -909,6 +914,11 @@
       "firstSeen": "2026-11-12T20:42:06Z",
       "lastSeen": "2026-11-12T20:42:06Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "textexpander": {
+      "firstSeen": "2026-11-13T01:02:40Z",
+      "lastSeen": "2026-11-13T01:02:40Z",
+      "reason": "missing appNewVersion"
     },
     "thunderbird_intl": {
       "firstSeen": "2026-11-12T20:42:58Z",

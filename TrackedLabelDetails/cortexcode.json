@@ -63,12 +63,22 @@
     "appName": "",
     "appNewVersion": "1.25.0",
     "blockingProcesses": [],
+    "expectedTeamID": "W4NT6CRQ7U",
+    "label": "cortexcode",
+    "name": "Cortex Code",
+    "timeStamp": "2026-11-06T14:24:08Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.25.4",
+    "blockingProcesses": [],
     "downloadURL": "https://sfc-repo.snowflakecomputing.com/coco-desktop/downloads/latest/Cortex-Code-darwin-arm64.dmg",
     "downloadURLi386": "https://sfc-repo.snowflakecomputing.com/coco-desktop/downloads/latest/Cortex-Code-darwin-x64.dmg",
     "expectedTeamID": "W4NT6CRQ7U",
     "label": "cortexcode",
     "name": "Cortex Code",
-    "timeStamp": "2026-11-06T14:24:08Z",
+    "timeStamp": "2026-11-13T00:43:33Z",
     "type": "dmg"
   }
 ]
