@@ -53,12 +53,24 @@
     "blockingProcesses": [
       "Whimsical"
     ],
+    "expectedTeamID": "2N6497CB83",
+    "label": "whimsical",
+    "name": "Whimsical",
+    "timeStamp": "2026-11-12T15:46:13Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "Whimsical.app",
+    "appNewVersion": "2026.15.2",
+    "blockingProcesses": [
+      "Whimsical"
+    ],
     "downloadURL": "https://desktop.whimsical.com/mac/dmg/arm64",
     "downloadURLi386": "https://desktop.whimsical.app/mac/dmg/x64",
     "expectedTeamID": "2N6497CB83",
     "label": "whimsical",
     "name": "Whimsical",
-    "timeStamp": "2026-11-12T15:46:13Z",
+    "timeStamp": "2026-11-13T14:44:51Z",
     "type": "dmg"
   }
 ]

@@ -810,6 +810,11 @@
       "lastSeen": "2026-11-13T11:38:26Z",
       "reason": "label does not set appNewVersion"
     },
+    "selfcontrol": {
+      "firstSeen": "2026-11-13T14:39:15Z",
+      "lastSeen": "2026-11-13T14:39:15Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "sidekick": {
       "firstSeen": "2026-11-13T11:38:49Z",
       "lastSeen": "2026-11-13T11:38:49Z",
