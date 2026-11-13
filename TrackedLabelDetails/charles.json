@@ -31,5 +31,16 @@
     "name": "Charles",
     "timeStamp": "2026-10-11T06:15:57Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.2.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.charlesproxy.com/assets/release/5.2.3/charles-proxy-5.2.3.dmg",
+    "expectedTeamID": "9A5PCU4FSD",
+    "label": "charles",
+    "name": "Charles",
+    "timeStamp": "2026-11-13T04:22:50Z",
+    "type": "dmg"
   }
 ]
