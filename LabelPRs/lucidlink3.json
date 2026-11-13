@@ -1,0 +1,41 @@
+{
+  "label": "lucidlink3",
+  "labelFile": "fragments/labels/lucidlink3.sh",
+  "pullRequests": [
+    {
+      "number": 3596,
+      "title": "Create lucidlink3.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3596",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-13T04:47:49Z",
+      "updatedAt": "2026-11-13T04:48:51Z",
+      "baseBranch": "main",
+      "headBranch": "CreateLucidLink3",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "e7d8c3b747e73660a252e5d87c2a6806f3d4ae6c",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "lucidlink3"
+      ]
+    }
+  ]
+}
