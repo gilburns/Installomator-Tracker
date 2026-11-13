@@ -92,7 +92,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-12T17:25:31Z",
-      "updatedAt": "2026-11-12T20:35:04Z",
+      "updatedAt": "2026-11-13T14:30:10Z",
       "baseBranch": "main",
       "headBranch": "patch-4",
       "headRepository": "rougegoat/Installomator",
@@ -100,7 +100,13 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "acodega",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-13T14:30:10Z"
+        }
+      ],
       "requestedReviewers": [
         "gilburns",
         "uurazzle"

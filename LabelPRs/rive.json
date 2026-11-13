@@ -1,0 +1,39 @@
+{
+  "label": "rive",
+  "labelFile": "fragments/labels/rive.sh",
+  "pullRequests": [
+    {
+      "number": 3597,
+      "title": "Create rive.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3597",
+      "author": {
+        "login": "TheDirtyWizard",
+        "url": "https://github.com/TheDirtyWizard"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-13T14:36:14Z",
+      "updatedAt": "2026-11-13T14:37:23Z",
+      "baseBranch": "main",
+      "headBranch": "rive-label",
+      "headRepository": "TheDirtyWizard/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "3b84e0872e5b591cf6133290a026e6838f218449",
+      "commitCount": 1,
+      "commentCount": 1,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "rive"
+      ]
+    }
+  ]
+}
