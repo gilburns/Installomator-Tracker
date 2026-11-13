@@ -160,6 +160,11 @@
       "lastSeen": "2026-11-13T11:19:43Z",
       "reason": "missing appNewVersion"
     },
+    "capcut": {
+      "firstSeen": "2026-11-13T13:20:19Z",
+      "lastSeen": "2026-11-13T13:20:19Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-13T11:20:07Z",
       "lastSeen": "2026-11-13T11:20:07Z",
@@ -999,6 +1004,11 @@
       "firstSeen": "2026-11-13T11:44:17Z",
       "lastSeen": "2026-11-13T11:44:17Z",
       "reason": "label does not set appNewVersion"
+    },
+    "webex": {
+      "firstSeen": "2026-11-13T13:42:59Z",
+      "lastSeen": "2026-11-13T13:42:59Z",
+      "reason": "missing appNewVersion"
     },
     "webexmeetings": {
       "firstSeen": "2026-11-13T11:44:33Z",
