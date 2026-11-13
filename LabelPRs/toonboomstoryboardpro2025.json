@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-10T20:36:26Z",
-      "updatedAt": "2026-11-12T20:28:18Z",
+      "updatedAt": "2026-11-13T15:58:57Z",
       "baseBranch": "main",
       "headBranch": "toonboomstoryboardpro2025-update",
       "headRepository": "ehouston3/Installomator",
@@ -36,7 +36,7 @@
       "checksState": "SUCCESS",
       "headCommit": "7cfbd90765533e70290ab41e68ad2ff2fcb8cab5",
       "commitCount": 4,
-      "commentCount": 3,
+      "commentCount": 4,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
