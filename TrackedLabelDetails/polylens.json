@@ -20,5 +20,16 @@
     "name": "Lens Desktop",
     "timeStamp": "2026-09-29T06:38:50Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://swupdate.lens.poly.com/lens-desktop-mac/1.4.0/1.4.0/PolyLens-1.4.0.dmg",
+    "expectedTeamID": "6HB5Y2QTA3",
+    "label": "polylens",
+    "name": "Lens Desktop",
+    "timeStamp": "2026-11-13T17:35:11Z",
+    "type": "pkgInDmg"
   }
 ]

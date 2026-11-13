@@ -155,6 +155,11 @@
       "lastSeen": "2026-11-13T16:21:58Z",
       "reason": "missing appNewVersion"
     },
+    "calibre": {
+      "firstSeen": "2026-11-13T17:18:40Z",
+      "lastSeen": "2026-11-13T17:18:40Z",
+      "reason": "missing appNewVersion"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-13T16:22:38Z",
       "lastSeen": "2026-11-13T16:22:38Z",
@@ -653,6 +658,11 @@
     "outsystemsservicestudio": {
       "firstSeen": "2026-11-13T16:38:58Z",
       "lastSeen": "2026-11-13T16:38:58Z",
+      "reason": "missing appNewVersion"
+    },
+    "pgadmin4": {
+      "firstSeen": "2026-11-13T17:34:57Z",
+      "lastSeen": "2026-11-13T17:34:57Z",
       "reason": "missing appNewVersion"
     },
     "pingplotter": {

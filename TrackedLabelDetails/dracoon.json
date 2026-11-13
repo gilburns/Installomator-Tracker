@@ -37,5 +37,18 @@
     "name": "Dracoon",
     "timeStamp": "2026-09-03T18:17:04Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.4.0",
+    "blockingProcesses": [
+      "DRACOON Finder Integration"
+    ],
+    "downloadURL": "https://dto9yu01k0763.cloudfront.net/release/DRACOON-5.4.0.30093.zip",
+    "expectedTeamID": "G69SCX94XU",
+    "label": "dracoon",
+    "name": "Dracoon",
+    "timeStamp": "2026-11-13T17:23:05Z",
+    "type": "zip"
   }
 ]
