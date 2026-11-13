@@ -155,6 +155,11 @@
       "lastSeen": "2026-11-13T16:21:58Z",
       "reason": "missing appNewVersion"
     },
+    "calcservice": {
+      "firstSeen": "2026-11-13T20:21:17Z",
+      "lastSeen": "2026-11-13T20:21:17Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "calibre": {
       "firstSeen": "2026-11-13T17:18:40Z",
       "lastSeen": "2026-11-13T17:18:40Z",
@@ -239,6 +244,11 @@
       "firstSeen": "2026-11-13T16:27:10Z",
       "lastSeen": "2026-11-13T16:27:10Z",
       "reason": "label does not set appNewVersion"
+    },
+    "easyfind": {
+      "firstSeen": "2026-11-13T20:25:46Z",
+      "lastSeen": "2026-11-13T20:25:46Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "editshare-connect": {
       "firstSeen": "2026-11-13T16:27:25Z",
