@@ -1028,7 +1028,7 @@
 "sizeup","SizeUp","","1.7.4","2026-07-03T16:04:04Z","success"
 "sketch","Sketch","","2026.3.1","2026-09-15T18:28:43Z","success"
 "sketchup2024","SketchUp 2024","SketchUp 2024/SketchUp.app","24.0.598","2026-07-03T16:04:05Z","invalid JSON output"
-"sketchup2025","SketchUp 2025","SketchUp 2025/SketchUp.app","25.0.659.288","2026-07-03T16:04:06Z","success"
+"sketchup2025","SketchUp 2025","SketchUp 2025/SketchUp.app","25.0.659.288","2026-07-03T16:04:06Z","missing appNewVersion and downloadURL"
 "sketchup2026","SketchUp 2026","SketchUp 2026/SketchUp.app","26.2.242.76","2026-07-03T16:04:07Z","success"
 "skim","Skim","","1.7.19","2026-11-04T17:39:03Z","success"
 "slab","Slab","","1.8.0","2026-09-19T18:36:16Z","success"

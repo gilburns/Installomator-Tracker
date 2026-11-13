@@ -815,6 +815,11 @@
       "lastSeen": "2026-11-13T21:37:36Z",
       "reason": "invalid JSON output"
     },
+    "sketchup2025": {
+      "firstSeen": "2026-11-13T23:36:08Z",
+      "lastSeen": "2026-11-13T23:36:08Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "sococo": {
       "firstSeen": "2026-11-13T21:37:57Z",
       "lastSeen": "2026-11-13T21:37:57Z",
