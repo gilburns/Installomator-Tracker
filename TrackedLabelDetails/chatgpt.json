@@ -763,5 +763,18 @@
     "name": "ChatGPT",
     "timeStamp": "2026-11-11T03:22:42Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.1111.21308",
+    "blockingProcesses": [
+      "ChatGPT"
+    ],
+    "downloadURL": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-darwin-arm64-26.1111.21308.zip",
+    "expectedTeamID": "2DC432GLL2",
+    "label": "chatgpt",
+    "name": "ChatGPT",
+    "timeStamp": "2026-11-13T02:23:39Z",
+    "type": "zip"
   }
 ]
