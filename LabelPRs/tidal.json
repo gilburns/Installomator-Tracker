@@ -1,0 +1,41 @@
+{
+  "label": "tidal",
+  "labelFile": "fragments/labels/tidal.sh",
+  "pullRequests": [
+    {
+      "number": 3593,
+      "title": "Update tidal.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3593",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-13T02:13:56Z",
+      "updatedAt": "2026-11-13T02:14:15Z",
+      "baseBranch": "main",
+      "headBranch": "FixTidal",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "2cba55374f4a37199d3f4413a7ec8d1ccc300c63",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 8,
+        "deletions": 6
+      },
+      "labelsInPR": [
+        "tidal"
+      ]
+    }
+  ]
+}

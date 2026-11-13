@@ -1,0 +1,43 @@
+{
+  "label": "workplacechat",
+  "labelFile": "fragments/labels/workplacechat.sh",
+  "pullRequests": [
+    {
+      "number": 3594,
+      "title": "Disable workplacechat.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3594",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-13T02:17:35Z",
+      "updatedAt": "2026-11-13T02:17:51Z",
+      "baseBranch": "main",
+      "headBranch": "DisableWorkplacechat",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "36332722249355183fb115066ad4b62238f8159d",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "DISABLED",
+        "additions": 0,
+        "deletions": 0,
+        "path": "fragments/disabled/workplacechat.sh",
+        "previousPath": "fragments/labels/workplacechat.sh"
+      },
+      "labelsInPR": [
+        "workplacechat"
+      ]
+    }
+  ]
+}
