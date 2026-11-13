@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-08-05T13:35:15Z",
-      "updatedAt": "2026-11-12T15:16:15Z",
+      "updatedAt": "2026-11-13T12:50:58Z",
       "baseBranch": "main",
       "headBranch": "label-fix-logitechoptionsplusoffline",
       "headRepository": "Tuttu/Installomator",
@@ -35,7 +35,7 @@
       "checksState": "SUCCESS",
       "headCommit": "8190be769bbc8579c934e4b679675496600ede25",
       "commitCount": 3,
-      "commentCount": 4,
+      "commentCount": 5,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",

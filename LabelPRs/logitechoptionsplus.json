@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-09-29T17:01:47Z",
-      "updatedAt": "2026-11-12T15:16:02Z",
+      "updatedAt": "2026-11-13T12:50:49Z",
       "baseBranch": "main",
       "headBranch": "logitechoptionsplus-label-update",
       "headRepository": "ajamaya1/Installomator",
@@ -36,7 +36,7 @@
       "checksState": "SUCCESS",
       "headCommit": "564463a8c687a33b276395a75c18895299fab0a2",
       "commitCount": 1,
-      "commentCount": 2,
+      "commentCount": 3,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
