@@ -1,0 +1,41 @@
+{
+  "label": "zoomclient",
+  "labelFile": "fragments/labels/zoomclient.sh",
+  "pullRequests": [
+    {
+      "number": 3595,
+      "title": "Update zoomclient.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3595",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-13T02:56:39Z",
+      "updatedAt": "2026-11-13T02:56:53Z",
+      "baseBranch": "main",
+      "headBranch": "FixZoomclient",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "04ae98f505f53d0b5dac6ba021dc93aa52ba4aa8",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 8,
+        "deletions": 6
+      },
+      "labelsInPR": [
+        "zoomclient"
+      ]
+    }
+  ]
+}
