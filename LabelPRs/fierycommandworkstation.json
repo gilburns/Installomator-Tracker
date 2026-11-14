@@ -1,0 +1,41 @@
+{
+  "label": "fierycommandworkstation",
+  "labelFile": "fragments/labels/fierycommandworkstation.sh",
+  "pullRequests": [
+    {
+      "number": 3599,
+      "title": "Update fierycommandworkstation.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3599",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-14T01:10:45Z",
+      "updatedAt": "2026-11-14T01:10:58Z",
+      "baseBranch": "main",
+      "headBranch": "FixFierycommandworkstation",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "2de121f9f8ac6f467b48fb21bde784785d8b2f53",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 5,
+        "deletions": 39
+      },
+      "labelsInPR": [
+        "fierycommandworkstation"
+      ]
+    }
+  ]
+}
