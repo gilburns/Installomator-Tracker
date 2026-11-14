@@ -155,6 +155,11 @@
       "lastSeen": "2026-11-14T21:18:32Z",
       "reason": "missing appNewVersion"
     },
+    "calibre": {
+      "firstSeen": "2026-11-14T22:18:54Z",
+      "lastSeen": "2026-11-14T22:18:54Z",
+      "reason": "missing appNewVersion"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-14T21:19:13Z",
       "lastSeen": "2026-11-14T21:19:13Z",
@@ -299,6 +304,11 @@
       "firstSeen": "2026-11-14T21:25:38Z",
       "lastSeen": "2026-11-14T21:25:38Z",
       "reason": "label does not set appNewVersion"
+    },
+    "flux": {
+      "firstSeen": "2026-11-14T22:25:51Z",
+      "lastSeen": "2026-11-14T22:25:51Z",
+      "reason": "missing appNewVersion"
     },
     "fontexplorer": {
       "firstSeen": "2026-11-14T21:26:14Z",
@@ -999,6 +1009,11 @@
       "firstSeen": "2026-11-14T21:44:09Z",
       "lastSeen": "2026-11-14T21:44:09Z",
       "reason": "missing appNewVersion"
+    },
+    "whatroute": {
+      "firstSeen": "2026-11-14T22:42:54Z",
+      "lastSeen": "2026-11-14T22:42:54Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "wordservice": {
       "firstSeen": "2026-11-14T21:44:46Z",
