@@ -12,11 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-12T22:44:03Z",
-      "updatedAt": "2026-11-14T16:57:32Z",
+      "updatedAt": "2026-11-14T22:44:32Z",
       "baseBranch": "main",
       "headBranch": "patch-5",
       "headRepository": "rougegoat/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
       "requestedReviewers": [],

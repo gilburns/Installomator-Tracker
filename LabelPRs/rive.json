@@ -12,11 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-13T14:36:14Z",
-      "updatedAt": "2026-11-14T20:43:22Z",
+      "updatedAt": "2026-11-14T22:43:58Z",
       "baseBranch": "main",
       "headBranch": "rive-label",
       "headRepository": "TheDirtyWizard/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "CHANGES_REQUESTED",
       "reviews": [
         {
