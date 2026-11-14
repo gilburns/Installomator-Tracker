@@ -20,5 +20,16 @@
     "name": "Second Display",
     "timeStamp": "2026-11-12T19:37:55Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.2.352",
+    "blockingProcesses": [],
+    "downloadURL": "https://storage.googleapis.com/seconddisplay-downloads/updates/SecondDisplay-1.2.352.dmg",
+    "expectedTeamID": "Z26LH56G3H",
+    "label": "seconddisplay",
+    "name": "Second Display",
+    "timeStamp": "2026-11-14T21:38:16Z",
+    "type": "dmg"
   }
 ]
