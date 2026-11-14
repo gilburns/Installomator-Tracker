@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-12T22:44:03Z",
-      "updatedAt": "2026-11-12T22:44:03Z",
+      "updatedAt": "2026-11-14T16:57:32Z",
       "baseBranch": "main",
       "headBranch": "patch-5",
       "headRepository": "rougegoat/Installomator",
@@ -24,7 +24,7 @@
       "checksState": "SUCCESS",
       "headCommit": "38546f3e5f5490c2e94eb9ca98d89ceff99be3d3",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "RENAMED",
