@@ -1,0 +1,41 @@
+{
+  "label": "torbrowser",
+  "labelFile": "fragments/labels/torbrowser.sh",
+  "pullRequests": [
+    {
+      "number": 3598,
+      "title": "Update torbrowser.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3598",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-14T00:29:17Z",
+      "updatedAt": "2026-11-14T00:29:28Z",
+      "baseBranch": "main",
+      "headBranch": "UpdateTorbrowser",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "5b6b4e4e13dc89a78cc9d5c2b3f06ffa7d4ba1a6",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 3,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "torbrowser"
+      ]
+    }
+  ]
+}
