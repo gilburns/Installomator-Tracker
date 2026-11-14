@@ -180,6 +180,7 @@
     "appName": "",
     "appNewVersion": "278.4.4020",
     "blockingProcesses": [],
+    "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20278.4.4020.dmg",
     "expectedTeamID": "G7HH3F8CAK",
     "label": "dropbox",
     "name": "Dropbox",

@@ -31,5 +31,16 @@
     "name": "coconutBattery",
     "timeStamp": "2026-09-09T18:14:38Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.4.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.coconut-flavour.com/downloads/coconutBattery_441_275.zip",
+    "expectedTeamID": "R5SC3K86L5",
+    "label": "coconutbattery",
+    "name": "coconutBattery",
+    "timeStamp": "2026-11-14T07:21:20Z",
+    "type": "zip"
   }
 ]
