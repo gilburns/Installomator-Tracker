@@ -415,6 +415,11 @@
       "lastSeen": "2026-11-14T16:30:09Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-11-14T17:27:37Z",
+      "lastSeen": "2026-11-14T17:27:37Z",
+      "reason": "missing appNewVersion"
+    },
     "ipvisionconnect": {
       "firstSeen": "2026-11-14T16:30:35Z",
       "lastSeen": "2026-11-14T16:30:35Z",
@@ -658,6 +663,11 @@
     "outsystemsservicestudio": {
       "firstSeen": "2026-11-14T16:37:20Z",
       "lastSeen": "2026-11-14T16:37:20Z",
+      "reason": "missing appNewVersion"
+    },
+    "pgadmin4": {
+      "firstSeen": "2026-11-14T17:34:31Z",
+      "lastSeen": "2026-11-14T17:34:31Z",
       "reason": "missing appNewVersion"
     },
     "pingplotter": {
