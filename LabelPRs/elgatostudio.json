@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-12T10:31:24Z",
-      "updatedAt": "2026-11-13T08:15:38Z",
+      "updatedAt": "2026-11-14T20:34:25Z",
       "baseBranch": "main",
       "headBranch": "add_elgatostudio",
       "headRepository": "BonnierNews/Installomator",
@@ -36,7 +36,7 @@
       "checksState": "SUCCESS",
       "headCommit": "a40af73613c1ddf0127fed83289663a35a2c6418",
       "commitCount": 3,
-      "commentCount": 4,
+      "commentCount": 5,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",

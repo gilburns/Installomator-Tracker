@@ -12,13 +12,19 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-13T14:36:14Z",
-      "updatedAt": "2026-11-13T14:37:23Z",
+      "updatedAt": "2026-11-14T20:43:22Z",
       "baseBranch": "main",
       "headBranch": "rive-label",
       "headRepository": "TheDirtyWizard/Installomator",
       "prLabels": [],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-14T20:43:22Z"
+        }
+      ],
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
