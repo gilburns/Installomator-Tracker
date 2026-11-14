@@ -425,6 +425,11 @@
       "lastSeen": "2026-11-14T07:28:51Z",
       "reason": "missing appNewVersion"
     },
+    "jamfpssoutility": {
+      "firstSeen": "2026-11-14T09:28:35Z",
+      "lastSeen": "2026-11-14T09:28:35Z",
+      "reason": "missing appNewVersion"
+    },
     "jdk20": {
       "firstSeen": "2026-11-14T07:29:12Z",
       "lastSeen": "2026-11-14T07:29:12Z",
@@ -449,6 +454,11 @@
       "firstSeen": "2026-11-14T07:30:20Z",
       "lastSeen": "2026-11-14T07:30:20Z",
       "reason": "label does not set appNewVersion"
+    },
+    "libreoffice": {
+      "firstSeen": "2026-11-14T09:30:46Z",
+      "lastSeen": "2026-11-14T09:30:46Z",
+      "reason": "missing appNewVersion"
     },
     "libreofficelanguagepackintl": {
       "firstSeen": "2026-11-14T07:31:10Z",
