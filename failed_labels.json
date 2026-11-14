@@ -215,6 +215,11 @@
       "lastSeen": "2026-11-14T02:26:29Z",
       "reason": "missing appNewVersion"
     },
+    "codemeter": {
+      "firstSeen": "2026-11-14T06:29:00Z",
+      "lastSeen": "2026-11-14T06:29:00Z",
+      "reason": "timed out after 60s"
+    },
     "craftmanagerforsketch": {
       "firstSeen": "2026-11-14T02:27:10Z",
       "lastSeen": "2026-11-14T02:27:10Z",
