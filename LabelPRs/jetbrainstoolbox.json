@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-08T23:04:40Z",
-      "updatedAt": "2026-11-12T15:53:12Z",
+      "updatedAt": "2026-11-14T17:46:47Z",
       "baseBranch": "main",
       "headBranch": "FixJetbrainstoolbox",
       "headRepository": "gilburns/Installomator",
@@ -32,14 +32,14 @@
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "f8de9d8e324dfaf6a07339252d4ec8bd68bb6d30",
-      "commitCount": 1,
-      "commentCount": 2,
+      "headCommit": "bb960d53ac22fa3471de644f21ed6eaccbaf9572",
+      "commitCount": 2,
+      "commentCount": 3,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
-        "additions": 1,
-        "deletions": 1
+        "additions": 6,
+        "deletions": 5
       },
       "labelsInPR": [
         "jetbrainstoolbox"
