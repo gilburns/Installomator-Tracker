@@ -1,0 +1,39 @@
+{
+  "label": "starface11x",
+  "labelFile": "fragments/labels/starface11x.sh",
+  "pullRequests": [
+    {
+      "number": 3601,
+      "title": "New label starface11x",
+      "url": "https://github.com/Installomator/Installomator/pull/3601",
+      "author": {
+        "login": "macmangr",
+        "url": "https://github.com/macmangr"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-14T09:44:43Z",
+      "updatedAt": "2026-11-14T09:44:43Z",
+      "baseBranch": "main",
+      "headBranch": "starface11x",
+      "headRepository": "macmangr/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "b0d24924262c3a555d954a159db9057964238292",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "starface11x"
+      ]
+    }
+  ]
+}
