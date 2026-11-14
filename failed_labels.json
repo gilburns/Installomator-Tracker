@@ -140,6 +140,11 @@
       "lastSeen": "2026-11-14T21:17:55Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagicwebpresenter": {
+      "firstSeen": "2026-11-14T23:18:09Z",
+      "lastSeen": "2026-11-14T23:18:09Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "boxsync": {
       "firstSeen": "2026-11-14T21:18:24Z",
       "lastSeen": "2026-11-14T21:18:24Z",
