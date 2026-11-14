@@ -1020,6 +1020,11 @@
       "lastSeen": "2026-11-14T16:45:53Z",
       "reason": "missing appNewVersion"
     },
+    "whatroute": {
+      "firstSeen": "2026-11-14T19:40:38Z",
+      "lastSeen": "2026-11-14T19:40:38Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "wordservice": {
       "firstSeen": "2026-11-14T16:46:25Z",
       "lastSeen": "2026-11-14T16:46:25Z",
