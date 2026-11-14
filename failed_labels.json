@@ -135,10 +135,20 @@
       "lastSeen": "2026-11-14T02:23:15Z",
       "reason": "label does not set appNewVersion"
     },
+    "bibdesk": {
+      "firstSeen": "2026-11-14T04:20:50Z",
+      "lastSeen": "2026-11-14T04:20:50Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "blackhole64": {
       "firstSeen": "2026-11-14T02:23:45Z",
       "lastSeen": "2026-11-14T02:23:45Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "blackmagicdesktopvideo": {
+      "firstSeen": "2026-11-14T04:21:10Z",
+      "lastSeen": "2026-11-14T04:21:10Z",
+      "reason": "missing appNewVersion"
     },
     "blackmagicvideohub": {
       "firstSeen": "2026-11-14T03:20:48Z",
