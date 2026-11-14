@@ -141,7 +141,7 @@
 "blackmagicatemswitchers","Blackmagic ATEM Switchers","/Blackmagic ATEM Switchers/ATEM Software Control.app","21.2","2026-11-05T04:22:01Z","success"
 "blackmagiccameras","Blackmagic Cameras","Blackmagic Cameras/Blackmagic Camera Setup.app","10.3.4","2026-11-10T05:19:50Z","success"
 "blackmagicconverters","Blackmagic Converters","Blackmagic Converters/Converters Setup.app","12.4.2","2026-11-05T02:25:44Z","success"
-"blackmagicdesktopvideo","Blackmagic Desktop Video","Blackmagic Desktop Video/Desktop Video Setup.app","16.5","2026-10-30T06:11:43Z","success"
+"blackmagicdesktopvideo","Blackmagic Desktop Video","Blackmagic Desktop Video/Desktop Video Setup.app","16.5","2026-10-30T06:11:43Z","missing appNewVersion"
 "blackmagicultimatte","Blackmagic Ultimatte","","2.4.1","2026-10-19T01:58:03Z","success"
 "blackmagicvideohub","Blackmagic Videohub","Blackmagic Videohub/Videohub Setup.app","11.0.1","2026-10-19T01:58:05Z","success"
 "blackmagicwebpresenter","Blackmagic Web Presenter","/Blackmagic Web Presenter/Blackmagic Web Presenter Setup.app","3.5","2026-10-19T01:58:07Z","success"
