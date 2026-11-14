@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.4.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/IBM/mac-ibm-migration-tool/releases/download/v-1.4.1-b-218/IBM.Data.Shift.zip",
+    "expectedTeamID": "PETKK2G752",
+    "label": "ibmdatashift",
+    "name": "IBM Data Shift",
+    "timeStamp": "2026-11-14T16:29:56Z",
+    "type": "zip"
+  }
+]

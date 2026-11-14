@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "QGIS-final-4_2_3.app",
+    "appNewVersion": "4.2.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl4.qgis.org/downloads/macos/pr/qgis_pr_final-4_2_3.dmg",
+    "expectedTeamID": "4F7N4UDA22",
+    "label": "qgis-pr",
+    "name": "QGIS",
+    "timeStamp": "2026-11-14T16:38:33Z",
+    "type": "dmg"
+  }
+]
