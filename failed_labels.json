@@ -140,6 +140,11 @@
       "lastSeen": "2026-11-15T02:24:54Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagiccameras": {
+      "firstSeen": "2026-11-15T04:21:17Z",
+      "lastSeen": "2026-11-15T04:21:17Z",
+      "reason": "missing appNewVersion"
+    },
     "boxsync": {
       "firstSeen": "2026-11-15T02:25:13Z",
       "lastSeen": "2026-11-15T02:25:13Z",
