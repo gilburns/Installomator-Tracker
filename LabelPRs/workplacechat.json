@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-13T02:17:35Z",
-      "updatedAt": "2026-11-13T02:17:51Z",
+      "updatedAt": "2026-11-15T21:22:30Z",
       "baseBranch": "main",
       "headBranch": "DisableWorkplacechat",
       "headRepository": "gilburns/Installomator",
@@ -20,8 +20,16 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-15T21:22:30Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "36332722249355183fb115066ad4b62238f8159d",

@@ -12,11 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-15T20:33:11Z",
-      "updatedAt": "2026-11-15T20:33:11Z",
+      "updatedAt": "2026-11-15T21:59:14Z",
       "baseBranch": "main",
       "headBranch": "cloudflarewarp-appname",
       "headRepository": "lennart-duncker/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
       "requestedReviewers": [],
@@ -24,7 +26,7 @@
       "checksState": "SUCCESS",
       "headCommit": "a66fcc18fcc360266fc36f66cc673a4fb0737f1b",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",

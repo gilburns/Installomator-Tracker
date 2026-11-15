@@ -1,0 +1,41 @@
+{
+  "label": "gotomeeting",
+  "labelFile": "fragments/labels/gotomeeting.sh",
+  "pullRequests": [
+    {
+      "number": 3616,
+      "title": "Merge gotomeeting and gotowebinar labels",
+      "url": "https://github.com/Installomator/Installomator/pull/3616",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-15T21:17:31Z",
+      "updatedAt": "2026-11-15T21:19:59Z",
+      "baseBranch": "main",
+      "headBranch": "MergeGoToLabels",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "aa9ecd089b33a3913d59245eaa342c4f4c8f585c",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 10,
+        "deletions": 4
+      },
+      "labelsInPR": [
+        "gotomeeting"
+      ]
+    }
+  ]
+}

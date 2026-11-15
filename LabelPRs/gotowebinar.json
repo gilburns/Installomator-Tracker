@@ -1,0 +1,43 @@
+{
+  "label": "gotowebinar",
+  "labelFile": "fragments/labels/gotowebinar.sh",
+  "pullRequests": [
+    {
+      "number": 3617,
+      "title": "Disable gotowebinar.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3617",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-15T21:19:19Z",
+      "updatedAt": "2026-11-15T21:19:32Z",
+      "baseBranch": "main",
+      "headBranch": "DisableGoToWebinar",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "b58a7488f3f56596fa49148d4b4639b3963271e0",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "DISABLED",
+        "additions": 0,
+        "deletions": 0,
+        "path": "fragments/disabled/gotowebinar.sh",
+        "previousPath": "fragments/labels/gotowebinar.sh"
+      },
+      "labelsInPR": [
+        "gotowebinar"
+      ]
+    }
+  ]
+}
