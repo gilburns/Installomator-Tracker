@@ -1,0 +1,39 @@
+{
+  "label": "doctolib",
+  "labelFile": "fragments/labels/doctolib.sh",
+  "pullRequests": [
+    {
+      "number": 3604,
+      "title": "Update doctolib.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3604",
+      "author": {
+        "login": "macmangr",
+        "url": "https://github.com/macmangr"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-15T10:01:15Z",
+      "updatedAt": "2026-11-15T10:09:10Z",
+      "baseBranch": "main",
+      "headBranch": "doctolib",
+      "headRepository": "macmangr/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "c7761783ec9e70d67cd2596858a4db9eddcd20e2",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "doctolib"
+      ]
+    }
+  ]
+}
