@@ -42,5 +42,16 @@
     "name": "LinearMouse",
     "timeStamp": "2026-10-03T06:36:29Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.13.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/linearmouse/linearmouse/releases/download/v0.13.0/LinearMouse.dmg",
+    "expectedTeamID": "C5686NKYJ7",
+    "label": "linearmouse",
+    "name": "LinearMouse",
+    "timeStamp": "2026-11-15T07:31:26Z",
+    "type": "dmg"
   }
 ]
