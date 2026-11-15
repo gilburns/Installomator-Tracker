@@ -1,0 +1,39 @@
+{
+  "label": "comfyui",
+  "labelFile": "fragments/labels/comfyui.sh",
+  "pullRequests": [
+    {
+      "number": 3615,
+      "title": "Add comfyui label",
+      "url": "https://github.com/Installomator/Installomator/pull/3615",
+      "author": {
+        "login": "lennart-duncker",
+        "url": "https://github.com/lennart-duncker"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-15T20:33:13Z",
+      "updatedAt": "2026-11-15T20:33:13Z",
+      "baseBranch": "main",
+      "headBranch": "add-comfyui",
+      "headRepository": "lennart-duncker/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "92870be3b9438924841ce8c4e54f6187a5a83e7b",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 12,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "comfyui"
+      ]
+    }
+  ]
+}

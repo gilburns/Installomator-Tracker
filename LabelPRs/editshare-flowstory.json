@@ -1,0 +1,43 @@
+{
+  "label": "editshare-flowstory",
+  "labelFile": "fragments/labels/editshare-flowstory.sh",
+  "pullRequests": [
+    {
+      "number": 3612,
+      "title": "Disable editshare-flowstory.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3612",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-15T20:26:56Z",
+      "updatedAt": "2026-11-15T20:27:05Z",
+      "baseBranch": "main",
+      "headBranch": "DisableEditshare-flowstory",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "6168aec93d617700fd423271f65e80ab94aef313",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "DISABLED",
+        "additions": 0,
+        "deletions": 0,
+        "path": "fragments/disabled/editshare-flowstory.sh",
+        "previousPath": "fragments/labels/editshare-flowstory.sh"
+      },
+      "labelsInPR": [
+        "editshare-flowstory"
+      ]
+    }
+  ]
+}

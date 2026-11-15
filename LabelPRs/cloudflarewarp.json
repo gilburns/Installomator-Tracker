@@ -1,0 +1,39 @@
+{
+  "label": "cloudflarewarp",
+  "labelFile": "fragments/labels/cloudflarewarp.sh",
+  "pullRequests": [
+    {
+      "number": 3614,
+      "title": "cloudflarewarp: set appName",
+      "url": "https://github.com/Installomator/Installomator/pull/3614",
+      "author": {
+        "login": "lennart-duncker",
+        "url": "https://github.com/lennart-duncker"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-15T20:33:11Z",
+      "updatedAt": "2026-11-15T20:33:11Z",
+      "baseBranch": "main",
+      "headBranch": "cloudflarewarp-appname",
+      "headRepository": "lennart-duncker/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "a66fcc18fcc360266fc36f66cc673a4fb0737f1b",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "cloudflarewarp"
+      ]
+    }
+  ]
+}

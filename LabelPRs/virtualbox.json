@@ -1,0 +1,39 @@
+{
+  "label": "virtualbox",
+  "labelFile": "fragments/labels/virtualbox.sh",
+  "pullRequests": [
+    {
+      "number": 3613,
+      "title": "virtualbox: download the Apple silicon build on arm64",
+      "url": "https://github.com/Installomator/Installomator/pull/3613",
+      "author": {
+        "login": "lennart-duncker",
+        "url": "https://github.com/lennart-duncker"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-15T20:33:10Z",
+      "updatedAt": "2026-11-15T20:33:10Z",
+      "baseBranch": "main",
+      "headBranch": "virtualbox-arm64",
+      "headRepository": "lennart-duncker/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "355c5524c2ca1bd5551cb1053abb968ef09f9bb6",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 7,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "virtualbox"
+      ]
+    }
+  ]
+}
