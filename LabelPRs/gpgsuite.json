@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-09-17T22:31:44Z",
-      "updatedAt": "2026-11-12T15:16:07Z",
+      "updatedAt": "2026-11-15T17:11:57Z",
       "baseBranch": "main",
       "headBranch": "fix/gpgsuite-download-url",
       "headRepository": "jonpage-upstart/Installomator",
@@ -35,7 +35,7 @@
       "checksState": "SUCCESS",
       "headCommit": "1fbafc2f0126f2b0cb356c7acb98b2364d2d251f",
       "commitCount": 1,
-      "commentCount": 1,
+      "commentCount": 2,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",

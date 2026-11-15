@@ -1,0 +1,41 @@
+{
+  "label": "adobereaderdc",
+  "labelFile": "fragments/labels/adobereaderdc.sh",
+  "pullRequests": [
+    {
+      "number": 3605,
+      "title": "Update adobereaderdc.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3605",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-15T16:36:58Z",
+      "updatedAt": "2026-11-15T16:37:14Z",
+      "baseBranch": "main",
+      "headBranch": "SimplifyAdobeReader",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "fe6ee57fbaca2b01a36a1821f4a6188607101ae7",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 10,
+        "deletions": 52
+      },
+      "labelsInPR": [
+        "adobereaderdc"
+      ]
+    }
+  ]
+}

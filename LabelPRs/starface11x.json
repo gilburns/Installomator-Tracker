@@ -12,19 +12,19 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-14T09:44:43Z",
-      "updatedAt": "2026-11-15T09:27:58Z",
+      "updatedAt": "2026-11-15T16:38:48Z",
       "baseBranch": "main",
       "headBranch": "starface11x",
       "headRepository": "macmangr/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "CHANGES_REQUESTED",
+      "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [
         {
           "reviewer": "gilburns",
-          "state": "CHANGES_REQUESTED",
-          "submittedAt": "2026-11-14T17:39:21Z"
+          "state": "APPROVED",
+          "submittedAt": "2026-11-15T16:38:48Z"
         }
       ],
       "requestedReviewers": [],

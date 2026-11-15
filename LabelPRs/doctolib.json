@@ -12,11 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-15T10:01:15Z",
-      "updatedAt": "2026-11-15T10:09:10Z",
+      "updatedAt": "2026-11-15T16:57:56Z",
       "baseBranch": "main",
       "headBranch": "doctolib",
       "headRepository": "macmangr/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
       "requestedReviewers": [],
@@ -24,7 +26,7 @@
       "checksState": "SUCCESS",
       "headCommit": "c7761783ec9e70d67cd2596858a4db9eddcd20e2",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
