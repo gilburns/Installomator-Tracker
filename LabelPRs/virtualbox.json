@@ -12,11 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-15T20:33:10Z",
-      "updatedAt": "2026-11-15T20:33:10Z",
+      "updatedAt": "2026-11-15T22:51:26Z",
       "baseBranch": "main",
       "headBranch": "virtualbox-arm64",
       "headRepository": "lennart-duncker/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
       "requestedReviewers": [],
@@ -24,7 +26,7 @@
       "checksState": "SUCCESS",
       "headCommit": "355c5524c2ca1bd5551cb1053abb968ef09f9bb6",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",

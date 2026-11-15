@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-15T20:33:13Z",
-      "updatedAt": "2026-11-15T22:15:26Z",
+      "updatedAt": "2026-11-15T22:15:29Z",
       "baseBranch": "main",
       "headBranch": "add-comfyui",
       "headRepository": "lennart-duncker/Installomator",
