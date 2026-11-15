@@ -380,6 +380,11 @@
       "lastSeen": "2026-11-15T12:32:52Z",
       "reason": "missing appNewVersion"
     },
+    "hpeasyadmin": {
+      "firstSeen": "2026-11-15T14:27:32Z",
+      "lastSeen": "2026-11-15T14:27:32Z",
+      "reason": "missing appNewVersion"
+    },
     "hpeasystart": {
       "firstSeen": "2026-11-15T12:32:53Z",
       "lastSeen": "2026-11-15T12:32:53Z",
