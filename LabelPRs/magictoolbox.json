@@ -1,0 +1,39 @@
+{
+  "label": "magictoolbox",
+  "labelFile": "fragments/labels/magictoolbox.sh",
+  "pullRequests": [
+    {
+      "number": 3606,
+      "title": "Add label: magictoolbox",
+      "url": "https://github.com/Installomator/Installomator/pull/3606",
+      "author": {
+        "login": "MDMMagic",
+        "url": "https://github.com/MDMMagic"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-15T17:38:27Z",
+      "updatedAt": "2026-11-15T17:38:27Z",
+      "baseBranch": "main",
+      "headBranch": "add-magictoolbox",
+      "headRepository": "MDMMagic/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "6925b2972c47a1f31857111008503aeafd1153ce",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 8,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "magictoolbox"
+      ]
+    }
+  ]
+}

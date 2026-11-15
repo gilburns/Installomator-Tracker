@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-04-14T14:54:45Z",
-      "updatedAt": "2026-09-02T18:47:27Z",
+      "updatedAt": "2026-11-15T17:16:04Z",
       "baseBranch": "main",
       "headBranch": "container-fix",
       "headRepository": "adibue/Installomator",
@@ -21,18 +21,26 @@
         "improvement"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-15T17:15:34Z"
+        }
+      ],
+      "requestedReviewers": [
+        "uurazzle"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "fd5679cab32277aba4c98c663d2206d4128e5dd1",
-      "commitCount": 1,
+      "headCommit": "2873c98f7d328392fd91235f303a6b1eaa7804b4",
+      "commitCount": 2,
       "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
-        "additions": 1,
-        "deletions": 1
+        "additions": 2,
+        "deletions": 6
       },
       "labelsInPR": [
         "container"

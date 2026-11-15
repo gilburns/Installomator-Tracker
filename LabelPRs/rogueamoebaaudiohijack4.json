@@ -1,0 +1,39 @@
+{
+  "label": "rogueamoebaaudiohijack4",
+  "labelFile": "fragments/labels/rogueamoebaaudiohijack4.sh",
+  "pullRequests": [
+    {
+      "number": 3607,
+      "title": "Update rogueamoebaaudiohijack4.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3607",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-15T18:17:48Z",
+      "updatedAt": "2026-11-15T18:17:48Z",
+      "baseBranch": "main",
+      "headBranch": "FixRogueamoebaaudiohijack4",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "PENDING",
+      "headCommit": "04a4947d1169365bfc6649bda8ae8049e9b5d9ba",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "rogueamoebaaudiohijack4"
+      ]
+    }
+  ]
+}
