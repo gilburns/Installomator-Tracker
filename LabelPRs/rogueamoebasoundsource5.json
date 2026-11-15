@@ -1,0 +1,41 @@
+{
+  "label": "rogueamoebasoundsource5",
+  "labelFile": "fragments/labels/rogueamoebasoundsource5.sh",
+  "pullRequests": [
+    {
+      "number": 3610,
+      "title": "Update rogueamoebasoundsource5.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3610",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-15T18:28:18Z",
+      "updatedAt": "2026-11-15T18:28:29Z",
+      "baseBranch": "main",
+      "headBranch": "FixRogueamoebasoundsource5",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "e84f397f1b85589abe4460e49ed0951535f08551",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "rogueamoebasoundsource5"
+      ]
+    }
+  ]
+}

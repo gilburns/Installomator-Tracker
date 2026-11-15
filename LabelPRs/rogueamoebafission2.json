@@ -1,0 +1,41 @@
+{
+  "label": "rogueamoebafission2",
+  "labelFile": "fragments/labels/rogueamoebafission2.sh",
+  "pullRequests": [
+    {
+      "number": 3608,
+      "title": "Update rogueamoebafission2.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3608",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-15T18:20:48Z",
+      "updatedAt": "2026-11-15T18:28:46Z",
+      "baseBranch": "main",
+      "headBranch": "FixRogueamoebafission2",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "cfed5755e8c36ccd71c618246bfbc119635541d7",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "rogueamoebafission2"
+      ]
+    }
+  ]
+}
