@@ -885,7 +885,7 @@
 "pcoipclient","PCoIPClient","","26.05.6","2026-10-20T18:26:56Z","success"
 "pdfexpert","PDF Expert","","3.4.1","2026-07-03T15:59:20Z","success"
 "pdfsam","PDFsam Basic","","6.0.10","2026-11-04T14:37:58Z","success"
-"pgadmin4","pgAdmin 4","","9.19","2026-10-29T18:25:08Z","success"
+"pgadmin4","pgAdmin 4","","9.19","2026-10-29T18:25:08Z","missing appNewVersion"
 "phoenixcode","Phoenix Code","","5.5.11","2026-10-28T18:33:44Z","success"
 "pika","Pika","","2.0.3","2026-11-15T08:38:59Z","success"
 "pingplotter","PingPlotter","","","","missing appNewVersion"
