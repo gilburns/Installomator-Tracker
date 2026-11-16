@@ -4,7 +4,7 @@
   "pullRequests": [
     {
       "number": 3614,
-      "title": "cloudflarewarp: set appName",
+      "title": "cloudflarewarp: use the Sparkle feed and set appName",
       "url": "https://github.com/Installomator/Installomator/pull/3614",
       "author": {
         "login": "lennart-duncker",
@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-15T20:33:11Z",
-      "updatedAt": "2026-11-15T21:59:14Z",
+      "updatedAt": "2026-11-16T05:17:51Z",
       "baseBranch": "main",
       "headBranch": "cloudflarewarp-appname",
       "headRepository": "lennart-duncker/Installomator",
@@ -24,14 +24,14 @@
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "a66fcc18fcc360266fc36f66cc673a4fb0737f1b",
-      "commitCount": 1,
-      "commentCount": 1,
+      "headCommit": "5e4ecbc49b9e7dc66b185bd19b3d82e65877438f",
+      "commitCount": 2,
+      "commentCount": 2,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
-        "additions": 1,
-        "deletions": 0
+        "additions": 5,
+        "deletions": 3
       },
       "labelsInPR": [
         "cloudflarewarp"
