@@ -9,5 +9,16 @@
     "name": "MIDI Control Center",
     "timeStamp": "2026-10-28T06:11:18Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.23.1.152",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.arturia.net/products/mccu/soft/MIDI_Control_Center__1_23_1_152.pkg",
+    "expectedTeamID": "T53ZHSF36C",
+    "label": "arturiamcc",
+    "name": "MIDI Control Center",
+    "timeStamp": "2026-11-16T10:22:29Z",
+    "type": "pkg"
   }
 ]
