@@ -410,6 +410,11 @@
       "lastSeen": "2026-11-16T17:35:54Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-11-16T18:36:04Z",
+      "lastSeen": "2026-11-16T18:36:04Z",
+      "reason": "missing appNewVersion"
+    },
     "ipvisionconnect": {
       "firstSeen": "2026-11-16T17:36:16Z",
       "lastSeen": "2026-11-16T17:36:16Z",
@@ -655,6 +660,11 @@
       "lastSeen": "2026-11-16T17:44:47Z",
       "reason": "missing appNewVersion"
     },
+    "pgadmin4": {
+      "firstSeen": "2026-11-16T18:44:46Z",
+      "lastSeen": "2026-11-16T18:44:46Z",
+      "reason": "missing appNewVersion"
+    },
     "pingplotter": {
       "firstSeen": "2026-11-16T17:45:29Z",
       "lastSeen": "2026-11-16T17:45:29Z",
@@ -794,6 +804,11 @@
       "firstSeen": "2026-11-16T17:47:52Z",
       "lastSeen": "2026-11-16T17:47:52Z",
       "reason": "label does not set appNewVersion"
+    },
+    "shottr": {
+      "firstSeen": "2026-11-16T18:47:27Z",
+      "lastSeen": "2026-11-16T18:47:27Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "sidekick": {
       "firstSeen": "2026-11-16T17:48:16Z",
