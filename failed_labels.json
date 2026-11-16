@@ -205,6 +205,11 @@
       "lastSeen": "2026-11-16T17:26:20Z",
       "reason": "missing appNewVersion"
     },
+    "davinciresolvestudio": {
+      "firstSeen": "2026-11-16T19:23:11Z",
+      "lastSeen": "2026-11-16T19:23:11Z",
+      "reason": "missing downloadURL"
+    },
     "daylite": {
       "firstSeen": "2026-11-16T17:27:00Z",
       "lastSeen": "2026-11-16T17:27:00Z",
@@ -304,6 +309,11 @@
       "firstSeen": "2026-11-16T17:32:17Z",
       "lastSeen": "2026-11-16T17:32:17Z",
       "reason": "label does not set appNewVersion"
+    },
+    "finaldraft13": {
+      "firstSeen": "2026-11-16T19:27:47Z",
+      "lastSeen": "2026-11-16T19:27:47Z",
+      "reason": "missing appNewVersion"
     },
     "fontexplorer": {
       "firstSeen": "2026-11-16T17:33:03Z",
