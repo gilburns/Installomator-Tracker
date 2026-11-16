@@ -3,11 +3,21 @@
     "appName": "",
     "appNewVersion": "3.13.0",
     "blockingProcesses": [],
-    "downloadURL": "https://files.jamfconnect.com/JamfConnect.dmg",
     "expectedTeamID": "483DWKW443",
     "label": "jamfconnectlogin",
     "name": "Jamf Connect Login",
     "timeStamp": "2026-09-14T18:20:04Z",
+    "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.14.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://files.jamfconnect.com/JamfConnect.dmg",
+    "expectedTeamID": "483DWKW443",
+    "label": "jamfconnectlogin",
+    "name": "Jamf Connect Login",
+    "timeStamp": "2026-11-16T17:36:38Z",
     "type": "pkgInDmg"
   }
 ]
