@@ -42,5 +42,16 @@
     "name": "Mattermost",
     "timeStamp": "2026-11-02T10:25:05Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/mattermost/desktop/releases/download/v6.4.0/mattermost-desktop-6.4.0-mac-universal.dmg",
+    "expectedTeamID": "UQ8HT4Q2XM",
+    "label": "mattermost",
+    "name": "Mattermost",
+    "timeStamp": "2026-11-16T06:58:55Z",
+    "type": "dmg"
   }
 ]
