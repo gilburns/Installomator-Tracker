@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/MDMMagic/Magic-Toolbox/releases/download/1.1.0/MagicToolbox-v1.1.0.pkg",
+    "expectedTeamID": "HFUN8K236G",
+    "label": "magictoolbox",
+    "name": "Magic Toolbox",
+    "timeStamp": "2026-11-16T16:41:16Z",
+    "type": "pkg"
+  }
+]
