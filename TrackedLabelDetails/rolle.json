@@ -31,5 +31,16 @@
     "name": "rolle",
     "timeStamp": "2026-11-01T18:22:26Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.19.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/nateships/rolle/releases/download/v0.19.1/rolle.pkg",
+    "expectedTeamID": "AMR56F4NQB",
+    "label": "rolle",
+    "name": "rolle",
+    "timeStamp": "2026-11-16T04:46:38Z",
+    "type": "pkg"
   }
 ]
