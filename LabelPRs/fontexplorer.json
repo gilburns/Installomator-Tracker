@@ -1,0 +1,43 @@
+{
+  "label": "fontexplorer",
+  "labelFile": "fragments/labels/fontexplorer.sh",
+  "pullRequests": [
+    {
+      "number": 3620,
+      "title": "Update fontexplorer.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3620",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-16T00:24:04Z",
+      "updatedAt": "2026-11-16T00:24:15Z",
+      "baseBranch": "main",
+      "headBranch": "DisableFontExplorerXPro",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "0ca89c17bdcd1a31bb2e6e41ca7c0d1cb6aa062a",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "DISABLED",
+        "additions": 0,
+        "deletions": 0,
+        "path": "fragments/disabled/fontexplorer.sh",
+        "previousPath": "fragments/labels/fontexplorer.sh"
+      },
+      "labelsInPR": [
+        "fontexplorer"
+      ]
+    }
+  ]
+}
