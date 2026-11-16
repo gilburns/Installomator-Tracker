@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-13T14:36:14Z",
-      "updatedAt": "2026-11-16T11:08:35Z",
+      "updatedAt": "2026-11-16T15:06:12Z",
       "baseBranch": "main",
       "headBranch": "rive-label",
       "headRepository": "TheDirtyWizard/Installomator",
@@ -21,6 +21,11 @@
       ],
       "reviewDecision": "CHANGES_REQUESTED",
       "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-16T15:06:12Z"
+        },
         {
           "reviewer": "gilburns",
           "state": "CHANGES_REQUESTED",

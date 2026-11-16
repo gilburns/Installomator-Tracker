@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-14T00:29:17Z",
-      "updatedAt": "2026-11-14T00:29:28Z",
+      "updatedAt": "2026-11-16T15:06:43Z",
       "baseBranch": "main",
       "headBranch": "UpdateTorbrowser",
       "headRepository": "gilburns/Installomator",
@@ -21,7 +21,10 @@
       ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "uurazzle",
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "5b6b4e4e13dc89a78cc9d5c2b3f06ffa7d4ba1a6",
