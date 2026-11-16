@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-10T20:36:26Z",
-      "updatedAt": "2026-11-16T21:06:00Z",
+      "updatedAt": "2026-11-16T22:40:31Z",
       "baseBranch": "main",
       "headBranch": "toonboomstoryboardpro2025-update",
       "headRepository": "ehouston3/Installomator",
@@ -23,13 +23,17 @@
       "reviewDecision": "CHANGES_REQUESTED",
       "reviews": [
         {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-16T22:40:31Z"
+        },
+        {
           "reviewer": "gilburns",
           "state": "CHANGES_REQUESTED",
           "submittedAt": "2026-11-14T17:42:04Z"
         }
       ],
       "requestedReviewers": [
-        "uurazzle",
         "gilburns"
       ],
       "mergeable": "MERGEABLE",
