@@ -655,6 +655,11 @@
       "lastSeen": "2026-11-16T14:00:52Z",
       "reason": "missing appNewVersion"
     },
+    "pgadmin4": {
+      "firstSeen": "2026-11-16T15:02:20Z",
+      "lastSeen": "2026-11-16T15:02:20Z",
+      "reason": "missing appNewVersion"
+    },
     "pingplotter": {
       "firstSeen": "2026-11-16T14:01:34Z",
       "lastSeen": "2026-11-16T14:01:34Z",
