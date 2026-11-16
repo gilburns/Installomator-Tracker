@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-13T14:36:14Z",
-      "updatedAt": "2026-11-14T22:43:58Z",
+      "updatedAt": "2026-11-16T11:08:35Z",
       "baseBranch": "main",
       "headBranch": "rive-label",
       "headRepository": "TheDirtyWizard/Installomator",
@@ -27,16 +27,18 @@
           "submittedAt": "2026-11-14T20:43:22Z"
         }
       ],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "3b84e0872e5b591cf6133290a026e6838f218449",
-      "commitCount": 1,
-      "commentCount": 1,
+      "headCommit": "a2c1899eee813bf3f1b2a7b4a2d1fed8ea967fd7",
+      "commitCount": 2,
+      "commentCount": 2,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
-        "additions": 7,
+        "additions": 8,
         "deletions": 0
       },
       "labelsInPR": [
