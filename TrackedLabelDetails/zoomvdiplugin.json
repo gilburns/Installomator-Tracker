@@ -40,5 +40,19 @@
     "name": "ZoomVDI",
     "timeStamp": "2026-11-16T18:55:21Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "7.0.14.27210",
+    "blockingProcesses": [
+      "ZoomVDI",
+      "zoom.us"
+    ],
+    "downloadURL": "https://cdn.zoom.us/prod/vdi/7.0.14.27210/ZoomVDI_7.0.14.universal.pkg",
+    "expectedTeamID": "BJ4HAAB9B3",
+    "label": "zoomvdiplugin",
+    "name": "ZoomVDI",
+    "timeStamp": "2026-11-16T22:53:10Z",
+    "type": "pkg"
   }
 ]
