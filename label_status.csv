@@ -130,7 +130,7 @@
 "betterzip","BetterZip","","6.1","2026-11-12T14:20:38Z","success"
 "beyondcomparepro","Beyond Compare","","5.2.8.33052","2026-11-10T21:17:18Z","success"
 "bezel","Bezel","","5.4.1","2026-10-28T18:10:54Z","success"
-"bibdesk","BibDesk","","1.9.13","2026-09-04T18:13:55Z","success"
+"bibdesk","BibDesk","","1.9.13","2026-09-04T18:13:55Z","missing appNewVersion and downloadURL"
 "bitfocuscompanion","Companion","","5.1.3","2026-11-12T22:17:14Z","success"
 "bitrix24","Bitrix24","","24.0.37","2026-11-05T14:24:34Z","success"
 "bitwarden","Bitwarden","","2026.10.4","2026-11-05T17:19:06Z","success"

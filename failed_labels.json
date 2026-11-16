@@ -135,6 +135,11 @@
       "lastSeen": "2026-11-16T13:38:56Z",
       "reason": "label does not set appNewVersion"
     },
+    "bibdesk": {
+      "firstSeen": "2026-11-16T15:28:51Z",
+      "lastSeen": "2026-11-16T15:28:51Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "blackhole64": {
       "firstSeen": "2026-11-16T13:39:34Z",
       "lastSeen": "2026-11-16T13:39:34Z",
