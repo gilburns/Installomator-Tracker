@@ -3,11 +3,21 @@
     "appName": "",
     "appNewVersion": "11.1.0",
     "blockingProcesses": [],
-    "downloadURL": "https://cdn.graphpad.com/downloads/prism/10/InstallPrism10.dmg",
     "expectedTeamID": "YQ2D36NS9M",
     "label": "prism10",
     "name": "Prism 10",
     "timeStamp": "2026-08-19T18:34:43Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "11.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.graphpad.com/downloads/prism/10/InstallPrism10.dmg",
+    "expectedTeamID": "YQ2D36NS9M",
+    "label": "prism10",
+    "name": "Prism 10",
+    "timeStamp": "2026-11-16T14:02:05Z",
     "type": "dmg"
   }
 ]
