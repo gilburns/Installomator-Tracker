@@ -31,5 +31,16 @@
     "name": "Hidden Bar",
     "timeStamp": "2026-11-15T07:28:01Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.13.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/dwarvesf/hidden/releases/download/v1.13.0/Hidden-Bar-macos.zip",
+    "expectedTeamID": "W777S7V8TN",
+    "label": "hiddenbar",
+    "name": "Hidden Bar",
+    "timeStamp": "2026-11-16T11:36:10Z",
+    "type": "zip"
   }
 ]

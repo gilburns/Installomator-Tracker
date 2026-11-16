@@ -720,6 +720,11 @@
       "lastSeen": "2026-11-16T09:04:45Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "reaper": {
+      "firstSeen": "2026-11-16T11:46:37Z",
+      "lastSeen": "2026-11-16T11:46:37Z",
+      "reason": "missing appNewVersion"
+    },
     "reflector4": {
       "firstSeen": "2026-11-16T09:04:58Z",
       "lastSeen": "2026-11-16T09:04:58Z",
@@ -794,6 +799,11 @@
       "firstSeen": "2026-11-16T09:05:38Z",
       "lastSeen": "2026-11-16T09:05:38Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "screamingfrogseospider": {
+      "firstSeen": "2026-11-16T11:47:27Z",
+      "lastSeen": "2026-11-16T11:47:27Z",
+      "reason": "missing appNewVersion"
     },
     "screencloudplayer": {
       "firstSeen": "2026-11-16T09:05:47Z",
