@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-15T17:38:27Z",
-      "updatedAt": "2026-11-15T18:39:00Z",
+      "updatedAt": "2026-11-16T16:02:51Z",
       "baseBranch": "main",
       "headBranch": "add-magictoolbox",
       "headRepository": "MDMMagic/Installomator",
@@ -27,7 +27,9 @@
           "submittedAt": "2026-11-15T18:38:42Z"
         }
       ],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "uurazzle"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "6925b2972c47a1f31857111008503aeafd1153ce",

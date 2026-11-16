@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-15T10:01:15Z",
-      "updatedAt": "2026-11-16T08:12:57Z",
+      "updatedAt": "2026-11-16T15:57:34Z",
       "baseBranch": "main",
       "headBranch": "doctolib",
       "headRepository": "macmangr/Installomator",
@@ -20,8 +20,16 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-16T15:57:33Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "fb88b5e1e6ba859a7f8aca01f3a2c3bed95ec0e9",
