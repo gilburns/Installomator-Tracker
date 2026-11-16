@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-15T18:17:48Z",
-      "updatedAt": "2026-11-15T18:28:56Z",
+      "updatedAt": "2026-11-16T16:06:20Z",
       "baseBranch": "main",
       "headBranch": "FixRogueamoebaaudiohijack4",
       "headRepository": "gilburns/Installomator",
@@ -20,8 +20,16 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-16T16:06:19Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "04a4947d1169365bfc6649bda8ae8049e9b5d9ba",

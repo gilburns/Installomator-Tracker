@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-15T18:28:18Z",
-      "updatedAt": "2026-11-15T18:28:29Z",
+      "updatedAt": "2026-11-16T16:15:51Z",
       "baseBranch": "main",
       "headBranch": "FixRogueamoebasoundsource5",
       "headRepository": "gilburns/Installomator",
@@ -20,8 +20,16 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-16T16:15:50Z"
+        }
+      ],
+      "requestedReviewers": [
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "e84f397f1b85589abe4460e49ed0951535f08551",
