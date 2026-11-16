@@ -9,5 +9,16 @@
     "name": "shotcut",
     "timeStamp": "2026-09-28T06:46:24Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "261115",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-macos-26.11.15.dmg",
+    "expectedTeamID": "Y6RX44QG2G",
+    "label": "shotcut",
+    "name": "shotcut",
+    "timeStamp": "2026-11-16T21:42:18Z",
+    "type": "dmg"
   }
 ]
