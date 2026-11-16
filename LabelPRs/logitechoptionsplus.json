@@ -46,6 +46,39 @@
       "labelsInPR": [
         "logitechoptionsplus"
       ]
+    },
+    {
+      "number": 3621,
+      "title": "logitechoptionsplus: fall back to the macOS 26/15 article for appNewVersion on macOS 27 (macOS 14+ only)",
+      "url": "https://github.com/Installomator/Installomator/pull/3621",
+      "author": {
+        "login": "lennart-duncker",
+        "url": "https://github.com/lennart-duncker"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-16T13:14:00Z",
+      "updatedAt": "2026-11-16T13:14:00Z",
+      "baseBranch": "main",
+      "headBranch": "logitechoptionsplus-version-fallback",
+      "headRepository": "lennart-duncker/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "fe323996f8c0af5087d02b7799ccc3637687ebe3",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 5,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "logitechoptionsplus"
+      ]
     }
   ]
 }
