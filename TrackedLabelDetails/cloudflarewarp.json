@@ -1,92 +1,86 @@
 [
   {
+    "type": "pkg",
     "appName": "",
-    "appNewVersion": "2026.6.822",
-    "blockingProcesses": [],
-    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.6.822.0",
-    "expectedTeamID": "68WVV388M8",
-    "label": "cloudflarewarp",
-    "name": "Cloudflare_WARP",
     "timeStamp": "2026-07-03T15:42:23Z",
-    "type": "pkg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "2026.6.880",
-    "blockingProcesses": [],
-    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.6.880.0",
-    "expectedTeamID": "68WVV388M8",
-    "label": "cloudflarewarp",
-    "name": "Cloudflare_WARP",
-    "timeStamp": "2026-07-21T18:35:10Z",
-    "type": "pkg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "2026.7.1343",
-    "blockingProcesses": [],
-    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.7.1343.0",
-    "expectedTeamID": "68WVV388M8",
-    "label": "cloudflarewarp",
-    "name": "Cloudflare_WARP",
-    "timeStamp": "2026-08-19T18:19:13Z",
-    "type": "pkg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "2026.7.1376",
-    "blockingProcesses": [],
-    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.7.1376.0",
-    "expectedTeamID": "68WVV388M8",
-    "label": "cloudflarewarp",
-    "name": "Cloudflare_WARP",
-    "timeStamp": "2026-08-28T21:32:03Z",
-    "type": "pkg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "2026.8.2100",
-    "blockingProcesses": [],
-    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.8.2100.0",
-    "expectedTeamID": "68WVV388M8",
-    "label": "cloudflarewarp",
-    "name": "Cloudflare_WARP",
-    "timeStamp": "2026-10-07T18:14:16Z",
-    "type": "pkg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "2026.8.2110",
-    "blockingProcesses": [],
-    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.8.2110.0",
-    "expectedTeamID": "68WVV388M8",
-    "label": "cloudflarewarp",
-    "name": "Cloudflare_WARP",
-    "timeStamp": "2026-10-13T06:21:08Z",
-    "type": "pkg"
-  },
-  {
-    "appName": "",
-    "appNewVersion": "2026.8.2115",
-    "blockingProcesses": [],
-    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.8.2115.0",
-    "expectedTeamID": "68WVV388M8",
-    "label": "cloudflarewarp",
-    "name": "Cloudflare_WARP",
-    "timeStamp": "2026-10-20T06:15:49Z",
-    "type": "pkg"
-  },
-  {
-    "appName": "Cloudflare WARP.app",
-    "appNewVersion": "2026.8.2115.0",
+    "appNewVersion": "2026.6.822.0",
+    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.6.822.0",
     "blockingProcesses": [
-      "NONE"
     ],
-    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.8.2115.0/Cloudflare_WARP_2026.8.2115.0.pkg",
-    "expectedTeamID": "68WVV388M8",
     "label": "cloudflarewarp",
     "name": "Cloudflare_WARP",
-    "timeStamp": "2026-11-17T01:25:00Z",
-    "type": "pkg"
+    "expectedTeamID": "68WVV388M8"
+  },
+  {
+    "type": "pkg",
+    "appName": "",
+    "timeStamp": "2026-07-21T18:35:10Z",
+    "appNewVersion": "2026.6.880.0",
+    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.6.880.0",
+    "blockingProcesses": [
+    ],
+    "label": "cloudflarewarp",
+    "name": "Cloudflare_WARP",
+    "expectedTeamID": "68WVV388M8"
+  },
+  {
+    "type": "pkg",
+    "appName": "",
+    "timeStamp": "2026-08-19T18:19:13Z",
+    "appNewVersion": "2026.7.1343.0",
+    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.7.1343.0",
+    "blockingProcesses": [
+    ],
+    "label": "cloudflarewarp",
+    "name": "Cloudflare_WARP",
+    "expectedTeamID": "68WVV388M8"
+  },
+  {
+    "type": "pkg",
+    "appName": "",
+    "timeStamp": "2026-08-28T21:32:03Z",
+    "appNewVersion": "2026.7.1376.0",
+    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.7.1376.0",
+    "blockingProcesses": [
+    ],
+    "label": "cloudflarewarp",
+    "name": "Cloudflare_WARP",
+    "expectedTeamID": "68WVV388M8"
+  },
+  {
+    "type": "pkg",
+    "appName": "",
+    "timeStamp": "2026-10-07T18:14:16Z",
+    "appNewVersion": "2026.8.2100.0",
+    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.8.2100.0",
+    "blockingProcesses": [
+    ],
+    "label": "cloudflarewarp",
+    "name": "Cloudflare_WARP",
+    "expectedTeamID": "68WVV388M8"
+  },
+  {
+    "type": "pkg",
+    "appName": "",
+    "timeStamp": "2026-10-13T06:21:08Z",
+    "appNewVersion": "2026.8.2110.0",
+    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.8.2110.0",
+    "blockingProcesses": [
+    ],
+    "label": "cloudflarewarp",
+    "name": "Cloudflare_WARP",
+    "expectedTeamID": "68WVV388M8"
+  },
+  {
+    "type": "pkg",
+    "appName": "",
+    "timeStamp": "2026-10-20T06:15:49Z",
+    "appNewVersion": "2026.8.2115.0",
+    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.8.2115.0",
+    "blockingProcesses": [
+    ],
+    "label": "cloudflarewarp",
+    "name": "Cloudflare_WARP",
+    "expectedTeamID": "68WVV388M8"
   }
 ]
