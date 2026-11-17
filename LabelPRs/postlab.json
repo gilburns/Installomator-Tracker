@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:39:15Z",
-      "updatedAt": "2026-11-17T00:39:15Z",
+      "updatedAt": "2026-11-17T18:50:29Z",
       "baseBranch": "main",
       "headBranch": "label-postlab",
       "headRepository": "justinraine/Installomator",
-      "prLabels": [],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-17T18:50:28Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "734768f5a27306d6733512685d6e845f095cf39a",

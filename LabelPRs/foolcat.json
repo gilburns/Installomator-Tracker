@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:39:23Z",
-      "updatedAt": "2026-11-17T00:39:23Z",
+      "updatedAt": "2026-11-17T18:56:43Z",
       "baseBranch": "main",
       "headBranch": "label-foolcat",
       "headRepository": "justinraine/Installomator",
-      "prLabels": [],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-17T18:56:43Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "ae43acc1a429cdb6e34e40a7dc611f183a189226",
