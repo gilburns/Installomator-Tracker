@@ -37,5 +37,18 @@
     "name": "tophat",
     "timeStamp": "2026-09-01T06:34:36Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.6.1",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://github.com/Shopify/tophat/releases/download/v2.6.1/Tophat-2.6.1.zip",
+    "expectedTeamID": "A7XGC83MZE",
+    "label": "tophat",
+    "name": "tophat",
+    "timeStamp": "2026-11-17T19:51:11Z",
+    "type": "zip"
   }
 ]

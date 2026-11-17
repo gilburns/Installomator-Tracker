@@ -3,11 +3,21 @@
     "appName": "",
     "appNewVersion": "11.2.3",
     "blockingProcesses": [],
-    "downloadURL": "https://www.tenable.com/downloads/api/v2/pages/nessus-agents/files/NessusAgent-latest.dmg",
     "expectedTeamID": "4B8J598M7U",
     "label": "nessusagent",
     "name": "Nessus Agent",
     "timeStamp": "2026-09-11T06:27:33Z",
+    "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "11.2.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.tenable.com/downloads/api/v2/pages/nessus-agents/files/NessusAgent-latest.dmg",
+    "expectedTeamID": "4B8J598M7U",
+    "label": "nessusagent",
+    "name": "Nessus Agent",
+    "timeStamp": "2026-11-17T19:41:20Z",
     "type": "pkgInDmg"
   }
 ]
