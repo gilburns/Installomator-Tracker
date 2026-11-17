@@ -12,19 +12,19 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-08T23:04:15Z",
-      "updatedAt": "2026-11-15T17:20:34Z",
+      "updatedAt": "2026-11-17T20:01:11Z",
       "baseBranch": "main",
       "headBranch": "FixJetbrainswebstorm",
       "headRepository": "gilburns/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "CHANGES_REQUESTED",
+      "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [
         {
           "reviewer": "uurazzle",
-          "state": "CHANGES_REQUESTED",
-          "submittedAt": "2026-11-11T22:22:39Z"
+          "state": "APPROVED",
+          "submittedAt": "2026-11-17T20:01:11Z"
         }
       ],
       "requestedReviewers": [
