@@ -12,14 +12,19 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:38:53Z",
-      "updatedAt": "2026-11-17T00:38:53Z",
+      "updatedAt": "2026-11-17T15:48:40Z",
       "baseBranch": "main",
       "headBranch": "label-insta360studio",
       "headRepository": "justinraine/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "ddb6b3b498dcfcad1a3fdfd2145e774bc2163cf5",

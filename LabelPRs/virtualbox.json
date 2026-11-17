@@ -12,19 +12,19 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-15T20:33:10Z",
-      "updatedAt": "2026-11-17T06:22:42Z",
+      "updatedAt": "2026-11-17T15:08:23Z",
       "baseBranch": "main",
       "headBranch": "virtualbox-arm64",
       "headRepository": "lennart-duncker/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "CHANGES_REQUESTED",
+      "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [
         {
           "reviewer": "uurazzle",
-          "state": "CHANGES_REQUESTED",
-          "submittedAt": "2026-11-16T16:34:42Z"
+          "state": "APPROVED",
+          "submittedAt": "2026-11-17T15:08:23Z"
         }
       ],
       "requestedReviewers": [

@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:38:45Z",
-      "updatedAt": "2026-11-17T00:38:45Z",
+      "updatedAt": "2026-11-17T15:48:08Z",
       "baseBranch": "main",
       "headBranch": "label-fxfactory",
       "headRepository": "justinraine/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-17T15:48:08Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "f069425c036705390730fc7a6e98e7ed85f91614",
