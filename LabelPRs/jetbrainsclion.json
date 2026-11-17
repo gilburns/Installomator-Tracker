@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-08T23:08:47Z",
-      "updatedAt": "2026-11-14T17:44:47Z",
+      "updatedAt": "2026-11-17T22:58:22Z",
       "baseBranch": "main",
       "headBranch": "FixJetbrainsclion",
       "headRepository": "gilburns/Installomator",
@@ -20,10 +20,15 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-17T22:58:22Z"
+        }
+      ],
       "requestedReviewers": [
-        "acodega",
-        "uurazzle"
+        "acodega"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
