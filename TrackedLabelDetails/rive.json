@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "0.9.642",
+    "blockingProcesses": [],
+    "downloadURL": "https://releases.rive.app/macos/0.9.642/Rive.dmg",
+    "expectedTeamID": "NJ3JMFUNS9",
+    "label": "rive",
+    "name": "Rive",
+    "timeStamp": "2026-11-17T02:50:21Z",
+    "type": "dmg"
+  }
+]

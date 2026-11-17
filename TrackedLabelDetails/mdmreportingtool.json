@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/MDMMagic/MDM-Reporting-Tool/releases/download/1.0.4/MDMReportingTool-v1.0.4.pkg",
+    "expectedTeamID": "HFUN8K236G",
+    "label": "mdmreportingtool",
+    "name": "MDM Reporting Tool",
+    "timeStamp": "2026-11-17T02:44:15Z",
+    "type": "pkg"
+  }
+]

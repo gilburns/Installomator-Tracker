@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.130.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://ddv-install.doctolib.fr/latest/DoctolibProDesktop-2.130.0-mac-arm64.dmg",
+    "downloadURLi386": "https://ddv-install.doctolib.fr/latest/DoctolibProDesktop-2.130.0-mac-x64.dmg",
+    "expectedTeamID": "84K7XVJ72Q",
+    "label": "doctolib",
+    "name": "Doctolib",
+    "timeStamp": "2026-11-17T02:32:13Z",
+    "type": "dmg"
+  }
+]
