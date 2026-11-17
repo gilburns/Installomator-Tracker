@@ -215,6 +215,11 @@
       "lastSeen": "2026-11-17T07:27:10Z",
       "reason": "label does not set appNewVersion"
     },
+    "doctolib": {
+      "firstSeen": "2026-11-17T10:26:44Z",
+      "lastSeen": "2026-11-17T10:26:44Z",
+      "reason": "missing appNewVersion"
+    },
     "drift": {
       "firstSeen": "2026-11-17T07:28:23Z",
       "lastSeen": "2026-11-17T07:28:23Z",

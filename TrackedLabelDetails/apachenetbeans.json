@@ -9,5 +9,16 @@
     "name": "Apache NetBeans",
     "timeStamp": "2026-08-26T18:38:28Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "32",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com",
+    "expectedTeamID": "44YNN9Q525",
+    "label": "apachenetbeans",
+    "name": "Apache NetBeans",
+    "timeStamp": "2026-11-17T10:18:23Z",
+    "type": "pkg"
   }
 ]

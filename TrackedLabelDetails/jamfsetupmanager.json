@@ -20,5 +20,16 @@
     "name": "Setup Manager",
     "timeStamp": "2026-07-09T18:49:13Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.4.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/jamf/Setup-Manager/releases/download/v1.4.8/Setup.Manager-1.4.8-660.pkg",
+    "expectedTeamID": "483DWKW443",
+    "label": "jamfsetupmanager",
+    "name": "Setup Manager",
+    "timeStamp": "2026-11-17T10:33:45Z",
+    "type": "pkg"
   }
 ]
