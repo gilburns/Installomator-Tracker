@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:39:11Z",
-      "updatedAt": "2026-11-17T00:39:11Z",
+      "updatedAt": "2026-11-17T17:36:13Z",
       "baseBranch": "main",
       "headBranch": "label-redcinexpro",
       "headRepository": "justinraine/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-17T17:36:12Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "c7649c796f00a90e839b76840e596971f827c87f",

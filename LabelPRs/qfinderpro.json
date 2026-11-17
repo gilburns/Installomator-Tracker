@@ -12,18 +12,23 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:39:02Z",
-      "updatedAt": "2026-11-17T16:44:04Z",
+      "updatedAt": "2026-11-17T17:28:27Z",
       "baseBranch": "main",
       "headBranch": "label-qfinderpro",
       "headRepository": "justinraine/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-17T17:28:26Z"
+        }
+      ],
       "requestedReviewers": [
-        "gilburns",
-        "uurazzle"
+        "gilburns"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
