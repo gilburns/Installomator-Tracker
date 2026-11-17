@@ -920,6 +920,16 @@
       "lastSeen": "2026-11-17T02:55:25Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "topazphoto": {
+      "firstSeen": "2026-11-17T03:49:55Z",
+      "lastSeen": "2026-11-17T03:49:55Z",
+      "reason": "missing appNewVersion"
+    },
+    "topazvideo": {
+      "firstSeen": "2026-11-17T03:49:55Z",
+      "lastSeen": "2026-11-17T03:49:55Z",
+      "reason": "missing appNewVersion"
+    },
     "torbrowser": {
       "firstSeen": "2026-11-17T02:55:37Z",
       "lastSeen": "2026-11-17T02:55:37Z",
