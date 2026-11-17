@@ -48,6 +48,7 @@
     "appNewVersion": "2026.3.0",
     "blockingProcesses": [],
     "downloadURL": "https://downloads.tableau.com/public/TableauPublic-2026-3-0.dmg",
+    "downloadURLi386": "https://downloads.tableau.com/public/TableauPublic-2026-3-0.dmg",
     "expectedTeamID": "QJ4XPRK37C",
     "label": "tableaupublic",
     "name": "Tableau Public",

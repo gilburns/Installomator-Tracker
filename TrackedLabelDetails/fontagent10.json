@@ -12,5 +12,19 @@
     "name": "FontAgent",
     "timeStamp": "2026-07-03T15:46:21Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "10.5.0",
+    "blockingProcesses": [
+      "FontAgent",
+      "FontAgent Activator"
+    ],
+    "downloadURL": "https://store.insidersoftware.com/",
+    "expectedTeamID": "936VDEB3YQ",
+    "label": "fontagent10",
+    "name": "FontAgent",
+    "timeStamp": "2026-11-17T16:34:14Z",
+    "type": "pkgInDmg"
   }
 ]
