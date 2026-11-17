@@ -133,11 +133,21 @@
     "appName": "",
     "appNewVersion": "3.7.3",
     "blockingProcesses": [],
-    "downloadURL": "https://files.lowtechguys.com/releases/Clop.dmg",
     "expectedTeamID": "RDDXV84A73",
     "label": "clop",
     "name": "Clop",
     "timeStamp": "2026-11-14T13:19:58Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.7.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://files.lowtechguys.com/releases/Clop.dmg",
+    "expectedTeamID": "RDDXV84A73",
+    "label": "clop",
+    "name": "Clop",
+    "timeStamp": "2026-11-17T09:25:24Z",
     "type": "dmg"
   }
 ]
