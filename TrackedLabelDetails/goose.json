@@ -289,5 +289,16 @@
     "name": "Goose",
     "timeStamp": "2026-11-16T05:33:15Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.60.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com",
+    "expectedTeamID": "5N2JF58U87",
+    "label": "goose",
+    "name": "Goose",
+    "timeStamp": "2026-11-17T23:28:58Z",
+    "type": "zip"
   }
 ]
