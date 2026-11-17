@@ -70,5 +70,17 @@
     "name": "Amazon Corretto 17 JDK",
     "timeStamp": "2026-10-27T06:13:16Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "17.0.21.1.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://corretto.aws/downloads/resources/17.0.21.1.2/amazon-corretto-17.0.21.1.2-macosx-aarch64.pkg",
+    "downloadURLi386": "https://corretto.aws/downloads/resources/17.0.21.1.2/amazon-corretto-17.0.21.1.2-macosx-x64.pkg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "amazoncorretto17jdk",
+    "name": "Amazon Corretto 17 JDK",
+    "timeStamp": "2026-11-17T20:17:58Z",
+    "type": "pkg"
   }
 ]

@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.1.0",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://github.com/jeremy4971/sumb_public/releases/download/v2.1.0/SUMB-2.1.0.pkg",
+    "expectedTeamID": "73MS2PM6D7",
+    "label": "sumb",
+    "name": "SUMB",
+    "timeStamp": "2026-11-17T20:47:55Z",
+    "type": "pkg"
+  }
+]
