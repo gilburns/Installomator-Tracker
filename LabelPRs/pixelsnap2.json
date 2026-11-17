@@ -20,7 +20,7 @@
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
       "requestedReviewers": [],
-      "mergeable": "UNKNOWN",
+      "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "fabde0a134a61b6afd32b43a07f3418ec5c9b95a",
       "commitCount": 1,
