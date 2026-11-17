@@ -1,0 +1,39 @@
+{
+  "label": "aapconfigurationhelper",
+  "labelFile": "fragments/labels/aapconfigurationhelper.sh",
+  "pullRequests": [
+    {
+      "number": 3638,
+      "title": "New label for AAP Configuration Helper",
+      "url": "https://github.com/Installomator/Installomator/pull/3638",
+      "author": {
+        "login": "mwegmann98",
+        "url": "https://github.com/mwegmann98"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T12:13:21Z",
+      "updatedAt": "2026-11-17T12:13:21Z",
+      "baseBranch": "main",
+      "headBranch": "new-label/aapconfigurationhelper",
+      "headRepository": "mwegmann98/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "8a2f92fdfc79137d699c3d1161dc50ee5edeac9a",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 8,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "aapconfigurationhelper"
+      ]
+    }
+  ]
+}

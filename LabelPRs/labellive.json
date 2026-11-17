@@ -1,0 +1,39 @@
+{
+  "label": "labellive",
+  "labelFile": "fragments/labels/labellive.sh",
+  "pullRequests": [
+    {
+      "number": 3639,
+      "title": "New Label for Label LIVE",
+      "url": "https://github.com/Installomator/Installomator/pull/3639",
+      "author": {
+        "login": "mwegmann98",
+        "url": "https://github.com/mwegmann98"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T12:28:15Z",
+      "updatedAt": "2026-11-17T12:28:15Z",
+      "baseBranch": "main",
+      "headBranch": "new-label/labellive",
+      "headRepository": "mwegmann98/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "5888a9c468f4441ab390718d2323b37345201016",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "labellive"
+      ]
+    }
+  ]
+}
