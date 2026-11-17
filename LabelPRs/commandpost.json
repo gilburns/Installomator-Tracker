@@ -12,15 +12,21 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:38:41Z",
-      "updatedAt": "2026-11-17T00:38:41Z",
+      "updatedAt": "2026-11-17T01:34:49Z",
       "baseBranch": "main",
       "headBranch": "label-commandpost",
       "headRepository": "justinraine/Installomator",
       "prLabels": [],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-17T01:34:48Z"
+        }
+      ],
       "requestedReviewers": [],
-      "mergeable": "UNKNOWN",
+      "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "65ba8bb5a22225f1fbdd74dec062abee7ee5d88c",
       "commitCount": 1,

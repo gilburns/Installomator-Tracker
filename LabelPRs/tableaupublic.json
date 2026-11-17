@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-09-01T05:19:28Z",
-      "updatedAt": "2026-11-15T20:27:39Z",
+      "updatedAt": "2026-11-17T01:25:03Z",
       "baseBranch": "main",
       "headBranch": "tableaupublic-arm64",
       "headRepository": "lennart-duncker/Installomator",
@@ -20,7 +20,13 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-17T01:25:03Z"
+        }
+      ],
       "requestedReviewers": [
         "uurazzle"
       ],
