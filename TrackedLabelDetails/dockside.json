@@ -20,5 +20,16 @@
     "name": "Dockside",
     "timeStamp": "2026-11-16T13:46:21Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.9.38",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/PrajwalSD/Dockside/releases/download/v2.9.38/Dockside.dmg",
+    "expectedTeamID": "8T2DC9NRXS",
+    "label": "dockside",
+    "name": "Dockside",
+    "timeStamp": "2026-11-17T00:47:22Z",
+    "type": "dmg"
   }
 ]

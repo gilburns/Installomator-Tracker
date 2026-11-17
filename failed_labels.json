@@ -1020,6 +1020,11 @@
       "lastSeen": "2026-11-16T22:52:28Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "wwdc": {
+      "firstSeen": "2026-11-17T01:14:34Z",
+      "lastSeen": "2026-11-17T01:14:34Z",
+      "reason": "missing appNewVersion"
+    },
     "xeroxphaser7800": {
       "firstSeen": "2026-11-16T22:52:35Z",
       "lastSeen": "2026-11-16T22:52:35Z",
