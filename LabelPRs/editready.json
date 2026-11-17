@@ -1,0 +1,39 @@
+{
+  "label": "editready",
+  "labelFile": "fragments/labels/editready.sh",
+  "pullRequests": [
+    {
+      "number": 3634,
+      "title": "New label: editready",
+      "url": "https://github.com/Installomator/Installomator/pull/3634",
+      "author": {
+        "login": "justinraine",
+        "url": "https://github.com/justinraine"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T00:39:27Z",
+      "updatedAt": "2026-11-17T00:39:27Z",
+      "baseBranch": "main",
+      "headBranch": "label-editready",
+      "headRepository": "justinraine/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "UNKNOWN",
+      "checksState": "SUCCESS",
+      "headCommit": "de0147320ffa558349dd6e845bfcf795153c8721",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 8,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "editready"
+      ]
+    }
+  ]
+}

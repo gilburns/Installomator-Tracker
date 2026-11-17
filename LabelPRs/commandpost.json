@@ -1,0 +1,39 @@
+{
+  "label": "commandpost",
+  "labelFile": "fragments/labels/commandpost.sh",
+  "pullRequests": [
+    {
+      "number": 3623,
+      "title": "New label: commandpost",
+      "url": "https://github.com/Installomator/Installomator/pull/3623",
+      "author": {
+        "login": "justinraine",
+        "url": "https://github.com/justinraine"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T00:38:41Z",
+      "updatedAt": "2026-11-17T00:38:41Z",
+      "baseBranch": "main",
+      "headBranch": "label-commandpost",
+      "headRepository": "justinraine/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "UNKNOWN",
+      "checksState": "SUCCESS",
+      "headCommit": "65ba8bb5a22225f1fbdd74dec062abee7ee5d88c",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 8,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "commandpost"
+      ]
+    }
+  ]
+}

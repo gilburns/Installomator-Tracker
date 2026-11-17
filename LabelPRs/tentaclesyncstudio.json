@@ -1,0 +1,39 @@
+{
+  "label": "tentaclesyncstudio",
+  "labelFile": "fragments/labels/tentaclesyncstudio.sh",
+  "pullRequests": [
+    {
+      "number": 3629,
+      "title": "New label: tentaclesyncstudio",
+      "url": "https://github.com/Installomator/Installomator/pull/3629",
+      "author": {
+        "login": "justinraine",
+        "url": "https://github.com/justinraine"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T00:39:06Z",
+      "updatedAt": "2026-11-17T00:39:06Z",
+      "baseBranch": "main",
+      "headBranch": "label-tentaclesyncstudio",
+      "headRepository": "justinraine/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "UNKNOWN",
+      "checksState": "SUCCESS",
+      "headCommit": "0627f75f4d0e24c1e2b1a3a0a85b13be03b50444",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 9,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "tentaclesyncstudio"
+      ]
+    }
+  ]
+}

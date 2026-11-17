@@ -1,0 +1,39 @@
+{
+  "label": "arctic",
+  "labelFile": "fragments/labels/arctic.sh",
+  "pullRequests": [
+    {
+      "number": 3635,
+      "title": "New label: arctic",
+      "url": "https://github.com/Installomator/Installomator/pull/3635",
+      "author": {
+        "login": "justinraine",
+        "url": "https://github.com/justinraine"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T00:39:31Z",
+      "updatedAt": "2026-11-17T00:39:31Z",
+      "baseBranch": "main",
+      "headBranch": "label-arctic",
+      "headRepository": "justinraine/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "UNKNOWN",
+      "checksState": "SUCCESS",
+      "headCommit": "9287c516f5c8b2f258c8310369f31b7c1659d960",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 8,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "arctic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "label": "offshoot",
+  "labelFile": "fragments/labels/offshoot.sh",
+  "pullRequests": [
+    {
+      "number": 3632,
+      "title": "New label: offshoot",
+      "url": "https://github.com/Installomator/Installomator/pull/3632",
+      "author": {
+        "login": "justinraine",
+        "url": "https://github.com/justinraine"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T00:39:19Z",
+      "updatedAt": "2026-11-17T00:39:19Z",
+      "baseBranch": "main",
+      "headBranch": "label-offshoot",
+      "headRepository": "justinraine/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "UNKNOWN",
+      "checksState": "SUCCESS",
+      "headCommit": "979c601ea95626e3e01f9636daefd40b209c0ee0",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 9,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "offshoot"
+      ]
+    }
+  ]
+}

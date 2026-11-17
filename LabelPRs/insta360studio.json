@@ -1,0 +1,39 @@
+{
+  "label": "insta360studio",
+  "labelFile": "fragments/labels/insta360studio.sh",
+  "pullRequests": [
+    {
+      "number": 3626,
+      "title": "New label: insta360studio",
+      "url": "https://github.com/Installomator/Installomator/pull/3626",
+      "author": {
+        "login": "justinraine",
+        "url": "https://github.com/justinraine"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T00:38:53Z",
+      "updatedAt": "2026-11-17T00:38:53Z",
+      "baseBranch": "main",
+      "headBranch": "label-insta360studio",
+      "headRepository": "justinraine/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "UNKNOWN",
+      "checksState": "SUCCESS",
+      "headCommit": "ddb6b3b498dcfcad1a3fdfd2145e774bc2163cf5",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 8,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "insta360studio"
+      ]
+    }
+  ]
+}

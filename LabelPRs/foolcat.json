@@ -1,0 +1,39 @@
+{
+  "label": "foolcat",
+  "labelFile": "fragments/labels/foolcat.sh",
+  "pullRequests": [
+    {
+      "number": 3633,
+      "title": "New label: foolcat",
+      "url": "https://github.com/Installomator/Installomator/pull/3633",
+      "author": {
+        "login": "justinraine",
+        "url": "https://github.com/justinraine"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T00:39:23Z",
+      "updatedAt": "2026-11-17T00:39:23Z",
+      "baseBranch": "main",
+      "headBranch": "label-foolcat",
+      "headRepository": "justinraine/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "UNKNOWN",
+      "checksState": "SUCCESS",
+      "headCommit": "ae43acc1a429cdb6e34e40a7dc611f183a189226",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 8,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "foolcat"
+      ]
+    }
+  ]
+}

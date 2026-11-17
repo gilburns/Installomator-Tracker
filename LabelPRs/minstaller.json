@@ -1,0 +1,39 @@
+{
+  "label": "minstaller",
+  "labelFile": "fragments/labels/minstaller.sh",
+  "pullRequests": [
+    {
+      "number": 3627,
+      "title": "New label: minstaller",
+      "url": "https://github.com/Installomator/Installomator/pull/3627",
+      "author": {
+        "login": "justinraine",
+        "url": "https://github.com/justinraine"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T00:38:57Z",
+      "updatedAt": "2026-11-17T00:38:57Z",
+      "baseBranch": "main",
+      "headBranch": "label-minstaller",
+      "headRepository": "justinraine/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "UNKNOWN",
+      "checksState": "SUCCESS",
+      "headCommit": "e8dc4ec903be3e675039ef5a58525cdcd4d60fe2",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 8,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "minstaller"
+      ]
+    }
+  ]
+}

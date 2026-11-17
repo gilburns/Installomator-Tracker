@@ -1,0 +1,39 @@
+{
+  "label": "pixelsnap2",
+  "labelFile": "fragments/labels/pixelsnap2.sh",
+  "pullRequests": [
+    {
+      "number": 3625,
+      "title": "New label: pixelsnap2",
+      "url": "https://github.com/Installomator/Installomator/pull/3625",
+      "author": {
+        "login": "justinraine",
+        "url": "https://github.com/justinraine"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T00:38:49Z",
+      "updatedAt": "2026-11-17T00:38:49Z",
+      "baseBranch": "main",
+      "headBranch": "label-pixelsnap2",
+      "headRepository": "justinraine/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "UNKNOWN",
+      "checksState": "SUCCESS",
+      "headCommit": "fabde0a134a61b6afd32b43a07f3418ec5c9b95a",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "pixelsnap2"
+      ]
+    }
+  ]
+}

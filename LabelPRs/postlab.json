@@ -1,0 +1,39 @@
+{
+  "label": "postlab",
+  "labelFile": "fragments/labels/postlab.sh",
+  "pullRequests": [
+    {
+      "number": 3631,
+      "title": "New label: postlab",
+      "url": "https://github.com/Installomator/Installomator/pull/3631",
+      "author": {
+        "login": "justinraine",
+        "url": "https://github.com/justinraine"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T00:39:15Z",
+      "updatedAt": "2026-11-17T00:39:15Z",
+      "baseBranch": "main",
+      "headBranch": "label-postlab",
+      "headRepository": "justinraine/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "UNKNOWN",
+      "checksState": "SUCCESS",
+      "headCommit": "734768f5a27306d6733512685d6e845f095cf39a",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 9,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "postlab"
+      ]
+    }
+  ]
+}
