@@ -12,11 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:38:41Z",
-      "updatedAt": "2026-11-17T01:34:49Z",
+      "updatedAt": "2026-11-17T03:25:02Z",
       "baseBranch": "main",
       "headBranch": "label-commandpost",
       "headRepository": "justinraine/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "CHANGES_REQUESTED",
       "reviews": [
         {
