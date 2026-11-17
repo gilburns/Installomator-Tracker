@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "Toon Boom Storyboard Pro 27.1/Storyboard Pro 27.1.app",
+    "appNewVersion": "27.1.0.25756",
+    "blockingProcesses": [
+      "Storyboard Pro"
+    ],
+    "downloadURL": "https://updates.toonboom.com/data/StoryboardPro27_25756/SBP271-mac-25756.dmg",
+    "expectedTeamID": "U5LPYJSPQ3",
+    "label": "toonboomstoryboardpro2027",
+    "name": "Storyboard Pro 27",
+    "timeStamp": "2026-11-17T15:53:46Z",
+    "type": "dmg"
+  }
+]

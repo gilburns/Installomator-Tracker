@@ -75,5 +75,16 @@
     "name": "Vienna Assistant",
     "timeStamp": "2026-11-05T15:04:01Z",
     "type": "pkgInZip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.2.656",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn6.vsl.co.at:443/8d3a1157-faeb-46d1-9b0e-ea783225d770/2ca6b246-ffd6-4bb4-868d-30b1210d7302.zip?fn=ViennaAssistant-macOS-1.2.656.zip",
+    "expectedTeamID": "XR8G94NNCL",
+    "label": "viennaassistant",
+    "name": "Vienna Assistant",
+    "timeStamp": "2026-11-17T15:56:27Z",
+    "type": "pkgInZip"
   }
 ]
