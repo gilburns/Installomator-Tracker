@@ -160,6 +160,11 @@
       "lastSeen": "2026-11-17T07:22:46Z",
       "reason": "missing appNewVersion"
     },
+    "capcut": {
+      "firstSeen": "2026-11-17T11:20:03Z",
+      "lastSeen": "2026-11-17T11:20:03Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-17T07:23:15Z",
       "lastSeen": "2026-11-17T07:23:15Z",
@@ -410,6 +415,11 @@
       "lastSeen": "2026-11-17T07:34:36Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-11-17T11:30:40Z",
+      "lastSeen": "2026-11-17T11:30:40Z",
+      "reason": "missing appNewVersion"
+    },
     "ipvisionconnect": {
       "firstSeen": "2026-11-17T07:35:00Z",
       "lastSeen": "2026-11-17T07:35:00Z",
@@ -604,6 +614,11 @@
       "firstSeen": "2026-11-17T07:41:09Z",
       "lastSeen": "2026-11-17T07:41:09Z",
       "reason": "label does not set appNewVersion"
+    },
+    "networksharemounter": {
+      "firstSeen": "2026-11-17T11:37:09Z",
+      "lastSeen": "2026-11-17T11:37:09Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "nomachine": {
       "firstSeen": "2026-11-17T07:41:34Z",
