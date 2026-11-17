@@ -20,5 +20,18 @@
     "name": "Storyboard Pro 25",
     "timeStamp": "2026-09-16T18:33:39Z",
     "type": "dmg"
+  },
+  {
+    "appName": "Toon Boom Storyboard Pro 25.2/Storyboard Pro 25.2.app",
+    "appNewVersion": "25.2.1.25186",
+    "blockingProcesses": [
+      "Storyboard Pro"
+    ],
+    "downloadURL": "https://updates.toonboom.com/data/StoryboardPro25_25186/SBP252-mac-25186.dmg",
+    "expectedTeamID": "U5LPYJSPQ3",
+    "label": "toonboomstoryboardpro2025",
+    "name": "Storyboard Pro 25",
+    "timeStamp": "2026-11-17T01:53:21Z",
+    "type": "dmg"
   }
 ]

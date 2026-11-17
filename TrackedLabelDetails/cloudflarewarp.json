@@ -75,5 +75,18 @@
     "name": "Cloudflare_WARP",
     "timeStamp": "2026-10-20T06:15:49Z",
     "type": "pkg"
+  },
+  {
+    "appName": "Cloudflare WARP.app",
+    "appNewVersion": "2026.8.2115.0",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.8.2115.0/Cloudflare_WARP_2026.8.2115.0.pkg",
+    "expectedTeamID": "68WVV388M8",
+    "label": "cloudflarewarp",
+    "name": "Cloudflare_WARP",
+    "timeStamp": "2026-11-17T01:25:00Z",
+    "type": "pkg"
   }
 ]
