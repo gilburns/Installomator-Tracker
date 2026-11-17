@@ -1,0 +1,39 @@
+{
+  "label": "webcatalog",
+  "labelFile": "fragments/labels/webcatalog.sh",
+  "pullRequests": [
+    {
+      "number": 3637,
+      "title": "update webcatalog label",
+      "url": "https://github.com/Installomator/Installomator/pull/3637",
+      "author": {
+        "login": "worthypants",
+        "url": "https://github.com/worthypants"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T10:45:04Z",
+      "updatedAt": "2026-11-17T10:45:04Z",
+      "baseBranch": "main",
+      "headBranch": "add-webcatalog-label",
+      "headRepository": "worthypants/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "a6659c3c7fa62f95fb36e8aaff477a344e72c794",
+      "commitCount": 12,
+      "commentCount": 0,
+      "changedFileCount": 2,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 2,
+        "deletions": 2
+      },
+      "labelsInPR": [
+        "webcatalog"
+      ]
+    }
+  ]
+}
