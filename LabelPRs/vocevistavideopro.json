@@ -1,0 +1,40 @@
+{
+  "label": "vocevistavideopro",
+  "labelFile": "fragments/labels/vocevistavideopro.sh",
+  "pullRequests": [
+    {
+      "number": 3636,
+      "title": "Updated label vocevistavideopro to vocevistapro",
+      "url": "https://github.com/Installomator/Installomator/pull/3636",
+      "author": {
+        "login": "Adde96",
+        "url": "https://github.com/Adde96"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T08:57:34Z",
+      "updatedAt": "2026-11-17T08:57:34Z",
+      "baseBranch": "main",
+      "headBranch": "update-vocevistavideopro",
+      "headRepository": "Adde96/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "adb699a961a558f88eb622d1f7c62a925b31905c",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 2,
+      "labelChange": {
+        "changeType": "DELETED",
+        "additions": 0,
+        "deletions": 8
+      },
+      "labelsInPR": [
+        "vocevistapro",
+        "vocevistavideopro"
+      ]
+    }
+  ]
+}
