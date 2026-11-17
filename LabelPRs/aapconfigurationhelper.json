@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T12:13:21Z",
-      "updatedAt": "2026-11-17T12:13:21Z",
+      "updatedAt": "2026-11-17T19:13:54Z",
       "baseBranch": "main",
       "headBranch": "new-label/aapconfigurationhelper",
       "headRepository": "mwegmann98/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-17T19:13:54Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "8a2f92fdfc79137d699c3d1161dc50ee5edeac9a",

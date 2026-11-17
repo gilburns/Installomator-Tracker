@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T12:28:15Z",
-      "updatedAt": "2026-11-17T12:28:15Z",
+      "updatedAt": "2026-11-17T19:17:57Z",
       "baseBranch": "main",
       "headBranch": "new-label/labellive",
       "headRepository": "mwegmann98/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-17T19:17:56Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "5888a9c468f4441ab390718d2323b37345201016",

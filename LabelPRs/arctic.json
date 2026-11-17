@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:39:31Z",
-      "updatedAt": "2026-11-17T00:39:31Z",
+      "updatedAt": "2026-11-17T19:02:09Z",
       "baseBranch": "main",
       "headBranch": "label-arctic",
       "headRepository": "justinraine/Installomator",
-      "prLabels": [],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-17T19:02:09Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "9287c516f5c8b2f258c8310369f31b7c1659d960",

@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T10:45:04Z",
-      "updatedAt": "2026-11-17T11:02:20Z",
+      "updatedAt": "2026-11-17T19:11:42Z",
       "baseBranch": "main",
       "headBranch": "add-webcatalog-label",
       "headRepository": "worthypants/Installomator",
-      "prLabels": [],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-17T19:11:42Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "14a5e159320f71ff203f3a1f5fc510489725b71e",
