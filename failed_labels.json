@@ -405,6 +405,11 @@
       "lastSeen": "2026-11-17T12:38:37Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-11-17T14:33:14Z",
+      "lastSeen": "2026-11-17T14:33:14Z",
+      "reason": "missing appNewVersion"
+    },
     "ipvisionconnect": {
       "firstSeen": "2026-11-17T12:39:03Z",
       "lastSeen": "2026-11-17T12:39:03Z",
@@ -994,6 +999,11 @@
       "firstSeen": "2026-11-17T12:57:46Z",
       "lastSeen": "2026-11-17T12:57:46Z",
       "reason": "label does not set appNewVersion"
+    },
+    "webexvdiplugin": {
+      "firstSeen": "2026-11-17T14:51:17Z",
+      "lastSeen": "2026-11-17T14:51:17Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "wechat": {
       "firstSeen": "2026-11-17T12:58:08Z",
