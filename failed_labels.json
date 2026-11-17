@@ -995,6 +995,11 @@
       "lastSeen": "2026-11-17T07:53:29Z",
       "reason": "label does not set appNewVersion"
     },
+    "webexvdiplugin": {
+      "firstSeen": "2026-11-17T08:54:35Z",
+      "lastSeen": "2026-11-17T08:54:35Z",
+      "reason": "missing downloadURL"
+    },
     "weprint": {
       "firstSeen": "2026-11-17T07:53:39Z",
       "lastSeen": "2026-11-17T07:53:39Z",
