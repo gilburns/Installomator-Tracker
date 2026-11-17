@@ -12,13 +12,21 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:38:49Z",
-      "updatedAt": "2026-11-17T00:38:49Z",
+      "updatedAt": "2026-11-17T03:36:57Z",
       "baseBranch": "main",
       "headBranch": "label-pixelsnap2",
       "headRepository": "justinraine/Installomator",
-      "prLabels": [],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-17T03:32:33Z"
+        }
+      ],
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
