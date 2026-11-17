@@ -1,0 +1,39 @@
+{
+  "label": "tourboxconsole",
+  "labelFile": "fragments/labels/tourboxconsole.sh",
+  "pullRequests": [
+    {
+      "number": 3640,
+      "title": "New Label for TourBox Console",
+      "url": "https://github.com/Installomator/Installomator/pull/3640",
+      "author": {
+        "login": "mwegmann98",
+        "url": "https://github.com/mwegmann98"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-17T14:33:50Z",
+      "updatedAt": "2026-11-17T14:33:50Z",
+      "baseBranch": "main",
+      "headBranch": "new-label/tourbox",
+      "headRepository": "mwegmann98/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "ff53905880d9c375709a3f430fee7ae27038f81a",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 11,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "tourboxconsole"
+      ]
+    }
+  ]
+}
