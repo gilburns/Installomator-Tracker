@@ -58,5 +58,17 @@
     "name": "Zulu JDK 25",
     "timeStamp": "2026-10-29T06:33:21Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "25.38.201",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.azul.com/zulu/bin/zulu25.38.201-ca-jdk25.0.5.1-macosx_aarch64.dmg",
+    "downloadURLi386": "https://cdn.azul.com/zulu/bin/zulu25.38.201-ca-jdk25.0.5.1-macosx_x64.dmg",
+    "expectedTeamID": "TDTHCUPYFR",
+    "label": "zulujdk25",
+    "name": "Zulu JDK 25",
+    "timeStamp": "2026-11-18T13:55:33Z",
+    "type": "pkgInDmg"
   }
 ]
