@@ -155,6 +155,16 @@
       "lastSeen": "2026-11-18T03:23:17Z",
       "reason": "missing appNewVersion"
     },
+    "calibre": {
+      "firstSeen": "2026-11-18T04:22:36Z",
+      "lastSeen": "2026-11-18T04:22:36Z",
+      "reason": "missing appNewVersion"
+    },
+    "capcut": {
+      "firstSeen": "2026-11-18T04:22:54Z",
+      "lastSeen": "2026-11-18T04:22:54Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-18T03:24:09Z",
       "lastSeen": "2026-11-18T03:24:09Z",
