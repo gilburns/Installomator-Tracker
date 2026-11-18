@@ -1,0 +1,41 @@
+{
+  "label": "setshot",
+  "labelFile": "fragments/labels/setshot.sh",
+  "pullRequests": [
+    {
+      "number": 3643,
+      "title": "Create setshot.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3643",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-18T13:36:49Z",
+      "updatedAt": "2026-11-18T13:37:00Z",
+      "baseBranch": "main",
+      "headBranch": "CreateSetShot",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "d8ffe7ed80fabe01e7aa4d09c95cae58562d3442",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "setshot"
+      ]
+    }
+  ]
+}
