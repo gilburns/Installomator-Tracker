@@ -315,6 +315,11 @@
       "lastSeen": "2026-11-18T08:34:31Z",
       "reason": "missing appNewVersion"
     },
+    "googlechrome": {
+      "firstSeen": "2026-11-18T11:30:41Z",
+      "lastSeen": "2026-11-18T11:30:41Z",
+      "reason": "missing appNewVersion"
+    },
     "googledrivebackupandsync": {
       "firstSeen": "2026-11-18T08:36:05Z",
       "lastSeen": "2026-11-18T08:36:05Z",
@@ -389,6 +394,11 @@
       "firstSeen": "2026-11-18T08:36:50Z",
       "lastSeen": "2026-11-18T08:36:50Z",
       "reason": "missing appNewVersion"
+    },
+    "hpclick": {
+      "firstSeen": "2026-11-18T11:31:44Z",
+      "lastSeen": "2026-11-18T11:31:44Z",
+      "reason": "resolve failed (exit 14)"
     },
     "hpeasystart": {
       "firstSeen": "2026-11-18T08:36:53Z",
