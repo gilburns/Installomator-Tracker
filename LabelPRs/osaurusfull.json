@@ -1,0 +1,44 @@
+{
+  "label": "osaurusfull",
+  "labelFile": "fragments/labels/osaurusfull.sh",
+  "pullRequests": [
+    {
+      "number": 3646,
+      "title": "osaurusfull-new-label",
+      "url": "https://github.com/Installomator/Installomator/pull/3646",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-18T23:26:14Z",
+      "updatedAt": "2026-11-18T23:27:00Z",
+      "baseBranch": "main",
+      "headBranch": "osaurusfull-new-label",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "gilburns",
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "e22a3a93f4ca0c1fec217b014cc58aefac1e5394",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 13,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "osaurusfull"
+      ]
+    }
+  ]
+}
