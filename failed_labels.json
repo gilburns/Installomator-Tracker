@@ -680,6 +680,11 @@
       "lastSeen": "2026-11-18T18:45:28Z",
       "reason": "missing appNewVersion"
     },
+    "prism11": {
+      "firstSeen": "2026-11-18T21:40:57Z",
+      "lastSeen": "2026-11-18T21:40:57Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "proctortrack": {
       "firstSeen": "2026-11-18T18:45:46Z",
       "lastSeen": "2026-11-18T18:45:46Z",
