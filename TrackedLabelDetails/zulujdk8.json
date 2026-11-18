@@ -58,5 +58,17 @@
     "name": "Zulu JDK 8",
     "timeStamp": "2026-11-06T22:42:48Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.98.0.201",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.azul.com/zulu/bin/zulu8.98.0.201-ca-jdk8.0.514-macosx_aarch64.dmg",
+    "downloadURLi386": "https://cdn.azul.com/zulu/bin/zulu8.98.0.201-ca-jdk8.0.514-macosx_x64.dmg",
+    "expectedTeamID": "TDTHCUPYFR",
+    "label": "zulujdk8",
+    "name": "Zulu JDK 8",
+    "timeStamp": "2026-11-18T10:50:46Z",
+    "type": "pkgInDmg"
   }
 ]

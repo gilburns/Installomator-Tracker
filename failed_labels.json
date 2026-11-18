@@ -680,6 +680,11 @@
       "lastSeen": "2026-11-18T08:46:06Z",
       "reason": "label does not set appNewVersion"
     },
+    "polleverywhere": {
+      "firstSeen": "2026-11-18T10:40:28Z",
+      "lastSeen": "2026-11-18T10:40:28Z",
+      "reason": "missing appNewVersion"
+    },
     "portingkit": {
       "firstSeen": "2026-11-18T08:46:24Z",
       "lastSeen": "2026-11-18T08:46:24Z",
