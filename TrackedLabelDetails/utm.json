@@ -46,11 +46,21 @@
     "appName": "",
     "appNewVersion": "5.0.91",
     "blockingProcesses": [],
-    "downloadURL": "https://github.com",
     "expectedTeamID": "WDNLXAD4W8",
     "label": "utm",
     "name": "UTM",
     "timeStamp": "2026-11-18T04:50:43Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.0.92",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com",
+    "expectedTeamID": "WDNLXAD4W8",
+    "label": "utm",
+    "name": "UTM",
+    "timeStamp": "2026-11-18T09:49:25Z",
     "type": "dmg"
   }
 ]
