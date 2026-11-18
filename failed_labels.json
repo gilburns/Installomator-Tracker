@@ -845,6 +845,11 @@
       "lastSeen": "2026-11-18T13:46:29Z",
       "reason": "label does not set appNewVersion"
     },
+    "sonoss2": {
+      "firstSeen": "2026-11-18T16:45:29Z",
+      "lastSeen": "2026-11-18T16:45:29Z",
+      "reason": "missing appNewVersion"
+    },
     "soundly": {
       "firstSeen": "2026-11-18T13:46:31Z",
       "lastSeen": "2026-11-18T13:46:31Z",
@@ -903,6 +908,16 @@
     "sync": {
       "firstSeen": "2026-11-18T13:48:08Z",
       "lastSeen": "2026-11-18T13:48:08Z",
+      "reason": "missing appNewVersion"
+    },
+    "tableaupublic": {
+      "firstSeen": "2026-11-18T16:48:25Z",
+      "lastSeen": "2026-11-18T16:48:25Z",
+      "reason": "missing appNewVersion"
+    },
+    "tableaureader": {
+      "firstSeen": "2026-11-18T16:48:36Z",
+      "lastSeen": "2026-11-18T16:48:36Z",
       "reason": "missing appNewVersion"
     },
     "taskpaper": {
