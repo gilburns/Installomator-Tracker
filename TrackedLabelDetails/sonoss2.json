@@ -20,5 +20,16 @@
     "name": "Sonos",
     "timeStamp": "2026-10-09T06:32:06Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "57.23.83121",
+    "blockingProcesses": [],
+    "downloadURL": "https://update-software.sonos.com/software/40G2W5Dpkq/Sonos_57.23-83121.dmg",
+    "expectedTeamID": "2G4LW83Q3E",
+    "label": "sonoss2",
+    "name": "Sonos",
+    "timeStamp": "2026-11-18T18:48:53Z",
+    "type": "dmg"
   }
 ]
