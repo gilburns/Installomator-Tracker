@@ -220,6 +220,11 @@
       "lastSeen": "2026-11-18T03:28:45Z",
       "reason": "label does not set appNewVersion"
     },
+    "doctolib": {
+      "firstSeen": "2026-11-18T06:35:20Z",
+      "lastSeen": "2026-11-18T06:35:20Z",
+      "reason": "missing appNewVersion"
+    },
     "drift": {
       "firstSeen": "2026-11-18T03:30:20Z",
       "lastSeen": "2026-11-18T03:30:20Z",
@@ -304,6 +309,11 @@
       "firstSeen": "2026-11-18T03:33:26Z",
       "lastSeen": "2026-11-18T03:33:26Z",
       "reason": "label does not set appNewVersion"
+    },
+    "flexoptixapp": {
+      "firstSeen": "2026-11-18T06:38:41Z",
+      "lastSeen": "2026-11-18T06:38:41Z",
+      "reason": "missing appNewVersion"
     },
     "fontexplorer": {
       "firstSeen": "2026-11-18T03:34:07Z",
@@ -478,6 +488,11 @@
     "meistertask": {
       "firstSeen": "2026-11-18T03:42:09Z",
       "lastSeen": "2026-11-18T03:42:09Z",
+      "reason": "missing appNewVersion"
+    },
+    "mestrenova": {
+      "firstSeen": "2026-11-18T06:46:30Z",
+      "lastSeen": "2026-11-18T06:46:30Z",
       "reason": "missing appNewVersion"
     },
     "microsoftexcelreset": {
