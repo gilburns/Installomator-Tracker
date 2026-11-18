@@ -20,5 +20,16 @@
     "name": "Checkpoint SASE",
     "timeStamp": "2026-11-03T12:26:23Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "13.3.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://static.perimeter81.com/agents/mac/CheckPoint_SASE_13.3.0.15072.pkg",
+    "expectedTeamID": "924635PD62",
+    "label": "checkpointsase",
+    "name": "Checkpoint SASE",
+    "timeStamp": "2026-11-18T15:21:28Z",
+    "type": "pkg"
   }
 ]

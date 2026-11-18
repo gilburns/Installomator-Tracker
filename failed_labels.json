@@ -30,6 +30,11 @@
       "lastSeen": "2026-11-18T13:17:21Z",
       "reason": "label does not set appNewVersion"
     },
+    "alfred": {
+      "firstSeen": "2026-11-18T15:17:05Z",
+      "lastSeen": "2026-11-18T15:17:05Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "altserver": {
       "firstSeen": "2026-11-18T13:17:29Z",
       "lastSeen": "2026-11-18T13:17:29Z",
@@ -145,6 +150,11 @@
       "lastSeen": "2026-11-18T13:20:13Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagicdesktopvideo": {
+      "firstSeen": "2026-11-18T15:19:33Z",
+      "lastSeen": "2026-11-18T15:19:33Z",
+      "reason": "missing appNewVersion"
+    },
     "boxsync": {
       "firstSeen": "2026-11-18T13:20:35Z",
       "lastSeen": "2026-11-18T13:20:35Z",
@@ -159,6 +169,16 @@
       "firstSeen": "2026-11-18T13:20:43Z",
       "lastSeen": "2026-11-18T13:20:43Z",
       "reason": "missing appNewVersion"
+    },
+    "calibre": {
+      "firstSeen": "2026-11-18T15:20:26Z",
+      "lastSeen": "2026-11-18T15:20:26Z",
+      "reason": "missing appNewVersion"
+    },
+    "captureone": {
+      "firstSeen": "2026-11-18T15:21:15Z",
+      "lastSeen": "2026-11-18T15:21:15Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "cardpresso": {
       "firstSeen": "2026-11-18T13:21:57Z",
