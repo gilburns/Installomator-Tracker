@@ -12,24 +12,27 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T08:57:34Z",
-      "updatedAt": "2026-11-17T19:08:06Z",
+      "updatedAt": "2026-11-18T04:30:14Z",
       "baseBranch": "main",
       "headBranch": "update-vocevistavideopro",
       "headRepository": "Adde96/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "REVIEW_REQUIRED",
+      "reviewDecision": "CHANGES_REQUESTED",
       "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-18T04:30:14Z"
+        },
         {
           "reviewer": "uurazzle",
           "state": "APPROVED",
           "submittedAt": "2026-11-17T19:08:06Z"
         }
       ],
-      "requestedReviewers": [
-        "gilburns"
-      ],
+      "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "adb699a961a558f88eb622d1f7c62a925b31905c",

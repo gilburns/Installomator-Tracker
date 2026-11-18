@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-11T23:06:24Z",
-      "updatedAt": "2026-11-17T22:52:24Z",
+      "updatedAt": "2026-11-18T04:39:36Z",
       "baseBranch": "main",
       "headBranch": "xcredsprebeta-new-label",
       "headRepository": "uurazzle/Installomator",
@@ -28,7 +28,7 @@
       "checksState": "SUCCESS",
       "headCommit": "90767ed95d486c4f63f9291c3345475637a8f399",
       "commitCount": 1,
-      "commentCount": 1,
+      "commentCount": 2,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
