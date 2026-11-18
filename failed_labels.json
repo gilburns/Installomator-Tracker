@@ -140,6 +140,11 @@
       "lastSeen": "2026-11-17T20:20:18Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blender": {
+      "firstSeen": "2026-11-18T00:41:35Z",
+      "lastSeen": "2026-11-18T00:41:35Z",
+      "reason": "missing appNewVersion"
+    },
     "boxsync": {
       "firstSeen": "2026-11-17T20:20:47Z",
       "lastSeen": "2026-11-17T20:20:47Z",
