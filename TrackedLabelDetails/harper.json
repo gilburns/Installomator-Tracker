@@ -69,11 +69,21 @@
     "appName": "",
     "appNewVersion": "3.2.0",
     "blockingProcesses": [],
-    "downloadURL": "https://github.com/Automattic/harper/releases/download/v3.2.0/Harper_3.2.0_universal.dmg",
     "expectedTeamID": "PZYM8XX95Q",
     "label": "harper",
     "name": "Harper",
     "timeStamp": "2026-11-13T17:27:08Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.3.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Automattic/harper/releases/download/v3.2.0/Harper_3.2.0_universal.dmg",
+    "expectedTeamID": "PZYM8XX95Q",
+    "label": "harper",
+    "name": "Harper",
+    "timeStamp": "2026-11-18T23:31:36Z",
     "type": "dmg"
   }
 ]

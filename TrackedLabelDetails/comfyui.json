@@ -9,5 +9,16 @@
     "name": "Comfy Desktop",
     "timeStamp": "2026-11-16T17:26:06Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.1.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.todesktop.com/241012ess7yxs0e/Comfy%20Desktop%201.1.10%20-%20Build%20261118efu5bs6tj-arm64.dmg",
+    "expectedTeamID": "6FXBT88W8J",
+    "label": "comfyui",
+    "name": "Comfy Desktop",
+    "timeStamp": "2026-11-18T23:22:53Z",
+    "type": "dmg"
   }
 ]
