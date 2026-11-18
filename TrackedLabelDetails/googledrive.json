@@ -39,11 +39,26 @@
       "Google Sheets",
       "Google Slides"
     ],
-    "downloadURL": "https://dl.google.com/drive-file-stream/GoogleDrive.dmg",
     "expectedTeamID": "EQHXZ8M8AV",
     "label": "googledrive",
     "name": "Google Drive",
     "timeStamp": "2026-10-29T06:18:59Z",
+    "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "134.0.1",
+    "blockingProcesses": [
+      "Google Docs",
+      "Google Drive",
+      "Google Sheets",
+      "Google Slides"
+    ],
+    "downloadURL": "https://dl.google.com/drive-file-stream/GoogleDrive.dmg",
+    "expectedTeamID": "EQHXZ8M8AV",
+    "label": "googledrive",
+    "name": "Google Drive",
+    "timeStamp": "2026-11-18T17:31:08Z",
     "type": "pkgInDmg"
   }
 ]

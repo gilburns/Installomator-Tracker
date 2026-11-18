@@ -890,6 +890,11 @@
       "lastSeen": "2026-11-18T13:47:47Z",
       "reason": "label does not set appNewVersion"
     },
+    "superwhisper": {
+      "firstSeen": "2026-11-18T17:47:32Z",
+      "lastSeen": "2026-11-18T17:47:32Z",
+      "reason": "missing appNewVersion"
+    },
     "surfdrive": {
       "firstSeen": "2026-11-18T13:48:04Z",
       "lastSeen": "2026-11-18T13:48:04Z",
