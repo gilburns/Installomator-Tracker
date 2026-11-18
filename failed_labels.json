@@ -870,6 +870,11 @@
       "lastSeen": "2026-11-18T18:50:15Z",
       "reason": "label does not set appNewVersion"
     },
+    "sunsama": {
+      "firstSeen": "2026-11-18T22:45:46Z",
+      "lastSeen": "2026-11-18T22:45:46Z",
+      "reason": "missing appNewVersion"
+    },
     "surfdrive": {
       "firstSeen": "2026-11-18T18:50:30Z",
       "lastSeen": "2026-11-18T18:50:30Z",
