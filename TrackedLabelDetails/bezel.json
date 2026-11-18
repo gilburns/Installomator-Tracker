@@ -43,11 +43,21 @@
     "appName": "",
     "appNewVersion": "5.5.0",
     "blockingProcesses": [],
-    "downloadURL": "https://download.nonstrict.eu/bezel/Bezel.dmg",
     "expectedTeamID": "WT5N9FK54M",
     "label": "bezel",
     "name": "Bezel",
     "timeStamp": "2026-11-16T19:17:50Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.5.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.nonstrict.eu/bezel/Bezel.dmg",
+    "expectedTeamID": "WT5N9FK54M",
+    "label": "bezel",
+    "name": "Bezel",
+    "timeStamp": "2026-11-18T07:21:08Z",
     "type": "dmg"
   }
 ]

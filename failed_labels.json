@@ -365,6 +365,11 @@
       "lastSeen": "2026-11-18T03:35:39Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "gram": {
+      "firstSeen": "2026-11-18T07:32:46Z",
+      "lastSeen": "2026-11-18T07:32:46Z",
+      "reason": "missing appNewVersion"
+    },
     "grasshopper": {
       "firstSeen": "2026-11-18T03:35:52Z",
       "lastSeen": "2026-11-18T03:35:52Z",
