@@ -425,6 +425,11 @@
       "lastSeen": "2026-11-18T13:34:15Z",
       "reason": "missing appNewVersion"
     },
+    "jamovi": {
+      "firstSeen": "2026-11-18T14:35:02Z",
+      "lastSeen": "2026-11-18T14:35:02Z",
+      "reason": "missing appNewVersion"
+    },
     "jdk20": {
       "firstSeen": "2026-11-18T13:34:41Z",
       "lastSeen": "2026-11-18T13:34:41Z",

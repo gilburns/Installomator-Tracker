@@ -20,5 +20,16 @@
     "name": "Jamie",
     "timeStamp": "2026-10-15T18:25:27Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.8.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/meetjamie/releases/releases/download/app-v5.8.0/Jamie.5.8.0.dmg",
+    "expectedTeamID": "88YHHX72GQ",
+    "label": "jamie",
+    "name": "Jamie",
+    "timeStamp": "2026-11-18T14:35:01Z",
+    "type": "dmg"
   }
 ]
