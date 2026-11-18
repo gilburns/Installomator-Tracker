@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "65.2.1",
+    "blockingProcesses": [
+      "REDCINE-X PRO",
+      "RED PLAYER"
+    ],
+    "downloadURL": "https://downloads.reddigitalcinema.com/software/rcx/mac/release/65.2.1/REDCINE-X_PRO_Build_65.2.1.pkg",
+    "expectedTeamID": "4ER5V66EKT",
+    "label": "redcinexpro",
+    "name": "REDCINE-X PRO",
+    "timeStamp": "2026-11-18T03:48:17Z",
+    "type": "pkg"
+  }
+]

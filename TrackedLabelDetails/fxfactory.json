@@ -1,0 +1,17 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "9.0.7",
+    "blockingProcesses": [
+      "FxFactory",
+      "Final Cut Pro",
+      "Motion"
+    ],
+    "downloadURL": "https://files.fxfactory.com/fxfactory/FxFactory-9.0.7-8730.zip",
+    "expectedTeamID": "AZLNLGPTT3",
+    "label": "fxfactory",
+    "name": "FxFactory",
+    "timeStamp": "2026-11-18T03:34:26Z",
+    "type": "pkgInZip"
+  }
+]
