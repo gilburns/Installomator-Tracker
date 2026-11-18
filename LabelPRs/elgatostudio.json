@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-12T10:31:24Z",
-      "updatedAt": "2026-11-17T22:32:45Z",
+      "updatedAt": "2026-11-18T03:16:10Z",
       "baseBranch": "main",
       "headBranch": "add_elgatostudio",
       "headRepository": "BonnierNews/Installomator",
@@ -21,6 +21,11 @@
       ],
       "reviewDecision": "CHANGES_REQUESTED",
       "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-18T03:15:28Z"
+        },
         {
           "reviewer": "uurazzle",
           "state": "APPROVED",
@@ -33,7 +38,7 @@
         }
       ],
       "requestedReviewers": [
-        "gilburns"
+        "acodega"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
