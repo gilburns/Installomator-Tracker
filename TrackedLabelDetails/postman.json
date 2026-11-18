@@ -243,6 +243,7 @@
     "appName": "",
     "appNewVersion": "12.35.5",
     "blockingProcesses": [],
+    "downloadURLi386": "https://dl.pstmn.io/download/latest/osx_64",
     "expectedTeamID": "H7H8Q7M5CK",
     "label": "postman",
     "name": "Postman",

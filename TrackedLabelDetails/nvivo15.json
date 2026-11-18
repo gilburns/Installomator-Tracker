@@ -43,5 +43,20 @@
     "name": "NVivo 15",
     "timeStamp": "2026-10-20T06:27:01Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "15.7.0",
+    "blockingProcesses": [
+      "NVivo",
+      "NVivoHelper",
+      "Nvivo 15"
+    ],
+    "downloadURL": "https://download.qsrinternational.com/Software/NVivo15forMac/15.7.0.254/NVivo Desktop.dmg",
+    "expectedTeamID": "8F4S7H8S59",
+    "label": "nvivo15",
+    "name": "NVivo 15",
+    "timeStamp": "2026-11-18T05:40:00Z",
+    "type": "dmg"
   }
 ]
