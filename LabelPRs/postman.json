@@ -12,14 +12,18 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-19T02:56:55Z",
-      "updatedAt": "2026-11-19T02:56:55Z",
+      "updatedAt": "2026-11-19T16:06:10Z",
       "baseBranch": "main",
       "headBranch": "label-postman-versioned-url",
       "headRepository": "santese/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "2540b4c0aaabe76dd842e447a91b43524c74e672",
