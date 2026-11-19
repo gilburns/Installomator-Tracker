@@ -1,0 +1,39 @@
+{
+  "label": "rightfont",
+  "labelFile": "fragments/labels/rightfont.sh",
+  "pullRequests": [
+    {
+      "number": 3659,
+      "title": "new-label-rightfont",
+      "url": "https://github.com/Installomator/Installomator/pull/3659",
+      "author": {
+        "login": "mwegmann98",
+        "url": "https://github.com/mwegmann98"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-19T12:48:48Z",
+      "updatedAt": "2026-11-19T12:48:48Z",
+      "baseBranch": "main",
+      "headBranch": "new-label/rightfont",
+      "headRepository": "mwegmann98/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "caa5a210c1e97fa369285d0d577afe3aa3a56e0b",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "rightfont"
+      ]
+    }
+  ]
+}
