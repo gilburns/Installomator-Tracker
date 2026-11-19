@@ -13,11 +13,21 @@
     "appName": "",
     "appNewVersion": "6.17.21301",
     "blockingProcesses": [],
-    "downloadURL": "https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.dmg",
     "expectedTeamID": "55LV32M29R",
     "label": "jabradirect",
     "name": "Jabra Direct",
     "timeStamp": "2026-10-20T18:20:33Z",
+    "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8.4.30601",
+    "blockingProcesses": [],
+    "downloadURL": "https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.dmg",
+    "expectedTeamID": "55LV32M29R",
+    "label": "jabradirect",
+    "name": "Jabra Direct",
+    "timeStamp": "2026-11-19T15:32:33Z",
     "type": "pkgInDmg"
   }
 ]

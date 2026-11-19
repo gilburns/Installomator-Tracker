@@ -31,5 +31,16 @@
     "name": "Postgres",
     "timeStamp": "2026-11-12T14:40:18Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/PostgresApp/PostgresApp/releases/download/v3.0/Postgres-3.0-14-15-16-17-18-19.dmg",
+    "expectedTeamID": "ZF84SJ5A3G",
+    "label": "postgresapp",
+    "name": "Postgres",
+    "timeStamp": "2026-11-19T15:40:55Z",
+    "type": "dmg"
   }
 ]
