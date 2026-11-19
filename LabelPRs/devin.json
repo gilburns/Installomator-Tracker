@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-19T01:52:53Z",
-      "updatedAt": "2026-11-19T14:54:03Z",
+      "updatedAt": "2026-11-19T15:30:54Z",
       "baseBranch": "main",
       "headBranch": "FixDevin",
       "headRepository": "gilburns/Installomator",
@@ -20,16 +20,21 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-19T15:09:34Z"
+        }
+      ],
       "requestedReviewers": [
-        "uurazzle",
         "acodega"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "24764c0059873e5eaf3b3ec4395986f49cf213f9",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",

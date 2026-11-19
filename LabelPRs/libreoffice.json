@@ -12,14 +12,18 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-19T02:56:50Z",
-      "updatedAt": "2026-11-19T02:56:50Z",
+      "updatedAt": "2026-11-19T15:50:53Z",
       "baseBranch": "main",
       "headBranch": "label-libreoffice-versioned-url",
       "headRepository": "santese/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "3adeeb310d305bcc37830d3400d60ab65fd0047e",
