@@ -815,6 +815,11 @@
       "lastSeen": "2026-11-18T23:45:04Z",
       "reason": "invalid JSON output"
     },
+    "skim": {
+      "firstSeen": "2026-11-19T01:06:10Z",
+      "lastSeen": "2026-11-19T01:06:10Z",
+      "reason": "missing downloadURL"
+    },
     "sococo": {
       "firstSeen": "2026-11-18T23:45:33Z",
       "lastSeen": "2026-11-18T23:45:33Z",
