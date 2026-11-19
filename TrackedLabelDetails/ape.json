@@ -3,11 +3,21 @@
     "appName": "",
     "appNewVersion": "3.1.10",
     "blockingProcesses": [],
-    "downloadURL": "https://jorgensen.biology.utah.edu/wayned/ape/Download/Mac/ApE_OSX_modern_current.dmg",
     "expectedTeamID": "F5459JB4SG",
     "label": "ape",
     "name": "ApE",
     "timeStamp": "2026-08-04T06:54:02Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.1.11",
+    "blockingProcesses": [],
+    "downloadURL": "https://jorgensen.biology.utah.edu/wayned/ape/Download/Mac/ApE_OSX_modern_current.dmg",
+    "expectedTeamID": "F5459JB4SG",
+    "label": "ape",
+    "name": "ApE",
+    "timeStamp": "2026-11-19T19:16:08Z",
     "type": "dmg"
   }
 ]
