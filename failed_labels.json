@@ -215,6 +215,11 @@
       "lastSeen": "2026-11-18T23:24:22Z",
       "reason": "label does not set appNewVersion"
     },
+    "doctolib": {
+      "firstSeen": "2026-11-19T01:26:26Z",
+      "lastSeen": "2026-11-19T01:26:26Z",
+      "reason": "missing appNewVersion"
+    },
     "drift": {
       "firstSeen": "2026-11-18T23:25:47Z",
       "lastSeen": "2026-11-18T23:25:47Z",
@@ -224,6 +229,11 @@
       "firstSeen": "2026-11-18T23:26:03Z",
       "lastSeen": "2026-11-18T23:26:03Z",
       "reason": "label does not set appNewVersion"
+    },
+    "dymoconnectdesktop": {
+      "firstSeen": "2026-11-19T01:26:57Z",
+      "lastSeen": "2026-11-19T01:26:57Z",
+      "reason": "missing appNewVersion"
     },
     "dynalist": {
       "firstSeen": "2026-11-18T23:26:08Z",
