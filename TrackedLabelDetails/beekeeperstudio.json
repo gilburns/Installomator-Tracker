@@ -238,5 +238,17 @@
     "name": "Beekeeper Studio",
     "timeStamp": "2026-11-17T22:18:39Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.3.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.3.3/Beekeeper-Studio-6.3.3-arm64.dmg",
+    "downloadURLi386": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.3.3/Beekeeper-Studio-6.3.3.dmg",
+    "expectedTeamID": "7KK583U8H2",
+    "label": "beekeeperstudio",
+    "name": "Beekeeper Studio",
+    "timeStamp": "2026-11-19T18:22:05Z",
+    "type": "dmg"
   }
 ]

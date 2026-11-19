@@ -325,6 +325,11 @@
       "lastSeen": "2026-11-19T14:32:42Z",
       "reason": "missing appNewVersion"
     },
+    "gfxcardstatus": {
+      "firstSeen": "2026-11-19T18:34:10Z",
+      "lastSeen": "2026-11-19T18:34:10Z",
+      "reason": "missing appNewVersion"
+    },
     "googledrivebackupandsync": {
       "firstSeen": "2026-11-19T14:34:09Z",
       "lastSeen": "2026-11-19T14:34:09Z",
