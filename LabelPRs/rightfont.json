@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-19T12:48:48Z",
-      "updatedAt": "2026-11-19T12:48:48Z",
+      "updatedAt": "2026-11-19T18:27:37Z",
       "baseBranch": "main",
       "headBranch": "new-label/rightfont",
       "headRepository": "mwegmann98/Installomator",
@@ -24,7 +24,7 @@
       "checksState": "SUCCESS",
       "headCommit": "caa5a210c1e97fa369285d0d577afe3aa3a56e0b",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
