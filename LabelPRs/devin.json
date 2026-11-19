@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-19T01:52:53Z",
-      "updatedAt": "2026-11-19T01:53:31Z",
+      "updatedAt": "2026-11-19T14:54:03Z",
       "baseBranch": "main",
       "headBranch": "FixDevin",
       "headRepository": "gilburns/Installomator",
@@ -21,7 +21,10 @@
       ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "uurazzle",
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "24764c0059873e5eaf3b3ec4395986f49cf213f9",
