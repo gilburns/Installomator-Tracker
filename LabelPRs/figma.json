@@ -1,0 +1,39 @@
+{
+  "label": "figma",
+  "labelFile": "fragments/labels/figma.sh",
+  "pullRequests": [
+    {
+      "number": 3651,
+      "title": "figma: read the URL and version from the same architecture's RELEASE.json",
+      "url": "https://github.com/Installomator/Installomator/pull/3651",
+      "author": {
+        "login": "santese",
+        "url": "https://github.com/santese"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-19T02:57:00Z",
+      "updatedAt": "2026-11-19T02:57:00Z",
+      "baseBranch": "main",
+      "headBranch": "label-figma-versioned-url",
+      "headRepository": "santese/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "8a13c7dcf54e49ccde9ff3cba057e883c3165895",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 4,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "figma"
+      ]
+    }
+  ]
+}

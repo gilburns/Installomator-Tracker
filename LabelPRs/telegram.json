@@ -1,0 +1,39 @@
+{
+  "label": "telegram",
+  "labelFile": "fragments/labels/telegram.sh",
+  "pullRequests": [
+    {
+      "number": 3653,
+      "title": "telegram: download the image the feed names",
+      "url": "https://github.com/Installomator/Installomator/pull/3653",
+      "author": {
+        "login": "santese",
+        "url": "https://github.com/santese"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-19T02:57:11Z",
+      "updatedAt": "2026-11-19T02:57:11Z",
+      "baseBranch": "main",
+      "headBranch": "label-telegram-versioned-url",
+      "headRepository": "santese/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "948f9944dad2edb1d4604d946267594759a75ac5",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 4,
+        "deletions": 2
+      },
+      "labelsInPR": [
+        "telegram"
+      ]
+    }
+  ]
+}

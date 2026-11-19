@@ -1,0 +1,39 @@
+{
+  "label": "awscli2",
+  "labelFile": "fragments/labels/awscli2.sh",
+  "pullRequests": [
+    {
+      "number": 3654,
+      "title": "awscli2: download the version the label reports",
+      "url": "https://github.com/Installomator/Installomator/pull/3654",
+      "author": {
+        "login": "santese",
+        "url": "https://github.com/santese"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-19T02:57:16Z",
+      "updatedAt": "2026-11-19T02:57:16Z",
+      "baseBranch": "main",
+      "headBranch": "label-awscli2-versioned-url",
+      "headRepository": "santese/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "822da7a89cd45919fb9c19e8c1949ac615a1aefc",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "awscli2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "label": "microsoftvisualstudiocode",
+  "labelFile": "fragments/labels/microsoftvisualstudiocode.sh",
+  "pullRequests": [
+    {
+      "number": 3656,
+      "title": "microsoftvisualstudiocode: download the version the label reports",
+      "url": "https://github.com/Installomator/Installomator/pull/3656",
+      "author": {
+        "login": "santese",
+        "url": "https://github.com/santese"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-19T02:57:26Z",
+      "updatedAt": "2026-11-19T02:57:26Z",
+      "baseBranch": "main",
+      "headBranch": "label-microsoftvisualstudiocode-versioned-url",
+      "headRepository": "santese/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "555f94bc7085dd44419d3e126462a119270a37a1",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "microsoftvisualstudiocode"
+      ]
+    }
+  ]
+}

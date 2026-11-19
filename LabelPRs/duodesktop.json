@@ -1,0 +1,39 @@
+{
+  "label": "duodesktop",
+  "labelFile": "fragments/labels/duodesktop.sh",
+  "pullRequests": [
+    {
+      "number": 3655,
+      "title": "duodesktop: download the version the label reports",
+      "url": "https://github.com/Installomator/Installomator/pull/3655",
+      "author": {
+        "login": "santese",
+        "url": "https://github.com/santese"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-19T02:57:21Z",
+      "updatedAt": "2026-11-19T02:57:21Z",
+      "baseBranch": "main",
+      "headBranch": "label-duodesktop-versioned-url",
+      "headRepository": "santese/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "f88b9653a2f0821d79a6f0b1f09234e71d05352a",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 2,
+        "deletions": 2
+      },
+      "labelsInPR": [
+        "duodesktop"
+      ]
+    }
+  ]
+}
