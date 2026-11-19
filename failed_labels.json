@@ -165,6 +165,11 @@
       "lastSeen": "2026-11-19T04:23:22Z",
       "reason": "missing appNewVersion"
     },
+    "captureone": {
+      "firstSeen": "2026-11-19T08:25:53Z",
+      "lastSeen": "2026-11-19T08:25:53Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-19T04:23:48Z",
       "lastSeen": "2026-11-19T04:23:48Z",
@@ -454,6 +459,11 @@
       "firstSeen": "2026-11-19T04:38:28Z",
       "lastSeen": "2026-11-19T04:38:28Z",
       "reason": "label does not set appNewVersion"
+    },
+    "lcadvancedvpnclient": {
+      "firstSeen": "2026-11-19T08:39:24Z",
+      "lastSeen": "2026-11-19T08:39:24Z",
+      "reason": "missing appNewVersion"
     },
     "libreofficelanguagepackintl": {
       "firstSeen": "2026-11-19T04:39:26Z",
