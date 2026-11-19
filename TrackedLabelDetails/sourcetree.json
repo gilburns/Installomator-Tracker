@@ -31,5 +31,16 @@
     "name": "Sourcetree",
     "timeStamp": "2026-10-27T06:35:58Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.2.21",
+    "blockingProcesses": [],
+    "downloadURL": "https://product-downloads.atlassian.com/software/sourcetree/ga/Sourcetree_4.2.21_326.zip",
+    "expectedTeamID": "UPXU4CQZ5P",
+    "label": "sourcetree",
+    "name": "Sourcetree",
+    "timeStamp": "2026-11-19T16:46:07Z",
+    "type": "zip"
   }
 ]

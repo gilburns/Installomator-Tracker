@@ -53,5 +53,16 @@
     "name": "Alfred",
     "timeStamp": "2026-11-19T11:16:56Z",
     "type": "dmg"
+  },
+  {
+    "appName": "Alfred 5.app",
+    "appNewVersion": "6.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://cachefly.alfredapp.com/Alfred_6.0.2_3222.dmg",
+    "expectedTeamID": "XZZXE9SED4",
+    "label": "alfred",
+    "name": "Alfred",
+    "timeStamp": "2026-11-19T16:19:07Z",
+    "type": "dmg"
   }
 ]

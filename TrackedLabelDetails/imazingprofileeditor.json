@@ -23,11 +23,21 @@
     "appName": "",
     "appNewVersion": "2.3.2",
     "blockingProcesses": [],
-    "downloadURL": "https://downloads.imazing.com/mac/iMazing-Profile-Editor/iMazingProfileEditorMac.dmg",
     "expectedTeamID": "J5PR93692Y",
     "label": "imazingprofileeditor",
     "name": "iMazing Profile Editor",
     "timeStamp": "2026-11-04T14:30:27Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.3.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.imazing.com/mac/iMazing-Profile-Editor/iMazingProfileEditorMac.dmg",
+    "expectedTeamID": "J5PR93692Y",
+    "label": "imazingprofileeditor",
+    "name": "iMazing Profile Editor",
+    "timeStamp": "2026-11-19T16:33:38Z",
     "type": "dmg"
   }
 ]
