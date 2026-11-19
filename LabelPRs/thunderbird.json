@@ -1,0 +1,40 @@
+{
+  "label": "thunderbird",
+  "labelFile": "fragments/labels/thunderbird.sh",
+  "pullRequests": [
+    {
+      "number": 3658,
+      "title": "Update thunderbird labels",
+      "url": "https://github.com/Installomator/Installomator/pull/3658",
+      "author": {
+        "login": "Maarten-Wijnants",
+        "url": "https://github.com/Maarten-Wijnants"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-19T11:18:48Z",
+      "updatedAt": "2026-11-19T11:18:48Z",
+      "baseBranch": "main",
+      "headBranch": "thunderbird",
+      "headRepository": "Allingtonbe/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "ff1be5a1c469d4bec7ad8dffd253a5bfa6cfd509",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 2,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 2,
+        "deletions": 2
+      },
+      "labelsInPR": [
+        "thunderbird",
+        "thunderbirdesr"
+      ]
+    }
+  ]
+}
