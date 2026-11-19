@@ -67,5 +67,17 @@
     "name": "Joplin",
     "timeStamp": "2026-10-29T06:21:06Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.7.24",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/laurent22/joplin/releases/download/v3.7.24/Joplin-3.7.24-arm64.DMG",
+    "downloadURLi386": "https://github.com/laurent22/joplin/releases/download/v3.7.24/Joplin-3.7.24.dmg",
+    "expectedTeamID": "A9BXAFS6CT",
+    "label": "joplin",
+    "name": "Joplin",
+    "timeStamp": "2026-11-19T17:32:02Z",
+    "type": "dmg"
   }
 ]

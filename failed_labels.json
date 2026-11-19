@@ -295,6 +295,11 @@
       "lastSeen": "2026-11-19T14:30:15Z",
       "reason": "label does not set appNewVersion"
     },
+    "evernote": {
+      "firstSeen": "2026-11-19T17:25:43Z",
+      "lastSeen": "2026-11-19T17:25:43Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "examplify": {
       "firstSeen": "2026-11-19T14:30:18Z",
       "lastSeen": "2026-11-19T14:30:18Z",
