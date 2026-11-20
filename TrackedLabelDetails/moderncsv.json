@@ -9,5 +9,16 @@
     "name": "Modern CSV",
     "timeStamp": "2026-07-03T15:57:04Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.moderncsv.com/release/ModernCSV-Mac-v3.0.dmg",
+    "expectedTeamID": "HV2WS8735K",
+    "label": "moderncsv",
+    "name": "Modern CSV",
+    "timeStamp": "2026-11-20T18:34:29Z",
+    "type": "dmg"
   }
 ]
