@@ -1,249 +1,230 @@
 [
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-07-03T15:44:40Z",
     "appNewVersion": "258.4.3749",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20258.4.3749.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20258.4.3749.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-07-03T15:44:40Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-07-09T18:43:19Z",
     "appNewVersion": "260.4.2926",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20260.4.2926.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20260.4.2926.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-07-09T18:43:19Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-07-21T18:37:26Z",
     "appNewVersion": "262.4.3183",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20262.4.3183.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20262.4.3183.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-07-21T18:37:26Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-08-09T18:17:55Z",
     "appNewVersion": "264.4.3385",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20264.4.3385.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20264.4.3385.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-08-09T18:17:55Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-08-11T06:25:19Z",
     "appNewVersion": "264.4.3421",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20264.4.3421.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20264.4.3421.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-08-11T06:25:19Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-08-23T06:14:32Z",
     "appNewVersion": "266.4.3911",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20266.4.3911.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20266.4.3911.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-08-23T06:14:32Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-09-01T18:15:32Z",
     "appNewVersion": "268.4.4124",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20268.4.4124.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20268.4.4124.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-09-01T18:15:32Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-09-15T18:15:22Z",
     "appNewVersion": "270.4.3312",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20270.4.3312.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20270.4.3312.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-09-15T18:15:22Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-09-28T18:16:12Z",
     "appNewVersion": "272.3.3756",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/engine_only/Dropbox%20272.3.3756.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/engine_only/Dropbox%20272.3.3756.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-09-28T18:16:12Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-09-29T18:17:15Z",
     "appNewVersion": "272.4.3798",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/engine_only/Dropbox%20272.4.3798.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/engine_only/Dropbox%20272.4.3798.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-09-29T18:17:15Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-10-13T06:23:40Z",
     "appNewVersion": "274.3.4864",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20274.3.4864.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20274.3.4864.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-10-13T06:23:40Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-10-13T18:20:09Z",
     "appNewVersion": "274.4.4905",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20274.4.4905.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20274.4.4905.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
-  },
-  {
-    "name": "Dropbox",
-    "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20276.4.5325.arm64.dmg",
-    "appName": "",
-    "timeStamp": "2026-10-27T18:15:28Z",
-    "appNewVersion": "276.4.5325",
+    "expectedTeamID": "G7HH3F8CAK",
     "label": "dropbox",
-    "blockingProcesses": [
-    ],
-    "type": "dmg",
-    "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20276.4.5325.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "name": "Dropbox",
+    "timeStamp": "2026-10-13T18:20:09Z",
+    "type": "dmg"
   },
   {
+    "appName": "",
+    "appNewVersion": "276.4.5325",
+    "blockingProcesses": [],
+    "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20276.4.5325.arm64.dmg",
+    "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20276.4.5325.dmg",
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-10-27T18:15:28Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "278.3.3901",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20278.3.3901.arm64.dmg",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20278.3.3901.dmg",
-    "appName": "",
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
     "timeStamp": "2026-11-02T20:16:08Z",
-    "appNewVersion": "278.3.3901",
-    "label": "dropbox",
-    "blockingProcesses": [
-    ],
-    "type": "dmg",
-    "name": "Dropbox",
-    "expectedTeamID": "G7HH3F8CAK"
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-11-06T13:24:58Z",
     "appNewVersion": "278.3.3959",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20278.3.3959.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20278.3.3959.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-11-06T13:24:58Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20278.4.4020.arm64.dmg",
     "appName": "",
-    "timeStamp": "2026-11-10T19:23:15Z",
     "appNewVersion": "278.4.4020",
-    "label": "dropbox",
-    "blockingProcesses": [
-    ],
-    "type": "dmg",
+    "blockingProcesses": [],
+    "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20278.4.4020.arm64.dmg",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20278.4.4020.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-11-10T19:23:15Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-11-14T06:31:10Z",
     "appNewVersion": "280.3.5020",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20280.3.5020.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20280.3.5020.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-11-14T06:31:10Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20280.4.5053.arm64.dmg",
     "appName": "",
-    "timeStamp": "2026-11-19T18:29:15Z",
     "appNewVersion": "280.4.5053",
-    "label": "dropbox",
-    "blockingProcesses": [
-    ],
-    "type": "dmg",
+    "blockingProcesses": [],
+    "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20280.4.5053.arm64.dmg",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20280.4.5053.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-11-19T18:29:15Z",
+    "type": "dmg"
   },
   {
-    "name": "Dropbox",
-    "type": "dmg",
     "appName": "",
-    "timeStamp": "2026-11-20T19:21:01Z",
     "appNewVersion": "281.3.5397",
+    "blockingProcesses": [],
     "downloadURL": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20281.3.5397.arm64.dmg",
-    "blockingProcesses": [
-    ],
-    "label": "dropbox",
     "downloadURLi386": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20281.3.5397.dmg",
-    "expectedTeamID": "G7HH3F8CAK"
+    "expectedTeamID": "G7HH3F8CAK",
+    "label": "dropbox",
+    "name": "Dropbox",
+    "timeStamp": "2026-11-20T19:21:01Z",
+    "type": "dmg"
   }
 ]
