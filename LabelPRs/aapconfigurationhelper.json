@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T12:13:21Z",
-      "updatedAt": "2026-11-18T02:49:32Z",
+      "updatedAt": "2026-11-20T14:43:46Z",
       "baseBranch": "main",
       "headBranch": "new-label/aapconfigurationhelper",
       "headRepository": "mwegmann98/Installomator",
@@ -25,23 +25,18 @@
           "reviewer": "gilburns",
           "state": "CHANGES_REQUESTED",
           "submittedAt": "2026-11-18T02:49:32Z"
-        },
-        {
-          "reviewer": "uurazzle",
-          "state": "APPROVED",
-          "submittedAt": "2026-11-17T19:13:54Z"
         }
       ],
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "8a2f92fdfc79137d699c3d1161dc50ee5edeac9a",
-      "commitCount": 1,
+      "headCommit": "e4c326a8f1f60aebbf52cb8367aacee7273f8c13",
+      "commitCount": 2,
       "commentCount": 0,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
-        "additions": 8,
+        "additions": 7,
         "deletions": 0
       },
       "labelsInPR": [

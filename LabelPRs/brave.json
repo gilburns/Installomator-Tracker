@@ -10,9 +10,9 @@
         "login": "roblambell",
         "url": "https://github.com/roblambell"
       },
-      "isDraft": true,
+      "isDraft": false,
       "createdAt": "2026-11-20T13:26:42Z",
-      "updatedAt": "2026-11-20T13:26:42Z",
+      "updatedAt": "2026-11-20T14:08:27Z",
       "baseBranch": "main",
       "headBranch": "brave-version-rollover",
       "headRepository": "roblambell/Installomator",

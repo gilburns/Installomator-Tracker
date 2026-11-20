@@ -50,14 +50,19 @@
       },
       "isDraft": true,
       "createdAt": "2026-11-18T23:27:29Z",
-      "updatedAt": "2026-11-18T23:30:55Z",
+      "updatedAt": "2026-11-20T14:30:39Z",
       "baseBranch": "main",
       "headBranch": "copilot/fix-check-lf-job",
       "headRepository": "Installomator/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns",
+        "acodega"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": null,
       "headCommit": "3a0dfa5ae12fa716d7decb9eabd5820a02cc867b",
