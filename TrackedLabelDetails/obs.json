@@ -70,5 +70,16 @@
     "name": "OBS",
     "timeStamp": "2026-10-30T06:24:24Z",
     "type": "dmg"
+  },
+  {
+    "appName": "OBS.app",
+    "appNewVersion": "33.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com",
+    "expectedTeamID": "2MMRE5MTB8",
+    "label": "obs",
+    "name": "OBS",
+    "timeStamp": "2026-11-20T15:36:57Z",
+    "type": "dmg"
   }
 ]

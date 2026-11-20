@@ -21,5 +21,17 @@
     "name": "SmartGit",
     "timeStamp": "2026-10-22T06:37:05Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.1.059",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.smartgit.dev/smartgit/smartgit-26_1_059-macos-arm64.dmg",
+    "downloadURLi386": "https://download.smartgit.dev/smartgit/smartgit-26_1_059-macos-x86_64.dmg",
+    "expectedTeamID": "PHMY45PTNW",
+    "label": "smartgit",
+    "name": "SmartGit",
+    "timeStamp": "2026-11-20T15:40:42Z",
+    "type": "dmg"
   }
 ]
