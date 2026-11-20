@@ -10,10 +10,10 @@ This repo runs that resolution logic for every label, every 1 hour, and keeps a 
 
 A scheduled GitHub Actions workflow ([.github/workflows/track-labels.yml](.github/workflows/track-labels.yml)) runs on a self-hosted macOS runner every 1 hour (00:00, 01:00, ... 23:00 UTC, plus on-demand via `workflow_dispatch`) and does four things in order, committing after each step that writes files:
 
-1. **Sync labels from upstream** ([sync_labels.sh](sync_labels.sh)) - pulls the current [`fragments/labels`](https://github.com/Installomator/Installomator/tree/main/fragments/labels) directory from Installomator's `main` branch via a shallow sparse-checkout clone, and mirrors it into [`Labels/`](Labels/): new labels are added, changed labels are updated, and labels removed upstream are deleted locally.
+1. **Sync labels from upstream** ([sync_labels.sh](sync_labels.sh)) - pulls the current [`fragments/labels`](https://github.com/Installomator/Installomator/tree/main/fragments/labels) directory from Installomator's `main` branch via a shallow sparse-checkout clone, and mirrors it into [`Labels/`](Labels/): new labels are added, changed labels are updated, and labels removed upstream are deleted locally. A removed label's version history is moved from `TrackedLabelDetails/` to [`DisabledLabelDetails/`](DisabledLabelDetails/) rather than deleted, and moved back if the label later returns upstream.
 2. **Track open label PRs** ([track_label_prs.sh](track_label_prs.sh)) - looks at every [open pull request](https://github.com/Installomator/Installomator/pulls) on Installomator, finds the ones that change a file in `fragments/labels/` (including disabling a label by moving it to `fragments/disabled/`), and writes [`LabelPRs/<label>.json`](LabelPRs/) for each label they touch, plus a [`label_prs.csv`](label_prs.csv) summary (see [Open label PRs](#open-label-prs)).
 3. **Run the label tracker** ([update_tracked_labels.sh](update_tracked_labels.sh)) - resolves every label in `Labels/` (via [process_label.sh](process_label.sh), a trimmed-down harness that evaluates a single label fragment the same way Installomator itself does) and records any newly-discovered version into [`TrackedLabelDetails/<label>.json`](TrackedLabelDetails/), then rewrites the [`label_status.csv`](label_status.csv) snapshot.
-4. Commits whatever changed in `Labels/`, `LabelPRs/`, `label_prs.csv`, `TrackedLabelDetails/`, `failed_labels.json` and `label_status.csv` back to this repo.
+4. Commits whatever changed in `Labels/`, `DisabledLabelDetails/`, `LabelPRs/`, `label_prs.csv`, `TrackedLabelDetails/`, `failed_labels.json` and `label_status.csv` back to this repo.
 
 ### Open label PRs
 
@@ -55,12 +55,13 @@ Labels are resolved as if they were running on macOS 27.2: `installedOSversion` 
 |---|---|
 | `Labels/` | Mirror of Installomator's `fragments/labels`, kept in sync automatically. Not hand-edited. |
 | `TrackedLabelDetails/<label>.json` | Version history for one label - a JSON array of entries, oldest to newest. |
+| `DisabledLabelDetails/<label>.json` | Version history for a label that's no longer in upstream Installomator (removed or moved to `fragments/disabled`). Same format, no longer updated. |
 | `LabelPRs/<label>.json` | Open upstream PRs that touch one label, with author and review status. Current snapshot. |
 | `label_prs.csv` | Every open label PR, one row per label/PR pair. Current snapshot. |
 | `failed_labels.json` | Labels that currently can't be resolved, and why, so they're skipped instead of retried every run. |
 | `label_status.csv` | Current-state snapshot of every label: latest version, timestamp, and `success` or failure reason. |
 | `process_label.sh` | Resolves a single label file to one JSON result (version, download URL, metadata). |
-| `sync_labels.sh` | Mirrors `Labels/` from upstream Installomator. |
+| `sync_labels.sh` | Mirrors `Labels/` from upstream Installomator and archives/restores history for removed/returning labels. |
 | `track_label_prs.sh` | Updates `LabelPRs/` from Installomator's open pull requests. |
 | `update_tracked_labels.sh` | Runs `process_label.sh` over every label and updates `TrackedLabelDetails/`. |
 | `retry_failed_labels.sh` | Retries every label currently in `failed_labels.json`, one at a time. |

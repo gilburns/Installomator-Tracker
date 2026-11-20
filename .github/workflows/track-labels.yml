@@ -30,7 +30,7 @@ jobs:
 
       - name: Commit label sync changes
         run: |
-          git add Labels
+          git add Labels TrackedLabelDetails DisabledLabelDetails
           if git diff --cached --quiet; then
             echo "No label changes from upstream."
           else

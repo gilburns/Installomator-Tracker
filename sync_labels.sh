@@ -3,7 +3,9 @@
 # Syncs Labels/ with the upstream Installomator fragments/labels directory
 # (https://github.com/Installomator/Installomator/tree/main/fragments/labels)
 # via a shallow sparse-checkout clone. Adds new labels, updates changed ones,
-# and removes local labels that no longer exist upstream.
+# and removes local labels that no longer exist upstream. Version history in
+# TrackedLabelDetails/ for a removed label is moved to DisabledLabelDetails/
+# rather than deleted, and moved back if the label reappears upstream.
 #
 # Note: this deliberately does NOT use the GitHub contents/trees API to list
 # the upstream directory - the contents API silently truncates directory
@@ -26,6 +28,8 @@ UPSTREAM_SUBDIR="fragments/labels"
 
 SCRIPT_DIR="${0:A:h}"
 LABELS_DIR="$SCRIPT_DIR/Labels"
+TRACKED_DIR="$SCRIPT_DIR/TrackedLabelDetails"
+DISABLED_DIR="$SCRIPT_DIR/DisabledLabelDetails"
 
 verbose=0
 dry_run=0
@@ -47,10 +51,12 @@ done
 
 log() { [[ $verbose -eq 1 ]] && echo "$@" >&2; return 0 }
 
-if ! command -v git >/dev/null 2>&1; then
-    echo "git is required but not found in PATH" >&2
-    exit 1
-fi
+for tool in git jq; do
+    if ! command -v "$tool" >/dev/null 2>&1; then
+        echo "$tool is required but not found in PATH" >&2
+        exit 1
+    fi
+done
 
 tmpDir=$(mktemp -d)
 trap 'rm -rf "$tmpDir"' EXIT
@@ -107,5 +113,54 @@ for f in "$LABELS_DIR"/*.sh(N); do
     fi
 done
 
-echo "Sync complete: $upstreamCount upstream labels, $added added, $updated updated, $removed removed."
+# Keep TrackedLabelDetails/ in step with the label set. History for a label
+# that's gone upstream is moved (never deleted) to DisabledLabelDetails/ so
+# it stays browsable; if the label later comes back upstream, its history is
+# moved back so tracking continues from where it left off. Checks against
+# the upstream listing (not Labels/) so --dry-run reports accurately.
+
+# Moves $1 to $2. If $2 already exists (a label retired, re-added and
+# retired again, say), merges the two histories instead: every distinct
+# entry is kept, oldest to newest.
+moveHistory() {
+    local src="$1" dest="$2"
+    if [[ ! -f "$dest" ]]; then
+        mv "$src" "$dest"
+        return
+    fi
+    local merged
+    merged=$(mktemp)
+    if jq -s 'add | unique | sort_by(.timeStamp)' "$dest" "$src" > "$merged"; then
+        mv "$merged" "$dest"
+        rm -f "$src"
+    else
+        echo "FAILED to merge ${src:t} into $dest, leaving both in place" >&2
+        rm -f "$merged"
+    fi
+}
+
+archived=0
+restored=0
+
+[[ $dry_run -eq 0 ]] && mkdir -p "$DISABLED_DIR"
+
+for f in "$TRACKED_DIR"/*.json(N); do
+    label="${f:t:r}"
+    if [[ ! -f "$upstreamDir/$label.sh" ]]; then
+        log "archived history: $label (label no longer upstream)"
+        archived=$((archived + 1))
+        [[ $dry_run -eq 0 ]] && moveHistory "$f" "$DISABLED_DIR/${f:t}"
+    fi
+done
+
+for f in "$DISABLED_DIR"/*.json(N); do
+    label="${f:t:r}"
+    if [[ -f "$upstreamDir/$label.sh" ]]; then
+        log "restored history: $label (label is back upstream)"
+        restored=$((restored + 1))
+        [[ $dry_run -eq 0 ]] && mkdir -p "$TRACKED_DIR" && moveHistory "$f" "$TRACKED_DIR/${f:t}"
+    fi
+done
+
+echo "Sync complete: $upstreamCount upstream labels, $added added, $updated updated, $removed removed, $archived histories archived, $restored restored."
 exit 0
