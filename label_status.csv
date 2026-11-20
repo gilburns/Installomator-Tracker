@@ -1242,7 +1242,7 @@
 "wavescentral","Waves Central","","17.1.4","2026-10-26T19:26:33Z","success"
 "weasis","Weasis","","4.8.0","2026-10-31T18:32:51Z","success"
 "webcatalog","WebCatalog","","77.3.4","2026-07-16T07:11:57Z","success"
-"webex","Webex","","46.11.0.36194","2026-11-07T01:49:37Z","success"
+"webex","Webex","","46.11.0.36194","2026-11-07T01:49:37Z","missing appNewVersion"
 "webexmeetings","Cisco Webex Meetings","","","","label does not set appNewVersion"
 "webextoolsremoval","WebEx Tools Removal","","","","label does not set appNewVersion"
 "webexvdiplugin","Cisco Webex VDI Plugin","","46.10.0.36183","2026-11-03T10:44:03Z","success"
