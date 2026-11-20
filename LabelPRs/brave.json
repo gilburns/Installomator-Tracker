@@ -1,0 +1,39 @@
+{
+  "label": "brave",
+  "labelFile": "fragments/labels/brave.sh",
+  "pullRequests": [
+    {
+      "number": 3661,
+      "title": "Fix label: brave - appNewVersion for 1.100 and later",
+      "url": "https://github.com/Installomator/Installomator/pull/3661",
+      "author": {
+        "login": "roblambell",
+        "url": "https://github.com/roblambell"
+      },
+      "isDraft": true,
+      "createdAt": "2026-11-20T13:26:42Z",
+      "updatedAt": "2026-11-20T13:26:42Z",
+      "baseBranch": "main",
+      "headBranch": "brave-version-rollover",
+      "headRepository": "roblambell/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "ab3f111704bd4639dec045d74255ab6607c4c614",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "brave"
+      ]
+    }
+  ]
+}
