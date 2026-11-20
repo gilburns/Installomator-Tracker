@@ -1,5 +1,30 @@
 {
   "failed": {
+    "abletonlive12intro": {
+      "firstSeen": "2026-11-20T22:14:27Z",
+      "lastSeen": "2026-11-20T22:14:27Z",
+      "reason": "missing appNewVersion"
+    },
+    "abletonlive12lite": {
+      "firstSeen": "2026-11-20T22:14:38Z",
+      "lastSeen": "2026-11-20T22:14:38Z",
+      "reason": "missing appNewVersion"
+    },
+    "abletonlive12standard": {
+      "firstSeen": "2026-11-20T22:14:48Z",
+      "lastSeen": "2026-11-20T22:14:48Z",
+      "reason": "missing appNewVersion"
+    },
+    "abletonlive12suite": {
+      "firstSeen": "2026-11-20T22:14:58Z",
+      "lastSeen": "2026-11-20T22:14:58Z",
+      "reason": "missing appNewVersion"
+    },
+    "abletonlive12trial": {
+      "firstSeen": "2026-11-20T22:15:08Z",
+      "lastSeen": "2026-11-20T22:15:08Z",
+      "reason": "missing appNewVersion"
+    },
     "abstract": {
       "firstSeen": "2026-11-20T20:16:28Z",
       "lastSeen": "2026-11-20T20:16:28Z",
