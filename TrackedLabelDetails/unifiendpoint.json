@@ -11,5 +11,18 @@
     "name": "UniFi Endpoint",
     "timeStamp": "2026-10-06T06:43:32Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.3.0",
+    "blockingProcesses": [
+      "NONE"
+    ],
+    "downloadURL": "https://fw-download.ubnt.com/data/uid-identity-standard-desktop-app/4ee6-macOS-4.3.0-33561c14-bddd-500d-9fe7-2baa836bd457.pkg",
+    "expectedTeamID": "4P645293E8",
+    "label": "unifiendpoint",
+    "name": "UniFi Endpoint",
+    "timeStamp": "2026-11-20T10:40:19Z",
+    "type": "pkg"
   }
 ]
