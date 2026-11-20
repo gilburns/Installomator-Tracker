@@ -325,6 +325,11 @@
       "lastSeen": "2026-11-20T20:25:04Z",
       "reason": "label does not set appNewVersion"
     },
+    "flowjo": {
+      "firstSeen": "2026-11-20T23:26:32Z",
+      "lastSeen": "2026-11-20T23:26:32Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "fontexplorer": {
       "firstSeen": "2026-11-20T20:25:29Z",
       "lastSeen": "2026-11-20T20:25:29Z",
