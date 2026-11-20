@@ -140,6 +140,11 @@
       "lastSeen": "2026-11-20T05:20:38Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagicdesktopvideo": {
+      "firstSeen": "2026-11-20T09:19:50Z",
+      "lastSeen": "2026-11-20T09:19:50Z",
+      "reason": "missing appNewVersion"
+    },
     "boxsync": {
       "firstSeen": "2026-11-20T05:21:04Z",
       "lastSeen": "2026-11-20T05:21:04Z",
