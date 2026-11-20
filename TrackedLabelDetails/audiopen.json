@@ -174,5 +174,16 @@
     "name": "AudioPen",
     "timeStamp": "2026-11-19T18:21:32Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.50",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/louispereira23/AudioPen-Releases/releases/download/v2.50/AudioPen-2.50.dmg",
+    "expectedTeamID": "WBFQ68C53U",
+    "label": "audiopen",
+    "name": "AudioPen",
+    "timeStamp": "2026-11-20T17:15:50Z",
+    "type": "dmg"
   }
 ]

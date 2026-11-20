@@ -76,6 +76,7 @@
     "appNewVersion": "33.0.2",
     "blockingProcesses": [],
     "downloadURL": "https://github.com",
+    "downloadURLi386": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-macOS-Intel.dmg",
     "expectedTeamID": "2MMRE5MTB8",
     "label": "obs",
     "name": "OBS",
