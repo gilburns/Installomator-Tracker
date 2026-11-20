@@ -135,6 +135,11 @@
       "lastSeen": "2026-11-20T10:18:02Z",
       "reason": "label does not set appNewVersion"
     },
+    "beekeeperstudio": {
+      "firstSeen": "2026-11-20T11:17:24Z",
+      "lastSeen": "2026-11-20T11:17:24Z",
+      "reason": "missing appNewVersion"
+    },
     "blackhole64": {
       "firstSeen": "2026-11-20T10:18:29Z",
       "lastSeen": "2026-11-20T10:18:29Z",
@@ -309,6 +314,11 @@
       "firstSeen": "2026-11-20T10:26:02Z",
       "lastSeen": "2026-11-20T10:26:02Z",
       "reason": "missing appNewVersion"
+    },
+    "fxfactory": {
+      "firstSeen": "2026-11-20T11:25:16Z",
+      "lastSeen": "2026-11-20T11:25:16Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "googledrivebackupandsync": {
       "firstSeen": "2026-11-20T10:26:54Z",
