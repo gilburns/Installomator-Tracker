@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-19T11:18:48Z",
-      "updatedAt": "2026-11-20T01:22:01Z",
+      "updatedAt": "2026-11-20T02:13:38Z",
       "baseBranch": "main",
       "headBranch": "thunderbird",
       "headRepository": "Allingtonbe/Installomator",
@@ -34,7 +34,7 @@
       "checksState": "SUCCESS",
       "headCommit": "ff1be5a1c469d4bec7ad8dffd253a5bfa6cfd509",
       "commitCount": 1,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 2,
       "labelChange": {
         "changeType": "MODIFIED",

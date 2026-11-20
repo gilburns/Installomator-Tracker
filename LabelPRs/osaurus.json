@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-18T22:55:52Z",
-      "updatedAt": "2026-11-18T23:43:44Z",
+      "updatedAt": "2026-11-20T02:15:22Z",
       "baseBranch": "main",
       "headBranch": "osaurus-new-label",
       "headRepository": "uurazzle/Installomator",
@@ -29,7 +29,7 @@
       "checksState": "SUCCESS",
       "headCommit": "0ff075172d424ae3a35077cfcaad8d4d41e22632",
       "commitCount": 2,
-      "commentCount": 0,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
