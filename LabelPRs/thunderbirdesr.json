@@ -12,17 +12,22 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-19T11:18:48Z",
-      "updatedAt": "2026-11-19T21:36:50Z",
+      "updatedAt": "2026-11-20T01:22:01Z",
       "baseBranch": "main",
       "headBranch": "thunderbird",
       "headRepository": "Allingtonbe/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-20T01:22:01Z"
+        }
+      ],
       "requestedReviewers": [
-        "gilburns",
         "uurazzle"
       ],
       "mergeable": "MERGEABLE",
