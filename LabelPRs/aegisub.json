@@ -1,0 +1,44 @@
+{
+  "label": "aegisub",
+  "labelFile": "fragments/labels/aegisub.sh",
+  "pullRequests": [
+    {
+      "number": 3662,
+      "title": "New label Aegisub",
+      "url": "https://github.com/Installomator/Installomator/pull/3662",
+      "author": {
+        "login": "Adde96",
+        "url": "https://github.com/Adde96"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-20T14:46:41Z",
+      "updatedAt": "2026-11-20T15:47:41Z",
+      "baseBranch": "main",
+      "headBranch": "new-label-aegisub",
+      "headRepository": "Adde96/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "657e65f95ebfbdd8b55f1b24f24b90c4acbceae2",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "aegisub"
+      ]
+    }
+  ]
+}

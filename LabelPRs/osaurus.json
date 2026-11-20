@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-18T22:55:52Z",
-      "updatedAt": "2026-11-20T02:15:22Z",
+      "updatedAt": "2026-11-20T14:58:52Z",
       "baseBranch": "main",
       "headBranch": "osaurus-new-label",
       "headRepository": "uurazzle/Installomator",
@@ -29,49 +29,11 @@
       "checksState": "SUCCESS",
       "headCommit": "0ff075172d424ae3a35077cfcaad8d4d41e22632",
       "commitCount": 2,
-      "commentCount": 1,
+      "commentCount": 2,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
         "additions": 15,
-        "deletions": 0
-      },
-      "labelsInPR": [
-        "osaurus"
-      ]
-    },
-    {
-      "number": 3647,
-      "title": "Fix Osaurus label's missing final LF",
-      "url": "https://github.com/Installomator/Installomator/pull/3647",
-      "author": {
-        "login": "uurazzle",
-        "url": "https://github.com/uurazzle"
-      },
-      "isDraft": true,
-      "createdAt": "2026-11-18T23:27:29Z",
-      "updatedAt": "2026-11-20T14:30:39Z",
-      "baseBranch": "main",
-      "headBranch": "copilot/fix-check-lf-job",
-      "headRepository": "Installomator/Installomator",
-      "prLabels": [
-        "application"
-      ],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [
-        "gilburns",
-        "acodega"
-      ],
-      "mergeable": "MERGEABLE",
-      "checksState": null,
-      "headCommit": "3a0dfa5ae12fa716d7decb9eabd5820a02cc867b",
-      "commitCount": 2,
-      "commentCount": 0,
-      "changedFileCount": 1,
-      "labelChange": {
-        "changeType": "ADDED",
-        "additions": 14,
         "deletions": 0
       },
       "labelsInPR": [

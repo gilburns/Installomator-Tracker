@@ -12,14 +12,18 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-20T13:26:42Z",
-      "updatedAt": "2026-11-20T14:08:27Z",
+      "updatedAt": "2026-11-20T15:45:52Z",
       "baseBranch": "main",
       "headBranch": "brave-version-rollover",
       "headRepository": "roblambell/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "ab3f111704bd4639dec045d74255ab6607c4c614",
