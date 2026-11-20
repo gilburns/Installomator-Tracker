@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-06T02:12:47Z",
-      "updatedAt": "2026-11-19T21:24:55Z",
+      "updatedAt": "2026-11-20T00:51:41Z",
       "baseBranch": "main",
       "headBranch": "label-mailviewer",
       "headRepository": "machinery-software/Installomator",
@@ -22,18 +22,18 @@
       "reviewDecision": "CHANGES_REQUESTED",
       "reviews": [
         {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-20T00:51:31Z"
+        },
+        {
           "reviewer": "uurazzle",
           "state": "CHANGES_REQUESTED",
           "submittedAt": "2026-11-17T22:26:10Z"
-        },
-        {
-          "reviewer": "gilburns",
-          "state": "CHANGES_REQUESTED",
-          "submittedAt": "2026-11-07T17:26:22Z"
         }
       ],
       "requestedReviewers": [
-        "gilburns"
+        "uurazzle"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
