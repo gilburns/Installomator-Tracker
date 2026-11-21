@@ -905,6 +905,11 @@
       "lastSeen": "2026-11-21T19:37:18Z",
       "reason": "missing appNewVersion"
     },
+    "todoist": {
+      "firstSeen": "2026-11-21T20:36:50Z",
+      "lastSeen": "2026-11-21T20:36:50Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "toonboomharmony2024": {
       "firstSeen": "2026-11-21T19:37:24Z",
       "lastSeen": "2026-11-21T19:37:24Z",
