@@ -33,12 +33,22 @@
     "appName": "",
     "appNewVersion": "3.5.3",
     "blockingProcesses": [],
+    "expectedTeamID": "SDWNXU94HZ",
+    "label": "sunsama",
+    "name": "Sunsama",
+    "timeStamp": "2026-11-19T02:54:48Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.5.4",
+    "blockingProcesses": [],
     "downloadURL": "https://desktop.sunsama.com/mac/dmg/arm64",
     "downloadURLi386": "https://desktop.sunsama.com/mac/dmg/x64",
     "expectedTeamID": "SDWNXU94HZ",
     "label": "sunsama",
     "name": "Sunsama",
-    "timeStamp": "2026-11-19T02:54:48Z",
+    "timeStamp": "2026-11-21T03:38:21Z",
     "type": "dmg"
   }
 ]
