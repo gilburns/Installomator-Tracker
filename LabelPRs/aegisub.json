@@ -12,17 +12,22 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-20T14:46:41Z",
-      "updatedAt": "2026-11-20T15:47:41Z",
+      "updatedAt": "2026-11-21T14:15:57Z",
       "baseBranch": "main",
       "headBranch": "new-label-aegisub",
       "headRepository": "Adde96/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-21T14:15:57Z"
+        }
+      ],
       "requestedReviewers": [
-        "gilburns",
         "uurazzle"
       ],
       "mergeable": "MERGEABLE",

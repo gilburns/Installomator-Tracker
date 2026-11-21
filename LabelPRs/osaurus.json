@@ -12,17 +12,22 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-18T22:55:52Z",
-      "updatedAt": "2026-11-20T15:51:02Z",
+      "updatedAt": "2026-11-21T13:49:57Z",
       "baseBranch": "main",
       "headBranch": "osaurus-new-label",
       "headRepository": "uurazzle/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-21T13:49:57Z"
+        }
+      ],
       "requestedReviewers": [
-        "gilburns",
         "acodega"
       ],
       "mergeable": "MERGEABLE",
