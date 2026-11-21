@@ -405,5 +405,16 @@
     "name": "Microsoft Edge Beta",
     "timeStamp": "2026-11-16T20:38:23Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "159.0.4402.13",
+    "blockingProcesses": [],
+    "downloadURL": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/793f8bb6-96c8-40b6-a7b2-f7ae830c903e/MicrosoftEdgeBeta-159.0.4402.13.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftedgebeta",
+    "name": "Microsoft Edge Beta",
+    "timeStamp": "2026-11-21T00:53:21Z",
+    "type": "pkg"
   }
 ]
