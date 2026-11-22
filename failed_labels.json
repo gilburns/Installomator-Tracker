@@ -405,6 +405,11 @@
       "lastSeen": "2026-11-22T15:26:02Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-11-22T16:28:47Z",
+      "lastSeen": "2026-11-22T16:28:47Z",
+      "reason": "missing appNewVersion"
+    },
     "ipvisionconnect": {
       "firstSeen": "2026-11-22T15:26:19Z",
       "lastSeen": "2026-11-22T15:26:19Z",
@@ -955,6 +960,16 @@
       "lastSeen": "2026-11-22T15:38:14Z",
       "reason": "label does not set appNewVersion"
     },
+    "uviportal": {
+      "firstSeen": "2026-11-22T16:41:50Z",
+      "lastSeen": "2026-11-22T16:41:50Z",
+      "reason": "missing appNewVersion"
+    },
+    "uviworkstation": {
+      "firstSeen": "2026-11-22T16:42:35Z",
+      "lastSeen": "2026-11-22T16:42:35Z",
+      "reason": "missing appNewVersion"
+    },
     "vanilla": {
       "firstSeen": "2026-11-22T15:38:47Z",
       "lastSeen": "2026-11-22T15:38:47Z",
@@ -984,6 +999,11 @@
       "firstSeen": "2026-11-22T15:39:32Z",
       "lastSeen": "2026-11-22T15:39:32Z",
       "reason": "label does not set appNewVersion"
+    },
+    "webexvdiplugin": {
+      "firstSeen": "2026-11-22T16:43:16Z",
+      "lastSeen": "2026-11-22T16:43:16Z",
+      "reason": "missing appNewVersion"
     },
     "weprint": {
       "firstSeen": "2026-11-22T15:39:39Z",
