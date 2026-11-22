@@ -1,0 +1,41 @@
+{
+  "label": "munki",
+  "labelFile": "fragments/labels/munki.sh",
+  "pullRequests": [
+    {
+      "number": 3664,
+      "title": "Update munki.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3664",
+      "author": {
+        "login": "gilburns",
+        "url": "https://github.com/gilburns"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-22T15:54:26Z",
+      "updatedAt": "2026-11-22T15:54:38Z",
+      "baseBranch": "main",
+      "headBranch": "FixMunki",
+      "headRepository": "gilburns/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "db23acb84a4f9507a5d567cc9cf49f37e62670e4",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "munki"
+      ]
+    }
+  ]
+}

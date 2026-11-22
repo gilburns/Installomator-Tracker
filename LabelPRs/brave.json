@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-20T13:26:42Z",
-      "updatedAt": "2026-11-22T06:19:21Z",
+      "updatedAt": "2026-11-22T15:58:33Z",
       "baseBranch": "main",
       "headBranch": "brave-version-rollover",
       "headRepository": "roblambell/Installomator",
@@ -20,9 +20,14 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-22T15:58:33Z"
+        }
+      ],
       "requestedReviewers": [
-        "gilburns",
         "uurazzle"
       ],
       "mergeable": "MERGEABLE",
