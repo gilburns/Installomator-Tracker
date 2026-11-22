@@ -405,6 +405,11 @@
       "lastSeen": "2026-11-22T00:52:00Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "inkscape": {
+      "firstSeen": "2026-11-22T02:34:36Z",
+      "lastSeen": "2026-11-22T02:34:36Z",
+      "reason": "missing appNewVersion"
+    },
     "ipvisionconnect": {
       "firstSeen": "2026-11-22T00:52:16Z",
       "lastSeen": "2026-11-22T00:52:16Z",
