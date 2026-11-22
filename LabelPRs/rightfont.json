@@ -12,17 +12,22 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-19T12:48:48Z",
-      "updatedAt": "2026-11-21T14:22:42Z",
+      "updatedAt": "2026-11-22T02:20:44Z",
       "baseBranch": "main",
       "headBranch": "new-label/rightfont",
       "headRepository": "mwegmann98/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-22T02:20:44Z"
+        }
+      ],
       "requestedReviewers": [
-        "gilburns",
         "uurazzle"
       ],
       "mergeable": "MERGEABLE",
