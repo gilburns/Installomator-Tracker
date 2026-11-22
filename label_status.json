@@ -1586,7 +1586,7 @@
     "appName": "Blackmagic Converters/Converters Setup.app",
     "appNewVersion": "12.4.2",
     "timeStamp": "2026-11-05T02:25:44Z",
-    "status": "success",
+    "status": "missing appNewVersion and downloadURL",
     "downloadURL": "https://sw.blackmagicdesign.com/Converters/v12.4.2/Blackmagic_Converters_Macintosh_12.4.2.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=hcDu2Or/d1xfVndpvojIQZAUfNRguKCYazF8wDXmtuLw6JAh76OdPajNBRqol6YnfeJI4PZEu7V/kCpR1GPWBT/467GXF+8XrUxqLDOR9iamon2lG8nJmkt0vdzg8waKls+Q+cy2twHtqauO7b+SkMKW+8o7iKyW36rJRzy7VQaHEtyXOZKA+PHC6Kg5KjIUpftOmYFTh3yg63JXxwPNgYAH71p5jJc0rGgOpQq8joddvxqe/+6M9DMpe1mZmbndEN5f/T7CWPSx2K8VmrVkThcbvsspvByuBKlALd62pi9Qfht9RPD55jyz7Sno+uU+YeMt4TH/iZmNwnr/sfeW7w==&Expires=1793856344",
     "expectedTeamID": "9ZGFBWLSYP",
     "type": "pkgInDmgInZip"
@@ -3436,7 +3436,7 @@
     "appNewVersion": "v3.24.3",
     "timeStamp": "2026-11-21T00:43:08Z",
     "status": "success",
-    "downloadURL": "/determinate-pkg/tag/v3.24.3/Universal",
+    "downloadURL": "",
     "expectedTeamID": "X3JQ4VPJZ6",
     "type": "pkg"
   },
@@ -5284,8 +5284,8 @@
     "label": "googlechromecanary",
     "name": "Google Chrome Canary",
     "appName": "",
-    "appNewVersion": "160.0.8177.0",
-    "timeStamp": "2026-11-22T09:26:20Z",
+    "appNewVersion": "160.0.8178.0",
+    "timeStamp": "2026-11-22T21:26:41Z",
     "status": "success",
     "downloadURL": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg",
     "expectedTeamID": "EQHXZ8M8AV",
@@ -6242,7 +6242,7 @@
     "appNewVersion": "2.9.1",
     "timeStamp": "2026-07-03T15:49:25Z",
     "status": "success",
-    "downloadURL": "http://IriunWebcam-2.9.1.pkg/",
+    "downloadURL": "",
     "expectedTeamID": "R84MX49LQY",
     "type": "pkg"
   },

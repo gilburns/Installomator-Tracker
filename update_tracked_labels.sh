@@ -114,6 +114,29 @@ runLabelWithTimeout() {
     return $?
 }
 
+# True if $1 looks like a usable absolute download URL: http(s) scheme and a
+# real host (a dotted hostname or an IPv4 address). Catches labels that
+# "succeed" with a broken URL, like a bare path scraped from a relative href
+# ("/determinate-pkg/tag/v3.24.3/Universal") or a filename that landed where
+# the host should be ("http://IriunWebcam-2.9.1.pkg/"). That second one is a
+# syntactically valid hostname, so a host whose last label is an installer
+# file extension is rejected too.
+isValidDownloadURL() {
+    local url="$1" authority host tld
+    [[ "$url" =~ '^[Hh][Tt][Tt][Pp][Ss]?://([^/?#]+)' ]] || return 1
+    authority="${match[1]}"
+    authority="${authority##*@}"   # drop any user:pass@
+    host="${authority%%:*}"        # drop any :port
+    [[ -n "$host" ]] || return 1
+    [[ "$host" =~ '^([0-9]{1,3}\.){3}[0-9]{1,3}$' ]] && return 0
+    [[ "$host" =~ '^([A-Za-z0-9]([A-Za-z0-9-]*[A-Za-z0-9])?\.)+[A-Za-z]{2,}$' ]] || return 1
+    tld="${${host##*.}:l}"
+    case "$tld" in
+        pkg|mpkg|dmg|zip|tbz|tbz2|bz2|gz|tgz|xz|tar) return 1 ;;
+    esac
+    return 0
+}
+
 # A label counts as "dual arch" if it calls $(arch) or $(/usr/bin/arch) at
 # all, regardless of whether it branches with an explicit i386/x86_64 case
 # or just an else - both forms mean the resolved downloadURL can differ
@@ -365,6 +388,15 @@ for labelFile in "${labelFiles[@]}"; do
         continue
     fi
 
+    if ! isValidDownloadURL "$downloadURL"; then
+        echo "[$label] FAILED: invalid downloadURL '$downloadURL'" >&2
+        newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "invalid downloadURL" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
+            .[$l] = {reason: $reason, firstSeen: (.[$l].firstSeen // $now), lastSeen: $now}
+        ')
+        failCount=$((failCount + 1))
+        continue
+    fi
+
     # Resolved successfully - make sure it's not lingering in the failed map
     # (e.g. a --label run retrying something the bulk run had blacklisted).
     newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" 'del(.[$l])')
@@ -382,7 +414,9 @@ for labelFile in "${labelFiles[@]}"; do
 
         if [[ $i386ExitStatus -eq 0 && -n "$i386JsonOutput" ]] && echo "$i386JsonOutput" | jq empty >/dev/null 2>&1; then
             downloadURLi386=$(echo "$i386JsonOutput" | jq -r '.downloadURL // empty')
-            if [[ -n "$downloadURLi386" && "$downloadURLi386" != "$downloadURL" ]]; then
+            if [[ -n "$downloadURLi386" ]] && ! isValidDownloadURL "$downloadURLi386"; then
+                echo "[$label] WARN: ignoring invalid downloadURLi386 '$downloadURLi386'" >&2
+            elif [[ -n "$downloadURLi386" && "$downloadURLi386" != "$downloadURL" ]]; then
                 jsonOutput=$(echo "$jsonOutput" | jq --arg u "$downloadURLi386" '. + {downloadURLi386: $u}')
                 log "[$label] captured downloadURLi386: $downloadURLi386"
             else
