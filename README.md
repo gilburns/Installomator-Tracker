@@ -12,8 +12,8 @@ A scheduled GitHub Actions workflow ([.github/workflows/track-labels.yml](.githu
 
 1. **Sync labels from upstream** ([sync_labels.sh](sync_labels.sh)) - pulls the current [`fragments/labels`](https://github.com/Installomator/Installomator/tree/main/fragments/labels) directory from Installomator's `main` branch via a shallow sparse-checkout clone, and mirrors it into [`Labels/`](Labels/): new labels are added, changed labels are updated, and labels removed upstream are deleted locally. A removed label's version history is moved from `TrackedLabelDetails/` to [`DisabledLabelDetails/`](DisabledLabelDetails/) rather than deleted, and moved back if the label later returns upstream.
 2. **Track open label PRs** ([track_label_prs.sh](track_label_prs.sh)) - looks at every [open pull request](https://github.com/Installomator/Installomator/pulls) on Installomator, finds the ones that change a file in `fragments/labels/` (including disabling a label by moving it to `fragments/disabled/`), and writes [`LabelPRs/<label>.json`](LabelPRs/) for each label they touch, plus a [`label_prs.csv`](label_prs.csv) summary (see [Open label PRs](#open-label-prs)).
-3. **Run the label tracker** ([update_tracked_labels.sh](update_tracked_labels.sh)) - resolves every label in `Labels/` (via [process_label.sh](process_label.sh), a trimmed-down harness that evaluates a single label fragment the same way Installomator itself does) and records any newly-discovered version into [`TrackedLabelDetails/<label>.json`](TrackedLabelDetails/), then rewrites the [`label_status.csv`](label_status.csv) snapshot.
-4. Commits whatever changed in `Labels/`, `DisabledLabelDetails/`, `LabelPRs/`, `label_prs.csv`, `TrackedLabelDetails/`, `failed_labels.json` and `label_status.csv` back to this repo.
+3. **Run the label tracker** ([update_tracked_labels.sh](update_tracked_labels.sh)) - resolves every label in `Labels/` (via [process_label.sh](process_label.sh), a trimmed-down harness that evaluates a single label fragment the same way Installomator itself does) and records any newly-discovered version into [`TrackedLabelDetails/<label>.json`](TrackedLabelDetails/), then rewrites the [`label_status.csv`](label_status.csv) and [`label_status.json`](label_status.json) snapshots.
+4. Commits whatever changed in `Labels/`, `DisabledLabelDetails/`, `LabelPRs/`, `label_prs.csv`, `TrackedLabelDetails/`, `failed_labels.json`, `label_status.csv` and `label_status.json` back to this repo.
 
 ### Open label PRs
 
@@ -26,6 +26,8 @@ A PR that touches several labels appears in each of those labels' files, so `Lab
 ### Status snapshot
 
 [`label_status.csv`](label_status.csv) has one row per label with its `label`, `name`, `appName`, and the `appNewVersion` and `timeStamp` of its most recent tracked entry. The `status` column says `success` for labels that resolve, or gives the [`failed_labels.json`](failed_labels.json) reason for those that don't. A failing label still shows its last tracked version if it ever resolved; if it never did, `name`/`appName` come from the label file when they're set there as plain strings. It's a current snapshot, rewritten in place on every run, with no history kept (git history aside).
+
+[`label_status.json`](label_status.json) is the same snapshot as a JSON array of objects, one per label. It has every `label_status.csv` field, plus the latest tracked entry's `downloadURL`, `downloadURLi386` (only for labels that set one), `expectedTeamID` and `type`. For labels that have never resolved, `expectedTeamID` and `type` come from the label file when they're set there as plain strings, and `downloadURL` is empty.
 
 ### Why a version only gets recorded once
 
@@ -60,6 +62,7 @@ Labels are resolved as if they were running on macOS 27.2: `installedOSversion` 
 | `label_prs.csv` | Every open label PR, one row per label/PR pair. Current snapshot. |
 | `failed_labels.json` | Labels that currently can't be resolved, and why, so they're skipped instead of retried every run. |
 | `label_status.csv` | Current-state snapshot of every label: latest version, timestamp, and `success` or failure reason. |
+| `label_status.json` | Same snapshot as JSON, plus `downloadURL`, `downloadURLi386`, `expectedTeamID` and `type`. |
 | `process_label.sh` | Resolves a single label file to one JSON result (version, download URL, metadata). |
 | `sync_labels.sh` | Mirrors `Labels/` from upstream Installomator and archives/restores history for removed/returning labels. |
 | `track_label_prs.sh` | Updates `LabelPRs/` from Installomator's open pull requests. |

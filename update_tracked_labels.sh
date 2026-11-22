@@ -33,6 +33,7 @@ TRACKED_DIR="$SCRIPT_DIR/TrackedLabelDetails"
 PROCESS_LABEL="$SCRIPT_DIR/process_label.sh"
 FAILED_LABELS_FILE="$SCRIPT_DIR/failed_labels.json"
 STATUS_CSV_FILE="$SCRIPT_DIR/label_status.csv"
+STATUS_JSON_FILE="$SCRIPT_DIR/label_status.json"
 TIMEOUT_SECS=60
 FORCE_RETRY_INTERVAL_SECS=$((1 * 4 * 60 * 60))
 
@@ -143,34 +144,38 @@ computeLabelsHash() {
         | awk '{print $1}'
 }
 
-# Writes label_status.csv: one row per label in Labels/ with its most recent
-# tracked name/appName/appNewVersion/timeStamp, and a status column holding
-# either "success" or the failed_labels.json reason. Built from what's on
-# disk rather than from this run's loop, since skipped (known-broken) labels
-# are never resolved in a run but still belong in the snapshot - and so a
-# --label run leaves it consistent with failed_labels.json too. Labels that
-# have never resolved fall back to the literal name=/appName= assignments in
-# the label file, when there is one.
-generateStatusCSV() {
-    local metaFile tmpCSV
+# Writes label_status.csv and label_status.json: one record per label in
+# Labels/ with its most recent tracked name/appName/appNewVersion/timeStamp,
+# and a status holding either "success" or the failed_labels.json reason.
+# The JSON additionally carries the latest entry's downloadURL,
+# downloadURLi386 (only when the label sets one), expectedTeamID and type.
+# Built from what's on disk rather than from this run's loop, since skipped
+# (known-broken) labels are never resolved in a run but still belong in the
+# snapshot - and so a --label run leaves it consistent with
+# failed_labels.json too. Labels that have never resolved fall back to the
+# literal name=/appName=/type=/expectedTeamID= assignments in the label file,
+# when there is one.
+generateStatusFiles() {
+    local metaFile tmpJSON tmpCSV
     metaFile=$(mktemp)
+    tmpJSON=$(mktemp)
     tmpCSV=$(mktemp)
 
-    # label<TAB>name<TAB>appName for every label file, skipping comment lines
-    # and anything computed (containing $).
+    # label<TAB>name<TAB>appName<TAB>type<TAB>expectedTeamID for every label
+    # file, skipping comment lines and anything computed (containing $).
     awk '
-        function emit() { if (label != "") print label "\t" name "\t" appName }
+        function emit() { if (label != "") print label "\t" v["name"] "\t" v["appName"] "\t" v["type"] "\t" v["expectedTeamID"] }
         FNR == 1 {
             emit()
             label = FILENAME; sub(/.*\//, "", label); sub(/\.sh$/, "", label)
-            name = ""; appName = ""
+            split("", v)
         }
         /^[[:space:]]*#/ { next }
-        name == "" && /^[[:space:]]*name="[^"$]*"/ {
-            name = $0; sub(/^[[:space:]]*name="/, "", name); sub(/".*/, "", name)
-        }
-        appName == "" && /^[[:space:]]*appName="[^"$]*"/ {
-            appName = $0; sub(/^[[:space:]]*appName="/, "", appName); sub(/".*/, "", appName)
+        match($0, /^[[:space:]]*(name|appName|type|expectedTeamID)="[^"$]*"/) {
+            line = substr($0, RSTART, RLENGTH)
+            sub(/^[[:space:]]*/, "", line)
+            key = line; sub(/=.*/, "", key)
+            if (!(key in v)) { val = line; sub(/^[^"]*"/, "", val); sub(/".*/, "", val); v[key] = val }
         }
         END { emit() }
     ' "$LABELS_DIR"/*.sh(N) > "$metaFile"
@@ -179,35 +184,55 @@ generateStatusCSV() {
     [[ -f "$FAILED_LABELS_FILE" ]] && failedJSON=$(jq -c '.failed // {}' "$FAILED_LABELS_FILE")
 
     local jqStatus=0
-    jq -n -r --rawfile meta "$metaFile" --argjson failed "$failedJSON" '
+    jq -n --rawfile meta "$metaFile" --argjson failed "$failedJSON" '
+        def pick($tv; $fallback): if ($tv // "") != "" then $tv else $fallback end;
         (reduce inputs as $t ({};
             . + {(input_filename | sub(".*/"; "") | sub("\\.json$"; "")): ($t | sort_by(.timeStamp) | last)}
         )) as $tracked
-        | ["label", "name", "appName", "appNewVersion", "timeStamp", "status"],
-          ($meta | split("\n")[] | select(. != "") | split("\t") as [$label, $name, $appName]
+        | [ $meta | split("\n")[] | select(. != "") | split("\t") as [$label, $name, $appName, $type, $teamID]
             | ($tracked[$label] // {}) as $t
-            | [
-                $label,
-                (if ($t.name // "") != "" then $t.name else $name end),
-                (if ($t.appName // "") != "" then $t.appName else $appName end),
-                ($t.appNewVersion // ""),
-                ($t.timeStamp // ""),
-                (if $failed[$label] then $failed[$label].reason
-                 elif $t.appNewVersion then "success"
-                 else "not yet tracked" end)
-              ])
-        | @csv
-    ' "$TRACKED_DIR"/*.json(N) > "$tmpCSV" || jqStatus=$?
+            | {
+                label: $label,
+                name: pick($t.name; $name),
+                appName: pick($t.appName; $appName),
+                appNewVersion: ($t.appNewVersion // ""),
+                timeStamp: ($t.timeStamp // ""),
+                status: (if $failed[$label] then $failed[$label].reason
+                         elif $t.appNewVersion then "success"
+                         else "not yet tracked" end),
+                downloadURL: ($t.downloadURL // "")
+              }
+            + (if ($t.downloadURLi386 // "") != "" then {downloadURLi386: $t.downloadURLi386} else {} end)
+            + {
+                expectedTeamID: pick($t.expectedTeamID; $teamID),
+                type: pick($t.type; $type)
+              }
+          ]
+    ' "$TRACKED_DIR"/*.json(N) > "$tmpJSON" || jqStatus=$?
     rm -f "$metaFile"
 
-    if [[ $jqStatus -ne 0 ]]; then
-        echo "FAILED to generate $STATUS_CSV_FILE" >&2
-        rm -f "$tmpCSV"
-    elif [[ -f "$STATUS_CSV_FILE" ]] && cmp -s "$tmpCSV" "$STATUS_CSV_FILE"; then
-        rm -f "$tmpCSV"
-    else
-        mv "$tmpCSV" "$STATUS_CSV_FILE"
+    if [[ $jqStatus -eq 0 ]]; then
+        jq -r '
+            (["label", "name", "appName", "appNewVersion", "timeStamp", "status"] as $cols
+             | $cols, (.[] | [.[$cols[]]]))
+            | @csv
+        ' "$tmpJSON" > "$tmpCSV" || jqStatus=$?
     fi
+
+    if [[ $jqStatus -ne 0 ]]; then
+        echo "FAILED to generate $STATUS_CSV_FILE / $STATUS_JSON_FILE" >&2
+        rm -f "$tmpJSON" "$tmpCSV"
+        return
+    fi
+
+    local tmpFile destFile
+    for tmpFile destFile in "$tmpCSV" "$STATUS_CSV_FILE" "$tmpJSON" "$STATUS_JSON_FILE"; do
+        if [[ -f "$destFile" ]] && cmp -s "$tmpFile" "$destFile"; then
+            rm -f "$tmpFile"
+        else
+            mv "$tmpFile" "$destFile"
+        fi
+    done
 }
 
 # --label targets one label for ad hoc testing/debugging - always run it
@@ -488,7 +513,7 @@ if [[ $dry_run -eq 0 ]]; then
         mv "$tmpStateFile" "$FAILED_LABELS_FILE"
     fi
 
-    generateStatusCSV
+    generateStatusFiles
 fi
 
 if [[ $failCount -eq $totalCount && $totalCount -gt 0 ]]; then
