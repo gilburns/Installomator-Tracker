@@ -97,5 +97,16 @@
     "name": "Amazon Quick",
     "timeStamp": "2026-11-19T08:22:12Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.2.4757",
+    "blockingProcesses": [],
+    "downloadURL": "https://desktop.downloads.quick.aws.com/darwin/arm64/quick-external-cloud/Amazon%20Quick-1.2.4757-arm64.pkg",
+    "expectedTeamID": "94KV3E626L",
+    "label": "amazonquick",
+    "name": "Amazon Quick",
+    "timeStamp": "2026-11-22T23:15:59Z",
+    "type": "pkg"
   }
 ]
