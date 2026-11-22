@@ -140,6 +140,11 @@
       "lastSeen": "2026-11-22T05:18:00Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagiccameras": {
+      "firstSeen": "2026-11-22T06:25:55Z",
+      "lastSeen": "2026-11-22T06:25:55Z",
+      "reason": "missing appNewVersion"
+    },
     "boxsync": {
       "firstSeen": "2026-11-22T05:18:16Z",
       "lastSeen": "2026-11-22T05:18:16Z",
@@ -404,6 +409,11 @@
       "firstSeen": "2026-11-22T05:27:55Z",
       "lastSeen": "2026-11-22T05:27:55Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "inkscape": {
+      "firstSeen": "2026-11-22T06:35:33Z",
+      "lastSeen": "2026-11-22T06:35:33Z",
+      "reason": "missing appNewVersion"
     },
     "ipvisionconnect": {
       "firstSeen": "2026-11-22T05:28:19Z",
