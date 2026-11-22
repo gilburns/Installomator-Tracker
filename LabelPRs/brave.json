@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-20T13:26:42Z",
-      "updatedAt": "2026-11-21T00:49:12Z",
+      "updatedAt": "2026-11-22T06:19:21Z",
       "baseBranch": "main",
       "headBranch": "brave-version-rollover",
       "headRepository": "roblambell/Installomator",
@@ -27,14 +27,14 @@
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "ba828239679bbaca4149ef4b93b1f559b9a304d3",
-      "commitCount": 2,
-      "commentCount": 2,
+      "headCommit": "a5a264c1e0298838bb0b5d3df99155808574e85b",
+      "commitCount": 4,
+      "commentCount": 3,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
-        "additions": 2,
-        "deletions": 2
+        "additions": 5,
+        "deletions": 5
       },
       "labelsInPR": [
         "brave"
