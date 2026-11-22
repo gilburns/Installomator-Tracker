@@ -165,6 +165,31 @@
       "lastSeen": "2026-11-22T20:19:07Z",
       "reason": "missing appNewVersion"
     },
+    "camtasia2019": {
+      "firstSeen": "2026-11-22T22:18:49Z",
+      "lastSeen": "2026-11-22T22:18:49Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "camtasia2020": {
+      "firstSeen": "2026-11-22T22:18:59Z",
+      "lastSeen": "2026-11-22T22:18:59Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "camtasia2021": {
+      "firstSeen": "2026-11-22T22:19:29Z",
+      "lastSeen": "2026-11-22T22:19:29Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "camtasia2023": {
+      "firstSeen": "2026-11-22T22:19:40Z",
+      "lastSeen": "2026-11-22T22:19:40Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "camtasia2026": {
+      "firstSeen": "2026-11-22T22:20:11Z",
+      "lastSeen": "2026-11-22T22:20:11Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-22T20:19:26Z",
       "lastSeen": "2026-11-22T20:19:26Z",
@@ -219,6 +244,11 @@
       "firstSeen": "2026-11-22T20:22:52Z",
       "lastSeen": "2026-11-22T20:22:52Z",
       "reason": "label does not set appNewVersion"
+    },
+    "determinate": {
+      "firstSeen": "2026-11-22T22:23:48Z",
+      "lastSeen": "2026-11-22T22:23:48Z",
+      "reason": "invalid downloadURL"
     },
     "drift": {
       "firstSeen": "2026-11-22T20:24:19Z",
@@ -419,6 +449,11 @@
       "firstSeen": "2026-11-22T20:29:52Z",
       "lastSeen": "2026-11-22T20:29:52Z",
       "reason": "missing appNewVersion"
+    },
+    "iriunwebcam": {
+      "firstSeen": "2026-11-22T22:30:08Z",
+      "lastSeen": "2026-11-22T22:30:08Z",
+      "reason": "invalid downloadURL"
     },
     "jamfcli": {
       "firstSeen": "2026-11-22T20:30:05Z",
@@ -919,6 +954,11 @@
       "firstSeen": "2026-11-22T20:41:48Z",
       "lastSeen": "2026-11-22T20:41:48Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "toonboomstoryboardpro2024": {
+      "firstSeen": "2026-11-22T22:42:19Z",
+      "lastSeen": "2026-11-22T22:42:19Z",
+      "reason": "invalid downloadURL"
     },
     "torbrowser": {
       "firstSeen": "2026-11-22T20:41:59Z",
