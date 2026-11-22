@@ -795,6 +795,11 @@
       "lastSeen": "2026-11-22T10:34:30Z",
       "reason": "label does not set appNewVersion"
     },
+    "shotcut": {
+      "firstSeen": "2026-11-22T13:33:43Z",
+      "lastSeen": "2026-11-22T13:33:43Z",
+      "reason": "missing appNewVersion"
+    },
     "sidekick": {
       "firstSeen": "2026-11-22T10:34:45Z",
       "lastSeen": "2026-11-22T10:34:45Z",
