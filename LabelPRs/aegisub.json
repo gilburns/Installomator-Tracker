@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-20T14:46:41Z",
-      "updatedAt": "2026-11-21T14:15:57Z",
+      "updatedAt": "2026-11-23T06:54:51Z",
       "baseBranch": "main",
       "headBranch": "new-label-aegisub",
       "headRepository": "Adde96/Installomator",
@@ -32,13 +32,13 @@
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "657e65f95ebfbdd8b55f1b24f24b90c4acbceae2",
-      "commitCount": 1,
+      "headCommit": "8eac78bb26060a7963aad93127cb7d02749425b7",
+      "commitCount": 2,
       "commentCount": 0,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
-        "additions": 7,
+        "additions": 12,
         "deletions": 0
       },
       "labelsInPR": [
