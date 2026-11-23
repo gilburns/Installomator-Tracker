@@ -382,5 +382,17 @@
     "name": "Brave Browser",
     "timeStamp": "2026-11-18T17:18:41Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.100.58",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable-arm64/200.58/Brave-Browser-arm64.dmg",
+    "downloadURLi386": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/200.58/Brave-Browser-x64.dmg",
+    "expectedTeamID": "KL8N8XSYF4",
+    "label": "brave",
+    "name": "Brave Browser",
+    "timeStamp": "2026-11-23T23:19:13Z",
+    "type": "dmg"
   }
 ]
