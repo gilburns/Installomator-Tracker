@@ -137,11 +137,23 @@
     "blockingProcesses": [
       "recordist"
     ],
-    "downloadURL": "https://recordist.app/get/mac/latest?from=mdm",
     "expectedTeamID": "JNC57WQK69",
     "label": "recordist",
     "name": "Recordist",
     "timeStamp": "2026-11-19T15:41:57Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.1.1",
+    "blockingProcesses": [
+      "recordist"
+    ],
+    "downloadURL": "https://recordist.app/get/mac/latest?from=mdm",
+    "expectedTeamID": "JNC57WQK69",
+    "label": "recordist",
+    "name": "Recordist",
+    "timeStamp": "2026-11-23T01:40:02Z",
     "type": "dmg"
   }
 ]
