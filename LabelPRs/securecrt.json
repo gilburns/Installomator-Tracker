@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-23T05:31:59Z",
-      "updatedAt": "2026-11-23T14:57:17Z",
+      "updatedAt": "2026-11-23T23:05:18Z",
       "baseBranch": "main",
       "headBranch": "label-securecrt",
       "headRepository": "BrendonMB/Installomator",
@@ -21,7 +21,10 @@
       ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "4adbf0b1ec9afdec5c6e747d3964c85708c5c8e3",
