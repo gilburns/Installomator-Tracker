@@ -35,6 +35,11 @@
       "lastSeen": "2026-11-23T16:17:56Z",
       "reason": "missing appNewVersion"
     },
+    "amadeuspro2": {
+      "firstSeen": "2026-11-23T17:16:58Z",
+      "lastSeen": "2026-11-23T17:16:58Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "amazonredshiftodbc": {
       "firstSeen": "2026-11-23T16:18:08Z",
       "lastSeen": "2026-11-23T16:18:08Z",
@@ -134,6 +139,11 @@
       "firstSeen": "2026-11-23T16:19:17Z",
       "lastSeen": "2026-11-23T16:19:17Z",
       "reason": "label does not set appNewVersion"
+    },
+    "bitwarden": {
+      "firstSeen": "2026-11-23T17:18:24Z",
+      "lastSeen": "2026-11-23T17:18:24Z",
+      "reason": "missing appNewVersion"
     },
     "blackhole64": {
       "firstSeen": "2026-11-23T16:19:46Z",

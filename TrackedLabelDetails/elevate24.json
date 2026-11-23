@@ -20,5 +20,16 @@
     "name": "Elevate24",
     "timeStamp": "2026-11-02T14:19:54Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.6.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/Jigsaw24/Elevate24/releases/download/v2.6.2/Elevate24-2.6.2.pkg",
+    "expectedTeamID": "563MYW3H73",
+    "label": "elevate24",
+    "name": "Elevate24",
+    "timeStamp": "2026-11-23T17:24:58Z",
+    "type": "pkg"
   }
 ]
