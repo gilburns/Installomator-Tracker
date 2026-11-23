@@ -1,0 +1,39 @@
+{
+  "label": "dymoconnectdesktop",
+  "labelFile": "fragments/labels/dymoconnectdesktop.sh",
+  "pullRequests": [
+    {
+      "number": 3666,
+      "title": "Fix dymoconnectdesktop appNewVersion",
+      "url": "https://github.com/Installomator/Installomator/pull/3666",
+      "author": {
+        "login": "pmex",
+        "url": "https://github.com/pmex"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-23T10:07:36Z",
+      "updatedAt": "2026-11-23T10:07:36Z",
+      "baseBranch": "main",
+      "headBranch": "fix_dymoconnectdesktop_appNewVersion",
+      "headRepository": "BonnierNews/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "aa9e0bab5f42b24090cdd4f3587595aee59587a2",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 4,
+        "deletions": 4
+      },
+      "labelsInPR": [
+        "dymoconnectdesktop"
+      ]
+    }
+  ]
+}
