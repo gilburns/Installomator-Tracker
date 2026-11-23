@@ -22,5 +22,17 @@
     "name": "DBeaverTeam",
     "timeStamp": "2026-11-05T16:27:47Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.2.0.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.dbeaver.net/team/26.2.0.2/dbeaver-te-26.2.0.2-macos-aarch64.dmg",
+    "downloadURLi386": "https://downloads.dbeaver.net/team/26.2.0.2/dbeaver-te-26.2.0.2-macos-x86_64.dmg",
+    "expectedTeamID": "42B6MDKMW8",
+    "label": "dbeaverteam",
+    "name": "DBeaverTeam",
+    "timeStamp": "2026-11-23T11:22:32Z",
+    "type": "dmg"
   }
 ]
