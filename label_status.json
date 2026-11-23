@@ -3534,10 +3534,10 @@
     "label": "discordcanary",
     "name": "Discord Canary",
     "appName": "",
-    "appNewVersion": "0.0.1587",
-    "timeStamp": "2026-11-20T00:45:46Z",
+    "appNewVersion": "0.0.1589",
+    "timeStamp": "2026-11-23T18:26:16Z",
     "status": "success",
-    "downloadURL": "https://canary.dl2.discordapp.net/distro/app/canary/osx/universal/0.0.1587/DiscordCanary.dmg",
+    "downloadURL": "https://canary.dl2.discordapp.net/distro/app/canary/osx/universal/0.0.1589/DiscordCanary.dmg",
     "expectedTeamID": "53Q6R32WPB",
     "type": "dmg"
   },
@@ -4591,7 +4591,7 @@
     "appName": "",
     "appNewVersion": "12011",
     "timeStamp": "2026-07-03T15:46:01Z",
-    "status": "success",
+    "status": "missing appNewVersion",
     "downloadURL": "https://www.finaldraft.com/downloads/finaldraft12011Mac.zip",
     "expectedTeamID": "7XUZ8R5736",
     "type": "appInDmgInZip"

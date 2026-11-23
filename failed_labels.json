@@ -315,6 +315,11 @@
       "lastSeen": "2026-11-23T16:27:54Z",
       "reason": "label does not set appNewVersion"
     },
+    "finaldraft12": {
+      "firstSeen": "2026-11-23T18:29:01Z",
+      "lastSeen": "2026-11-23T18:29:01Z",
+      "reason": "missing appNewVersion"
+    },
     "fontexplorer": {
       "firstSeen": "2026-11-23T16:28:21Z",
       "lastSeen": "2026-11-23T16:28:21Z",
