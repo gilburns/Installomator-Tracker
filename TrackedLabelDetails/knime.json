@@ -10,5 +10,17 @@
     "name": "KNIME 5.12.0",
     "timeStamp": "2026-08-25T18:25:03Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.12.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.knime.com/analytics-platform/macosx/knime_5.12.1.app.macosx.cocoa.aarch64.dmg",
+    "downloadURLi386": "https://download.knime.com/analytics-platform/macosx/knime_5.12.1.app.macosx.cocoa.x86_64.dmg",
+    "expectedTeamID": "V7WZJX2HS9",
+    "label": "knime",
+    "name": "KNIME 5.12.1",
+    "timeStamp": "2026-11-23T12:39:35Z",
+    "type": "dmg"
   }
 ]

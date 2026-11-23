@@ -165,6 +165,11 @@
       "lastSeen": "2026-11-23T11:18:56Z",
       "reason": "missing appNewVersion"
     },
+    "captureone": {
+      "firstSeen": "2026-11-23T12:27:17Z",
+      "lastSeen": "2026-11-23T12:27:17Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-23T11:19:20Z",
       "lastSeen": "2026-11-23T11:19:20Z",
@@ -414,6 +419,11 @@
       "firstSeen": "2026-11-23T11:29:42Z",
       "lastSeen": "2026-11-23T11:29:42Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "inkscape": {
+      "firstSeen": "2026-11-23T12:37:46Z",
+      "lastSeen": "2026-11-23T12:37:46Z",
+      "reason": "missing appNewVersion"
     },
     "ipvisionconnect": {
       "firstSeen": "2026-11-23T11:30:06Z",
@@ -1004,6 +1014,11 @@
       "firstSeen": "2026-11-23T11:44:24Z",
       "lastSeen": "2026-11-23T11:44:24Z",
       "reason": "label does not set appNewVersion"
+    },
+    "wechat": {
+      "firstSeen": "2026-11-23T12:52:54Z",
+      "lastSeen": "2026-11-23T12:52:54Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "weprint": {
       "firstSeen": "2026-11-23T11:44:32Z",
