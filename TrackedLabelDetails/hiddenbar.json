@@ -75,5 +75,16 @@
     "name": "Hidden Bar",
     "timeStamp": "2026-11-22T17:26:44Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.13.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/consolelabs/hidden/releases/download/v1.13.4/Hidden-Bar-macos.zip",
+    "expectedTeamID": "W777S7V8TN",
+    "label": "hiddenbar",
+    "name": "Hidden Bar",
+    "timeStamp": "2026-11-23T04:32:27Z",
+    "type": "zip"
   }
 ]
