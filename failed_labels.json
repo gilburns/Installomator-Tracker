@@ -210,6 +210,11 @@
       "lastSeen": "2026-11-23T01:24:47Z",
       "reason": "missing appNewVersion"
     },
+    "defaultfolderx": {
+      "firstSeen": "2026-11-23T05:25:10Z",
+      "lastSeen": "2026-11-23T05:25:10Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "depnotify": {
       "firstSeen": "2026-11-23T01:25:12Z",
       "lastSeen": "2026-11-23T01:25:12Z",
@@ -239,6 +244,11 @@
       "firstSeen": "2026-11-23T01:26:57Z",
       "lastSeen": "2026-11-23T01:26:57Z",
       "reason": "label does not set appNewVersion"
+    },
+    "easyfind": {
+      "firstSeen": "2026-11-23T05:27:19Z",
+      "lastSeen": "2026-11-23T05:27:19Z",
+      "reason": "missing appNewVersion and downloadURL"
     },
     "editshare-connect": {
       "firstSeen": "2026-11-23T01:27:10Z",

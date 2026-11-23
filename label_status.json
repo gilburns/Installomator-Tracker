@@ -3346,7 +3346,7 @@
     "appName": "",
     "appNewVersion": "6.3.3",
     "timeStamp": "2026-10-17T06:16:44Z",
-    "status": "success",
+    "status": "missing appNewVersion and downloadURL",
     "downloadURL": "https://www.stclairsoft.com/download/DefaultFolderX-6.3.3.dmg",
     "expectedTeamID": "7HK42V8R9D",
     "type": "dmg"
@@ -3905,7 +3905,7 @@
     "appName": "",
     "appNewVersion": "5.0.2",
     "timeStamp": "2026-07-03T15:45:04Z",
-    "status": "success",
+    "status": "missing appNewVersion and downloadURL",
     "downloadURL": "https://download.devontechnologies.com/download/freeware/easyfind/5.0.2/EasyFind.app.zip",
     "expectedTeamID": "679S2QUWR8",
     "type": "zip"
