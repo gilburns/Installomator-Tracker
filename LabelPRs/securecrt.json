@@ -12,11 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-23T05:31:59Z",
-      "updatedAt": "2026-11-23T05:31:59Z",
+      "updatedAt": "2026-11-23T14:57:17Z",
       "baseBranch": "main",
       "headBranch": "label-securecrt",
       "headRepository": "BrendonMB/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
       "requestedReviewers": [],

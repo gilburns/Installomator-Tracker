@@ -12,11 +12,13 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-23T12:35:09Z",
-      "updatedAt": "2026-11-23T12:35:09Z",
+      "updatedAt": "2026-11-23T14:57:23Z",
       "baseBranch": "main",
       "headBranch": "jabradirect",
       "headRepository": "macmangr/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
       "requestedReviewers": [],
