@@ -320,6 +320,11 @@
       "lastSeen": "2026-11-23T06:45:09Z",
       "reason": "missing appNewVersion"
     },
+    "googlechrome": {
+      "firstSeen": "2026-11-23T10:30:38Z",
+      "lastSeen": "2026-11-23T10:30:38Z",
+      "reason": "missing appNewVersion"
+    },
     "googledrivebackupandsync": {
       "firstSeen": "2026-11-23T06:45:58Z",
       "lastSeen": "2026-11-23T06:45:58Z",

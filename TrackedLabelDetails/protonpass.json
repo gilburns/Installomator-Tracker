@@ -31,5 +31,16 @@
     "name": "Proton Pass",
     "timeStamp": "2026-11-18T13:43:32Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.44.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://proton.me/download/pass/macos/ProtonPass_1.44.1.dmg",
+    "expectedTeamID": "2SB5Z68H26",
+    "label": "protonpass",
+    "name": "Proton Pass",
+    "timeStamp": "2026-11-23T10:38:35Z",
+    "type": "dmg"
   }
 ]
