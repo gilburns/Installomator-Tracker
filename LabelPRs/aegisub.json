@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-20T14:46:41Z",
-      "updatedAt": "2026-11-23T06:54:51Z",
+      "updatedAt": "2026-11-23T22:43:46Z",
       "baseBranch": "main",
       "headBranch": "new-label-aegisub",
       "headRepository": "Adde96/Installomator",
@@ -28,7 +28,8 @@
         }
       ],
       "requestedReviewers": [
-        "uurazzle"
+        "uurazzle",
+        "gilburns"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
