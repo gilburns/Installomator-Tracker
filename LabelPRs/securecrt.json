@@ -1,0 +1,39 @@
+{
+  "label": "securecrt",
+  "labelFile": "fragments/labels/securecrt.sh",
+  "pullRequests": [
+    {
+      "number": 3665,
+      "title": "Label securecrt",
+      "url": "https://github.com/Installomator/Installomator/pull/3665",
+      "author": {
+        "login": "BrendonMB",
+        "url": "https://github.com/BrendonMB"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-23T05:31:59Z",
+      "updatedAt": "2026-11-23T05:31:59Z",
+      "baseBranch": "main",
+      "headBranch": "label-securecrt",
+      "headRepository": "BrendonMB/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "4adbf0b1ec9afdec5c6e747d3964c85708c5c8e3",
+      "commitCount": 3,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 18,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "securecrt"
+      ]
+    }
+  ]
+}
