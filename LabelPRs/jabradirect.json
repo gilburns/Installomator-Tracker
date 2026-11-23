@@ -1,0 +1,39 @@
+{
+  "label": "jabradirect",
+  "labelFile": "fragments/labels/jabradirect.sh",
+  "pullRequests": [
+    {
+      "number": 3667,
+      "title": "Update jabradirect.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3667",
+      "author": {
+        "login": "macmangr",
+        "url": "https://github.com/macmangr"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-23T12:35:09Z",
+      "updatedAt": "2026-11-23T12:35:09Z",
+      "baseBranch": "main",
+      "headBranch": "jabradirect",
+      "headRepository": "macmangr/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "CONFLICTING",
+      "checksState": null,
+      "headCommit": "9210cef423fd498dd7ce9e29e3247bcf4e3091b9",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 3,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "jabradirect"
+      ]
+    }
+  ]
+}
