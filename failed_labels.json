@@ -995,6 +995,11 @@
       "lastSeen": "2026-11-23T01:46:17Z",
       "reason": "label does not set appNewVersion"
     },
+    "webex": {
+      "firstSeen": "2026-11-23T02:49:29Z",
+      "lastSeen": "2026-11-23T02:49:29Z",
+      "reason": "missing appNewVersion"
+    },
     "webexmeetings": {
       "firstSeen": "2026-11-23T01:46:25Z",
       "lastSeen": "2026-11-23T01:46:25Z",
