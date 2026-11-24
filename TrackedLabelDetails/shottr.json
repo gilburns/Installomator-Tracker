@@ -42,5 +42,16 @@
     "name": "Shottr",
     "timeStamp": "2026-10-14T06:39:30Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.10.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://shottr.cc/dl/Shottr-1.10.0b.pkg",
+    "expectedTeamID": "2Y683PRQWN",
+    "label": "shottr",
+    "name": "Shottr",
+    "timeStamp": "2026-11-24T05:38:59Z",
+    "type": "pkg"
   }
 ]

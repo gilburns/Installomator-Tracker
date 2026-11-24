@@ -11451,10 +11451,10 @@
     "label": "shottr",
     "name": "Shottr",
     "appName": "",
-    "appNewVersion": "1.9.3",
-    "timeStamp": "2026-10-14T06:39:30Z",
+    "appNewVersion": "1.10.0",
+    "timeStamp": "2026-11-24T05:38:59Z",
     "status": "success",
-    "downloadURL": "https://shottr.cc/dl/Shottr-1.9.3b.pkg",
+    "downloadURL": "https://shottr.cc/dl/Shottr-1.10.0b.pkg",
     "expectedTeamID": "2Y683PRQWN",
     "type": "pkg"
   },
