@@ -115,5 +115,18 @@
     "name": "Firefox",
     "timeStamp": "2026-11-10T14:27:22Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "153.8.0",
+    "blockingProcesses": [
+      "firefox"
+    ],
+    "downloadURL": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.8.0esr/mac/en-US/Firefox%20153.8.0esr.pkg",
+    "expectedTeamID": "43AQ936H96",
+    "label": "firefoxesr",
+    "name": "Firefox",
+    "timeStamp": "2026-11-24T14:29:34Z",
+    "type": "pkg"
   }
 ]

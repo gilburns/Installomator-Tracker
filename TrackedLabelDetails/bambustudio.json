@@ -42,5 +42,16 @@
     "name": "BambuStudio",
     "timeStamp": "2026-11-03T13:19:48Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "02.09.02.62",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/bambulab/BambuStudio/releases/download/v02.09.02.62/Bambu_Studio_mac-v02.09.02.62-20261124164959.dmg",
+    "expectedTeamID": "T3UBR9Y3B2",
+    "label": "bambustudio",
+    "name": "BambuStudio",
+    "timeStamp": "2026-11-24T14:19:46Z",
+    "type": "dmg"
   }
 ]
