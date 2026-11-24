@@ -1,0 +1,39 @@
+{
+  "label": "maxonapp",
+  "labelFile": "fragments/labels/maxonapp.sh",
+  "pullRequests": [
+    {
+      "number": 3673,
+      "title": "Update maxonapp to use installer zip URL and versioned installer bundle",
+      "url": "https://github.com/Installomator/Installomator/pull/3673",
+      "author": {
+        "login": "markkenny",
+        "url": "https://github.com/markkenny"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-24T15:51:29Z",
+      "updatedAt": "2026-11-24T15:51:30Z",
+      "baseBranch": "main",
+      "headBranch": "fix-maxonapp",
+      "headRepository": "markkenny/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "75fe1c23ae139953768dc95c02fc07aa7018c6cb",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 5,
+        "deletions": 5
+      },
+      "labelsInPR": [
+        "maxonapp"
+      ]
+    }
+  ]
+}
