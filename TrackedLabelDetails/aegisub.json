@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "3.5.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/TypesettingTools/Aegisub/releases/download/v3.5.1/Aegisub-3.5.1-arm64.dmg",
+    "downloadURLi386": "https://github.com/TypesettingTools/Aegisub/releases/download/v3.5.1/Aegisub-3.5.1-x64.dmg",
+    "expectedTeamID": "7NZK26BU3C",
+    "label": "aegisub",
+    "name": "Aegisub",
+    "timeStamp": "2026-11-24T03:20:27Z",
+    "type": "dmg"
+  }
+]
