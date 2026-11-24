@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2026.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://rightfontapp.com/update/desktop/rightfont-2026.1.zip",
+    "expectedTeamID": "VABUY2Z595",
+    "label": "rightfont",
+    "name": "RightFont",
+    "timeStamp": "2026-11-24T20:37:12Z",
+    "type": "zip"
+  }
+]

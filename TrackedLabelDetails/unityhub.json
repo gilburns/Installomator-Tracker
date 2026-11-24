@@ -63,12 +63,22 @@
     "appName": "",
     "appNewVersion": "4.0.1",
     "blockingProcesses": [],
+    "expectedTeamID": "9QW8UQUTAA",
+    "label": "unityhub",
+    "name": "Unity Hub",
+    "timeStamp": "2026-11-16T20:49:41Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.0.2",
+    "blockingProcesses": [],
     "downloadURL": "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup-arm64.dmg",
     "downloadURLi386": "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup-x64.dmg",
     "expectedTeamID": "9QW8UQUTAA",
     "label": "unityhub",
     "name": "Unity Hub",
-    "timeStamp": "2026-11-16T20:49:41Z",
+    "timeStamp": "2026-11-24T20:43:10Z",
     "type": "dmg"
   }
 ]
