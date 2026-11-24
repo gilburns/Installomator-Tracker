@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-23T10:07:36Z",
-      "updatedAt": "2026-11-24T07:09:01Z",
+      "updatedAt": "2026-11-24T09:18:19Z",
       "baseBranch": "main",
       "headBranch": "fix_dymoconnectdesktop_appNewVersion",
       "headRepository": "BonnierNews/Installomator",
@@ -28,7 +28,8 @@
         }
       ],
       "requestedReviewers": [
-        "gilburns"
+        "gilburns",
+        "uurazzle"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
