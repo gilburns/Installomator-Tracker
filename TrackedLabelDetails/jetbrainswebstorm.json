@@ -94,5 +94,17 @@
     "name": "Webstorm",
     "timeStamp": "2026-11-05T11:29:07Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.3.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.jetbrains.com/webstorm/WebStorm-2026.3.0.1-aarch64.dmg",
+    "downloadURLi386": "https://download.jetbrains.com/webstorm/WebStorm-2026.3.0.1.dmg",
+    "expectedTeamID": "2ZEFAR8TH3",
+    "label": "jetbrainswebstorm",
+    "name": "Webstorm",
+    "timeStamp": "2026-11-24T15:32:22Z",
+    "type": "dmg"
   }
 ]

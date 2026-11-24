@@ -20,5 +20,16 @@
     "name": "SnapGene",
     "timeStamp": "2026-11-03T15:38:33Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdn.snapgene.com/downloads/SnapGene/9.x/9.0/9.0.1/snapgene_9.0.1_mac.dmg",
+    "expectedTeamID": "WVCV9Q8Y78",
+    "label": "snapgene",
+    "name": "SnapGene",
+    "timeStamp": "2026-11-24T15:39:39Z",
+    "type": "dmg"
   }
 ]

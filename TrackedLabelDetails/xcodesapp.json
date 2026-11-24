@@ -42,5 +42,16 @@
     "name": "Xcodes",
     "timeStamp": "2026-11-10T19:42:49Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.2.143",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/XcodesOrg/XcodesApp/releases/download/v4.2.1b43/Xcodes.zip",
+    "expectedTeamID": "ZU6GR6B2FY",
+    "label": "xcodesapp",
+    "name": "Xcodes",
+    "timeStamp": "2026-11-24T15:44:55Z",
+    "type": "zip"
   }
 ]
