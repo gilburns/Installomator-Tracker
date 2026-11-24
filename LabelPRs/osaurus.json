@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-18T22:55:52Z",
-      "updatedAt": "2026-11-21T13:49:57Z",
+      "updatedAt": "2026-11-24T20:28:57Z",
       "baseBranch": "main",
       "headBranch": "osaurus-new-label",
       "headRepository": "uurazzle/Installomator",
@@ -28,13 +28,14 @@
         }
       ],
       "requestedReviewers": [
-        "acodega"
+        "acodega",
+        "gilburns"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "64ee90c4733577e964b9972e41f3ec5e61ed3d12",
-      "commitCount": 3,
-      "commentCount": 2,
+      "headCommit": "39140950da2daa06edd0fb0b04a56a11004fe082",
+      "commitCount": 4,
+      "commentCount": 3,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
