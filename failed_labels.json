@@ -475,6 +475,11 @@
       "lastSeen": "2026-11-24T00:58:33Z",
       "reason": "resolve failed (exit 89)"
     },
+    "ltspice": {
+      "firstSeen": "2026-11-24T01:38:01Z",
+      "lastSeen": "2026-11-24T01:38:01Z",
+      "reason": "missing appNewVersion"
+    },
     "lucifer": {
       "firstSeen": "2026-11-24T00:58:40Z",
       "lastSeen": "2026-11-24T00:58:40Z",
