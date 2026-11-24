@@ -1,0 +1,39 @@
+{
+  "label": "nvivo15",
+  "labelFile": "fragments/labels/nvivo15.sh",
+  "pullRequests": [
+    {
+      "number": 3674,
+      "title": "Fix label: nvivo15 - app is now NVivo.app",
+      "url": "https://github.com/Installomator/Installomator/pull/3674",
+      "author": {
+        "login": "perkolatte",
+        "url": "https://github.com/perkolatte"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-24T19:06:51Z",
+      "updatedAt": "2026-11-24T19:06:51Z",
+      "baseBranch": "main",
+      "headBranch": "nvivo-app-name",
+      "headRepository": "perkolatte/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "d245e523e3678362cbeeb796fe338f639785f598",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "nvivo15"
+      ]
+    }
+  ]
+}
