@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-23T10:07:36Z",
-      "updatedAt": "2026-11-24T09:18:19Z",
+      "updatedAt": "2026-11-24T13:16:59Z",
       "baseBranch": "main",
       "headBranch": "fix_dymoconnectdesktop_appNewVersion",
       "headRepository": "BonnierNews/Installomator",
@@ -35,7 +35,7 @@
       "checksState": "SUCCESS",
       "headCommit": "aa9e0bab5f42b24090cdd4f3587595aee59587a2",
       "commitCount": 1,
-      "commentCount": 1,
+      "commentCount": 2,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
