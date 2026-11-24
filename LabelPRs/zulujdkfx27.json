@@ -12,14 +12,18 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-23T18:43:46Z",
-      "updatedAt": "2026-11-23T18:43:46Z",
+      "updatedAt": "2026-11-24T21:25:57Z",
       "baseBranch": "main",
       "headBranch": "zulujdkfx27-label",
       "headRepository": "jcmbowman/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "fef5d71569ec2a1ed2d1ad8830ee4b74d4b4b46d",
