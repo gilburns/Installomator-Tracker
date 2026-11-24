@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.0.2.10",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/App-Auto-Patch/Configuration-Helper-Releases/releases/download/1.0.2.10/AAPConfigurationHelper-1.0.2.10.pkg",
+    "expectedTeamID": "4XSYV3BTMX",
+    "label": "aapconfigurationhelper",
+    "name": "App Auto-Patch Configuration Helper",
+    "timeStamp": "2026-11-24T00:34:17Z",
+    "type": "pkg"
+  }
+]

@@ -271,5 +271,18 @@
     "name": "Rocket.Chat",
     "timeStamp": "2026-11-12T17:37:24Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.19.4",
+    "blockingProcesses": [
+      "Rocket.Chat"
+    ],
+    "downloadURL": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.19.4/rocketchat-4.19.4-mac.dmg",
+    "expectedTeamID": "S6UPZG7ZR3",
+    "label": "rocketchat",
+    "name": "Rocket.Chat",
+    "timeStamp": "2026-11-24T01:05:39Z",
+    "type": "dmg"
   }
 ]
