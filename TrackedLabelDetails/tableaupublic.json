@@ -66,5 +66,17 @@
     "name": "Tableau Public",
     "timeStamp": "2026-11-19T21:44:41Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "Tableau Public (Apple silicon).app",
+    "appNewVersion": "2026.3.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.tableau.com/public/TableauPublic-2026-3-2-arm64.dmg",
+    "downloadURLi386": "https://downloads.tableau.com/public/TableauPublic-2026-3-2.dmg",
+    "expectedTeamID": "QJ4XPRK37C",
+    "label": "tableaupublic",
+    "name": "Tableau Public",
+    "timeStamp": "2026-11-24T21:40:07Z",
+    "type": "pkgInDmg"
   }
 ]

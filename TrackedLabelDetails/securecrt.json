@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "9.7.4",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.vandyke.com/cgi-bin/download_1.php",
+    "expectedTeamID": "9M229JAFBZ",
+    "label": "securecrt",
+    "name": "SecureCRT",
+    "timeStamp": "2026-11-24T21:37:55Z",
+    "type": "dmg"
+  }
+]
