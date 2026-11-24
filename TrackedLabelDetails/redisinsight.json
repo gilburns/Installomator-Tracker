@@ -22,5 +22,17 @@
     "name": "Redis Insight",
     "timeStamp": "2026-11-17T14:43:34Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.10.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/redis/RedisInsight/releases/download/3.10.2/Redis-Insight-mac-arm64.dmg",
+    "downloadURLi386": "https://github.com/redis/RedisInsight/releases/download/3.10.2/Redis-Insight-mac-x64.dmg",
+    "expectedTeamID": "UUK47G4BAZ",
+    "label": "redisinsight",
+    "name": "Redis Insight",
+    "timeStamp": "2026-11-24T10:36:34Z",
+    "type": "dmg"
   }
 ]
