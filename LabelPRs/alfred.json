@@ -1,0 +1,39 @@
+{
+  "label": "alfred",
+  "labelFile": "fragments/labels/alfred.sh",
+  "pullRequests": [
+    {
+      "number": 3669,
+      "title": "Fix alfred label for Alfred 6",
+      "url": "https://github.com/Installomator/Installomator/pull/3669",
+      "author": {
+        "login": "LucasAtLucca",
+        "url": "https://github.com/LucasAtLucca"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-24T08:19:18Z",
+      "updatedAt": "2026-11-24T08:19:18Z",
+      "baseBranch": "main",
+      "headBranch": "alfred",
+      "headRepository": "LucasAtLucca/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "3cea28edf0b292151d135272162aa0307e02863e",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 2,
+        "deletions": 1
+      },
+      "labelsInPR": [
+        "alfred"
+      ]
+    }
+  ]
+}
