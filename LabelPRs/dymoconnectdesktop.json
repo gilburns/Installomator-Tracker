@@ -12,18 +12,23 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-23T10:07:36Z",
-      "updatedAt": "2026-11-23T23:44:57Z",
+      "updatedAt": "2026-11-23T23:46:38Z",
       "baseBranch": "main",
       "headBranch": "fix_dymoconnectdesktop_appNewVersion",
       "headRepository": "BonnierNews/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-23T23:46:38Z"
+        }
+      ],
       "requestedReviewers": [
-        "gilburns",
-        "uurazzle"
+        "gilburns"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",

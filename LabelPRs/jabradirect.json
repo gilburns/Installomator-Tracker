@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-23T12:35:09Z",
-      "updatedAt": "2026-11-23T14:57:23Z",
+      "updatedAt": "2026-11-23T23:47:11Z",
       "baseBranch": "main",
       "headBranch": "jabradirect",
       "headRepository": "macmangr/Installomator",
@@ -21,7 +21,10 @@
       ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
       "mergeable": "CONFLICTING",
       "checksState": null,
       "headCommit": "9210cef423fd498dd7ce9e29e3247bcf4e3091b9",
