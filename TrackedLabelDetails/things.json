@@ -9,5 +9,16 @@
     "name": "Things3",
     "timeStamp": "2026-11-12T14:45:45Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.25",
+    "blockingProcesses": [],
+    "downloadURL": "https://static.culturedcode.com/things/Things_32500008.zip",
+    "expectedTeamID": "JLMPQHK86H",
+    "label": "things",
+    "name": "Things3",
+    "timeStamp": "2026-11-24T16:44:15Z",
+    "type": "zip"
   }
 ]

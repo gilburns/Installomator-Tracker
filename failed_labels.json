@@ -160,6 +160,11 @@
       "lastSeen": "2026-11-24T13:20:12Z",
       "reason": "missing appNewVersion"
     },
+    "capcut": {
+      "firstSeen": "2026-11-24T16:22:22Z",
+      "lastSeen": "2026-11-24T16:22:22Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-24T13:20:36Z",
       "lastSeen": "2026-11-24T13:20:36Z",
@@ -1009,6 +1014,11 @@
       "firstSeen": "2026-11-24T13:44:56Z",
       "lastSeen": "2026-11-24T13:44:56Z",
       "reason": "label does not set appNewVersion"
+    },
+    "webexvdiplugin": {
+      "firstSeen": "2026-11-24T16:46:39Z",
+      "lastSeen": "2026-11-24T16:46:39Z",
+      "reason": "missing appNewVersion"
     },
     "wechat": {
       "firstSeen": "2026-11-24T15:44:08Z",

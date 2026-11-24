@@ -309,5 +309,18 @@
     "name": "Microsoft PowerPoint",
     "timeStamp": "2026-11-17T20:39:31Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "16.115.26112215",
+    "blockingProcesses": [
+      "Microsoft PowerPoint"
+    ],
+    "downloadURL": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.115.26112215_Installer.pkg",
+    "expectedTeamID": "UBF8T346G9",
+    "label": "microsoftpowerpoint",
+    "name": "Microsoft PowerPoint",
+    "timeStamp": "2026-11-24T16:37:01Z",
+    "type": "pkg"
   }
 ]

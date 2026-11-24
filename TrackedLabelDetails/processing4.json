@@ -32,5 +32,17 @@
     "name": "Processing",
     "timeStamp": "2026-09-24T18:31:15Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.5.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/processing/processing4/releases/download/processing-1436-4.5.8/processing-4.5.8-macos-aarch64.dmg",
+    "downloadURLi386": "https://github.com/processing/processing4/releases/download/processing-1436-4.5.8/processing-4.5.8-macos-x64.dmg",
+    "expectedTeamID": "6297K33652",
+    "label": "processing4",
+    "name": "Processing",
+    "timeStamp": "2026-11-24T16:39:52Z",
+    "type": "dmg"
   }
 ]
