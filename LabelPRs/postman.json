@@ -1,0 +1,44 @@
+{
+  "label": "postman",
+  "labelFile": "fragments/labels/postman.sh",
+  "pullRequests": [
+    {
+      "number": 3675,
+      "title": "postman-label-update",
+      "url": "https://github.com/Installomator/Installomator/pull/3675",
+      "author": {
+        "login": "uurazzle",
+        "url": "https://github.com/uurazzle"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-24T22:54:22Z",
+      "updatedAt": "2026-11-24T22:54:22Z",
+      "baseBranch": "main",
+      "headBranch": "postman-label-update",
+      "headRepository": "uurazzle/Installomator",
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [
+        "gilburns",
+        "acodega"
+      ],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "32f181ea8d3db98b571760ee9444b7601ef7f3d3",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 4,
+        "deletions": 5
+      },
+      "labelsInPR": [
+        "postman"
+      ]
+    }
+  ]
+}

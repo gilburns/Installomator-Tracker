@@ -12,24 +12,34 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-24T08:19:18Z",
-      "updatedAt": "2026-11-24T08:19:18Z",
+      "updatedAt": "2026-11-24T23:32:16Z",
       "baseBranch": "main",
       "headBranch": "alfred",
       "headRepository": "LucasAtLucca/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-24T23:32:16Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "3cea28edf0b292151d135272162aa0307e02863e",
-      "commitCount": 1,
-      "commentCount": 0,
+      "headCommit": "a0fbba249e8ea7d8690177545c8eea69700ae962",
+      "commitCount": 2,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
-        "additions": 2,
-        "deletions": 1
+        "additions": 3,
+        "deletions": 4
       },
       "labelsInPR": [
         "alfred"

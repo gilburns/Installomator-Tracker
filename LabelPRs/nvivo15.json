@@ -12,14 +12,19 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-24T19:06:51Z",
-      "updatedAt": "2026-11-24T19:06:51Z",
+      "updatedAt": "2026-11-24T23:33:00Z",
       "baseBranch": "main",
       "headBranch": "nvivo-app-name",
       "headRepository": "perkolatte/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "d245e523e3678362cbeeb796fe338f639785f598",
