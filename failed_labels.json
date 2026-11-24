@@ -810,6 +810,11 @@
       "lastSeen": "2026-11-24T21:38:10Z",
       "reason": "invalid JSON output"
     },
+    "snapgene": {
+      "firstSeen": "2026-11-24T22:36:15Z",
+      "lastSeen": "2026-11-24T22:36:15Z",
+      "reason": "missing appNewVersion"
+    },
     "sococo": {
       "firstSeen": "2026-11-24T21:38:29Z",
       "lastSeen": "2026-11-24T21:38:29Z",
