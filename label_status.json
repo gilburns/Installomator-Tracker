@@ -2705,10 +2705,10 @@
     "label": "claudedesktop",
     "name": "Claude",
     "appName": "",
-    "appNewVersion": "6.28899.6",
-    "timeStamp": "2026-11-21T00:40:28Z",
+    "appNewVersion": "7.37095.0",
+    "timeStamp": "2026-11-24T19:18:20Z",
     "status": "success",
-    "downloadURL": "https://downloads.claude.ai/releases/darwin/universal/6.28899.6/Claude-2f5fc59b2d1c672dd9dced86720c50f48cca0cf9.zip",
+    "downloadURL": "https://downloads.claude.ai/releases/darwin/universal/7.37095.0/Claude-bc368c812ec26d3a5740519cc4d5cb69bbe43025.zip",
     "expectedTeamID": "Q6L2SF6YDW",
     "type": "zip"
   },
@@ -13157,7 +13157,7 @@
     "appName": "TorTalk.app",
     "appNewVersion": "2.42",
     "timeStamp": "2026-07-03T16:06:23Z",
-    "status": "success",
+    "status": "missing appNewVersion and downloadURL",
     "downloadURL": "https://tortalkfiles.blob.core.windows.net/tortalkmac/TorTalk_installer_2.4.2_EN.pkg",
     "expectedTeamID": "QUT3D5SU72",
     "type": "pkg"
@@ -13168,7 +13168,7 @@
     "appName": "TorTalk.app",
     "appNewVersion": "2.43",
     "timeStamp": "2026-07-03T16:06:26Z",
-    "status": "success",
+    "status": "missing appNewVersion and downloadURL",
     "downloadURL": "https://tortalkfiles.blob.core.windows.net/tortalkmac/TorTalk_installer_2.4.3_SV.pkg",
     "expectedTeamID": "QUT3D5SU72",
     "type": "pkg"

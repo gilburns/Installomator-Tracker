@@ -935,6 +935,16 @@
       "lastSeen": "2026-11-24T18:44:45Z",
       "reason": "missing appNewVersion"
     },
+    "tortalk_en": {
+      "firstSeen": "2026-11-24T19:38:17Z",
+      "lastSeen": "2026-11-24T19:38:17Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
+    "tortalk_se": {
+      "firstSeen": "2026-11-24T19:38:18Z",
+      "lastSeen": "2026-11-24T19:38:18Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "trapcode": {
       "firstSeen": "2026-11-24T18:45:07Z",
       "lastSeen": "2026-11-24T18:45:07Z",
