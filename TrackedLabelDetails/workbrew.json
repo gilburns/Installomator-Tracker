@@ -320,11 +320,21 @@
     "appName": "",
     "appNewVersion": "2.0.14",
     "blockingProcesses": [],
-    "downloadURL": "https://console.workbrew.com/downloads/macos",
     "expectedTeamID": "676JW3JDLF",
     "label": "workbrew",
     "name": "Workbrew",
     "timeStamp": "2026-11-23T04:46:27Z",
+    "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.0.15",
+    "blockingProcesses": [],
+    "downloadURL": "https://console.workbrew.com/downloads/macos",
+    "expectedTeamID": "676JW3JDLF",
+    "label": "workbrew",
+    "name": "Workbrew",
+    "timeStamp": "2026-11-24T13:45:45Z",
     "type": "pkg"
   }
 ]
