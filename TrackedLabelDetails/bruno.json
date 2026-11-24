@@ -94,5 +94,17 @@
     "name": "Bruno",
     "timeStamp": "2026-10-22T18:11:15Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.4.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_arm64_mac.dmg",
+    "downloadURLi386": "https://github.com/usebruno/bruno/releases/download/v4.4.0/bruno_4.4.0_x64_mac.dmg",
+    "expectedTeamID": "W7LPPWA48L",
+    "label": "bruno",
+    "name": "Bruno",
+    "timeStamp": "2026-11-24T18:21:31Z",
+    "type": "dmg"
   }
 ]
