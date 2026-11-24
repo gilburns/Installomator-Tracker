@@ -130,5 +130,17 @@
     "name": "Handy",
     "timeStamp": "2026-11-14T09:27:20Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.10.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/cjpais/Handy/releases/download/v0.10.2/Handy_0.10.2_aarch64.dmg",
+    "downloadURLi386": "https://github.com/cjpais/Handy/releases/download/v0.10.2/Handy_0.10.2_x64.dmg",
+    "expectedTeamID": "UWFLB4GC25",
+    "label": "handy",
+    "name": "Handy",
+    "timeStamp": "2026-11-24T06:38:02Z",
+    "type": "dmg"
   }
 ]
