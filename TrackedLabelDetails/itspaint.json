@@ -9,5 +9,16 @@
     "name": "ItsPaint",
     "timeStamp": "2026-10-23T06:24:24Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.25.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/joshlin2201/itspaint/releases/download/v0.25.0/ItsPaint-0.25.0.dmg",
+    "expectedTeamID": "H87MY889P5",
+    "label": "itspaint",
+    "name": "ItsPaint",
+    "timeStamp": "2026-11-24T08:35:13Z",
+    "type": "dmg"
   }
 ]
