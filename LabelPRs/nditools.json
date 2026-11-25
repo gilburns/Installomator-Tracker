@@ -1,0 +1,39 @@
+{
+  "label": "nditools",
+  "labelFile": "fragments/labels/nditools.sh",
+  "pullRequests": [
+    {
+      "number": 3676,
+      "title": "Fix label nditools",
+      "url": "https://github.com/Installomator/Installomator/pull/3676",
+      "author": {
+        "login": "jschwager",
+        "url": "https://github.com/jschwager"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-25T02:20:18Z",
+      "updatedAt": "2026-11-25T02:20:18Z",
+      "baseBranch": "main",
+      "headBranch": "label-nditools",
+      "headRepository": "jschwager/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "ed2fb093e018fc6ccb7ece17c14ac24bfb500c9f",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 4,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "nditools"
+      ]
+    }
+  ]
+}
