@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-25T19:18:30Z",
-      "updatedAt": "2026-11-25T19:18:30Z",
+      "updatedAt": "2026-11-25T19:50:35Z",
       "baseBranch": "main",
       "headBranch": "update-royaltsx-label",
       "headRepository": "a-martin253/Installomator",
@@ -21,15 +21,15 @@
       "reviews": [],
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
-      "checksState": "FAILURE",
-      "headCommit": "be1f1f47f31b7066b63d51a795b3ff59e957d913",
-      "commitCount": 1,
+      "checksState": "SUCCESS",
+      "headCommit": "c593e25321369345993f6267b07db447c8397152",
+      "commitCount": 2,
       "commentCount": 0,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "MODIFIED",
-        "additions": 3,
-        "deletions": 3
+        "additions": 2,
+        "deletions": 2
       },
       "labelsInPR": [
         "royaltsx"

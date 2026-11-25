@@ -12,24 +12,23 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:39:06Z",
-      "updatedAt": "2026-11-25T19:36:39Z",
+      "updatedAt": "2026-11-25T19:44:00Z",
       "baseBranch": "main",
       "headBranch": "label-tentaclesyncstudio",
       "headRepository": "justinraine/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "CHANGES_REQUESTED",
+      "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [
         {
           "reviewer": "uurazzle",
-          "state": "CHANGES_REQUESTED",
-          "submittedAt": "2026-11-17T17:31:30Z"
+          "state": "APPROVED",
+          "submittedAt": "2026-11-25T19:44:00Z"
         }
       ],
       "requestedReviewers": [
-        "gilburns",
-        "uurazzle"
+        "gilburns"
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",

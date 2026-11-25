@@ -1,0 +1,39 @@
+{
+  "label": "comet",
+  "labelFile": "fragments/labels/comet.sh",
+  "pullRequests": [
+    {
+      "number": 3680,
+      "title": "New label: comet",
+      "url": "https://github.com/Installomator/Installomator/pull/3680",
+      "author": {
+        "login": "naschenbrenner",
+        "url": "https://github.com/naschenbrenner"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-25T20:08:43Z",
+      "updatedAt": "2026-11-25T20:08:43Z",
+      "baseBranch": "main",
+      "headBranch": "label-comet",
+      "headRepository": "naschenbrenner/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "9478382f7145a5e74593ab3b03068a1b436929ad",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 11,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "comet"
+      ]
+    }
+  ]
+}

@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:39:19Z",
-      "updatedAt": "2026-11-25T07:58:45Z",
+      "updatedAt": "2026-11-25T19:46:51Z",
       "baseBranch": "main",
       "headBranch": "label-offshoot",
       "headRepository": "justinraine/Installomator",
@@ -21,6 +21,11 @@
       ],
       "reviewDecision": "CHANGES_REQUESTED",
       "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-25T19:46:51Z"
+        },
         {
           "reviewer": "gilburns",
           "state": "CHANGES_REQUESTED",

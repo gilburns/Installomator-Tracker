@@ -1,0 +1,39 @@
+{
+  "label": "grokbot",
+  "labelFile": "fragments/labels/grokbot.sh",
+  "pullRequests": [
+    {
+      "number": 3681,
+      "title": "New label: grokbot",
+      "url": "https://github.com/Installomator/Installomator/pull/3681",
+      "author": {
+        "login": "naschenbrenner",
+        "url": "https://github.com/naschenbrenner"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-25T20:08:46Z",
+      "updatedAt": "2026-11-25T20:08:46Z",
+      "baseBranch": "main",
+      "headBranch": "label-grokbot",
+      "headRepository": "naschenbrenner/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "e12196c0f17eea218cd4e64aefbbbbc56a86914d",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 12,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "grokbot"
+      ]
+    }
+  ]
+}
