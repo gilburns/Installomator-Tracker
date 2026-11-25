@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-25T02:20:18Z",
-      "updatedAt": "2026-11-25T02:20:18Z",
+      "updatedAt": "2026-11-25T22:24:47Z",
       "baseBranch": "main",
       "headBranch": "label-nditools",
       "headRepository": "jschwager/Installomator",
-      "prLabels": [],
-      "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "prLabels": [
+        "application"
+      ],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-25T22:24:46Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "ed2fb093e018fc6ccb7ece17c14ac24bfb500c9f",
