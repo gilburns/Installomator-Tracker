@@ -1,0 +1,39 @@
+{
+  "label": "royaltsx",
+  "labelFile": "fragments/labels/royaltsx.sh",
+  "pullRequests": [
+    {
+      "number": 3679,
+      "title": "Update royaltsx.sh",
+      "url": "https://github.com/Installomator/Installomator/pull/3679",
+      "author": {
+        "login": "a-martin253",
+        "url": "https://github.com/a-martin253"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-25T19:18:30Z",
+      "updatedAt": "2026-11-25T19:18:30Z",
+      "baseBranch": "main",
+      "headBranch": "update-royaltsx-label",
+      "headRepository": "a-martin253/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "FAILURE",
+      "headCommit": "be1f1f47f31b7066b63d51a795b3ff59e957d913",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 3,
+        "deletions": 3
+      },
+      "labelsInPR": [
+        "royaltsx"
+      ]
+    }
+  ]
+}

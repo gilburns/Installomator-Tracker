@@ -12,19 +12,19 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:39:27Z",
-      "updatedAt": "2026-11-25T07:58:58Z",
+      "updatedAt": "2026-11-25T19:28:49Z",
       "baseBranch": "main",
       "headBranch": "label-editready",
       "headRepository": "justinraine/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "CHANGES_REQUESTED",
+      "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [
         {
           "reviewer": "uurazzle",
-          "state": "CHANGES_REQUESTED",
-          "submittedAt": "2026-11-17T18:59:31Z"
+          "state": "APPROVED",
+          "submittedAt": "2026-11-25T19:28:48Z"
         }
       ],
       "requestedReviewers": [
