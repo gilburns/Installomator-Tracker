@@ -180,6 +180,11 @@
       "lastSeen": "2026-11-25T07:23:30Z",
       "reason": "label does not set appNewVersion"
     },
+    "checkpointsase": {
+      "firstSeen": "2026-11-25T11:19:59Z",
+      "lastSeen": "2026-11-25T11:19:59Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "chromeremotedesktop": {
       "firstSeen": "2026-11-25T07:24:19Z",
       "lastSeen": "2026-11-25T07:24:19Z",

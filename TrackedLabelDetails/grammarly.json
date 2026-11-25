@@ -42,5 +42,16 @@
     "name": "Grammarly Desktop",
     "timeStamp": "2026-11-23T11:28:58Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.213.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download-mac.grammarly.com/versions/1.213.0.0/Grammarly.dmg",
+    "expectedTeamID": "W8F64X92K3",
+    "label": "grammarly",
+    "name": "Grammarly Desktop",
+    "timeStamp": "2026-11-25T11:29:33Z",
+    "type": "dmg"
   }
 ]
