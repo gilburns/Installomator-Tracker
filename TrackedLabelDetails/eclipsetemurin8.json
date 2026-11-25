@@ -42,5 +42,16 @@
     "name": "Temurin 8",
     "timeStamp": "2026-11-12T09:26:56Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "8u514-b01",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jdk_x64_mac_hotspot_8u514b01.pkg",
+    "expectedTeamID": "JCDTMS22B4",
+    "label": "eclipsetemurin8",
+    "name": "Temurin 8",
+    "timeStamp": "2026-11-25T15:25:52Z",
+    "type": "pkg"
   }
 ]
