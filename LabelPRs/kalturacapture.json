@@ -1,0 +1,39 @@
+{
+  "label": "kalturacapture",
+  "labelFile": "fragments/labels/kalturacapture.sh",
+  "pullRequests": [
+    {
+      "number": 3677,
+      "title": "Add label: kalturacapture",
+      "url": "https://github.com/Installomator/Installomator/pull/3677",
+      "author": {
+        "login": "crsleeth",
+        "url": "https://github.com/crsleeth"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-25T05:35:23Z",
+      "updatedAt": "2026-11-25T05:35:23Z",
+      "baseBranch": "main",
+      "headBranch": "kalturacapture",
+      "headRepository": "crsleeth/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "a0345da7b874ff59bae668f0b418d66872cae6ca",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "kalturacapture"
+      ]
+    }
+  ]
+}
