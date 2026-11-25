@@ -12,14 +12,19 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-25T05:35:23Z",
-      "updatedAt": "2026-11-25T05:35:23Z",
+      "updatedAt": "2026-11-25T23:37:05Z",
       "baseBranch": "main",
       "headBranch": "kalturacapture",
       "headRepository": "crsleeth/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns",
+        "uurazzle"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "a0345da7b874ff59bae668f0b418d66872cae6ca",
