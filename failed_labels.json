@@ -315,6 +315,11 @@
       "lastSeen": "2026-11-25T22:27:24Z",
       "reason": "label does not set appNewVersion"
     },
+    "flux": {
+      "firstSeen": "2026-11-25T23:26:27Z",
+      "lastSeen": "2026-11-25T23:26:27Z",
+      "reason": "missing appNewVersion"
+    },
     "fontexplorer": {
       "firstSeen": "2026-11-25T22:27:51Z",
       "lastSeen": "2026-11-25T22:27:51Z",
