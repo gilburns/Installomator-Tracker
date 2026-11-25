@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T14:33:50Z",
-      "updatedAt": "2026-11-24T19:56:38Z",
+      "updatedAt": "2026-11-25T07:15:38Z",
       "baseBranch": "main",
       "headBranch": "new-label/tourbox",
       "headRepository": "mwegmann98/Installomator",
@@ -32,7 +32,7 @@
       "checksState": "SUCCESS",
       "headCommit": "a9506b45d46b41058823e18bc333cee3a5f09ab3",
       "commitCount": 2,
-      "commentCount": 3,
+      "commentCount": 4,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
