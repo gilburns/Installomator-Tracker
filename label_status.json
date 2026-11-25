@@ -1193,7 +1193,7 @@
     "appName": "",
     "appNewVersion": "1.14.1",
     "timeStamp": "2026-09-15T18:09:19Z",
-    "status": "missing appNewVersion",
+    "status": "success",
     "downloadURL": "https://www.pixeleyes.co.nz/automounter/AutoMounter.dmg",
     "expectedTeamID": "UKWABN4MGL",
     "type": "dmg"
@@ -1845,7 +1845,7 @@
     "appName": "",
     "appNewVersion": "2026.4.6",
     "timeStamp": "2026-11-12T13:20:22Z",
-    "status": "success",
+    "status": "missing appNewVersion",
     "downloadURL": "https://downloads.busymac.com/bcl-2026.4.6-2026-11-12-12-39-07.dmg",
     "expectedTeamID": "N4RA379GBW",
     "type": "dmg"
@@ -1856,7 +1856,7 @@
     "appName": "BusyContacts.app",
     "appNewVersion": "2026.4.4",
     "timeStamp": "2026-11-12T11:20:03Z",
-    "status": "success",
+    "status": "missing appNewVersion",
     "downloadURL": "https://downloads.busymac.com/bct-2026.4.4-2026-11-12-10-33-09.dmg",
     "expectedTeamID": "N4RA379GBW",
     "type": "dmg"
@@ -5038,7 +5038,7 @@
     "appName": "",
     "appNewVersion": "5.6.287",
     "timeStamp": "2026-11-04T16:28:13Z",
-    "status": "missing appNewVersion",
+    "status": "success",
     "downloadURL": "https://github.com/4ian/GDevelop/releases/download/v5.6.287/GDevelop-5-5.6.287-universal.dmg",
     "expectedTeamID": "5CG65LEVUK",
     "type": "dmg"
@@ -5231,7 +5231,7 @@
     "appName": "",
     "appNewVersion": "1.21",
     "timeStamp": "2026-10-08T18:19:25Z",
-    "status": "missing appNewVersion",
+    "status": "success",
     "downloadURL": "https://github.com/glpi-project/glpi-agent/releases/download/1.21/GLPI-Agent-1.21_arm64.pkg",
     "expectedTeamID": "H7XJV96LX2",
     "type": "pkg"
@@ -5642,7 +5642,7 @@
     "appName": "",
     "appNewVersion": "1.11.2",
     "timeStamp": "2026-07-03T15:47:34Z",
-    "status": "missing appNewVersion",
+    "status": "success",
     "downloadURL": "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2.dmg",
     "expectedTeamID": "5X9DE89KYV",
     "type": "dmg"
@@ -6153,7 +6153,7 @@
     "appName": "",
     "appNewVersion": "1.4.4",
     "timeStamp": "2026-07-03T15:48:15Z",
-    "status": "missing appNewVersion",
+    "status": "success",
     "downloadURL": "https://media.inkscape.org/dl/resources/file/Inkscape-1.4.4_arm64.dmg",
     "downloadURLi386": "https://media.inkscape.org/dl/resources/file/Inkscape-1.4.4_x86_64.dmg",
     "expectedTeamID": "SW3D6BB6A6",
@@ -8007,7 +8007,7 @@
     "appName": "",
     "appNewVersion": "17.0.1",
     "timeStamp": "2026-07-13T07:22:43Z",
-    "status": "success",
+    "status": "missing appNewVersion",
     "downloadURL": "https://mestrelab.com/downloads/mnova/mac/MestReNova-17.0.1-41952.dmg",
     "expectedTeamID": "DH5EKRR34H",
     "type": "dmg"
@@ -13849,10 +13849,10 @@
     "label": "vysor",
     "name": "Vysor",
     "appName": "",
-    "appNewVersion": "5.0.7",
-    "timeStamp": "2026-07-03T16:08:15Z",
+    "appNewVersion": "6.0.22",
+    "timeStamp": "2026-11-25T07:51:18Z",
     "status": "success",
-    "downloadURL": "https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.zip",
+    "downloadURL": "https://github.com/koush/vysor.io/releases/download/v6.0.22/Vysor-darwin-arm64-6.0.22.zip",
     "expectedTeamID": "XT4C9EJNUG",
     "type": "zip"
   },
