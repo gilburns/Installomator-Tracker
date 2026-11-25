@@ -9,5 +9,16 @@
     "name": "Textream",
     "timeStamp": "2026-10-13T18:44:14Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.8.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/f/textream/releases/download/v1.8.0/Textream.dmg",
+    "expectedTeamID": "RJA7656U34",
+    "label": "textream",
+    "name": "Textream",
+    "timeStamp": "2026-11-25T20:38:53Z",
+    "type": "dmg"
   }
 ]

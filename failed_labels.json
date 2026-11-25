@@ -210,6 +210,11 @@
       "lastSeen": "2026-11-25T17:20:04Z",
       "reason": "missing appNewVersion"
     },
+    "cryptomator": {
+      "firstSeen": "2026-11-25T20:22:04Z",
+      "lastSeen": "2026-11-25T20:22:04Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "daylite": {
       "firstSeen": "2026-11-25T17:20:33Z",
       "lastSeen": "2026-11-25T17:20:33Z",
