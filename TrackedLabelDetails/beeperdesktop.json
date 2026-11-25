@@ -94,5 +94,17 @@
     "name": "Beeper Desktop",
     "timeStamp": "2026-11-20T17:16:10Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.3.352",
+    "blockingProcesses": [],
+    "downloadURL": "https://beeper-desktop.download.beeper.com/builds/Beeper-4.3.352-arm64.dmg",
+    "downloadURLi386": "https://beeper-desktop.download.beeper.com/builds/Beeper-4.3.352.dmg",
+    "expectedTeamID": "PZYM8XX95Q",
+    "label": "beeperdesktop",
+    "name": "Beeper Desktop",
+    "timeStamp": "2026-11-25T08:23:18Z",
+    "type": "dmg"
   }
 ]

@@ -20,5 +20,16 @@
     "name": "Vysor",
     "timeStamp": "2026-11-25T07:51:18Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.0.23",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/koush/vysor.io/releases/download/v6.0.23/Vysor-darwin-arm64-6.0.23.zip",
+    "expectedTeamID": "XT4C9EJNUG",
+    "label": "vysor",
+    "name": "Vysor",
+    "timeStamp": "2026-11-25T08:50:38Z",
+    "type": "zip"
   }
 ]
