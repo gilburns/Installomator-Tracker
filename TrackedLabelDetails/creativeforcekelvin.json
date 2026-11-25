@@ -178,5 +178,17 @@
     "name": "Kelvin",
     "timeStamp": "2026-11-17T08:28:33Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.15.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.creativeforce.io/released-files.042024/prod/kelvin/mac/Kelvin-6.15.2-mac-arm64.pkg",
+    "downloadURLi386": "https://download.creativeforce.io/released-files.042024/prod/kelvin/mac/Kelvin-6.15.2-mac.pkg",
+    "expectedTeamID": "Y5K3N5Y6PY",
+    "label": "creativeforcekelvin",
+    "name": "Kelvin",
+    "timeStamp": "2026-11-25T03:26:58Z",
+    "type": "pkg"
   }
 ]
