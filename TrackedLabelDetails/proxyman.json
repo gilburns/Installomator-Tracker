@@ -152,5 +152,16 @@
     "name": "Proxyman",
     "timeStamp": "2026-11-25T08:42:44Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.6.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/ProxymanApp/Proxyman/releases/download/26.6.1/Proxyman_26.6.1.dmg",
+    "expectedTeamID": "3X57WP8E8V",
+    "label": "proxyman",
+    "name": "Proxyman",
+    "timeStamp": "2026-11-25T18:38:04Z",
+    "type": "dmg"
   }
 ]

@@ -265,6 +265,11 @@
       "lastSeen": "2026-11-25T17:23:00Z",
       "reason": "label does not set appNewVersion"
     },
+    "emacs": {
+      "firstSeen": "2026-11-25T18:26:55Z",
+      "lastSeen": "2026-11-25T18:26:55Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "enpass": {
       "firstSeen": "2026-11-25T17:23:12Z",
       "lastSeen": "2026-11-25T17:23:12Z",
@@ -419,6 +424,11 @@
       "firstSeen": "2026-11-25T17:27:15Z",
       "lastSeen": "2026-11-25T17:27:15Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "inkscape": {
+      "firstSeen": "2026-11-25T18:31:25Z",
+      "lastSeen": "2026-11-25T18:31:25Z",
+      "reason": "missing appNewVersion"
     },
     "ipvisionconnect": {
       "firstSeen": "2026-11-25T17:27:43Z",
