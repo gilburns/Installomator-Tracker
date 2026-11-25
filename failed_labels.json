@@ -470,9 +470,19 @@
       "lastSeen": "2026-11-25T12:46:02Z",
       "reason": "label exited without a result (exit 0)"
     },
+    "linearmouse": {
+      "firstSeen": "2026-11-25T14:39:28Z",
+      "lastSeen": "2026-11-25T14:39:28Z",
+      "reason": "missing appNewVersion"
+    },
     "logitechoptionsplus": {
       "firstSeen": "2026-11-25T12:46:12Z",
       "lastSeen": "2026-11-25T12:46:12Z",
+      "reason": "missing appNewVersion"
+    },
+    "logseq": {
+      "firstSeen": "2026-11-25T14:39:50Z",
+      "lastSeen": "2026-11-25T14:39:50Z",
       "reason": "missing appNewVersion"
     },
     "lsagent": {
