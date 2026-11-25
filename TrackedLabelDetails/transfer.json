@@ -20,5 +20,16 @@
     "name": "Transfer",
     "timeStamp": "2026-09-08T06:34:15Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.intuitibits.com/downloads/Transfer_2.5.dmg",
+    "expectedTeamID": "2B9R362QNU",
+    "label": "transfer",
+    "name": "Transfer",
+    "timeStamp": "2026-11-25T04:51:49Z",
+    "type": "dmg"
   }
 ]

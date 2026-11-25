@@ -325,6 +325,7 @@
     "appNewVersion": "1.61.0",
     "blockingProcesses": [],
     "downloadURL": "https://github.com",
+    "downloadURLi386": "https://github.com/aaif-goose/goose/releases/download/v1.61.0/Goose_intel_mac.zip",
     "expectedTeamID": "5N2JF58U87",
     "label": "goose",
     "name": "Goose",
