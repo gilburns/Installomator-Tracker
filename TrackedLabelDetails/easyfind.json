@@ -9,5 +9,16 @@
     "name": "EasyFind",
     "timeStamp": "2026-07-03T15:45:04Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "6.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.devontechnologies.com/download/freeware/easyfind/6.0/EasyFind.app.zip",
+    "expectedTeamID": "679S2QUWR8",
+    "label": "easyfind",
+    "name": "EasyFind",
+    "timeStamp": "2026-11-25T09:29:02Z",
+    "type": "zip"
   }
 ]

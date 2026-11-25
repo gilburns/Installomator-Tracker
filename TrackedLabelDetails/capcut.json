@@ -53,5 +53,16 @@
     "name": "CapCut",
     "timeStamp": "2026-11-16T10:25:01Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "9.9.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://sf16-web-tos-buz.capcutstatic.com/obj/capcut-web-buz-sg/packages/CapCut_9_9_0_4841_capcutpc_0_creatortool_nosandbox.dmg",
+    "expectedTeamID": "22MMUN2RN5",
+    "label": "capcut",
+    "name": "CapCut",
+    "timeStamp": "2026-11-25T09:22:55Z",
+    "type": "dmg"
   }
 ]
