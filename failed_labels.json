@@ -925,6 +925,11 @@
       "lastSeen": "2026-11-25T17:38:08Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "textexpander": {
+      "firstSeen": "2026-11-25T19:36:45Z",
+      "lastSeen": "2026-11-25T19:36:45Z",
+      "reason": "missing appNewVersion"
+    },
     "thunderbird_intl": {
       "firstSeen": "2026-11-25T17:39:09Z",
       "lastSeen": "2026-11-25T17:39:09Z",
