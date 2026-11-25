@@ -42,5 +42,16 @@
     "name": "Vorssaint",
     "timeStamp": "2026-11-11T14:43:22Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.4.5",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/vorssaint/vorssaint-utils/releases/download/v3.4.5/Vorssaint-3.4.5.dmg",
+    "expectedTeamID": "3D485NHW29",
+    "label": "vorssaint",
+    "name": "Vorssaint",
+    "timeStamp": "2026-11-25T06:58:44Z",
+    "type": "dmg"
   }
 ]

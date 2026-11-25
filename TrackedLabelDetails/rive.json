@@ -31,5 +31,16 @@
     "name": "Rive",
     "timeStamp": "2026-11-23T07:40:36Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "0.9.851",
+    "blockingProcesses": [],
+    "downloadURL": "https://releases.rive.app/macos/0.9.851/Rive.dmg",
+    "expectedTeamID": "NJ3JMFUNS9",
+    "label": "rive",
+    "name": "Rive",
+    "timeStamp": "2026-11-25T06:52:07Z",
+    "type": "dmg"
   }
 ]
