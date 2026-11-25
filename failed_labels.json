@@ -255,6 +255,11 @@
       "lastSeen": "2026-11-25T07:29:24Z",
       "reason": "label does not set appNewVersion"
     },
+    "easyfind": {
+      "firstSeen": "2026-11-25T10:27:04Z",
+      "lastSeen": "2026-11-25T10:27:04Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "editshare-connect": {
       "firstSeen": "2026-11-25T07:29:41Z",
       "lastSeen": "2026-11-25T07:29:41Z",
@@ -499,6 +504,11 @@
       "firstSeen": "2026-11-25T07:38:40Z",
       "lastSeen": "2026-11-25T07:38:40Z",
       "reason": "label does not set appNewVersion"
+    },
+    "maxqda24": {
+      "firstSeen": "2026-11-25T10:36:20Z",
+      "lastSeen": "2026-11-25T10:36:20Z",
+      "reason": "missing appNewVersion"
     },
     "meistertask": {
       "firstSeen": "2026-11-25T07:39:04Z",
