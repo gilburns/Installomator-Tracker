@@ -740,6 +740,11 @@
       "lastSeen": "2026-11-24T21:37:20Z",
       "reason": "label does not set appNewVersion"
     },
+    "rodecentral": {
+      "firstSeen": "2026-11-25T00:57:45Z",
+      "lastSeen": "2026-11-25T00:57:45Z",
+      "reason": "missing appNewVersion"
+    },
     "rodeconnect": {
       "firstSeen": "2026-11-24T21:37:25Z",
       "lastSeen": "2026-11-24T21:37:25Z",

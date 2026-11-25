@@ -3557,10 +3557,10 @@
     "label": "discordcanary",
     "name": "Discord Canary",
     "appName": "",
-    "appNewVersion": "0.0.1595",
-    "timeStamp": "2026-11-24T21:23:54Z",
+    "appNewVersion": "0.0.1596",
+    "timeStamp": "2026-11-25T00:44:56Z",
     "status": "success",
-    "downloadURL": "https://canary.dl2.discordapp.net/distro/app/canary/osx/universal/0.0.1595/DiscordCanary.dmg",
+    "downloadURL": "https://canary.dl2.discordapp.net/distro/app/canary/osx/universal/0.0.1596/DiscordCanary.dmg",
     "expectedTeamID": "53Q6R32WPB",
     "type": "dmg"
   },
@@ -11043,7 +11043,7 @@
     "appName": "",
     "appNewVersion": "2.0.111",
     "timeStamp": "2026-07-03T16:03:14Z",
-    "status": "success",
+    "status": "missing appNewVersion",
     "downloadURL": "https://update.rode.com/central/RODE_Central_MACOS.zip",
     "expectedTeamID": "Z9T72PWTJA",
     "type": "pkgInZip"
