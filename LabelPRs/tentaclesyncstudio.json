@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T00:39:06Z",
-      "updatedAt": "2026-11-17T17:31:31Z",
+      "updatedAt": "2026-11-25T07:58:51Z",
       "baseBranch": "main",
       "headBranch": "label-tentaclesyncstudio",
       "headRepository": "justinraine/Installomator",
@@ -32,13 +32,13 @@
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "0627f75f4d0e24c1e2b1a3a0a85b13be03b50444",
-      "commitCount": 1,
-      "commentCount": 0,
+      "headCommit": "53c288aa10ee890482ef043cfe2e9dd6c08f4cbe",
+      "commitCount": 2,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
-        "additions": 9,
+        "additions": 8,
         "deletions": 0
       },
       "labelsInPR": [
