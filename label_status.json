@@ -5038,7 +5038,7 @@
     "appName": "",
     "appNewVersion": "5.6.287",
     "timeStamp": "2026-11-04T16:28:13Z",
-    "status": "success",
+    "status": "missing appNewVersion",
     "downloadURL": "https://github.com/4ian/GDevelop/releases/download/v5.6.287/GDevelop-5-5.6.287-universal.dmg",
     "expectedTeamID": "5CG65LEVUK",
     "type": "dmg"
@@ -5231,7 +5231,7 @@
     "appName": "",
     "appNewVersion": "1.21",
     "timeStamp": "2026-10-08T18:19:25Z",
-    "status": "success",
+    "status": "missing appNewVersion",
     "downloadURL": "https://github.com/glpi-project/glpi-agent/releases/download/1.21/GLPI-Agent-1.21_arm64.pkg",
     "expectedTeamID": "H7XJV96LX2",
     "type": "pkg"
@@ -5642,7 +5642,7 @@
     "appName": "",
     "appNewVersion": "1.11.2",
     "timeStamp": "2026-07-03T15:47:34Z",
-    "status": "success",
+    "status": "missing appNewVersion",
     "downloadURL": "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2.dmg",
     "expectedTeamID": "5X9DE89KYV",
     "type": "dmg"
@@ -11043,7 +11043,7 @@
     "appName": "",
     "appNewVersion": "2.0.111",
     "timeStamp": "2026-07-03T16:03:14Z",
-    "status": "missing appNewVersion",
+    "status": "success",
     "downloadURL": "https://update.rode.com/central/RODE_Central_MACOS.zip",
     "expectedTeamID": "Z9T72PWTJA",
     "type": "pkgInZip"
@@ -11820,7 +11820,7 @@
     "appName": "",
     "appNewVersion": "9.0.1",
     "timeStamp": "2026-11-24T15:39:39Z",
-    "status": "missing appNewVersion",
+    "status": "success",
     "downloadURL": "https://cdn.snapgene.com/downloads/SnapGene/9.x/9.0/9.0.1/snapgene_9.0.1_mac.dmg",
     "expectedTeamID": "WVCV9Q8Y78",
     "type": "dmg"
