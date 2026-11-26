@@ -42,5 +42,16 @@
     "name": "Karabiner-Elements",
     "timeStamp": "2026-09-06T18:19:38Z",
     "type": "pkgInDmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "17.0.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/pqrs-org/Karabiner-Elements/releases/download/v17.0.0/Karabiner-Elements-17.0.0.dmg",
+    "expectedTeamID": "G43BCU2T37",
+    "label": "karabinerelements",
+    "name": "Karabiner-Elements",
+    "timeStamp": "2026-11-26T23:31:59Z",
+    "type": "pkgInDmg"
   }
 ]
