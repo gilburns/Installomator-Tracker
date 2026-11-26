@@ -43,5 +43,16 @@
     "name": "MySQL Workbench",
     "timeStamp": "2026-10-21T18:23:57Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.10.0.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-26.10.0.1-macos-arm64.dmg",
+    "expectedTeamID": "VB5E2TV963",
+    "label": "mysqlworkbenchce",
+    "name": "MySQL Workbench",
+    "timeStamp": "2026-11-26T05:35:00Z",
+    "type": "dmg"
   }
 ]
