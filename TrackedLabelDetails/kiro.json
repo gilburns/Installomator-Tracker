@@ -226,5 +226,17 @@
     "name": "Kiro",
     "timeStamp": "2026-11-25T18:33:07Z",
     "type": "zip"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.5.49",
+    "blockingProcesses": [],
+    "downloadURL": "https://prod.download.desktop.kiro.dev/releases/stable/darwin-arm64/signed/1.5.49/kiro-ide-1.5.49-stable-darwin-arm64.zip",
+    "downloadURLi386": "https://prod.download.desktop.kiro.dev/releases/stable/darwin-x64/signed/1.5.49/kiro-ide-1.5.49-stable-darwin-x64.zip",
+    "expectedTeamID": "94KV3E626L",
+    "label": "kiro",
+    "name": "Kiro",
+    "timeStamp": "2026-11-26T00:51:10Z",
+    "type": "zip"
   }
 ]
