@@ -225,6 +225,11 @@
       "lastSeen": "2026-11-26T12:29:32Z",
       "reason": "invalid downloadURL"
     },
+    "doctolib": {
+      "firstSeen": "2026-11-26T13:25:28Z",
+      "lastSeen": "2026-11-26T13:25:28Z",
+      "reason": "missing appNewVersion"
+    },
     "drift": {
       "firstSeen": "2026-11-26T12:30:56Z",
       "lastSeen": "2026-11-26T12:30:56Z",
