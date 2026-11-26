@@ -51,6 +51,8 @@ A reason like `resolve failed (exit 98)` means the label itself stopped with `cl
 
 A label that resolves but returns a `downloadURL` that isn't a full `http(s)://` URL with a real host (a bare path like `/determinate-pkg/tag/v3.24.3/Universal`, or a filename in place of the host like `http://IriunWebcam-2.9.1.pkg/`) is recorded as `invalid downloadURL`, and that version isn't tracked. An invalid Intel `downloadURLi386` is just left out, with a warning in the log.
 
+Each resolved `downloadURL` is also requested (first byte only, following redirects) to confirm the file is really there. If the server answers `404 Not Found` or `410 Gone`, the label is recorded as `downloadURL not found (HTTP 404)` (or `410`), and that version isn't tracked. Other errors, like `403`, `429`, `5xx` or no response, don't fail the label. Those are often bot protection, rate limiting or a brief outage rather than a missing file. If only the Intel `downloadURLi386` is missing, the label still counts as a success: the Apple Silicon URL is recorded, the Intel one is left out, and a warning goes in the log.
+
 Labels are resolved as if they were running on macOS 27.2: `installedOSversion` and `sw_vers -productVersion` both report it, whatever macOS the runner has, so labels that pick an OS-specific download get the latest one. A label that only supports older macOS versions can be given a lower version in `osVersionOverrides` in `process_label.sh`.
 
 ## Repo layout
