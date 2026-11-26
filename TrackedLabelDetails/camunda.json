@@ -34,5 +34,17 @@
     "name": "Camunda Modeler",
     "timeStamp": "2026-11-09T16:22:47Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "5.54.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.camunda.cloud/release/camunda-modeler/5.54.0/camunda-modeler-5.54.0-mac-arm64.dmg",
+    "downloadURLi386": "https://downloads.camunda.cloud/release/camunda-modeler/5.54.0/camunda-modeler-5.54.0-mac-x64.dmg",
+    "expectedTeamID": "3JVGD57JQZ",
+    "label": "camunda",
+    "name": "Camunda Modeler",
+    "timeStamp": "2026-11-26T16:21:29Z",
+    "type": "dmg"
   }
 ]
