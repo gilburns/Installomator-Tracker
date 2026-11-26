@@ -137,6 +137,26 @@ isValidDownloadURL() {
     return 0
 }
 
+# Prints the final HTTP status code for $1 after following redirects, or 000
+# if no response arrived (DNS failure, timeout, TLS error). Asks for only the
+# first byte, and caps size and time for servers that ignore range requests
+# and send the whole file anyway. -w still prints the status when curl gives
+# up on either limit. Uses the same browser user agent as process_label.sh,
+# since some vendors reject curl's default one.
+DOWNLOAD_CHECK_UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15"
+downloadURLStatus() {
+    curl -A "$DOWNLOAD_CHECK_UA" -sL -o /dev/null -w '%{http_code}' -r 0-0 \
+        --max-filesize 1048576 --connect-timeout 10 --max-time 20 "$1" 2>/dev/null
+}
+
+# True if the server says the file is gone (404 Not Found or 410 Gone). Only
+# these count: a 403/429/5xx or no response is often bot protection, rate
+# limiting or a temporary outage (especially from a CI runner's datacenter
+# IP), and failing a label over that would hide versions that still resolve.
+isDownloadURLNotFound() { # $1 status code
+    [[ "$1" == 404 || "$1" == 410 ]]
+}
+
 # A label counts as "dual arch" if it calls $(arch) or $(/usr/bin/arch) at
 # all, regardless of whether it branches with an explicit i386/x86_64 case
 # or just an else - both forms mean the resolved downloadURL can differ
@@ -397,6 +417,19 @@ for labelFile in "${labelFiles[@]}"; do
         continue
     fi
 
+    # The label resolved, but the link it gave may be dead: a vendor removed
+    # the file, or the scrape built a plausible URL that was never real.
+    downloadStatus=$(downloadURLStatus "$downloadURL")
+    if isDownloadURLNotFound "$downloadStatus"; then
+        echo "[$label] FAILED: downloadURL not found (HTTP $downloadStatus) '$downloadURL'" >&2
+        newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "downloadURL not found (HTTP $downloadStatus)" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
+            .[$l] = {reason: $reason, firstSeen: (.[$l].firstSeen // $now), lastSeen: $now}
+        ')
+        failCount=$((failCount + 1))
+        continue
+    fi
+    log "[$label] downloadURL check: HTTP $downloadStatus"
+
     # Resolved successfully - make sure it's not lingering in the failed map
     # (e.g. a --label run retrying something the bulk run had blacklisted).
     newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" 'del(.[$l])')
@@ -414,8 +447,16 @@ for labelFile in "${labelFiles[@]}"; do
 
         if [[ $i386ExitStatus -eq 0 && -n "$i386JsonOutput" ]] && echo "$i386JsonOutput" | jq empty >/dev/null 2>&1; then
             downloadURLi386=$(echo "$i386JsonOutput" | jq -r '.downloadURL // empty')
+            i386Status=""
+            if [[ -n "$downloadURLi386" && "$downloadURLi386" != "$downloadURL" ]] && isValidDownloadURL "$downloadURLi386"; then
+                i386Status=$(downloadURLStatus "$downloadURLi386")
+            fi
             if [[ -n "$downloadURLi386" ]] && ! isValidDownloadURL "$downloadURLi386"; then
                 echo "[$label] WARN: ignoring invalid downloadURLi386 '$downloadURLi386'" >&2
+            elif isDownloadURLNotFound "$i386Status"; then
+                # The arm64 download works, so keep tracking the label, just
+                # without recording a dead Intel link.
+                echo "[$label] WARN: ignoring downloadURLi386, not found (HTTP $i386Status) '$downloadURLi386'" >&2
             elif [[ -n "$downloadURLi386" && "$downloadURLi386" != "$downloadURL" ]]; then
                 jsonOutput=$(echo "$jsonOutput" | jq --arg u "$downloadURLi386" '. + {downloadURLi386: $u}')
                 log "[$label] captured downloadURLi386: $downloadURLi386"
