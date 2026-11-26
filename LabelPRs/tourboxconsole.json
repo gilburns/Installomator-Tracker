@@ -12,24 +12,22 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T14:33:50Z",
-      "updatedAt": "2026-11-26T08:00:04Z",
+      "updatedAt": "2026-11-26T14:39:50Z",
       "baseBranch": "main",
       "headBranch": "new-label/tourbox",
       "headRepository": "mwegmann98/Installomator",
       "prLabels": [
         "application"
       ],
-      "reviewDecision": "CHANGES_REQUESTED",
+      "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [
         {
           "reviewer": "gilburns",
-          "state": "CHANGES_REQUESTED",
-          "submittedAt": "2026-11-18T02:21:31Z"
+          "state": "APPROVED",
+          "submittedAt": "2026-11-26T14:39:50Z"
         }
       ],
-      "requestedReviewers": [
-        "gilburns"
-      ],
+      "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "686e9b6cc347f8228403565191245ba4cfcefff0",

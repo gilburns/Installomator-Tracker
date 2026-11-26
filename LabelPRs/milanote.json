@@ -1,0 +1,45 @@
+{
+  "label": "milanote",
+  "labelFile": "fragments/labels/milanote.sh",
+  "pullRequests": [
+    {
+      "number": 3685,
+      "title": "milanote-new-label",
+      "url": "https://github.com/Installomator/Installomator/pull/3685",
+      "author": {
+        "login": "mwegmann98",
+        "url": "https://github.com/mwegmann98"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-26T14:10:07Z",
+      "updatedAt": "2026-11-26T14:37:14Z",
+      "baseBranch": "main",
+      "headBranch": "new-label/milanote",
+      "headRepository": "mwegmann98/Installomator",
+      "prLabels": [],
+      "reviewDecision": "CHANGES_REQUESTED",
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "CHANGES_REQUESTED",
+          "submittedAt": "2026-11-26T14:37:14Z"
+        }
+      ],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "95c9cf415be19c5f3fb7a8a534b6c42cf614fcea",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "milanote"
+      ]
+    }
+  ]
+}
