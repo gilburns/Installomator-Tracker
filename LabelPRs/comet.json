@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-25T20:08:43Z",
-      "updatedAt": "2026-11-26T01:00:31Z",
+      "updatedAt": "2026-11-26T01:18:58Z",
       "baseBranch": "main",
       "headBranch": "label-comet",
       "headRepository": "naschenbrenner/Installomator",
@@ -20,10 +20,14 @@
         "application"
       ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [
-        "gilburns"
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-26T01:18:58Z"
+        }
       ],
+      "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "d1165600e996baa46a5d008e0828898a25f3ec9b",

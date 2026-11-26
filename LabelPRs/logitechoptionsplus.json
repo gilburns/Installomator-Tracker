@@ -57,15 +57,22 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-16T13:14:00Z",
-      "updatedAt": "2026-11-16T19:42:49Z",
+      "updatedAt": "2026-11-26T01:35:44Z",
       "baseBranch": "main",
       "headBranch": "logitechoptionsplus-version-fallback",
       "headRepository": "lennart-duncker/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
+      "reviews": [
+        {
+          "reviewer": "gilburns",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-26T01:35:32Z"
+        }
+      ],
       "requestedReviewers": [
-        "gilburns",
         "uurazzle"
       ],
       "mergeable": "MERGEABLE",
