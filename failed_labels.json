@@ -140,6 +140,11 @@
       "lastSeen": "2026-11-26T02:24:00Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagicconverters": {
+      "firstSeen": "2026-11-26T06:28:41Z",
+      "lastSeen": "2026-11-26T06:28:41Z",
+      "reason": "missing appNewVersion"
+    },
     "blackmagicwebpresenter": {
       "firstSeen": "2026-11-26T03:21:50Z",
       "lastSeen": "2026-11-26T03:21:50Z",
