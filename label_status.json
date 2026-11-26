@@ -2970,11 +2970,11 @@
     "label": "conductor",
     "name": "Conductor",
     "appName": "",
-    "appNewVersion": "0.100.1",
-    "timeStamp": "2026-11-25T22:22:39Z",
+    "appNewVersion": "0.101.0",
+    "timeStamp": "2026-11-26T02:27:18Z",
     "status": "success",
-    "downloadURL": "https://cdn.crabnebula.app/asset/01M8AAPACYA1P9NFYRNWB9DJ33?from=%7B%22orgSlug%22%3A%22melty%22%2C%22appSlug%22%3A%22conductor%22%2C%22publicPlatform%22%3A%22dmg-aarch64%22%7D",
-    "downloadURLi386": "https://cdn.crabnebula.app/asset/01M8AANXRJF834PKCSHHGY26S7?from=%7B%22orgSlug%22%3A%22melty%22%2C%22appSlug%22%3A%22conductor%22%2C%22publicPlatform%22%3A%22dmg-x86_64%22%7D",
+    "downloadURL": "https://cdn.crabnebula.app/asset/01M8APWZGYVNHKTSZSYDGZ6Q9G?from=%7B%22orgSlug%22%3A%22melty%22%2C%22appSlug%22%3A%22conductor%22%2C%22publicPlatform%22%3A%22dmg-aarch64%22%7D",
+    "downloadURLi386": "https://cdn.crabnebula.app/asset/01M8APWSQXTZEAWCMP7Z7J0ANC?from=%7B%22orgSlug%22%3A%22melty%22%2C%22appSlug%22%3A%22conductor%22%2C%22publicPlatform%22%3A%22dmg-x86_64%22%7D",
     "expectedTeamID": "27XN666UJ7",
     "type": "dmg"
   },
@@ -5602,6 +5602,18 @@
     "downloadURL": "",
     "expectedTeamID": "KD6L2PTK2Q",
     "type": "dmg"
+  },
+  {
+    "label": "grokbot",
+    "name": "Grok Bot",
+    "appName": "",
+    "appNewVersion": "1.3.0",
+    "timeStamp": "2026-11-26T02:34:03Z",
+    "status": "success",
+    "downloadURL": "https://downloads.cursor.com/grokbot/stable/darwin-arm64/1.3.0/Grok_Bot_1.3.0.zip",
+    "downloadURLi386": "https://downloads.cursor.com/grokbot/stable/darwin-x64/1.3.0/Grok_Bot_1.3.0_x64.zip",
+    "expectedTeamID": "DCNK4UB866",
+    "type": "zip"
   },
   {
     "label": "grooveomnidialerenterpriseedition",
@@ -12959,7 +12971,7 @@
     "appName": "",
     "appNewVersion": "8.6",
     "timeStamp": "2026-11-12T14:45:39Z",
-    "status": "success",
+    "status": "missing appNewVersion",
     "downloadURL": "https://cdn.textexpander.com/electron-mac/908.6.999/TextExpander_8.6.dmg",
     "expectedTeamID": "7PKJ6G4DXL",
     "type": "dmg"
@@ -14085,7 +14097,7 @@
     "appName": "",
     "appNewVersion": "4.2.1.9",
     "timeStamp": "2026-11-24T09:45:02Z",
-    "status": "success",
+    "status": "missing appNewVersion",
     "downloadURL": "https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.2.1.9_270601.dmg?t=1795508667",
     "expectedTeamID": "5A4RE8SF68",
     "type": "dmg"

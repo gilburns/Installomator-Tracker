@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.3.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.cursor.com/grokbot/stable/darwin-arm64/1.3.0/Grok_Bot_1.3.0.zip",
+    "downloadURLi386": "https://downloads.cursor.com/grokbot/stable/darwin-x64/1.3.0/Grok_Bot_1.3.0_x64.zip",
+    "expectedTeamID": "DCNK4UB866",
+    "label": "grokbot",
+    "name": "Grok Bot",
+    "timeStamp": "2026-11-26T02:34:03Z",
+    "type": "zip"
+  }
+]
