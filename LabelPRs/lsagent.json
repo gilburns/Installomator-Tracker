@@ -1,0 +1,39 @@
+{
+  "label": "lsagent",
+  "labelFile": "fragments/labels/lsagent.sh",
+  "pullRequests": [
+    {
+      "number": 3683,
+      "title": "lsagent: fix appNewVersion, appCustomVersion, and installer bundle name",
+      "url": "https://github.com/Installomator/Installomator/pull/3683",
+      "author": {
+        "login": "sjurlohne",
+        "url": "https://github.com/sjurlohne"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-26T07:48:23Z",
+      "updatedAt": "2026-11-26T07:48:23Z",
+      "baseBranch": "main",
+      "headBranch": "fix/lsagent",
+      "headRepository": "sjurlohne/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "6cfaa1c4c47849a381036c7915480d3d14673f5b",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 9,
+        "deletions": 4
+      },
+      "labelsInPR": [
+        "lsagent"
+      ]
+    }
+  ]
+}
