@@ -1620,7 +1620,7 @@
     "appName": "Blackmagic Converters/Converters Setup.app",
     "appNewVersion": "12.4.2",
     "timeStamp": "2026-11-05T02:25:44Z",
-    "status": "missing appNewVersion",
+    "status": "success",
     "downloadURL": "https://sw.blackmagicdesign.com/Converters/v12.4.2/Blackmagic_Converters_Macintosh_12.4.2.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=hcDu2Or/d1xfVndpvojIQZAUfNRguKCYazF8wDXmtuLw6JAh76OdPajNBRqol6YnfeJI4PZEu7V/kCpR1GPWBT/467GXF+8XrUxqLDOR9iamon2lG8nJmkt0vdzg8waKls+Q+cy2twHtqauO7b+SkMKW+8o7iKyW36rJRzy7VQaHEtyXOZKA+PHC6Kg5KjIUpftOmYFTh3yg63JXxwPNgYAH71p5jJc0rGgOpQq8joddvxqe/+6M9DMpe1mZmbndEN5f/T7CWPSx2K8VmrVkThcbvsspvByuBKlALd62pi9Qfht9RPD55jyz7Sno+uU+YeMt4TH/iZmNwnr/sfeW7w==&Expires=1793856344",
     "expectedTeamID": "9ZGFBWLSYP",
     "type": "pkgInDmgInZip"
@@ -1664,7 +1664,7 @@
     "appName": "/Blackmagic Web Presenter/Blackmagic Web Presenter Setup.app",
     "appNewVersion": "3.5",
     "timeStamp": "2026-10-19T01:58:07Z",
-    "status": "missing appNewVersion and downloadURL",
+    "status": "success",
     "downloadURL": "https://sw.blackmagicdesign.com/WebPresenter/v3.5/Blackmagic_Web_Presenter_Macintosh_3.5.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=nOCHZLReOc2bNfTON7r29H/pgLjOh2Lh5rxzUZutaPf8INrtGMLmyyBUNmb7D48xxr3nAO505D6gysblDWqCukZWfjSiRzve6nxVGkprjsbWbQ4Do1zRQvk1EbwVDriYzy14TPqNgYJnOZTJgHby0ulGNzywwM9baaQ+n85tqtejk3vOddJZ8yufCWhaxXFwcck8nMZMKDwlshgO5RsTocICfkbTaBefw5+roM5uxMWhio7g8rmhWxWen2KmlWlFI9XrZVD+X+CFzV09Gtodzs21ddH2QL0sN1NjO0ojdBPvvuMWezbhm5NQIwo6IFQKlGVmJD4qIicLPLVE1E92zw==&Expires=1792385887",
     "expectedTeamID": "9ZGFBWLSYP",
     "type": "pkgInDmgInZip"
@@ -6419,8 +6419,8 @@
     "label": "jabradirect",
     "name": "Jabra Direct",
     "appName": "",
-    "appNewVersion": "8.4.30601",
-    "timeStamp": "2026-11-19T15:32:33Z",
+    "appNewVersion": "8.5.32302",
+    "timeStamp": "2026-11-26T07:33:19Z",
     "status": "success",
     "downloadURL": "https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.dmg",
     "expectedTeamID": "55LV32M29R",
@@ -12971,7 +12971,7 @@
     "appName": "",
     "appNewVersion": "8.6",
     "timeStamp": "2026-11-12T14:45:39Z",
-    "status": "missing appNewVersion",
+    "status": "success",
     "downloadURL": "https://cdn.textexpander.com/electron-mac/908.6.999/TextExpander_8.6.dmg",
     "expectedTeamID": "7PKJ6G4DXL",
     "type": "dmg"
