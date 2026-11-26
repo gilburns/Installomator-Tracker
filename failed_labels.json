@@ -490,6 +490,11 @@
       "lastSeen": "2026-11-26T17:31:25Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "macvector": {
+      "firstSeen": "2026-11-26T19:35:06Z",
+      "lastSeen": "2026-11-26T19:35:06Z",
+      "reason": "downloadURL not found (HTTP 404)"
+    },
     "mailtooutlook": {
       "firstSeen": "2026-11-26T17:31:40Z",
       "lastSeen": "2026-11-26T17:31:40Z",
@@ -674,6 +679,11 @@
       "firstSeen": "2026-11-26T17:34:31Z",
       "lastSeen": "2026-11-26T17:34:31Z",
       "reason": "missing appNewVersion"
+    },
+    "owncloud": {
+      "firstSeen": "2026-11-26T19:38:34Z",
+      "lastSeen": "2026-11-26T19:38:34Z",
+      "reason": "downloadURL not found (HTTP 404)"
     },
     "pingplotter": {
       "firstSeen": "2026-11-26T17:34:53Z",
@@ -940,6 +950,11 @@
       "lastSeen": "2026-11-26T17:40:10Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "toonboomharmonypremium2025": {
+      "firstSeen": "2026-11-26T19:45:52Z",
+      "lastSeen": "2026-11-26T19:45:52Z",
+      "reason": "downloadURL not found (HTTP 404)"
+    },
     "toonboomstoryboardpro2024": {
       "firstSeen": "2026-11-26T17:40:15Z",
       "lastSeen": "2026-11-26T17:40:15Z",
@@ -1084,6 +1099,21 @@
       "firstSeen": "2026-11-26T17:43:32Z",
       "lastSeen": "2026-11-26T17:43:32Z",
       "reason": "label does not set appNewVersion"
+    },
+    "zulujdk11": {
+      "firstSeen": "2026-11-26T19:49:38Z",
+      "lastSeen": "2026-11-26T19:49:38Z",
+      "reason": "downloadURL not found (HTTP 404)"
+    },
+    "zulujdk13": {
+      "firstSeen": "2026-11-26T19:49:41Z",
+      "lastSeen": "2026-11-26T19:49:41Z",
+      "reason": "downloadURL not found (HTTP 404)"
+    },
+    "zulujdk15": {
+      "firstSeen": "2026-11-26T19:49:43Z",
+      "lastSeen": "2026-11-26T19:49:43Z",
+      "reason": "downloadURL not found (HTTP 404)"
     }
   },
   "labelsHash": "08dc6d671ad8f53b853694cefc3c1d25e512437dcc0b35668787d4e8a0bb7b67",
