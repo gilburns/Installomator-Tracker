@@ -12,19 +12,23 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-25T20:08:43Z",
-      "updatedAt": "2026-11-25T20:08:43Z",
+      "updatedAt": "2026-11-26T01:00:31Z",
       "baseBranch": "main",
       "headBranch": "label-comet",
       "headRepository": "naschenbrenner/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
       "reviews": [],
-      "requestedReviewers": [],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "9478382f7145a5e74593ab3b03068a1b436929ad",
-      "commitCount": 1,
-      "commentCount": 0,
+      "headCommit": "d1165600e996baa46a5d008e0828898a25f3ec9b",
+      "commitCount": 2,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",

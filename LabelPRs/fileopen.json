@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-25T15:13:55Z",
-      "updatedAt": "2026-11-25T15:13:55Z",
+      "updatedAt": "2026-11-25T23:55:16Z",
       "baseBranch": "main",
       "headBranch": "add-fileopen-label",
       "headRepository": "CursedVanguard/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-25T23:55:16Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "bc3111a25e68f9d60e17ec4aa7c7564c1873a6f9",

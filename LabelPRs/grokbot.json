@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-25T20:08:46Z",
-      "updatedAt": "2026-11-25T20:08:46Z",
+      "updatedAt": "2026-11-26T00:17:59Z",
       "baseBranch": "main",
       "headBranch": "label-grokbot",
       "headRepository": "naschenbrenner/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-26T00:17:58Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "e12196c0f17eea218cd4e64aefbbbbc56a86914d",

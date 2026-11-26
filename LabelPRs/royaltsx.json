@@ -12,14 +12,24 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-25T19:18:30Z",
-      "updatedAt": "2026-11-25T19:50:35Z",
+      "updatedAt": "2026-11-25T23:59:58Z",
       "baseBranch": "main",
       "headBranch": "update-royaltsx-label",
       "headRepository": "a-martin253/Installomator",
-      "prLabels": [],
+      "prLabels": [
+        "application"
+      ],
       "reviewDecision": "REVIEW_REQUIRED",
-      "reviews": [],
-      "requestedReviewers": [],
+      "reviews": [
+        {
+          "reviewer": "uurazzle",
+          "state": "APPROVED",
+          "submittedAt": "2026-11-25T23:59:58Z"
+        }
+      ],
+      "requestedReviewers": [
+        "gilburns"
+      ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
       "headCommit": "c593e25321369345993f6267b07db447c8397152",
