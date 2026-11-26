@@ -1011,6 +1011,17 @@
     "type": "pkgInDmg"
   },
   {
+    "label": "arctic",
+    "name": "Arctic",
+    "appName": "",
+    "appNewVersion": "26.2.0",
+    "timeStamp": "2026-11-26T01:18:56Z",
+    "status": "success",
+    "downloadURL": "https://updates.hedge.video/arctic/macos/updates/production/Arctic_20261118164300_v26.2.0b76/Arctic-76.zip",
+    "expectedTeamID": "A43D9X8EYU",
+    "type": "zip"
+  },
+  {
     "label": "arduinoide",
     "name": "Arduino IDE",
     "appName": "",
@@ -2945,6 +2956,17 @@
     "type": "dmg"
   },
   {
+    "label": "commandpost",
+    "name": "CommandPost",
+    "appName": "",
+    "appNewVersion": "2.1.0",
+    "timeStamp": "2026-11-26T01:23:16Z",
+    "status": "success",
+    "downloadURL": "https://github.com/CommandPost/CommandPost/releases/download/2.1.0/CommandPost_2.1.0.dmg",
+    "expectedTeamID": "A5HDJTY9X5",
+    "type": "dmg"
+  },
+  {
     "label": "conductor",
     "name": "Conductor",
     "appName": "",
@@ -3605,6 +3627,7 @@
     "timeStamp": "2026-09-28T18:15:57Z",
     "status": "success",
     "downloadURL": "https://releases-static.displaynote.com/a4d376fd%2Ff40a%2F494f%2Fbfb7%2F0d3148d3e71b%2FDisplaynoteMontageClient-2.58.0.59411.pkg?response-content-disposition=attachment%3B%20filename=displaynote-mac-2.58.0.59411-released.pkg%3B%20size=297803507",
+    "downloadURLi386": "https://releases-static.displaynote.com/a4d376fd%2Ff40a%2F494f%2Fbfb7%2F0d3148d3e71b%2FDisplaynoteMontageClient-2.58.0.59411.pkg?response-content-disposition=attachment%3B%20filename=displaynote-mac-2.58.0.59411-released.pkg%3B%20size=297803507",
     "expectedTeamID": "Q3ML87W6WF",
     "type": "pkg"
   },
@@ -4038,6 +4061,17 @@
     "downloadURL": "https://df02732b5e02e1517101f7db3543d01b.eu.r2.cloudflarestorage.com/browser-app-cms-repo-eco/144548e4-670e-46ef-be30-8d14ad305f19/build/158.2.8127.7/EcosiaBrowser-158.2.8127.7_uni.dmg?X-Amz-Expires=86400&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=bd9f723203c25e6c74c81a9c651b8e34%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T142902Z&X-Amz-SignedHeaders=host&X-Amz-Signature=beacb2523d6092edea9298480b378cb96c8c9da00eb377a97837f83b63dfe4ed",
     "expectedTeamID": "33YMRSYD2L",
     "type": "dmg"
+  },
+  {
+    "label": "editready",
+    "name": "EditReady",
+    "appName": "",
+    "appNewVersion": "26.3.0",
+    "timeStamp": "2026-11-26T01:26:16Z",
+    "status": "success",
+    "downloadURL": "https://updates.hedge.video/editready/macos/updates/production/EditReady_20261122162020_v26.3.0b1744/EditReady-1744.zip",
+    "expectedTeamID": "A43D9X8EYU",
+    "type": "zip"
   },
   {
     "label": "editshare-connect",
@@ -4793,7 +4827,7 @@
     "appName": "",
     "appNewVersion": "42.2",
     "timeStamp": "2026-07-03T15:46:19Z",
-    "status": "missing appNewVersion",
+    "status": "success",
     "downloadURL": "https://macflux.b-cdn.net/Flux.zip",
     "expectedTeamID": "VZKSA7H9J9",
     "type": "zip"
@@ -4852,6 +4886,17 @@
     "downloadURL": "",
     "expectedTeamID": "2V7G2B7WG4",
     "type": "dmg"
+  },
+  {
+    "label": "foolcat",
+    "name": "FoolCat",
+    "appName": "",
+    "appNewVersion": "26.2",
+    "timeStamp": "2026-11-26T01:29:17Z",
+    "status": "success",
+    "downloadURL": "https://updates.hedge.video/foolcat/macos/updates/production/FoolCat_20260624201110_v26.2b278/FoolCat-278.zip",
+    "expectedTeamID": "A43D9X8EYU",
+    "type": "zip"
   },
   {
     "label": "forel",
@@ -6182,6 +6227,17 @@
     "type": "dmg"
   },
   {
+    "label": "insta360studio",
+    "name": "Insta360 Studio",
+    "appName": "",
+    "appNewVersion": "6.0.8",
+    "timeStamp": "2026-11-26T01:31:10Z",
+    "status": "success",
+    "downloadURL": "https://wassets.insta360.com/common/9d18170f216349579082218151203cdd/Insta360_Studio_6.0.8_release_insta360(RC_build100)_20261106_165633_signed.zip",
+    "expectedTeamID": "847R5ZLN8S",
+    "type": "pkgInZip"
+  },
+  {
     "label": "installomator",
     "name": "Installomator",
     "appName": "",
@@ -6827,6 +6883,17 @@
     "downloadURL": "https://updates.kaleidoscope.app/v7/prod/Kaleidoscope-7.1-11251.app.zip",
     "expectedTeamID": "4G35KLFD64",
     "type": "zip"
+  },
+  {
+    "label": "kalturacapture",
+    "name": "KalturaCapture",
+    "appName": "",
+    "appNewVersion": "5.2.3",
+    "timeStamp": "2026-11-26T01:32:24Z",
+    "status": "success",
+    "downloadURL": "https://cdnapisec.kaltura.com/content/static/classroom/v5.2.3/KalturaCapture_5.2.3.dmg",
+    "expectedTeamID": "X8RDCFJK95",
+    "type": "dmg"
   },
   {
     "label": "kap",
@@ -9354,6 +9421,17 @@
     "type": "pkg"
   },
   {
+    "label": "offshoot",
+    "name": "OffShoot",
+    "appName": "",
+    "appNewVersion": "26.3.1",
+    "timeStamp": "2026-11-26T01:36:21Z",
+    "status": "success",
+    "downloadURL": "https://updates.hedge.video/hedge/macos/updates/production/OffShoot_20261103193500_v26.3.1b2094/OffShoot_20261103193500_v26.3.1b2094.dmg",
+    "expectedTeamID": "A43D9X8EYU",
+    "type": "pkgInDmg"
+  },
+  {
     "label": "oktaverify",
     "name": "Okta Verify",
     "appName": "",
@@ -10193,6 +10271,17 @@
     "type": "dmg"
   },
   {
+    "label": "postlab",
+    "name": "PostLab",
+    "appName": "",
+    "appNewVersion": "26.2",
+    "timeStamp": "2026-11-26T01:37:40Z",
+    "status": "success",
+    "downloadURL": "https://updates.hedge.video/postlab/macos/updates/production/PostLab_20261006150604_v26.2b272/PostLab_20261006150604_v26.2b272.dmg",
+    "expectedTeamID": "A43D9X8EYU",
+    "type": "pkgInDmg"
+  },
+  {
     "label": "postman",
     "name": "Postman",
     "appName": "",
@@ -10514,6 +10603,17 @@
     "downloadURL": "https://www.python.org/ftp/python/3.15.2/python-3.15.2-macos11.pkg",
     "expectedTeamID": "BMM5U3QVKW",
     "type": "pkg"
+  },
+  {
+    "label": "qfinderpro",
+    "name": "Qfinder Pro",
+    "appName": "",
+    "appNewVersion": "7.14.1.0727",
+    "timeStamp": "2026-11-26T01:38:06Z",
+    "status": "success",
+    "downloadURL": "https://download.qnap.com/Storage/Utility/QNAPQfinderProMac-7.14.1.0727.dmg",
+    "expectedTeamID": "JY5JM7GXQJ",
+    "type": "pkgInDmg"
   },
   {
     "label": "qgis-pr",
@@ -12776,6 +12876,17 @@
     "type": "dmg"
   },
   {
+    "label": "tentaclesyncstudio",
+    "name": "Tentacle Sync Studio",
+    "appName": "",
+    "appNewVersion": "1.37",
+    "timeStamp": "2026-11-26T01:41:49Z",
+    "status": "success",
+    "downloadURL": "https://cms.tentaclesync.com/assets/downloads/download-files/ttsyncstudio-v1_37.dmg",
+    "expectedTeamID": "N3J7Y6A64Z",
+    "type": "dmg"
+  },
+  {
     "label": "termius",
     "name": "Termius",
     "appName": "",
@@ -14073,11 +14184,11 @@
     "label": "wisprflow",
     "name": "Wispr Flow",
     "appName": "",
-    "appNewVersion": "1.6.1619",
-    "timeStamp": "2026-11-24T23:42:20Z",
+    "appNewVersion": "1.6.1631",
+    "timeStamp": "2026-11-26T01:45:46Z",
     "status": "success",
-    "downloadURL": "https://dl.wisprflow.com/wispr-flow/darwin/arm64/dmgs/Flow-v1.6.1619.dmg",
-    "downloadURLi386": "https://dl.wisprflow.com/wispr-flow/darwin/x64/dmgs/Flow-v1.6.1619.dmg",
+    "downloadURL": "https://dl.wisprflow.com/wispr-flow/darwin/arm64/dmgs/Flow-v1.6.1631.dmg",
+    "downloadURLi386": "https://dl.wisprflow.com/wispr-flow/darwin/x64/dmgs/Flow-v1.6.1631.dmg",
     "expectedTeamID": "C9VQZ78H85",
     "type": "dmg"
   },

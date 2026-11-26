@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "6.0.8",
+    "blockingProcesses": [],
+    "downloadURL": "https://wassets.insta360.com/common/9d18170f216349579082218151203cdd/Insta360_Studio_6.0.8_release_insta360(RC_build100)_20261106_165633_signed.zip",
+    "expectedTeamID": "847R5ZLN8S",
+    "label": "insta360studio",
+    "name": "Insta360 Studio",
+    "timeStamp": "2026-11-26T01:31:10Z",
+    "type": "pkgInZip"
+  }
+]

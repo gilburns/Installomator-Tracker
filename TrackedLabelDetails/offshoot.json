@@ -1,0 +1,16 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.3.1",
+    "blockingProcesses": [
+      "OffShoot",
+      "Hedge"
+    ],
+    "downloadURL": "https://updates.hedge.video/hedge/macos/updates/production/OffShoot_20261103193500_v26.3.1b2094/OffShoot_20261103193500_v26.3.1b2094.dmg",
+    "expectedTeamID": "A43D9X8EYU",
+    "label": "offshoot",
+    "name": "OffShoot",
+    "timeStamp": "2026-11-26T01:36:21Z",
+    "type": "pkgInDmg"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "5.2.3",
+    "blockingProcesses": [],
+    "downloadURL": "https://cdnapisec.kaltura.com/content/static/classroom/v5.2.3/KalturaCapture_5.2.3.dmg",
+    "expectedTeamID": "X8RDCFJK95",
+    "label": "kalturacapture",
+    "name": "KalturaCapture",
+    "timeStamp": "2026-11-26T01:32:24Z",
+    "type": "dmg"
+  }
+]

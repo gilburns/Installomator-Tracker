@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "7.14.1.0727",
+    "blockingProcesses": [],
+    "downloadURL": "https://download.qnap.com/Storage/Utility/QNAPQfinderProMac-7.14.1.0727.dmg",
+    "expectedTeamID": "JY5JM7GXQJ",
+    "label": "qfinderpro",
+    "name": "Qfinder Pro",
+    "timeStamp": "2026-11-26T01:38:06Z",
+    "type": "pkgInDmg"
+  }
+]

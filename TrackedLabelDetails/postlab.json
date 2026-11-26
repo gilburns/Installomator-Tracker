@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.hedge.video/postlab/macos/updates/production/PostLab_20261006150604_v26.2b272/PostLab_20261006150604_v26.2b272.dmg",
+    "expectedTeamID": "A43D9X8EYU",
+    "label": "postlab",
+    "name": "PostLab",
+    "timeStamp": "2026-11-26T01:37:40Z",
+    "type": "pkgInDmg"
+  }
+]

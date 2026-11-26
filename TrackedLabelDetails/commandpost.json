@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "2.1.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/CommandPost/CommandPost/releases/download/2.1.0/CommandPost_2.1.0.dmg",
+    "expectedTeamID": "A5HDJTY9X5",
+    "label": "commandpost",
+    "name": "CommandPost",
+    "timeStamp": "2026-11-26T01:23:16Z",
+    "type": "dmg"
+  }
+]

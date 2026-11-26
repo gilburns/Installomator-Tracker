@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.2",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.hedge.video/foolcat/macos/updates/production/FoolCat_20260624201110_v26.2b278/FoolCat-278.zip",
+    "expectedTeamID": "A43D9X8EYU",
+    "label": "foolcat",
+    "name": "FoolCat",
+    "timeStamp": "2026-11-26T01:29:17Z",
+    "type": "zip"
+  }
+]

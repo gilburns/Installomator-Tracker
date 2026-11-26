@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.2.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.hedge.video/arctic/macos/updates/production/Arctic_20261118164300_v26.2.0b76/Arctic-76.zip",
+    "expectedTeamID": "A43D9X8EYU",
+    "label": "arctic",
+    "name": "Arctic",
+    "timeStamp": "2026-11-26T01:18:56Z",
+    "type": "zip"
+  }
+]

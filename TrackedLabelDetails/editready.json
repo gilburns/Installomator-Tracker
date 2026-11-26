@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "26.3.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://updates.hedge.video/editready/macos/updates/production/EditReady_20261122162020_v26.3.0b1744/EditReady-1744.zip",
+    "expectedTeamID": "A43D9X8EYU",
+    "label": "editready",
+    "name": "EditReady",
+    "timeStamp": "2026-11-26T01:26:16Z",
+    "type": "zip"
+  }
+]

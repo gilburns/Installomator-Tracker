@@ -1,0 +1,13 @@
+[
+  {
+    "appName": "",
+    "appNewVersion": "1.37",
+    "blockingProcesses": [],
+    "downloadURL": "https://cms.tentaclesync.com/assets/downloads/download-files/ttsyncstudio-v1_37.dmg",
+    "expectedTeamID": "N3J7Y6A64Z",
+    "label": "tentaclesyncstudio",
+    "name": "Tentacle Sync Studio",
+    "timeStamp": "2026-11-26T01:41:49Z",
+    "type": "dmg"
+  }
+]
