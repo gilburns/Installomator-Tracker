@@ -42,5 +42,16 @@
     "name": "Opera GX",
     "timeStamp": "2026-11-19T08:44:11Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "140.0.6074.73",
+    "blockingProcesses": [],
+    "downloadURL": "https://get.geo.opera.com/pub/opera_gx/140.0.6074.73/mac/Opera_GX_140.0.6074.73_Setup.dmg",
+    "expectedTeamID": "A2P9LX4JPN",
+    "label": "operagx",
+    "name": "Opera GX",
+    "timeStamp": "2026-11-26T10:34:50Z",
+    "type": "dmg"
   }
 ]

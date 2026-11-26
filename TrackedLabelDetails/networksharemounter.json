@@ -75,5 +75,16 @@
     "name": "NetworkShareMounter",
     "timeStamp": "2026-11-13T10:34:11Z",
     "type": "pkg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.2.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://gitlab.rrze.fau.de/api/v4/projects/506/packages/generic/networksharemounter/release-4.2.1/NetworkShareMounter-4.2.1.pkg",
+    "expectedTeamID": "C8F68RFW4L",
+    "label": "networksharemounter",
+    "name": "NetworkShareMounter",
+    "timeStamp": "2026-11-26T10:34:08Z",
+    "type": "pkg"
   }
 ]
