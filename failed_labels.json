@@ -160,6 +160,11 @@
       "lastSeen": "2026-11-26T17:18:15Z",
       "reason": "missing appNewVersion"
     },
+    "capcut": {
+      "firstSeen": "2026-11-26T18:22:47Z",
+      "lastSeen": "2026-11-26T18:22:47Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-26T17:18:35Z",
       "lastSeen": "2026-11-26T17:18:35Z",
