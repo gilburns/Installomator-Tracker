@@ -75,5 +75,16 @@
     "name": "Overlord",
     "timeStamp": "2026-11-17T03:42:45Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2.10.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/battleaxedotco/underling/releases/download/v2.10.1/Overlord_2.10.1_universal.dmg",
+    "expectedTeamID": "4BF6YF8AAU",
+    "label": "overlord",
+    "name": "Overlord",
+    "timeStamp": "2026-11-26T20:41:33Z",
+    "type": "dmg"
   }
 ]

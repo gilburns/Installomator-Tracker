@@ -1100,6 +1100,11 @@
       "lastSeen": "2026-11-26T17:43:32Z",
       "reason": "label does not set appNewVersion"
     },
+    "zulip": {
+      "firstSeen": "2026-11-26T20:51:44Z",
+      "lastSeen": "2026-11-26T20:51:44Z",
+      "reason": "missing appNewVersion"
+    },
     "zulujdk11": {
       "firstSeen": "2026-11-26T19:49:38Z",
       "lastSeen": "2026-11-26T19:49:38Z",
