@@ -155,6 +155,11 @@
       "lastSeen": "2026-11-26T12:25:30Z",
       "reason": "missing appNewVersion"
     },
+    "calcservice": {
+      "firstSeen": "2026-11-26T15:19:27Z",
+      "lastSeen": "2026-11-26T15:19:27Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "calibre": {
       "firstSeen": "2026-11-26T12:25:47Z",
       "lastSeen": "2026-11-26T12:25:47Z",
@@ -919,6 +924,11 @@
       "firstSeen": "2026-11-26T12:46:37Z",
       "lastSeen": "2026-11-26T12:46:37Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "textexpander": {
+      "firstSeen": "2026-11-26T15:39:25Z",
+      "lastSeen": "2026-11-26T15:39:25Z",
+      "reason": "missing appNewVersion"
     },
     "thunderbird_intl": {
       "firstSeen": "2026-11-26T12:47:39Z",
