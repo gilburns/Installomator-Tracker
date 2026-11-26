@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-17T14:33:50Z",
-      "updatedAt": "2026-11-25T18:25:59Z",
+      "updatedAt": "2026-11-26T08:00:04Z",
       "baseBranch": "main",
       "headBranch": "new-label/tourbox",
       "headRepository": "mwegmann98/Installomator",
@@ -32,13 +32,13 @@
       ],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "a9506b45d46b41058823e18bc333cee3a5f09ab3",
-      "commitCount": 2,
+      "headCommit": "686e9b6cc347f8228403565191245ba4cfcefff0",
+      "commitCount": 3,
       "commentCount": 5,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
-        "additions": 24,
+        "additions": 17,
         "deletions": 0
       },
       "labelsInPR": [
