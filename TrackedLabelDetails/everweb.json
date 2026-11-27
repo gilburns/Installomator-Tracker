@@ -3,11 +3,21 @@
     "appName": "",
     "appNewVersion": "4.6.0",
     "blockingProcesses": [],
-    "downloadURL": "https://www.ragesw.com/files/everweb/everweb.dmg",
     "expectedTeamID": "A95T4TFRZ2",
     "label": "everweb",
     "name": "EverWeb",
     "timeStamp": "2026-10-04T08:12:29Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "4.7.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://www.ragesw.com/files/everweb/everweb.dmg",
+    "expectedTeamID": "A95T4TFRZ2",
+    "label": "everweb",
+    "name": "EverWeb",
+    "timeStamp": "2026-11-27T11:27:24Z",
     "type": "dmg"
   }
 ]
