@@ -9458,10 +9458,10 @@
     "label": "ollama",
     "name": "Ollama",
     "appName": "",
-    "appNewVersion": "0.40.18",
-    "timeStamp": "2026-11-24T08:40:19Z",
+    "appNewVersion": "0.40.19",
+    "timeStamp": "2026-11-27T22:35:40Z",
     "status": "success",
-    "downloadURL": "https://github.com/ollama/ollama/releases/download/v0.40.18/Ollama-darwin.zip",
+    "downloadURL": "https://github.com/ollama/ollama/releases/download/v0.40.19/Ollama-darwin.zip",
     "expectedTeamID": "3MU9H2V9Y9",
     "type": "zip"
   },
@@ -13037,7 +13037,7 @@
     "appName": "",
     "appNewVersion": "4.21.0",
     "timeStamp": "2026-08-21T18:29:45Z",
-    "status": "success",
+    "status": "missing appNewVersion and downloadURL",
     "downloadURL": "https://www.cendio.com/downloads/clients/tl-4.21.0_4588-client-macos.dmg",
     "expectedTeamID": "PHUT6TWL4H",
     "type": "dmg"
