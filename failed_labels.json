@@ -270,6 +270,11 @@
       "lastSeen": "2026-11-27T18:27:20Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "blackmagicultimatte": {
+      "firstSeen": "2026-11-27T21:17:19Z",
+      "lastSeen": "2026-11-27T21:17:19Z",
+      "reason": "missing downloadURL"
+    },
     "blitzit": {
       "firstSeen": "2026-11-27T18:27:45Z",
       "lastSeen": "2026-11-27T18:27:45Z",
