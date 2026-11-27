@@ -160,6 +160,11 @@
       "lastSeen": "2026-11-27T13:20:34Z",
       "reason": "missing appNewVersion"
     },
+    "capcut": {
+      "firstSeen": "2026-11-27T16:21:43Z",
+      "lastSeen": "2026-11-27T16:21:43Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "cardpresso": {
       "firstSeen": "2026-11-26T22:19:53Z",
       "lastSeen": "2026-11-27T13:21:00Z",
@@ -419,6 +424,11 @@
       "firstSeen": "2026-11-26T22:31:39Z",
       "lastSeen": "2026-11-27T13:33:23Z",
       "reason": "missing appNewVersion and downloadURL"
+    },
+    "inkscape": {
+      "firstSeen": "2026-11-27T16:32:53Z",
+      "lastSeen": "2026-11-27T16:32:53Z",
+      "reason": "missing appNewVersion"
     },
     "ipvisionconnect": {
       "firstSeen": "2026-11-26T22:32:01Z",
