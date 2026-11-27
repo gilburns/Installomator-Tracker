@@ -806,7 +806,7 @@
     "appName": "",
     "appNewVersion": "3.5",
     "timeStamp": "2026-10-29T18:08:38Z",
-    "status": "success",
+    "status": "missing appNewVersion",
     "downloadURL": "https://www.mothersruin.com/software/downloads/Apparency.dmg",
     "expectedTeamID": "936EB786NH",
     "type": "dmg"
@@ -971,7 +971,7 @@
     "appName": "",
     "appNewVersion": "1.8",
     "timeStamp": "2026-10-29T18:08:48Z",
-    "status": "success",
+    "status": "missing appNewVersion",
     "downloadURL": "https://www.mothersruin.com/software/downloads/Archaeology.dmg",
     "expectedTeamID": "936EB786NH",
     "type": "dmg"

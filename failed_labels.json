@@ -45,6 +45,11 @@
       "lastSeen": "2026-11-27T03:20:39Z",
       "reason": "missing appNewVersion and downloadURL"
     },
+    "apparency": {
+      "firstSeen": "2026-11-27T04:20:39Z",
+      "lastSeen": "2026-11-27T04:20:39Z",
+      "reason": "missing appNewVersion"
+    },
     "applenyfonts": {
       "firstSeen": "2026-11-26T22:17:18Z",
       "lastSeen": "2026-11-27T03:20:50Z",
@@ -74,6 +79,11 @@
       "firstSeen": "2026-11-26T22:17:18Z",
       "lastSeen": "2026-11-27T03:20:50Z",
       "reason": "label does not set appNewVersion"
+    },
+    "archaeology": {
+      "firstSeen": "2026-11-27T04:20:50Z",
+      "lastSeen": "2026-11-27T04:20:50Z",
+      "reason": "missing appNewVersion"
     },
     "archimate": {
       "firstSeen": "2026-11-26T22:17:28Z",
