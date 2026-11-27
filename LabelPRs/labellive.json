@@ -15,7 +15,7 @@
       "updatedAt": "2026-11-20T00:47:21Z",
       "baseBranch": "main",
       "headBranch": "new-label/labellive",
-      "headRepository": "mwegmann98/Installomator",
+      "headRepository": "it-mofakult/Installomator",
       "prLabels": [
         "application"
       ],

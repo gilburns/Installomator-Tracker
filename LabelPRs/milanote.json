@@ -15,7 +15,7 @@
       "updatedAt": "2026-11-26T14:37:14Z",
       "baseBranch": "main",
       "headBranch": "new-label/milanote",
-      "headRepository": "mwegmann98/Installomator",
+      "headRepository": "it-mofakult/Installomator",
       "prLabels": [],
       "reviewDecision": "CHANGES_REQUESTED",
       "reviews": [

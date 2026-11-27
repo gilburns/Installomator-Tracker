@@ -15,7 +15,7 @@
       "updatedAt": "2026-11-26T14:39:50Z",
       "baseBranch": "main",
       "headBranch": "new-label/tourbox",
-      "headRepository": "mwegmann98/Installomator",
+      "headRepository": "it-mofakult/Installomator",
       "prLabels": [
         "application"
       ],
