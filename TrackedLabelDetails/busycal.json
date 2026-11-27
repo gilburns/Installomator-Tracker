@@ -42,5 +42,16 @@
     "name": "BusyCal",
     "timeStamp": "2026-11-12T13:20:22Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "2026.4.7",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.busymac.com/bcl-2026.4.7-2026-11-27-12-28-33.dmg",
+    "expectedTeamID": "N4RA379GBW",
+    "label": "busycal",
+    "name": "BusyCal",
+    "timeStamp": "2026-11-27T09:23:45Z",
+    "type": "dmg"
   }
 ]

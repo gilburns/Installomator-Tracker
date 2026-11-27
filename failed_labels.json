@@ -455,6 +455,11 @@
       "lastSeen": "2026-11-27T08:45:26Z",
       "reason": "label does not set appNewVersion"
     },
+    "launchcontrol": {
+      "firstSeen": "2026-11-27T09:39:42Z",
+      "lastSeen": "2026-11-27T09:39:42Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "libreofficelanguagepackintl": {
       "firstSeen": "2026-11-26T22:34:54Z",
       "lastSeen": "2026-11-27T08:46:21Z",

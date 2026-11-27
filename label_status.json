@@ -1854,10 +1854,10 @@
     "label": "busycal",
     "name": "BusyCal",
     "appName": "",
-    "appNewVersion": "2026.4.6",
-    "timeStamp": "2026-11-12T13:20:22Z",
+    "appNewVersion": "2026.4.7",
+    "timeStamp": "2026-11-27T09:23:45Z",
     "status": "success",
-    "downloadURL": "https://downloads.busymac.com/bcl-2026.4.6-2026-11-12-12-39-07.dmg",
+    "downloadURL": "https://downloads.busymac.com/bcl-2026.4.7-2026-11-27-12-28-33.dmg",
     "expectedTeamID": "N4RA379GBW",
     "type": "dmg"
   },
@@ -7239,7 +7239,7 @@
     "appName": "",
     "appNewVersion": "2.13.1",
     "timeStamp": "2026-11-18T12:40:43Z",
-    "status": "success",
+    "status": "missing appNewVersion and downloadURL",
     "downloadURL": "https://www.soma-zone.com/download/files/LaunchControl-2.13.1_update.tar.xz",
     "expectedTeamID": "H665B6EEXC",
     "type": "tbz"
