@@ -880,6 +880,11 @@
       "lastSeen": "2026-11-27T13:45:28Z",
       "reason": "label does not set appNewVersion"
     },
+    "sqldeveloper": {
+      "firstSeen": "2026-11-27T17:41:55Z",
+      "lastSeen": "2026-11-27T17:41:55Z",
+      "reason": "missing appNewVersion and downloadURL"
+    },
     "sqlpropostgres": {
       "firstSeen": "2026-11-26T22:43:04Z",
       "lastSeen": "2026-11-27T13:45:35Z",
