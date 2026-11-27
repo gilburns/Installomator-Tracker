@@ -1923,7 +1923,7 @@
     "appName": "",
     "appNewVersion": "3.5.1",
     "timeStamp": "2026-07-03T15:40:19Z",
-    "status": "missing appNewVersion and downloadURL",
+    "status": "success",
     "downloadURL": "https://download.devontechnologies.com/download/freeware/calcservice/3.5.1/CalcService.app.zip",
     "expectedTeamID": "679S2QUWR8",
     "type": "zip"
@@ -7642,10 +7642,10 @@
     "label": "lulu",
     "name": "LuLu",
     "appName": "",
-    "appNewVersion": "4.5.7",
-    "timeStamp": "2026-11-02T14:26:49Z",
+    "appNewVersion": "4.6.0",
+    "timeStamp": "2026-11-27T03:39:01Z",
     "status": "success",
-    "downloadURL": "https://github.com/objective-see/LuLu/releases/download/v4.5.7/LuLu_4.5.7.dmg",
+    "downloadURL": "https://github.com/objective-see/LuLu/releases/download/v4.6.0/LuLu_4.6.0.dmg",
     "expectedTeamID": "VBG97UB4TA",
     "type": "dmg"
   },
@@ -12971,7 +12971,7 @@
     "appName": "",
     "appNewVersion": "8.6",
     "timeStamp": "2026-11-12T14:45:39Z",
-    "status": "missing appNewVersion",
+    "status": "success",
     "downloadURL": "https://cdn.textexpander.com/electron-mac/908.6.999/TextExpander_8.6.dmg",
     "expectedTeamID": "7PKJ6G4DXL",
     "type": "dmg"
