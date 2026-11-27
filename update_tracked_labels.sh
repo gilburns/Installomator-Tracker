@@ -314,13 +314,25 @@ if [[ $isFullRun -eq 1 ]]; then
     fi
 fi
 
+# A full retry starts the failed map over, so labels that now resolve (or
+# were removed from Labels/) drop out of it. previousFailed keeps the old
+# entries so a label that's still failing keeps its original firstSeen.
+previousFailed=$(echo "$failedState" | jq -c '.failed // {}')
 if [[ $forceFullRetry -eq 1 ]]; then
     skipSet='{}'
     newFailedMap='{}'
 else
-    skipSet=$(echo "$failedState" | jq -c '.failed // {}')
+    skipSet="$previousFailed"
     newFailedMap="$skipSet"
 fi
+
+# Records $1 as failed with reason $2, keeping firstSeen from this run's map
+# or, after a full-retry reset, from the map as it was before this run.
+recordFailure() { # $1 label, $2 reason
+    newFailedMap=$(echo "$newFailedMap" | jq -c --argjson prev "$previousFailed" --arg l "$1" --arg reason "$2" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
+        .[$l] = {reason: $reason, firstSeen: (.[$l].firstSeen // $prev[$l].firstSeen // $now), lastSeen: $now}
+    ')
+}
 
 newCount=0
 staticCount=0
@@ -347,9 +359,7 @@ for labelFile in "${labelFiles[@]}"; do
 
     if ! labelSetsAppNewVersion "$labelFile"; then
         echo "[$label] FAILED: label does not set appNewVersion" >&2
-        newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "label does not set appNewVersion" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
-            .[$l] = {reason: $reason, firstSeen: (.[$l].firstSeen // $now), lastSeen: $now}
-        ')
+        recordFailure "$label" "label does not set appNewVersion"
         failCount=$((failCount + 1))
         continue
     fi
@@ -373,18 +383,14 @@ for labelFile in "${labelFiles[@]}"; do
             reason="resolve failed (exit $exitStatus)"
         fi
         echo "[$label] FAILED: $reason" >&2
-        newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "$reason" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
-            .[$l] = {reason: $reason, firstSeen: (.[$l].firstSeen // $now), lastSeen: $now}
-        ')
+        recordFailure "$label" "$reason"
         failCount=$((failCount + 1))
         continue
     fi
 
     if ! echo "$jsonOutput" | jq empty >/dev/null 2>&1; then
         echo "[$label] FAILED: invalid JSON output" >&2
-        newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "invalid JSON output" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
-            .[$l] = {reason: $reason, firstSeen: (.[$l].firstSeen // $now), lastSeen: $now}
-        ')
+        recordFailure "$label" "invalid JSON output"
         failCount=$((failCount + 1))
         continue
     fi
@@ -401,18 +407,14 @@ for labelFile in "${labelFiles[@]}"; do
             missingReason="missing downloadURL"
         fi
         echo "[$label] FAILED: $missingReason" >&2
-        newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "$missingReason" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
-            .[$l] = {reason: $reason, firstSeen: (.[$l].firstSeen // $now), lastSeen: $now}
-        ')
+        recordFailure "$label" "$missingReason"
         failCount=$((failCount + 1))
         continue
     fi
 
     if ! isValidDownloadURL "$downloadURL"; then
         echo "[$label] FAILED: invalid downloadURL '$downloadURL'" >&2
-        newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "invalid downloadURL" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
-            .[$l] = {reason: $reason, firstSeen: (.[$l].firstSeen // $now), lastSeen: $now}
-        ')
+        recordFailure "$label" "invalid downloadURL"
         failCount=$((failCount + 1))
         continue
     fi
@@ -422,9 +424,7 @@ for labelFile in "${labelFiles[@]}"; do
     downloadStatus=$(downloadURLStatus "$downloadURL")
     if isDownloadURLNotFound "$downloadStatus"; then
         echo "[$label] FAILED: downloadURL not found (HTTP $downloadStatus) '$downloadURL'" >&2
-        newFailedMap=$(echo "$newFailedMap" | jq --arg l "$label" --arg reason "downloadURL not found (HTTP $downloadStatus)" --arg now "$(/bin/date -u +"%Y-%m-%dT%H:%M:%SZ")" '
-            .[$l] = {reason: $reason, firstSeen: (.[$l].firstSeen // $now), lastSeen: $now}
-        ')
+        recordFailure "$label" "downloadURL not found (HTTP $downloadStatus)"
         failCount=$((failCount + 1))
         continue
     fi
