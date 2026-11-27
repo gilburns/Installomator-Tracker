@@ -757,5 +757,16 @@
     "name": "Kilobat",
     "timeStamp": "2026-11-27T12:43:39Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "1.50.0",
+    "blockingProcesses": [],
+    "downloadURL": "https://github.com/seifip/kilobat-releases/releases/download/v1.50.0/Kilobat-1.50.0.dmg",
+    "expectedTeamID": "HAR874R67J",
+    "label": "kilobat",
+    "name": "Kilobat",
+    "timeStamp": "2026-11-27T15:35:05Z",
+    "type": "dmg"
   }
 ]
