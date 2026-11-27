@@ -1,0 +1,39 @@
+{
+  "label": "qgisltr",
+  "labelFile": "fragments/labels/qgisltr.sh",
+  "pullRequests": [
+    {
+      "number": 3687,
+      "title": "qgisltr: set appName=\"QGIS.app\"",
+      "url": "https://github.com/Installomator/Installomator/pull/3687",
+      "author": {
+        "login": "sjurlohne",
+        "url": "https://github.com/sjurlohne"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-27T09:23:25Z",
+      "updatedAt": "2026-11-27T09:27:27Z",
+      "baseBranch": "main",
+      "headBranch": "fix/qgisltr",
+      "headRepository": "sjurlohne/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "a630070f93120ea52e264cfa518a4a6e11efdad5",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "MODIFIED",
+        "additions": 1,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "qgisltr"
+      ]
+    }
+  ]
+}
