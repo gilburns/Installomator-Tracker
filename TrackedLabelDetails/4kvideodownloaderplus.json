@@ -106,5 +106,17 @@
     "name": "4K Video Downloader+",
     "timeStamp": "2026-11-18T04:18:15Z",
     "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "26.4.1",
+    "blockingProcesses": [],
+    "downloadURL": "https://dl.4kdownload.com/app/4kvideodownloaderplus_26.4.1_arm64.dmg?source=website",
+    "downloadURLi386": "https://dl.4kdownload.com/app/4kvideodownloaderplus_26.4.1_x64.dmg?source=website",
+    "expectedTeamID": "GHQ37VJF83",
+    "label": "4kvideodownloaderplus",
+    "name": "4K Video Downloader+",
+    "timeStamp": "2026-11-27T20:16:39Z",
+    "type": "dmg"
   }
 ]
