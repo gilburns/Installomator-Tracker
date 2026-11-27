@@ -3,11 +3,21 @@
     "appName": "",
     "appNewVersion": "3.6.5",
     "blockingProcesses": [],
-    "downloadURL": "https://downloads.imazing.com/mac/iMazing/iMazing3forMac.dmg",
     "expectedTeamID": "J5PR93692Y",
     "label": "imazing3",
     "name": "iMazing",
     "timeStamp": "2026-09-23T18:23:18Z",
+    "type": "dmg"
+  },
+  {
+    "appName": "",
+    "appNewVersion": "3.6.6",
+    "blockingProcesses": [],
+    "downloadURL": "https://downloads.imazing.com/mac/iMazing/iMazing3forMac.dmg",
+    "expectedTeamID": "J5PR93692Y",
+    "label": "imazing3",
+    "name": "iMazing",
+    "timeStamp": "2026-11-27T18:48:49Z",
     "type": "dmg"
   }
 ]
