@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-23T10:07:36Z",
-      "updatedAt": "2026-11-26T15:02:47Z",
+      "updatedAt": "2026-11-27T14:23:42Z",
       "baseBranch": "main",
       "headBranch": "fix_dymoconnectdesktop_appNewVersion",
       "headRepository": "BonnierNews/Installomator",

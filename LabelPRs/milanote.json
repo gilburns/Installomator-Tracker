@@ -12,7 +12,7 @@
       },
       "isDraft": false,
       "createdAt": "2026-11-26T14:10:07Z",
-      "updatedAt": "2026-11-26T14:37:14Z",
+      "updatedAt": "2026-11-27T14:47:03Z",
       "baseBranch": "main",
       "headBranch": "new-label/milanote",
       "headRepository": "it-mofakult/Installomator",
@@ -28,13 +28,13 @@
       "requestedReviewers": [],
       "mergeable": "MERGEABLE",
       "checksState": "SUCCESS",
-      "headCommit": "95c9cf415be19c5f3fb7a8a534b6c42cf614fcea",
-      "commitCount": 1,
-      "commentCount": 0,
+      "headCommit": "a0f6163bfb34b4f28adef58efbc8fc6a8ed3b27b",
+      "commitCount": 2,
+      "commentCount": 1,
       "changedFileCount": 1,
       "labelChange": {
         "changeType": "ADDED",
-        "additions": 7,
+        "additions": 8,
         "deletions": 0
       },
       "labelsInPR": [

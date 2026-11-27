@@ -1,0 +1,39 @@
+{
+  "label": "threatdragon",
+  "labelFile": "fragments/labels/threatdragon.sh",
+  "pullRequests": [
+    {
+      "number": 3688,
+      "title": "Added threatdragon",
+      "url": "https://github.com/Installomator/Installomator/pull/3688",
+      "author": {
+        "login": "pmex",
+        "url": "https://github.com/pmex"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-27T14:42:03Z",
+      "updatedAt": "2026-11-27T14:42:03Z",
+      "baseBranch": "main",
+      "headBranch": "add_threatdragon",
+      "headRepository": "BonnierNews/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "9a07275939801f31713601f194d260a1158dd00e",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 7,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "threatdragon"
+      ]
+    }
+  ]
+}
