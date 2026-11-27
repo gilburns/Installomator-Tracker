@@ -1,0 +1,39 @@
+{
+  "label": "keepercommander",
+  "labelFile": "fragments/labels/keepercommander.sh",
+  "pullRequests": [
+    {
+      "number": 3686,
+      "title": "New Label: keepercommander",
+      "url": "https://github.com/Installomator/Installomator/pull/3686",
+      "author": {
+        "login": "kenchan0130",
+        "url": "https://github.com/kenchan0130"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-27T05:30:51Z",
+      "updatedAt": "2026-11-27T05:33:13Z",
+      "baseBranch": "main",
+      "headBranch": "support-keepercommander",
+      "headRepository": "kenchan0130/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "df78db3ae16ad72196ddfc5dec10d1180307607b",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 12,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "keepercommander"
+      ]
+    }
+  ]
+}
