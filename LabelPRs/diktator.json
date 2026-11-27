@@ -1,0 +1,39 @@
+{
+  "label": "diktator",
+  "labelFile": "fragments/labels/diktator.sh",
+  "pullRequests": [
+    {
+      "number": 3689,
+      "title": "Add label: Diktator (macOS Direct)",
+      "url": "https://github.com/Installomator/Installomator/pull/3689",
+      "author": {
+        "login": "energissimo-mg",
+        "url": "https://github.com/energissimo-mg"
+      },
+      "isDraft": false,
+      "createdAt": "2026-11-27T20:29:24Z",
+      "updatedAt": "2026-11-27T20:29:24Z",
+      "baseBranch": "main",
+      "headBranch": "add-diktator-direct",
+      "headRepository": "energissimo-mg/Installomator",
+      "prLabels": [],
+      "reviewDecision": "REVIEW_REQUIRED",
+      "reviews": [],
+      "requestedReviewers": [],
+      "mergeable": "MERGEABLE",
+      "checksState": "SUCCESS",
+      "headCommit": "14148fee2efc80583ea822e4cc5145b8f1101b83",
+      "commitCount": 1,
+      "commentCount": 0,
+      "changedFileCount": 1,
+      "labelChange": {
+        "changeType": "ADDED",
+        "additions": 28,
+        "deletions": 0
+      },
+      "labelsInPR": [
+        "diktator"
+      ]
+    }
+  ]
+}
