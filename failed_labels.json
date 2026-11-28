@@ -225,6 +225,11 @@
       "lastSeen": "2026-11-28T05:28:54Z",
       "reason": "invalid downloadURL"
     },
+    "doctolib": {
+      "firstSeen": "2026-11-28T08:31:26Z",
+      "lastSeen": "2026-11-28T08:31:26Z",
+      "reason": "missing appNewVersion"
+    },
     "drift": {
       "firstSeen": "2026-11-26T22:25:35Z",
       "lastSeen": "2026-11-28T05:30:37Z",
@@ -1019,6 +1024,11 @@
       "firstSeen": "2026-11-26T22:48:34Z",
       "lastSeen": "2026-11-28T06:04:09Z",
       "reason": "label does not set appNewVersion"
+    },
+    "webex": {
+      "firstSeen": "2026-11-28T09:01:27Z",
+      "lastSeen": "2026-11-28T09:01:27Z",
+      "reason": "missing appNewVersion"
     },
     "webexmeetings": {
       "firstSeen": "2026-11-26T22:48:42Z",
