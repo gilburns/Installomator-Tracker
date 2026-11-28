@@ -1169,10 +1169,10 @@
     "label": "audiopen",
     "name": "AudioPen",
     "appName": "",
-    "appNewVersion": "2.51",
-    "timeStamp": "2026-11-24T07:19:13Z",
+    "appNewVersion": "2.52",
+    "timeStamp": "2026-11-28T05:20:08Z",
     "status": "success",
-    "downloadURL": "https://github.com/louispereira23/AudioPen-Releases/releases/download/v2.51/AudioPen-2.51.dmg",
+    "downloadURL": "https://github.com/louispereira23/AudioPen-Releases/releases/download/v2.52/AudioPen-2.52.dmg",
     "expectedTeamID": "WBFQ68C53U",
     "type": "dmg"
   },
@@ -1620,7 +1620,7 @@
     "appName": "Blackmagic Converters/Converters Setup.app",
     "appNewVersion": "12.4.2",
     "timeStamp": "2026-11-05T02:25:44Z",
-    "status": "success",
+    "status": "missing appNewVersion",
     "downloadURL": "https://sw.blackmagicdesign.com/Converters/v12.4.2/Blackmagic_Converters_Macintosh_12.4.2.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=hcDu2Or/d1xfVndpvojIQZAUfNRguKCYazF8wDXmtuLw6JAh76OdPajNBRqol6YnfeJI4PZEu7V/kCpR1GPWBT/467GXF+8XrUxqLDOR9iamon2lG8nJmkt0vdzg8waKls+Q+cy2twHtqauO7b+SkMKW+8o7iKyW36rJRzy7VQaHEtyXOZKA+PHC6Kg5KjIUpftOmYFTh3yg63JXxwPNgYAH71p5jJc0rGgOpQq8joddvxqe/+6M9DMpe1mZmbndEN5f/T7CWPSx2K8VmrVkThcbvsspvByuBKlALd62pi9Qfht9RPD55jyz7Sno+uU+YeMt4TH/iZmNwnr/sfeW7w==&Expires=1793856344",
     "expectedTeamID": "9ZGFBWLSYP",
     "type": "pkgInDmgInZip"
